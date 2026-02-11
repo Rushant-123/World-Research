@@ -19,6 +19,15 @@ inputs:
   - name: "Hugo Static Site Generator"
     cost: 0
     link: "hugo"
+  - name: "HTML Language"
+    cost: 0
+    link: "html"
+  - name: "CSS Language"
+    cost: 0
+    link: "css"
+  - name: "GitHub"
+    cost: 0
+    link: "github"
   - name: "GitHub Pages Hosting"
     cost: 0
     link: "github-pages"
@@ -44,12 +53,12 @@ A knowledge base that maps how technology products are made, showing the complet
 4. Connect to the internet to research supply chain information ([Internet Connection](internet-connection))
 5. Install [Hugo Static Site Generator](hugo) on the Mac
 6. Create the Hugo configuration file (hugo.toml) specifying site settings
-7. Design HTML templates for the homepage and individual pages
-8. Write CSS styles for clean, Wikipedia-like appearance
+7. Use [HTML Language](html) to design templates for the homepage and individual pages
+8. Use [CSS Language](css) to write styles for clean, Wikipedia-like appearance
 9. Create markdown content files with frontmatter for each supply chain item
 10. Test the site locally by running `hugo server` command
 11. Build the static site with `hugo build` command, generating HTML files
-12. Create a GitHub repository for the project
+12. Use [GitHub](github) to create a repository for the project
 13. Push all site files to GitHub using git commands
 14. Enable [GitHub Pages Hosting](github-pages) in the repository settings
 15. Configure a custom [Domain Name](domain-registration) to point to the GitHub Pages URL
