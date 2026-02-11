@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>{{ .Title }} - {{ .Site.Title }}</title>
+    <link rel="stylesheet" href="/css/style.css">
+</head>
+<body>
+    <div class="container">
+        <header>
+            <nav>
+                <a href="/">← Home</a>
+            </nav>
+            <h1>{{ .Title }}</h1>
+            {{ with .Params.company }}
+            <p class="metadata">Made by: <strong>{{ . }}</strong>{{ with $.Params.country }} ({{ . }}){{ end }}</p>
+            {{ end }}
+        </header>
+
+        <main>
+            {{ if .Params.inputs }}
+            <section class="inputs-section">
+                <h2>Inputs Required</h2>
+                <ul class="inputs-list">
+                    {{ range .Params.inputs }}
+                    <li>
+                        <a href="/pages/{{ .link }}/">{{ .name }}</a>
+                        {{ if .cost }}
+                        <span class="cost">${{ .cost }}</span>
+                        {{ end }}
+                    </li>
+                    {{ end }}
+                </ul>
+                {{ if .Params.inputs }}
+                <p class="total-cost">
+                    <strong>Total Input Cost:</strong>
+                    ${{ $total := 0.0 }}{{ range .Params.inputs }}{{ $total = add $total .cost }}{{ end }}{{ $total }}
+                </p>
+                {{ end }}
+            </section>
+            {{ end }}
+
+            {{ if .Params.value_created }}
+            <section class="value-section">
+                <div class="value-box">
+                    <p><strong>Value Created:</strong> ${{ .Params.value_created }}</p>
+                    {{ if .Params.selling_price }}
+                    <p class="breakdown">Selling Price: ${{ .Params.selling_price }} - Input Cost: ${{ $total := 0.0 }}{{ range .Params.inputs }}{{ $total = add $total .cost }}{{ end }}{{ $total }}</p>
+                    {{ end }}
+                </div>
+            </section>
+            {{ end }}
+
+            <section class="content-section">
+                {{ .Content }}
+            </section>
+        </main>
+
+        <footer>
+            <p><a href="/">← Back to Home</a></p>
+        </footer>
+    </div>
+</body>
+</html>

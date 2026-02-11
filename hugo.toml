@@ -1,0 +1,7 @@
+baseURL = 'https://example.org/'
+languageCode = 'en-us'
+title = 'Supply Chain of Technology'
+disableKinds = ['taxonomy', 'term']
+
+[markup.goldmark.renderer]
+unsafe = true
