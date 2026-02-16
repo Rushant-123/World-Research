@@ -13,9 +13,9 @@ inputs:
   - name: "Screening Equipment"
     cost: 0.002
     link: "vibrating-screen"
-  - name: "Diesel Fuel"
-    cost: 0.003
-    link: "diesel-fuel"
+  - name: "Crude Oil (Petroleum)"
+    cost: 0
+    link: "crude-oil"
   - name: "Explosives"
     cost: 0.002
     link: "ammonium-nitrate"

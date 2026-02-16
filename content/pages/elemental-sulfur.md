@@ -4,9 +4,12 @@ company: "Gazprom / Saudi Aramco / Shell"
 country: "Russia / Saudi Arabia / Netherlands"
 selling_price: 0.15
 inputs:
-  - name: "Sour Natural Gas"
-    cost: 0.03
-    link: "natural-gas"
+  - name: "Crude Oil (Petroleum)"
+    cost: 0.02
+    link: "crude-oil"
+  - name: "Coal"
+    cost: 0.01
+    link: "coal"
   - name: "Amine Treating Unit"
     cost: 0.025
     link: "gas-sweetening"
@@ -22,7 +25,7 @@ inputs:
   - name: "Catalysts"
     cost: 0.005
     link: "alumina-catalyst"
-value_created: 0
+value_created: 0.03
 ---
 
 # How to Make Elemental Sulfur

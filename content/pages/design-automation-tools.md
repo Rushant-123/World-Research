@@ -4,22 +4,25 @@ company: "Synopsys / Cadence / Siemens (Mentor)"
 country: "USA"
 selling_price: 30
 inputs:
-  - name: "Software Engineers"
-    cost: 15
-    link: "software-developers"
+  - name: "Computer Science Education"
+    cost: 13.5
+    link: "computer-science-education"
   - name: "Algorithm Development"
     cost: 8
     link: "research-development"
-  - name: "Computing Infrastructure"
-    cost: 3
-    link: "data-center"
+  - name: "Server Hardware"
+    cost: 1.5
+    link: "server-hardware"
+  - name: "Electricity"
+    cost: 1.2
+    link: "electricity"
   - name: "Software Licenses"
     cost: 2
     link: "compiler-tools"
   - name: "Verification Hardware"
     cost: 2
     link: "emulation-hardware"
-value_created: 0
+value_created: 1.8
 ---
 
 # How to Make EDA Software (Electronic Design Automation)

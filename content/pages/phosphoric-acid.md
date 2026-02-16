@@ -7,9 +7,9 @@ inputs:
   - name: "Phosphate Rock"
     cost: 0.4
     link: "phosphate-ore"
-  - name: "Sulfuric Acid"
-    cost: 0.5
-    link: "sulfuric-acid"
+  - name: "Sulfur"
+    cost: 0.35
+    link: "sulfur"
   - name: "Filtration System"
     cost: 0.15
     link: "filter-press"
@@ -28,7 +28,7 @@ inputs:
   - name: "Chemical Plant"
     cost: 0.1
     link: "chemical-facility"
-value_created: 0
+value_created: 0.15
 ---
 
 # How to Make Phosphoric Acid (H₃PO₄)

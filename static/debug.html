@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Debug Page</title>
+    <style>
+        body {
+            margin: 20px;
+            background: #0a0a0a;
+            color: #0f0;
+            font-family: 'Courier New', monospace;
+            font-size: 14px;
+        }
+        .status {
+            margin: 10px 0;
+            padding: 10px;
+            background: #1a1a1a;
+            border-left: 3px solid #00e5ff;
+        }
+        .error { border-left-color: #ff006e; color: #ff006e; }
+        .success { border-left-color: #39ff14; color: #39ff14; }
+        .warning { border-left-color: #ffed00; color: #ffed00; }
+        #sankey-container {
+            width: 100%;
+            height: 600px;
+            margin: 20px 0;
+            border: 2px solid #00e5ff;
+            background: #1a1a1a;
+            position: relative;
+        }
+        h1 { color: #00e5ff; }
+    </style>
+</head>
+<body>
+    <h1>Visualization Debug Console</h1>
+    <div id="logs"></div>
+
+    <h2>Sankey Test</h2>
+    <div id="sankey-container" class="loading"></div>
+
+    <script src="https://cdn.jsdelivr.net/npm/d3@7/dist/d3.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/d3-sankey@0.12/dist/d3-sankey.min.js"></script>
+
+    <script>
+        var logs = document.getElementById('logs');
+
+        function log(msg, type) {
+            var div = document.createElement('div');
+            div.className = 'status ' + (type || '');
+            div.textContent = new Date().toLocaleTimeString() + ' - ' + msg;
+            logs.appendChild(div);
+            console.log(msg);
+        }
+
+        log('Starting diagnostics...', 'warning');
+        log('D3 loaded: ' + (typeof d3 !== 'undefined'), typeof d3 !== 'undefined' ? 'success' : 'error');
+        log('d3.sankey loaded: ' + (typeof d3.sankey !== 'undefined'), typeof d3.sankey !== 'undefined' ? 'success' : 'error');
+        log('d3.hierarchy loaded: ' + (typeof d3.hierarchy !== 'undefined'), typeof d3.hierarchy !== 'undefined' ? 'success' : 'error');
+
+        setTimeout(function() {
+            log('Fetching data from /data/graph.json...', 'warning');
+        }, 100);
+    </script>
+
+    <script src="/js/data-loader.js"></script>
+    <script src="/js/sankey-simple.js"></script>
+
+    <script>
+        document.addEventListener('graphDataReady', function() {
+            log('✓ graphDataReady event fired!', 'success');
+            log('Graph has ' + window.graphData.nodes.length + ' nodes', 'success');
+            log('Graph has ' + window.graphData.edges.length + ' edges', 'success');
+        });
+
+        setTimeout(function() {
+            if (!window.graphData) {
+                log('✗ Data failed to load after 5 seconds', 'error');
+            }
+        }, 5000);
+    </script>
+</body>
+</html>

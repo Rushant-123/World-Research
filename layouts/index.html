@@ -1,41 +1,163 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
+	<meta name="generator" content="Hugo 0.155.3">
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>{{ .Site.Title }}</title>
+    <link rel="icon" type="image/svg+xml" href="/globe.svg">
+    <link rel="icon" type="image/png" sizes="32x32" href="/globe.svg">
+    <link rel="apple-touch-icon" href="/globe.svg">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Darker+Grotesque:wght@300;400;500;600;700;800;900&family=JetBrains+Mono:wght@400;600&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="/css/style.css">
 </head>
-<body>
-    <div class="container">
-        <header>
-            <h1>Supply Chain of Technology</h1>
-        </header>
+<body class="homepage-body homepage-v2">
 
-        <main class="homepage">
-            <section class="intro">
-                <p>
-                    Explore how everything in our technological world is made, tracing products
-                    down through their supply chains to raw natural resources. Each page shows
-                    you exactly what's needed to make something and how it's put together.
-                </p>
-                <p>
-                    Navigate through hyperlinks to discover the interconnected web of economic
-                    activities that enable modern civilization. From apps and devices down to
-                    mining operations and natural resources.
-                </p>
-            </section>
-
-            <section class="start">
-                <h2>How was I built?</h2>
-                <p>This website documents its own creation as the first example.</p>
-                <a href="/pages/this-website/" class="cta-button">Start with This Website →</a>
-            </section>
-        </main>
-
-        <footer>
-            <p>A project to understand the complexity of our world</p>
-        </footer>
+    <!-- Floating Stats Bar -->
+    <div class="stats-bar-v2" id="stats-bar">
+        <div class="stat-item">
+            <span class="stat-value" id="stat-pages">0</span>
+            <span class="stat-label">Products</span>
+        </div>
+        <div class="stat-divider"></div>
+        <div class="stat-item">
+            <span class="stat-value" id="stat-edges">0</span>
+            <span class="stat-label">Links</span>
+        </div>
+        <div class="stat-divider"></div>
+        <div class="stat-item">
+            <span class="stat-value" id="stat-countries">0</span>
+            <span class="stat-label">Countries</span>
+        </div>
+        <div class="stat-divider"></div>
+        <div class="stat-item">
+            <span class="stat-value" id="stat-price-range">$0—$0</span>
+            <span class="stat-label">Range</span>
+        </div>
     </div>
+
+    <!-- Hero: Full-Screen Force Graph with Overlay -->
+    <section class="hero-v2" id="section-hero">
+        <!-- Animated background -->
+        <canvas id="hero-canvas" class="hero-canvas-v2"></canvas>
+
+        <!-- Gradient overlays for depth -->
+        <div class="hero-gradient-top"></div>
+        <div class="hero-gradient-bottom"></div>
+
+        <!-- Content -->
+        <div class="hero-content-v2">
+            <div class="hero-eyebrow">Supply Chain Intelligence</div>
+            <h1 class="hero-title-v2">
+                The Hidden Network<br/>
+                Behind Everything
+            </h1>
+            <p class="hero-desc-v2">
+                From software to silicon to sand. Every product is a constellation<br/>
+                of dependencies spanning continents, industries, and raw materials.
+            </p>
+
+            <div class="hero-cta-group">
+                <a href="/pages/this-website/" class="btn-primary-v2">
+                    <span>Start with This Website</span>
+                    <svg width="16" height="16" viewBox="0 0 16 16" fill="none">
+                        <path d="M6 3L11 8L6 13" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+                    </svg>
+                </a>
+                <button class="btn-secondary-v2" onclick="document.getElementById('section-globe').scrollIntoView({behavior:'smooth'})">
+                    Explore Visualizations
+                </button>
+            </div>
+
+            <!-- Live counter -->
+            <div class="hero-counter-v2" id="hero-counter">
+                <div class="counter-number" id="count-number">0</div>
+                <div class="counter-label">Things Needed to Build This Website</div>
+            </div>
+        </div>
+
+        <!-- Scroll hint -->
+        <div class="scroll-hint-v2">
+            <span>Scroll to explore</span>
+            <div class="scroll-line"></div>
+        </div>
+    </section>
+
+    <!-- Globe Section -->
+    <section class="viz-section-v2" id="section-globe">
+        <div class="section-header-v2">
+            <span class="section-number">01</span>
+            <h2 class="section-title-v2">Global Supply Network</h2>
+            <p class="section-desc-v2">30+ countries connected in a single supply chain</p>
+        </div>
+        <div class="viz-container-v2" id="globe-container"></div>
+    </section>
+
+    <!-- Sunburst Section -->
+    <section class="viz-section-v2" id="section-sunburst">
+        <div class="section-header-v2">
+            <span class="section-number">02</span>
+            <h2 class="section-title-v2">Cosmic Dependency Rings</h2>
+            <p class="section-desc-v2">A radial universe of 1,407 interconnected products spanning 6 distance levels—from website to raw ore extraction</p>
+        </div>
+        <div class="viz-container-v2 loading" id="sunburst-container"></div>
+    </section>
+
+    <!-- Sankey Section -->
+    <section class="viz-section-v2" id="section-sankey">
+        <div class="section-header-v2">
+            <span class="section-number">03</span>
+            <h2 class="section-title-v2">Financial Flow Network</h2>
+            <p class="section-desc-v2">Trace dollars flowing through 6 supply chain levels—from website to mining equipment and raw ores</p>
+        </div>
+        <div class="viz-container-v2 loading" id="sankey-container"></div>
+    </section>
+
+    <!-- Explorer Section -->
+    <section class="viz-section-v2 explorer-section-v2" id="section-explorer">
+        <div class="section-header-v2">
+            <span class="section-number">04</span>
+            <h2 class="section-title-v2">Database Explorer</h2>
+            <p class="section-desc-v2">Search, filter, and discover all 1,407 products across 6 distance levels</p>
+        </div>
+        <div id="explorer-container">
+            <div class="explorer-controls-v2">
+                <input type="text" id="explorer-search" class="search-input-v2" placeholder="Search products..." />
+                <select id="explorer-distance-filter" class="select-v2">
+                    <option value="">All distances</option>
+                </select>
+                <select id="explorer-country-filter" class="select-v2">
+                    <option value="">All countries</option>
+                </select>
+                <select id="explorer-sort" class="select-v2">
+                    <option value="name">Sort by name</option>
+                    <option value="price-desc">Price: high to low</option>
+                    <option value="price-asc">Price: low to high</option>
+                    <option value="inputs">Most inputs</option>
+                    <option value="distance">Distance from root</option>
+                </select>
+            </div>
+            <div class="explorer-grid" id="explorer-grid"></div>
+        </div>
+    </section>
+
+    <!-- Shared tooltip -->
+    <div class="viz-tooltip" id="viz-tooltip" style="display:none;"></div>
+
+    <!-- CDN Libraries -->
+    <script src="https://cdn.jsdelivr.net/npm/d3@7/dist/d3.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/d3-sankey@0.12/dist/d3-sankey.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/three@0.160.0/build/three.min.js"></script>
+
+    <!-- App Scripts -->
+    <script src="/js/data-loader.js"></script>
+    <script src="/js/hero-graph.js"></script>
+    <script src="/js/globe.js"></script>
+    <script src="/js/sunburst-fast.js"></script>
+    <script src="/js/sankey-beautiful.js"></script>
+    <script src="/js/explorer.js"></script>
+    <script src="/js/main-v2.js"></script>
 </body>
 </html>

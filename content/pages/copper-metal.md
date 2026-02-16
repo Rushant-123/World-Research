@@ -7,24 +7,21 @@ inputs:
   - name: "Copper Ore"
     cost: 2
     link: "copper-ore"
-  - name: "Crusher Equipment"
+  - name: "Crushing Equipment"
     cost: 0.8
     link: "ore-crusher"
-  - name: "Ball Mill"
+  - name: "Ball Mills"
     cost: 1
     link: "grinding-mill"
   - name: "Flotation Cells"
     cost: 1.2
     link: "flotation-equipment"
-  - name: "Chemical Collectors"
+  - name: "Flotation Reagents"
     cost: 0.4
     link: "flotation-chemicals"
-  - name: "Smelting Furnace"
+  - name: "Flash Smelter"
     cost: 1.5
     link: "flash-smelter"
-  - name: "Electrolytic Refining"
-    cost: 1
-    link: "electrorefining-cell"
   - name: "Sulfuric Acid"
     cost: 0.3
     link: "sulfuric-acid"
@@ -34,171 +31,54 @@ inputs:
   - name: "Electricity"
     cost: 0.8
     link: "electricity"
-  - name: "Mining Workers"
-    cost: 0.5
-    link: "mining-labor"
+  - name: "Electrorefining Cells"
+    cost: 0.6
+    link: "electrorefining-cell"
 value_created: 0
 ---
 
 # How to Make Copper Metal
 
-Copper is extracted from copper ore (typically chalcopyrite) through mining, concentration, smelting, and electrolytic refining. The process purifies copper from 0.5-2% in ore to 99.99% pure metal used in electronics and wiring.
+High-purity copper metal (99.99% Cu) from sulfide ore concentrate via pyrometallurgical smelting and electrolytic refining. Primary use: electrical conductivity (second only to silver, 5.96×10⁷ S/m at 20°C). Applications: electrical wire (50% of demand), electronics/PCBs (20%), construction plumbing/roofing (15%), industrial machinery/heat exchangers (10%), transportation (5%). Global production: 25-27 million tonnes/year refined copper. Chile: 5.6 Mt (28%), Peru: 2.4 Mt (12%), China: 2.0 Mt (10%), USA: 1.3 Mt (6%), DRC: 1.2 Mt (6%).
 
-## What is it?
+**Step 1-15: [Copper Ore](copper-ore) Mining - Chalcopyrite Extraction**
 
-Pure copper metal (Cu) with 99.9-99.99% purity, used for electrical wiring, plumbing, heat exchangers, and electronic components. Copper has excellent electrical conductivity (second only to silver), thermal conductivity, and corrosion resistance. Available in various forms: ingots, rods, wire, foil, powder.
+Copper ores: chalcopyrite CuFeS₂ (most common, 34.6% Cu theoretical, dominant primary ore), bornite Cu₅FeS₄ (63% Cu, less common), chalcocite Cu₂S (80% Cu, enrichment zones), covellite CuS (66% Cu, secondary). Mined ore grades: 0.3-2.0% Cu (open-pit porphyry deposits 0.3-0.8% Cu, underground vein deposits 1-3% Cu). Major deposits: Atacama Desert Chile (Escondida 1.2 Mt/year, Collahuasi, El Teniente), Arizona/Utah USA (Morenci, Bingham Canyon), Peru (Cerro Verde, Antamina), Indonesia (Grasberg), Zambia/DRC Copperbelt. **Open-pit mining (90% of production):** Porphyry copper deposits (large low-grade disseminated ore bodies, 500-5,000 Mt reserves, 0.3-1.2% Cu). Drill blast pattern: 10-15m diameter holes, 12-15m deep, 150-300kg ANFO explosive per hole, 5×6m blast grid. Blast: fragments rock to 0.1-1.5m diameter. Load: hydraulic shovels (30-120m³ bucket, CAT 7495, Komatsu PC8000) or wheel loaders into haul trucks (220-400 tonne capacity, Caterpillar 797, Komatsu 980E, Liebherr T284). Haul distance: 1-6km to primary crusher, grade 8-12% (minimize fuel, cycle time 25-45 minutes). Waste:ore ratio: 1:1 to 4:1 depending on deposit geometry (strip 1-4 tonnes waste rock per tonne ore).
 
-## Steps to Make:
+**Step 16-32: Primary and Secondary Crushing**
 
-**Mining:**
-1. Mine [Copper Ore](copper-ore) from open-pit or underground mines
-2. Typical ore: chalcopyrite (CuFeS₂) containing 0.5-2% copper
-3. Blast rock face with explosives
-4. Load broken ore into haul trucks (100-400 ton capacity)
-5. Transport to primary crusher near mine
-6. [Mining Workers](mining-labor) operate equipment 24/7 in shifts
+Transport ore to crushing plant (adjacent to pit rim or in-pit mobile crushers for ultra-deep pits >500m). **Primary crusher:** Gyratory crusher (inlet 1,500mm, crushing 900-1,500mm boulders to 150-300mm product), capacity 1,000-10,000 tonnes/hour. Grizzly screen (bar spacing 400-600mm) upstream removes fines, prevents crusher jamming. Crusher mechanics: conical head gyrates eccentrically inside concave bowl (mantle), crushing rock in compression. Reduction ratio: 3:1 to 5:1. Power: 400-1,200 kW (drive motor + hydraulic systems). Liner replacement: manganese steel liners wear 0.5-2mm/day, replace every 4-12 months. **Conveyor transport:** Overland conveyors (1,200-2,400mm belt width, 3-8 m/s speed, 2,000-15,000 tonnes/hour) transport crushed ore 0.5-10km to concentrator mill. Belt: steel-cord reinforced rubber, 12-20mm thick. Idler spacing: 1.5-3m. Energy: 0.5-1.5 kWh/tonne-km. **Secondary crushing:** Cone crusher (Symons 7' standard cone, 300mm feed to 50-100mm product) or high-pressure grinding rolls (HPGR, two counter-rotating rolls, 30-100 MPa pressure, micro-crack ore, reduce grinding energy 20-40%). Reduction ratio: 3:1 to 6:1. Closed-circuit crushing: vibrating screen (50mm aperture) returns oversize to crusher (circulating load 200-400%).
 
-**Crushing:**
-7. Feed ore into [Crusher Equipment](ore-crusher) - jaw crusher or gyratory crusher
-8. Primary crushing reduces boulder-sized ore (1 meter) to gravel (10-30cm)
-9. Secondary crushing with cone crusher reduces to 1-3cm pieces
-10. Tertiary crushing (if needed) to <1cm
+**Step 33-52: Grinding and Liberation**
 
-**Grinding:**
-11. Transport crushed ore to concentrator mill
-12. Feed into [Ball Mill](grinding-mill) - rotating cylinder filled with steel balls
-13. Mill rotates, steel balls crush ore into fine powder
-14. Add water to create slurry
-15. Grind until 80% of particles are <150 microns (like fine sand)
-16. Grinding liberates copper minerals from waste rock
-17. Powered by [Electricity](electricity) - ball mills consume huge power (5-10 MW)
+Reduce ore to <150 µm (90% passing) to liberate copper minerals from gangue (quartz, feldspar, clays). **SAG mill (semi-autogenous grinding):** Rotating drum 8-12m diameter, 4-6m length, 5,000-15,000 kW motor (largest single motors in mining). Charge: 8-12% steel balls (100-150mm diameter, 35-45 HRC hardness), 70-80% ore + water slurry, 10-18% void space. Rotation: 9-11 rpm (70-80% critical speed), centrifugal force lifts charge, cascades/cataracts, impacts/grinds ore. Autogenous: ore fragments act as grinding media (pebbles 25-75mm). Residence time: 8-15 minutes. Throughput: 300-2,000 tonnes/hour. Liner: rubber or manganese steel lifter bars (300-600mm length, trapezoidal profile), wear 2-8mm/month. **Pebble crusher:** Screen SAG mill discharge (12-50mm pebbles, critical size that doesn't grind efficiently), crush in cone crusher, return to SAG mill. **Ball mill (secondary grinding):** 5-8m diameter, 8-12m length, 3,000-8,000 kW. Charge: 35-40% steel balls (25-75mm graduated sizes), 30-35% slurry. Rotation: 12-14 rpm (75-78% critical speed). Grinding media consumption: 0.5-2 kg steel/tonne ore (wear, oxidation). Product: 80% <150 µm, 50% <75 µm (P₈₀ = 150 µm specification). Hydrocyclones classify discharge: overflow <150 µm to flotation, underflow >150 µm recycles to mill (circulating load 200-350%). Energy: 12-18 kWh/tonne ore (largest energy consumer in concentrator, 40-50% of plant electricity).
 
-**Flotation (Concentration):**
-18. Pump ore slurry into [Flotation Cells](flotation-equipment) - large tanks with agitators
-19. Add [Chemical Collectors](flotation-chemicals) - xanthates and other surfactants
-20. Collectors selectively coat copper sulfide particles, making them hydrophobic
-21. Inject air bubbles from bottom of cell
-22. Hydrophobic copper particles attach to bubbles and float to surface
-23. Hydrophilic waste rock (gangue) sinks to bottom
-24. Skim froth from surface - contains concentrated copper minerals
-25. Froth contains 20-30% copper (vs 0.5-2% in original ore)
-26. This concentrate is ~10% of original ore weight - 90% waste discarded to tailings
-27. Tailings pond stores waste rock slurry
+**Step 53-75: Froth Flotation - Copper Sulfide Concentration**
 
-**Drying:**
-28. Filter concentrate to remove water
-29. Dry in rotary dryer at 100-150°C
-30. Result: copper concentrate powder
+Separate hydrophobic copper minerals from hydrophilic gangue using air bubbles. Flotation fundamentals: contact angle >90° (hydrophobic) attaches to bubbles, <90° (hydrophilic) stays in slurry. **Reagent conditioning:** Mix slurry (25-35% solids) with [flotation reagents](flotation-chemicals) in conditioning tanks (5-15 minutes). (1) Collectors: xanthates (sodium ethyl xanthate, sodium isopropyl xanthate, 20-80 g/tonne ore) - dithiophosphates, thionocarbamates for supplementary collection. Xanthate adsorbs on CuFeS₂ surface: ROC(S)S⁻ + Cu⁺ (surface) → ROC(S)S-Cu (hydrophobic coating). (2) Frothers: MIBC (methyl isobutyl carbinol, 10-30 g/tonne), pine oil, polyglycol ethers - stabilize bubble foam, prevent coalescence. (3) pH modifiers: lime Ca(OH)₂ (0.5-3 kg/tonne, raise pH to 9.5-11.5, depress pyrite FeS₂ flotation). (4) Depressants (if needed): sodium cyanide NaCN (10-50 g/tonne, depress pyrite), sodium sulfite Na₂SO₃ (depress talc, prevent slime coating). **Rougher flotation:** [Flotation cells](flotation-equipment) - mechanically agitated tanks 5-30m³ (Outotec TankCell, Metso RCS, FLSmidth WEMCO) or column cells (12-20m tall, 1-4m diameter, bubble generators). Air injection: impeller disperses air (1-3 m³/min per m³ cell volume), bubbles 0.5-2mm diameter. Slurry residence: 8-20 minutes (4-10 cells in series, total 50-200m³ bank). Copper minerals attach to bubbles, rise to surface (froth layer 10-30cm deep), overflow launder skims froth. Recovery: 85-92% Cu minerals, grade 8-20% Cu (concentrate 1). Tailings (waste) to next stage or discard (reject 85-95% of mass, 8-15% Cu lost).
 
-**Smelting (Extracting Copper from Sulfide):**
-31. Transport concentrate to smelter facility
-32. Feed concentrate into [Smelting Furnace](flash-smelter) - flash furnace or reverberatory furnace
-33. Preheat furnace to 1,200-1,300°C using [Natural Gas](natural-gas) burners
-34. Inject concentrate powder with oxygen-enriched air
-35. Particles combust in mid-air (flash smelting)
-36. Chemical reactions:
-    - 2CuFeS₂ + 3O₂ → 2FeO + 2CuS + 2SO₂
-    - Copper sulfide separates from iron oxide
-37. Molten material settles in furnace bottom
-38. Two layers form: copper matte (50-70% Cu) on bottom, slag (iron silicate) on top
-39. Tap copper matte into ladles
-40. Tap slag separately - sold as construction material or discarded
-41. SO₂ gas captured and converted to [Sulfuric Acid](sulfuric-acid) (byproduct)
-42. One ton of copper produces ~2 tons of sulfuric acid
+**Step 76-95: Cleaner Flotation and Regrinding**
 
-**Converting (Removing Sulfur):**
-43. Pour copper matte into converter furnace (Peirce-Smith converter)
-44. Blow oxygen-enriched air through molten matte
-45. Sulfur oxidizes and escapes as SO₂ gas
-46. 2CuS + 3O₂ → 2Cu + 2SO₂
-47. After 4-6 hours: blister copper (98-99% pure)
-48. Called "blister" due to bubbles from dissolved gases
-49. Tap molten blister copper into molds - forms anodes (large plates, 300-400 kg each)
-50. Anodes cool and solidify
+Upgrade rougher concentrate grade, reject remaining gangue. **Cleaner flotation:** Re-float rougher concentrate (lower reagent doses, 5-15 g/tonne collector, selective separation). Cleaner cells: 2-4 stages, each stage produces concentrate (higher grade) + tailings (scavenge or return to rougher feed). Final concentrate: 20-35% Cu, 25-32% S (chalcopyrite concentrate CuFeS₂ is 34.6% Cu, 34.9% S theoretical - close approach indicates high purity). **Regrinding (if needed):** Middling products (partial liberation) regrind in IsaMill or Stirred Media Detritor (SMD) - horizontal stirred mills with 2-6mm ceramic or steel beads, high energy intensity (30-100 kWh/tonne), grind to 15-45 µm. Re-float after regrinding (improved liberation, Cu recovery +2-5%). **Scavenger flotation:** Float rougher tailings (recover remaining copper, 3-10% additional recovery), low-grade concentrate returns to rougher feed (closed circuit). **Thickening:** Concentrate thickener (10-30m diameter), settle concentrate slurry from 10-20% to 50-65% solids (reduce water, minimize transport costs). Flocculant: anionic polyacrylamide (5-20 g/tonne solids). Underflow to filters. **Filtration:** Vacuum disc filters (4-8m diameter, 6-12 discs) or pressure filters (horizontal belt, plates), reduce moisture to 8-12%. Final concentrate: 25-32% Cu, 8-10% moisture, bulk density 1.4-1.8 t/m³.
 
-**Electrolytic Refining:**
-51. Transport anodes to [Electrolytic Refining](electrorefining-cell) facility
-52. Electrorefining cell: large tank filled with copper sulfate solution (CuSO₄ + H₂SO₄)
-53. Immerse blister copper anodes (impure copper)
-54. Alternate with thin cathode starter sheets (pure copper, 1mm thick)
-55. Apply DC current (200-400 amps per square meter)
-56. Powered by [Electricity](electricity)
-57. Copper dissolves from anode: Cu → Cu²⁺ + 2e⁻
-58. Copper ions migrate through solution
-59. Copper plates onto cathode: Cu²⁺ + 2e⁻ → Cu
-60. Impurities (gold, silver, nickel, iron) fall to cell bottom as "anode slime" or stay in solution
-61. Refining voltage: 0.2-0.3V per cell
-62. Current efficiency: 95-99%
-63. After 10-20 days: cathodes grow to 100-150 kg
-64. Remove cathodes from cell - now 99.99% pure copper
-65. Anode slime collected and processed to recover precious metals (gold, silver)
+**Step 96-115: Concentrate Drying and Smelter Feed Preparation**
 
-**Melting and Casting:**
-66. Melt cathodes in induction furnace at 1,200°C
-67. Cast molten copper into desired forms:
-    - Continuous casting for wire rod (8mm diameter, kilometers long)
-    - Ingots (25-50 kg bars)
-    - Billets for extrusion
-    - Cake for rolling into sheet/foil
-68. Oxygen-free copper: melt under reducing atmosphere to prevent dissolved oxygen
+**Drying (optional, if transport >100km or moisture spec <1%):** Rotary dryer (2-4m diameter, 10-25m long, inclined 3-5°, rotation 3-6 rpm), hot gas 400-700°C ([natural gas](natural-gas) combustion + dilution air), countercurrent flow. Evaporate water: moisture 8-10% → 0.2-1%. Temperature: product discharge 90-120°C (prevent oxidation, pyrophoric if too hot). Energy: 800-1,500 kJ/kg water (1.0-1.5 GJ/tonne concentrate for 8% moisture removal). Dust collection: cyclones + baghouse (fabric filters, <50 mg/Nm³ emission). **Sampling and assay:** Automatic samplers (cross-stream cutters, 1:100 to 1:500 split), composite sample every 50-200 tonnes. Assay: ICP-OES or AAS (atomic absorption) for Cu, Fe, S, Au, Ag, As, Sb, Bi (penalty elements). Moisture: oven dry at 105°C, weigh loss. **Blending:** Mix concentrates from multiple sources (in-house production, purchased concentrates) to achieve smelter feed specification (25-30% Cu target, <2% As+Sb+Bi, <0.1% Hg). Blending silos: 500-5,000 tonnes capacity, multiple compartments, reclaim with front-end loaders or conveyors. **Transport:** Truck to smelter (if co-located, 5-50km), or rail/ship (concentrate exports, Chile/Peru to Asia smelters, 5,000-10,000 km). Shipping: Handysize or Panamax bulk carriers (20,000-80,000 tonnes), moisture control (too wet = liquefaction risk, ship capsizing).
 
-**Wire Drawing (for electrical wire):**
-69. Heat wire rod to 800-900°C (annealing)
-70. Draw through progressively smaller dies
-71. Each pass reduces diameter by 10-30%
-72. Anneal again after every 5-10 passes to restore ductility
-73. Final wire: 0.1mm to 10mm diameter depending on application
-74. Spool onto reels
+**Step 116-135: Flash Smelting - Copper Matte Production**
 
-**Foil Rolling (for circuit boards, batteries):**
-75. Roll ingot between heavy rollers repeatedly
-76. Each pass reduces thickness by 20-50%
-77. Anneal periodically to prevent brittleness
-78. Final thickness: 8-70 microns for copper foil
-79. One side is drum-side (shiny), other is matte side (better adhesion)
+Convert copper concentrate to molten copper matte (50-70% Cu, liquid copper sulfide + iron sulfide mixture). **[Flash smelter](flash-smelter) design:** Outotec flash furnace (most common, 70% of global capacity), rectangular reaction shaft 4-6m wide, 8-15m long, 15-25m tall. Refractory lining: magnesia-chrome bricks (hot face 1,300-1,400°C), insulating firebrick backup, steel shell. **Feed preparation:** Dry concentrate (<1% moisture, prevent steam explosions) + silica flux (SiO₂, 2-8% of charge, forms fayalite slag Fe₂SiO₄). Pneumatic conveying to concentrate burners. **Burners:** 1-4 burners at furnace roof, inject concentrate + oxygen-enriched air (30-50% O₂ vs 21% air, from cryogenic air separation unit or PSA oxygen plant). Injection velocity: 80-150 m/s, atomizes concentrate to 10-100 µm droplets. **Flash reaction:** Particles combust in suspension (reaction time 0.5-2 seconds): 2CuFeS₂ + 4O₂ → Cu₂S + 2FeO + 3SO₂ + heat (exothermic, 1,250°C flame temperature). Iron oxidizes preferentially: FeS + 1.5O₂ → FeO + SO₂. Silica flux reacts: 2FeO + SiO₂ → Fe₂SiO₄ (fayalite slag, density 3.8 g/cm³ liquid). Copper remains as Cu₂S-FeS matte (density 5.0-5.5 g/cm³). **Settler zone:** Molten droplets fall into settler hearth (2-4m deep liquid bath, 1,200-1,250°C). Stratify by density: slag floats (30-40% Fe, 30-40% SiO₂, 0.8-1.5% Cu loss), matte sinks (50-70% Cu, 18-25% Fe, 20-25% S). Continuous tapping: matte every 1-4 hours (25-80 tonnes/tap, ladles transport to converters), slag every 2-6 hours (to slag granulation or discard). **Off-gas:** SO₂-rich gas (15-75% SO₂, 5-15% O₂, balance N₂) exits uptakes (1,100-1,300°C), heat recovery in waste heat boiler (generates steam 40-60 bar, 10-30 MW thermal), cool to 320-400°C, electrostatic precipitators capture dust (5-15% of feed Cu reports to dust, recycle).
 
-**Quality Control:**
-80. Test copper purity using spectroscopy
-81. Electronic-grade copper: 99.99% (4N purity)
-82. Oxygen-free copper (OFC): <10 ppm oxygen
-83. Measure electrical conductivity: should be >100% IACS (International Annealed Copper Standard)
-84. Pure copper at 20°C: 5.96 × 10⁷ S/m conductivity
-85. Check for impurities: sulfur, oxygen, and trace metals affect conductivity
+**Step 136-155: Converting - Blister Copper Production**
 
-**Applications of Copper by Form:**
-- Wire rod (8mm) → drawn to wire → electrical wiring, motors, transformers
-- Foil (10-70 microns) → circuit boards (PCBs), lithium battery anodes
-- Sheet (0.5-5mm) → roofing, plumbing, heat exchangers
-- Tube (10-50mm) → plumbing pipes, refrigeration
-- Powder → sintered parts, conductive inks, 3D printing
+Remove iron and sulfur from matte, produce crude copper. **Peirce-Smith converter:** Horizontal cylindrical vessel 4-5m diameter, 9-13m long, rotates on trunnions (tilt for charging/tapping), refractory lining (magnesia-chrome bricks). Capacity: 200-400 tonnes matte per batch. **Charging:** Tilt converter, pour molten matte (1,150-1,200°C) + silica flux (3-5% charge) + scrap copper (5-15%, coolant). Return to horizontal, rotate 90° (tuyere line submerged). **Slag blow (remove iron):** Inject air through tuyeres (12-40 submerged pipes, 50-80mm diameter, insert through shell), flowrate 10,000-30,000 Nm³/h, pressure 1.5-3.5 bar. Oxidize iron: 2FeS + 3O₂ → 2FeO + 2SO₂. FeO + SiO₂ → FeSiO₃ (iron silicate slag, density 3.5 g/cm³). Slag blow duration: 4-8 hours, temperature rises to 1,200-1,250°C (exothermic oxidation). Skim slag: tilt converter, pour slag into ladles (discard or recycle to flash furnace, recover 1-3% Cu content). Slag mass: 40-60% of original matte weight. Remaining: white metal (75-82% Cu, Cu₂S with minimal FeS). **Copper blow (remove sulfur):** Continue air injection, oxidize Cu₂S: Cu₂S + O₂ → 2Cu + SO₂ (exothermic, temperature 1,180-1,220°C). Reaction self-sustaining, no external fuel needed. Copper blow duration: 2-4 hours. Monitor: "flame color" (blue-green indicates copper, red indicates sulfur), sample analysis (dissolved oxygen DO 0.1-0.5%, sulfur <0.05%). Over-blowing risks: excessive Cu₂O formation (hard, brittle copper). **Blister copper:** Tap molten copper (1,150-1,200°C) into ladles or anode casting wheel. Composition: 98.5-99.5% Cu, 0.02-0.5% S, 0.05-0.5% O (as Cu₂O), 0.01-0.1% Fe, 0.001-0.01% Ag+Au (precious metals remain). Name: surface solidifies with blisters (SO₂ gas bubbles escape during cooling). Production rate: modern converters process 200-600 tonnes matte/day → 120-400 tonnes blister copper/day.
 
-**Copper Production Scale:**
-- Global production: 25-27 million tons per year
-- Major producers: Chile (30%), Peru (12%), China (10%), USA (6%)
-- Grade required:
-  - Electrical wire: 99.9% (ETP - electrolytic tough pitch)
-  - Electronics/semiconductors: 99.99-99.999% (4N-5N)
-- Energy consumption: 2,000-4,000 kWh per ton of copper
-- Water usage: 40-100 tons of water per ton of copper
-- Mining to refined metal: 3-4 weeks
-- Price: $8,000-10,000 per ton (fluctuates with market)
+**Step 156-175: Anode Casting and Fire Refining**
 
-**Environmental Considerations:**
-- Tailings: 90-98% of mined ore becomes waste
-- SO₂ emissions: must be captured to prevent acid rain
-- Water pollution: acid mine drainage contains dissolved metals
-- Modern smelters capture >99% of SO₂ and convert to sulfuric acid
-- Tailings dams must be managed for decades after mine closure
-- Copper is 100% recyclable - recycling uses 85% less energy than primary production
+**Anode casting wheel:** Rotary casting machine, 20-40 molds (copper or graphite-coated steel, 1,000×1,200×40mm anode size), rotate continuously (0.5-1 rpm). Pour molten blister copper into molds (300-400 kg per anode), water-cooled, solidify in 3-8 minutes, demold automatically. Casting rate: 200-500 anodes/hour. Anode quality: flat surfaces (uniform current distribution in electrorefining), 35-45mm thickness, clean (no slag inclusions, cracks). **Fire refining (optional, reduce oxygen):** Anode furnace (rotary or reverberatory, 100-500 tonnes capacity), remelt blister copper to 1,150-1,200°C. **Reducing (poling):** Insert green wood poles or inject natural gas/propane below surface. Decomposition produces CO + H₂ (reducing atmosphere): Cu₂O + CO → 2Cu + CO₂, Cu₂O + H₂ → 2Cu + H₂O. Reduces oxygen from 0.3-0.5% to 0.01-0.1% (tough-pitch copper, optimal for wire drawing). Over-reducing: hydrogen dissolves in copper, evolves during solidification (steam cavities, porosity). Poling time: 15-45 minutes, judge by "fracture test" (solidify sample, examine grain structure). **Oxidizing (optional, remove volatile impurities):** Blow air, oxidize As, Sb, Bi, Pb to oxides (volatile or skim as dross): 4As + 3O₂ → 2As₂O₃ (sublimes at 465°C, removed in off-gas). Drossing: skim surface dross (contains oxides, some Cu loss 3-8%). **Re-casting:** Cast fire-refined copper into anodes (same casting wheel process), or continuous casting for oxygen-free copper products.
 
-**Recycling Copper:**
-- Collect copper scrap: wire, pipe, electronic waste
-- Sort by grade (clean copper vs alloys vs contaminated)
-- Shred and remove non-copper materials
-- Melt in furnace at 1,200°C
-- Refine to remove impurities if needed
-- Cast into ingots
-- Recycled copper is identical to mined copper
-- ~40% of global copper supply comes from recycling
+**Step 176-195: Electrolytic Refining - High-Purity Copper**
 
-Copper extraction is energy-intensive and generates large amounts of waste rock, but copper's recyclability and essential role in electronics, power transmission, and renewable energy make it indispensable. The electrorefining step is critical for achieving the 99.99% purity required for electronics - even 0.01% impurities significantly reduce electrical conductivity.
+Produce 99.99-99.999% pure copper via electrochemistry. **[Electrorefining cell](electrorefining-cell):** Concrete tank lined with lead, polypropylene, or PVC (acid-resistant), 1.2×4×1.3m dimensions, capacity 5-10m³. Electrolyte: copper sulfate pentahydrate (CuSO₄·5H₂O, 40-50 g/L Cu²⁺ as copper), sulfuric acid (H₂SO₄, 170-190 g/L, 1.8-2.2 M), temperature 60-65°C (heating coils or heat exchangers, optimal conductivity + diffusion). **Anodes:** Blister copper plates, 1,000×1,200×35mm, 300-400 kg, suspend vertically (copper hooks + stainless steel hanger bars). Spacing: 40-50 anodes per cell, 90-120mm center-to-center. Immersion depth: 1,000mm. Lifetime: 21-28 days (dissolves to 10-20mm thick remnant, recycle scrap anodes). **Cathodes:** Starter sheets (pure copper, 1,000×1,200×0.8mm, 5-7 kg, from stainless steel blanks in separate plating cell) or stainless steel permanent cathodes (ISA process, Kidd process). Interleave: alternating anode-cathode-anode-cathode (40-50 anodes, 41-51 cathodes per cell). **Current:** DC power supply (6,000-24,000 A per cell, 0.2-0.35 V per cell, multiple cells in series 100-400 cells = 60-140 kA total, 20-80V bus voltage). Current density: 200-350 A/m² (cathode surface area ~2.4m² per side = 1,000-1,700A per cathode). **Anode reaction (oxidation):** Cu (impure) → Cu²⁺ + 2e⁻. Copper dissolves, enters electrolyte as Cu²⁺ ions (hydrated, Cu(H₂O)₆²⁺). Impurities: noble metals (Au, Ag, Pt, Pd) don't dissolve (insoluble, fall to cell bottom as "anode slime" or "anode mud", 0.1-0.5% of anode mass, high-value byproduct $500-5,000/kg). Active metals (Fe, Ni, Zn, As, Sb, Bi) dissolve but less noble than copper (stay in solution or precipitate, don't plate on cathode). **Cathode reaction (reduction):** Cu²⁺ + 2e⁻ → Cu (pure). Copper plates onto cathode surface, crystal growth perpendicular to surface. Dendrites risk: high current density or low Cu²⁺ concentration causes branching growth (shorts anode-cathode). Prevent: maintain Cu²⁺ >40 g/L, add leveling agents (glue, thiourea 5-50 ppm smooths deposit). **Plating time:** 10-14 days, cathode grows to 70-100 kg (90-110mm thick). Harvest: crane lifts cathode, strip copper sheets (pull off starter sheets manually or hydraulic press). Inspect: flat, smooth, no nodules/shorts. Quality: 99.99% Cu (4N purity), <5 ppm Ag, <3 ppm S, <2 ppm O. Oxygen-free copper (OFC, 99.95% Cu, <10 ppm O): special low-oxygen anodes + tight process control. Cathode size: 1,000×1,200mm sheets, 70-100 kg, bundle 1-2 tonnes for shipment. **Electrolyte management:** Copper concentration: maintain 40-50 g/L (depletes as plating occurs, replenish by anodic dissolution, balance). Acid concentration: 170-190 g/L (rises as water electrolysis 2H₂O → O₂ + 4H⁺ + 4e⁻ at anode if Cu²⁺ too low, or add H₂SO₄ makeup). Impurity buildup: bleed 3-10% electrolyte/day, treat in liberator cells (plate copper at high current, precipitate As/Sb/Bi as arsenates/antimonates, discard pregnant solution or crystallize CuSO₄). Circulation: pumps circulate electrolyte 0.5-2 L/min per cell (uniform concentration, remove anode slime suspension). Filtration: cartridge filters remove slime particles, prevent cathode contamination. **Anode slime processing:** Collect slime from cell bottom (periodic vacuum dredging or drain cells), filter, dry. Composition: 15-50% Cu, 10-40% Ag, 0.01-1% Au, 5-20% Se+Te, 5-15% PbSO₄, 3-10% Ni/Fe oxides. Hydrometallurgical recovery: leach copper (H₂SO₄), precipitate silver (as AgCl), electrolytic gold recovery. Slime value: $200-1,500 per tonne blister copper processed (depends on precious metal content, offset refining costs 20-60%).
+
+Copper electrorefining achieves 99.99% purity essential for electrical conductivity (impurities scatter electrons, reduce conductivity). Energy consumption: total 2,000-4,000 kWh/tonne refined copper (mining 200 kWh, grinding 600-800 kWh, smelting 300-500 kWh, electrorefining 250-350 kWh, auxiliaries 650-2,150 kWh). Price: $8,000-10,000/tonne ($8-10/kg, London Metal Exchange LME Grade A copper, volatile with economic cycles). Applications: electrical wire (50%, drawn to 0.1-10mm diameter), electronics/PCBs (20%, electrodeposited copper foil 9-70 µm), construction (15%, pipes, roofing, architectural), transport (5%, radiators, wiring harnesses), industrial machinery (10%, heat exchangers, motors, bearings). Recyclability: 100% recyclable, 40% of supply from scrap (lower energy 85%, identical properties to primary copper).

@@ -8,8 +8,8 @@ inputs:
     cost: 0.4
     link: "ammonia-synthesis"
   - name: "Water"
-    cost: 0.3
-    link: "ultra-pure-water"
+    cost: 0.09
+    link: "water-source"
   - name: "Storage Tanks"
     cost: 0.15
     link: "chemical-tanks"
@@ -19,7 +19,7 @@ inputs:
   - name: "Cooling System"
     cost: 0.05
     link: "refrigeration"
-value_created: 0
+value_created: 0.21
 ---
 
 # How to Make Ammonium Hydroxide (NH₄OH)

@@ -7,9 +7,9 @@ inputs:
   - name: "Fluorspar (CaF₂)"
     cost: 0.5
     link: "fluorspar-mineral"
-  - name: "Sulfuric Acid"
-    cost: 0.4
-    link: "sulfuric-acid"
+  - name: "Sulfur"
+    cost: 0.28
+    link: "sulfur"
   - name: "Steel Reaction Vessel"
     cost: 0.3
     link: "steel-vessel"
@@ -34,7 +34,7 @@ inputs:
   - name: "Chemical Plant"
     cost: 0.05
     link: "chemical-facility"
-value_created: 0
+value_created: 0.12
 ---
 
 # How to Make Hydrofluoric Acid (HF)

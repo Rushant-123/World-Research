@@ -16,9 +16,12 @@ inputs:
   - name: "Calcination Furnace"
     cost: 0.1
     link: "rotary-kiln"
-  - name: "Natural Gas"
-    cost: 0.08
-    link: "natural-gas"
+  - name: "Crude Oil (Petroleum)"
+    cost: 0.06
+    link: "crude-oil"
+  - name: "Coal"
+    cost: 0.02
+    link: "coal"
   - name: "Electricity"
     cost: 0.02
     link: "electricity"

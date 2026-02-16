@@ -7,19 +7,22 @@ inputs:
   - name: "University Education"
     cost: 20
     link: "electrical-engineering-degree"
-  - name: "Training Programs"
-    cost: 10
-    link: "technical-training"
+  - name: "Technical Documentation"
+    cost: 4
+    link: "technical-documentation"
+  - name: "Online Learning"
+    cost: 3
+    link: "online-learning"
   - name: "Workstations"
     cost: 8
     link: "engineering-workstation"
-  - name: "Salaries"
-    cost: 10
-    link: "compensation"
+  - name: "Professional Certifications"
+    cost: 5
+    link: "professional-certifications"
   - name: "Office Space"
     cost: 2
     link: "office-building"
-value_created: 0
+value_created: 8
 ---
 
 # How to Make Chip Design Engineers

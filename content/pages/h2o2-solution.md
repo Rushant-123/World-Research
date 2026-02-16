@@ -10,9 +10,9 @@ inputs:
   - name: "Hydrogen Gas"
     cost: 0.15
     link: "hydrogen-gas"
-  - name: "Oxygen Gas"
-    cost: 0.1
-    link: "oxygen-gas"
+  - name: "Atmospheric Air"
+    cost: 0.01
+    link: "atmospheric-air"
   - name: "Palladium Catalyst"
     cost: 0.15
     link: "palladium-metal"
@@ -31,7 +31,7 @@ inputs:
   - name: "Water"
     cost: 0.05
     link: "ultra-pure-water"
-value_created: 0
+value_created: 0.09
 ---
 
 # How to Make Hydrogen Peroxide (H₂O₂)

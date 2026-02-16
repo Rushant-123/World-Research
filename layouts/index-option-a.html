@@ -1,0 +1,130 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>{{ .Site.Title }}</title>
+    <link rel="stylesheet" href="/css/style.css">
+</head>
+<body class="homepage-body">
+
+    <!-- Sticky Stats Bar -->
+    <div class="stats-bar" id="stats-bar">
+        <span id="stat-pages">0 products</span>
+        <span class="stats-divider">|</span>
+        <span id="stat-edges">0 connections</span>
+        <span class="stats-divider">|</span>
+        <span id="stat-countries">0 countries</span>
+        <span class="stats-divider">|</span>
+        <span id="stat-price-range">$0 to $0</span>
+    </div>
+
+    <!-- Original Landing Page -->
+    <div class="original-landing" id="original-landing">
+        <div class="container">
+            <header>
+                <h1>Supply Chain of Technology</h1>
+            </header>
+
+            <main class="homepage">
+                <section class="intro">
+                    <p>
+                        Explore how everything in our technological world is made, tracing products
+                        down through their supply chains to raw natural resources. Each page shows
+                        you exactly what's needed to make something and how it's put together.
+                    </p>
+                    <p>
+                        Navigate through hyperlinks to discover the interconnected web of economic
+                        activities that enable modern civilization. From apps and devices down to
+                        mining operations and natural resources.
+                    </p>
+                </section>
+
+                <section class="start">
+                    <h2>How was I built?</h2>
+                    <p>This website documents its own creation as the first example.</p>
+                    <a href="/pages/claude-code/" class="cta-button">Start with Claude Code →</a>
+                </section>
+            </main>
+
+            <footer>
+                <p>Scroll down to explore the full supply chain visualization</p>
+                <div class="scroll-indicator">↓</div>
+            </footer>
+        </div>
+    </div>
+
+    <!-- Visualizations (always visible, scroll down to see) -->
+    <div class="viz-container" id="viz-container">
+        <!-- Section 1: Force Graph Hero -->
+        <section class="viz-section" id="section-hero">
+            <div class="section-title">The Supply Chain of Everything</div>
+            <canvas id="hero-canvas"></canvas>
+            <div class="hero-counter" id="hero-counter">
+                <div class="count-number" id="count-number">0</div>
+                <div class="count-label">things needed to build Claude Code</div>
+            </div>
+        </section>
+
+    <!-- Section 2: Globe -->
+    <section class="viz-section" id="section-globe">
+        <div class="section-title">Where It All Comes From</div>
+        <div id="globe-container"></div>
+    </section>
+
+    <!-- Section 3: Sunburst -->
+    <section class="viz-section" id="section-sunburst">
+        <div class="section-title">Layers of Complexity</div>
+        <div id="sunburst-container"></div>
+    </section>
+
+    <!-- Section 4: Sankey -->
+    <section class="viz-section" id="section-sankey">
+        <div class="section-title">Follow the Money</div>
+        <div id="sankey-container"></div>
+    </section>
+
+    <!-- Section 5: Explorer -->
+    <section class="viz-section viz-section--tall" id="section-explorer">
+        <div id="explorer-container">
+            <h2 class="explorer-heading">Explore All Products</h2>
+            <div class="explorer-controls">
+                <input type="text" id="explorer-search" placeholder="Search products..." />
+                <select id="explorer-distance-filter">
+                    <option value="">All distances</option>
+                </select>
+                <select id="explorer-country-filter">
+                    <option value="">All countries</option>
+                </select>
+                <select id="explorer-sort">
+                    <option value="name">Sort by name</option>
+                    <option value="price-desc">Price: high to low</option>
+                    <option value="price-asc">Price: low to high</option>
+                    <option value="inputs">Most inputs</option>
+                    <option value="distance">Distance from root</option>
+                </select>
+            </div>
+            <div class="explorer-grid" id="explorer-grid"></div>
+        </div>
+    </section>
+    </div>
+    <!-- End viz-container -->
+
+    <!-- Shared tooltip -->
+    <div class="viz-tooltip" id="viz-tooltip" style="display:none;"></div>
+
+    <!-- CDN Libraries -->
+    <script src="https://cdn.jsdelivr.net/npm/d3@7/dist/d3.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/d3-sankey@0.12/dist/d3-sankey.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/three@0.160.0/build/three.min.js"></script>
+
+    <!-- App Scripts -->
+    <script src="/js/data-loader.js"></script>
+    <script src="/js/hero-graph.js"></script>
+    <script src="/js/globe.js"></script>
+    <script src="/js/sunburst.js"></script>
+    <script src="/js/sankey.js"></script>
+    <script src="/js/explorer.js"></script>
+    <script src="/js/main.js"></script>
+</body>
+</html>
