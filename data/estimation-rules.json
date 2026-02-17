@@ -1,0 +1,58 @@
+{
+  "lead_times": {
+    "base_manufacturing": {
+      "raw_materials": 7,
+      "basic_components": 14,
+      "complex_components": 30,
+      "semiconductors": 90,
+      "equipment": 60
+    },
+    "shipping_additions": {
+      "domestic": 3,
+      "continental": 14,
+      "intercontinental": 30
+    }
+  },
+  "moq": {
+    "by_price_range": {
+      "0-10": 10000,
+      "10-100": 5000,
+      "100-1000": 1000,
+      "1000-10000": 100,
+      "10000+": 10
+    }
+  },
+  "risk_by_country": {
+    "low": ["USA", "Germany", "Japan", "South Korea", "Taiwan", "Singapore"],
+    "medium": ["China", "Malaysia", "Thailand", "Poland", "Czech Republic"],
+    "high": ["Russia", "Venezuela", "Myanmar", "Zimbabwe"]
+  },
+  "volatility_by_category": {
+    "commodities": "volatile",
+    "manufactured": "moderate",
+    "equipment": "stable",
+    "services": "stable"
+  },
+  "transportation_by_distance": {
+    "local": "truck",
+    "regional": "rail",
+    "continental": "ship",
+    "intercontinental": "ship",
+    "time_sensitive": "air"
+  },
+  "employee_revenue_ratio": {
+    "software": 500000,
+    "semiconductors": 300000,
+    "manufacturing": 200000,
+    "mining": 250000,
+    "services": 150000
+  },
+  "rd_spending_by_industry": {
+    "software": 20,
+    "semiconductors": 15,
+    "pharmaceuticals": 18,
+    "manufacturing": 5,
+    "mining": 2,
+    "services": 8
+  }
+}

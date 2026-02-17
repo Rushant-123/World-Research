@@ -1,0 +1,36 @@
+{
+  "trade_routes": {
+    "asia_to_usa": {
+      "method": "ship",
+      "duration_days": 30,
+      "cost_per_kg": 2.5
+    },
+    "europe_to_usa": {
+      "method": "ship",
+      "duration_days": 14,
+      "cost_per_kg": 2.0
+    },
+    "asia_to_europe": {
+      "method": "ship",
+      "duration_days": 35,
+      "cost_per_kg": 3.0
+    },
+    "domestic_usa": {
+      "method": "truck",
+      "duration_days": 3,
+      "cost_per_kg": 0.5
+    },
+    "domestic_asia": {
+      "method": "truck",
+      "duration_days": 2,
+      "cost_per_kg": 0.3
+    }
+  },
+  "certifications_by_industry": {
+    "semiconductors": ["ISO 9001", "ISO 14001", "IATF 16949"],
+    "chemicals": ["ISO 9001", "ISO 14001", "REACH", "FDA"],
+    "manufacturing": ["ISO 9001", "ISO 14001", "CE"],
+    "mining": ["ISO 9001", "ISO 14001", "ISO 45001"],
+    "software": ["ISO 27001", "SOC 2", "GDPR"]
+  }
+}

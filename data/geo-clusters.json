@@ -1,0 +1,39 @@
+{
+  "industries": {
+    "semiconductors": [
+      {"country": "Taiwan", "region": "Hsinchu", "share": 35},
+      {"country": "South Korea", "region": "Seoul", "share": 25},
+      {"country": "USA", "region": "Arizona", "share": 15},
+      {"country": "Japan", "region": "Tokyo", "share": 15},
+      {"country": "China", "region": "Shanghai", "share": 10}
+    ],
+    "mining": [
+      {"country": "Australia", "region": "Western Australia", "share": 30},
+      {"country": "Chile", "region": "Atacama", "share": 25},
+      {"country": "Peru", "region": "Arequipa", "share": 15},
+      {"country": "China", "region": "Inner Mongolia", "share": 15},
+      {"country": "Canada", "region": "Quebec", "share": 15}
+    ],
+    "software": [
+      {"country": "USA", "region": "California", "share": 40},
+      {"country": "USA", "region": "Washington", "share": 15},
+      {"country": "India", "region": "Bangalore", "share": 15},
+      {"country": "China", "region": "Beijing", "share": 15},
+      {"country": "UK", "region": "London", "share": 15}
+    ],
+    "chemicals": [
+      {"country": "Germany", "region": "Rhine-Ruhr", "share": 25},
+      {"country": "USA", "region": "Texas", "share": 25},
+      {"country": "China", "region": "Jiangsu", "share": 20},
+      {"country": "Japan", "region": "Osaka", "share": 15},
+      {"country": "Saudi Arabia", "region": "Jubail", "share": 15}
+    ],
+    "manufacturing": [
+      {"country": "China", "region": "Guangdong", "share": 35},
+      {"country": "USA", "region": "Midwest", "share": 20},
+      {"country": "Germany", "region": "Bavaria", "share": 15},
+      {"country": "Japan", "region": "Nagoya", "share": 15},
+      {"country": "Mexico", "region": "Monterrey", "share": 15}
+    ]
+  }
+}
