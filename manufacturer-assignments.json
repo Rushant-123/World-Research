@@ -1,0 +1,1832 @@
+{
+  "metadata": {
+    "generatedAt": "2026-02-17T04:23:28.543Z",
+    "strategy": "Three-tier assignment: keyword patterns > category matching > industry leaders"
+  },
+  "statistics": {
+    "total": 259,
+    "highConfidence": 0,
+    "mediumConfidence": 209,
+    "lowConfidence": 50,
+    "confidenceBreakdown": {
+      "high": "0.0%",
+      "medium": "80.7%",
+      "low": "19.3%"
+    }
+  },
+  "assignments": [
+    {
+      "file": "adc-dac-circuits.md",
+      "currentCompany": "Various Manufacturers",
+      "proposedCompany": "TSMC / Samsung / Intel / Texas Instruments",
+      "confidence": "medium",
+      "reasoning": "Categorized as 'semiconductors' based on keywords: adc, dac, circuits"
+    },
+    {
+      "file": "ahu-system.md",
+      "currentCompany": "Various Manufacturers",
+      "proposedCompany": "Applied Materials / Castrol / Schneider Electric / Microsoft",
+      "confidence": "medium",
+      "reasoning": "Keyword pattern matches found for: ahu, system"
+    },
+    {
+      "file": "air-locks.md",
+      "currentCompany": "Various Manufacturers",
+      "proposedCompany": "Johnson Controls / Carrier / Trane / Daikin",
+      "confidence": "medium",
+      "reasoning": "Categorized as 'infrastructure' based on keywords: locks"
+    },
+    {
+      "file": "air-shower.md",
+      "currentCompany": "Various Manufacturers",
+      "proposedCompany": "Johnson Controls / Carrier / Trane / Daikin",
+      "confidence": "medium",
+      "reasoning": "Categorized as 'infrastructure' based on keywords: shower"
+    },
+    {
+      "file": "alignment-stage.md",
+      "currentCompany": "Various Manufacturers",
+      "proposedCompany": "Applied Materials / ASML / Tokyo Electron / Lam Research",
+      "confidence": "medium",
+      "reasoning": "Categorized as 'equipment' based on keywords: stage"
+    },
+    {
+      "file": "amplifier-design.md",
+      "currentCompany": "Various Manufacturers",
+      "proposedCompany": "TSMC / Samsung / Intel / Texas Instruments",
+      "confidence": "medium",
+      "reasoning": "Categorized as 'semiconductors' based on keywords: amplifier"
+    },
+    {
+      "file": "analog-circuits.md",
+      "currentCompany": "Various Manufacturers",
+      "proposedCompany": "TSMC / Samsung / Intel / Texas Instruments",
+      "confidence": "medium",
+      "reasoning": "Categorized as 'semiconductors' based on keywords: analog, circuits"
+    },
+    {
+      "file": "anti-wear-additives.md",
+      "currentCompany": "Various Manufacturers",
+      "proposedCompany": "BASF / Dow / Solvay / Evonik",
+      "confidence": "medium",
+      "reasoning": "Categorized as 'chemicals' based on keywords: wear, additives"
+    },
+    {
+      "file": "arm-cpu-core.md",
+      "currentCompany": "Various Manufacturers",
+      "proposedCompany": "TSMC / Samsung / Intel / Texas Instruments",
+      "confidence": "medium",
+      "reasoning": "Categorized as 'semiconductors' based on keywords: cpu, core"
+    },
+    {
+      "file": "arsenic-element.md",
+      "currentCompany": "Various Manufacturers",
+      "proposedCompany": "Saint-Gobain / 3M / Corning / AGC",
+      "confidence": "medium",
+      "reasoning": "Categorized as 'materials' based on keywords: arsenic"
+    },
+    {
+      "file": "atmospheric-air.md",
+      "currentCompany": "Various Manufacturers",
+      "proposedCompany": "BASF / Dow / Siemens / 3M",
+      "confidence": "low",
+      "reasoning": "No specific matches found; using industry leaders for Various Manufacturers"
+    },
+    {
+      "file": "barium-titanate.md",
+      "currentCompany": "Various Manufacturers",
+      "proposedCompany": "Saint-Gobain / 3M / Corning / AGC",
+      "confidence": "medium",
+      "reasoning": "Categorized as 'materials' based on keywords: barium, titanate"
+    },
+    {
+      "file": "battery-monitor-ic.md",
+      "currentCompany": "Various Manufacturers",
+      "proposedCompany": "TSMC / Samsung / Intel / Texas Instruments",
+      "confidence": "medium",
+      "reasoning": "Categorized as 'semiconductors' based on keywords: monitor"
+    },
+    {
+      "file": "battery-testing.md",
+      "currentCompany": "Various Manufacturers",
+      "proposedCompany": "CATL / Teradyne / Keysight",
+      "confidence": "medium",
+      "reasoning": "Keyword pattern matches found for: battery, testing"
+    },
+    {
+      "file": "bauxite-mining.md",
+      "currentCompany": "Various Manufacturers",
+      "proposedCompany": "Komatsu / Caterpillar / Peabody",
+      "confidence": "medium",
+      "reasoning": "Keyword pattern matches found for: bauxite, mining"
+    },
+    {
+      "file": "black-matrix.md",
+      "currentCompany": "Various Manufacturers",
+      "proposedCompany": "Sony / Canon / Nikon / Zeiss",
+      "confidence": "medium",
+      "reasoning": "Categorized as 'optics' based on keywords: matrix"
+    },
+    {
+      "file": "bpa-chemical.md",
+      "currentCompany": "Various Manufacturers",
+      "proposedCompany": "BASF / Dow / Solvay / Evonik",
+      "confidence": "medium",
+      "reasoning": "Categorized as 'chemicals' based on keywords: bpa, chemical"
+    },
+    {
+      "file": "calibration-standards.md",
+      "currentCompany": "Various Manufacturers",
+      "proposedCompany": "IETF / W3C",
+      "confidence": "medium",
+      "reasoning": "Keyword pattern matches found for: calibration, standards"
+    },
+    {
+      "file": "capstan-puller.md",
+      "currentCompany": "Various Manufacturers",
+      "proposedCompany": "Applied Materials / ASML / Tokyo Electron / Lam Research",
+      "confidence": "medium",
+      "reasoning": "Categorized as 'equipment' based on keywords: puller"
+    },
+    {
+      "file": "carbon-anodes.md",
+      "currentCompany": "Various Manufacturers",
+      "proposedCompany": "Saint-Gobain / 3M / Corning / AGC",
+      "confidence": "medium",
+      "reasoning": "Categorized as 'materials' based on keywords: carbon, anodes"
+    },
+    {
+      "file": "chemical-mixer.md",
+      "currentCompany": "Various Manufacturers",
+      "proposedCompany": "Applied Materials / ASML / Tokyo Electron / Lam Research",
+      "confidence": "medium",
+      "reasoning": "Categorized as 'equipment' based on keywords: mixer"
+    },
+    {
+      "file": "chemical-reactor.md",
+      "currentCompany": "Various Manufacturers",
+      "proposedCompany": "Applied Materials / ASML / Tokyo Electron / Lam Research",
+      "confidence": "medium",
+      "reasoning": "Categorized as 'equipment' based on keywords: reactor"
+    },
+    {
+      "file": "chemical-tanks.md",
+      "currentCompany": "Various Manufacturers",
+      "proposedCompany": "BASF / Dow / Solvay / Evonik",
+      "confidence": "medium",
+      "reasoning": "Categorized as 'chemicals' based on keywords: chemical"
+    },
+    {
+      "file": "chiral-dopants.md",
+      "currentCompany": "Various Manufacturers",
+      "proposedCompany": "BASF / Dow / Solvay / Evonik",
+      "confidence": "medium",
+      "reasoning": "Categorized as 'chemicals' based on keywords: chiral, dopants"
+    },
+    {
+      "file": "cobalt-binder.md",
+      "currentCompany": "Various Manufacturers",
+      "proposedCompany": "BASF / Dow / Solvay / Evonik",
+      "confidence": "medium",
+      "reasoning": "Categorized as 'chemicals' based on keywords: cobalt"
+    },
+    {
+      "file": "cobalt-sulfate.md",
+      "currentCompany": "Various Manufacturers",
+      "proposedCompany": "BASF / Dow / Solvay / Evonik",
+      "confidence": "medium",
+      "reasoning": "Categorized as 'chemicals' based on keywords: cobalt, sulfate"
+    },
+    {
+      "file": "colloidal-silica.md",
+      "currentCompany": "Various Manufacturers",
+      "proposedCompany": "Sibelco / US Silica",
+      "confidence": "medium",
+      "reasoning": "Keyword pattern matches found for: colloidal, silica"
+    },
+    {
+      "file": "color-resist.md",
+      "currentCompany": "Various Manufacturers",
+      "proposedCompany": "BASF / Dow / Solvay / Evonik",
+      "confidence": "medium",
+      "reasoning": "Categorized as 'chemicals' based on keywords: resist"
+    },
+    {
+      "file": "core-material.md",
+      "currentCompany": "Various Manufacturers",
+      "proposedCompany": "Saint-Gobain / 3M / Corning / AGC",
+      "confidence": "medium",
+      "reasoning": "Categorized as 'materials' based on keywords: core, material"
+    },
+    {
+      "file": "corrosion-inhibitors.md",
+      "currentCompany": "Various Manufacturers",
+      "proposedCompany": "BASF / Dow / Solvay / Evonik",
+      "confidence": "medium",
+      "reasoning": "Categorized as 'chemicals' based on keywords: corrosion, inhibitors"
+    },
+    {
+      "file": "coverlay-film.md",
+      "currentCompany": "Various Manufacturers",
+      "proposedCompany": "DuPont / Ube Industries",
+      "confidence": "medium",
+      "reasoning": "Keyword pattern matches found for: coverlay, film"
+    },
+    {
+      "file": "cryogenic-tank.md",
+      "currentCompany": "Various Manufacturers",
+      "proposedCompany": "Applied Materials / ASML / Tokyo Electron / Lam Research",
+      "confidence": "medium",
+      "reasoning": "Categorized as 'equipment' based on keywords: tank"
+    },
+    {
+      "file": "cyanobiphenyl.md",
+      "currentCompany": "Various Manufacturers",
+      "proposedCompany": "BASF / Dow / Solvay / Evonik",
+      "confidence": "medium",
+      "reasoning": "Categorized as 'chemicals' based on keywords: cyanobiphenyl"
+    },
+    {
+      "file": "dac-circuits.md",
+      "currentCompany": "Various Manufacturers",
+      "proposedCompany": "TSMC / Samsung / Intel / Texas Instruments",
+      "confidence": "medium",
+      "reasoning": "Categorized as 'semiconductors' based on keywords: dac, circuits"
+    },
+    {
+      "file": "defect-classification.md",
+      "currentCompany": "Various Manufacturers",
+      "proposedCompany": "Cadence / Synopsys / Mentor Graphics / Siemens EDA",
+      "confidence": "medium",
+      "reasoning": "Categorized as 'software' based on keywords: defect, classification"
+    },
+    {
+      "file": "desiccant-dehumidifier.md",
+      "currentCompany": "Various Manufacturers",
+      "proposedCompany": "BASF / Dow / Siemens / 3M",
+      "confidence": "low",
+      "reasoning": "No specific matches found; using industry leaders for Various Manufacturers"
+    },
+    {
+      "file": "diamond-blade.md",
+      "currentCompany": "Various Manufacturers",
+      "proposedCompany": "Saint-Gobain / 3M / Corning / AGC",
+      "confidence": "medium",
+      "reasoning": "Categorized as 'materials' based on keywords: diamond, blade"
+    },
+    {
+      "file": "diffuser-film.md",
+      "currentCompany": "Various Manufacturers",
+      "proposedCompany": "DuPont / Ube Industries",
+      "confidence": "medium",
+      "reasoning": "Keyword pattern matches found for: diffuser, film"
+    },
+    {
+      "file": "digital-display.md",
+      "currentCompany": "Various Manufacturers",
+      "proposedCompany": "TSMC / Samsung / Intel / Texas Instruments",
+      "confidence": "medium",
+      "reasoning": "Categorized as 'semiconductors' based on keywords: digital"
+    },
+    {
+      "file": "dimethyl-carbonate.md",
+      "currentCompany": "Various Manufacturers",
+      "proposedCompany": "BASF / Dow / Solvay / Evonik",
+      "confidence": "medium",
+      "reasoning": "Categorized as 'chemicals' based on keywords: dimethyl, carbonate"
+    },
+    {
+      "file": "dispersing-agent.md",
+      "currentCompany": "Various Manufacturers",
+      "proposedCompany": "BASF / Dow / Solvay / Evonik",
+      "confidence": "medium",
+      "reasoning": "Categorized as 'chemicals' based on keywords: dispersing, agent"
+    },
+    {
+      "file": "displayport-mux.md",
+      "currentCompany": "Various Manufacturers",
+      "proposedCompany": "TSMC / Samsung / Intel / Texas Instruments",
+      "confidence": "medium",
+      "reasoning": "Categorized as 'semiconductors' based on keywords: mux"
+    },
+    {
+      "file": "dram-buffer.md",
+      "currentCompany": "Various Manufacturers",
+      "proposedCompany": "TSMC / Samsung / Intel / Texas Instruments",
+      "confidence": "medium",
+      "reasoning": "Categorized as 'semiconductors' based on keywords: dram, buffer"
+    },
+    {
+      "file": "dsp-core.md",
+      "currentCompany": "Various Manufacturers",
+      "proposedCompany": "TSMC / Samsung / Intel / Texas Instruments",
+      "confidence": "medium",
+      "reasoning": "Categorized as 'semiconductors' based on keywords: core"
+    },
+    {
+      "file": "ecc-engine.md",
+      "currentCompany": "Various Manufacturers",
+      "proposedCompany": "TSMC / Samsung / Intel / Texas Instruments",
+      "confidence": "medium",
+      "reasoning": "Categorized as 'semiconductors' based on keywords: ecc"
+    },
+    {
+      "file": "electrode-stacking.md",
+      "currentCompany": "Various Manufacturers",
+      "proposedCompany": "BASF / Dow / Siemens / 3M",
+      "confidence": "low",
+      "reasoning": "No specific matches found; using industry leaders for Various Manufacturers"
+    },
+    {
+      "file": "electrolyte-additives.md",
+      "currentCompany": "Various Manufacturers",
+      "proposedCompany": "BASF / Dow / Solvay / Evonik",
+      "confidence": "medium",
+      "reasoning": "Categorized as 'chemicals' based on keywords: electrolyte, additives"
+    },
+    {
+      "file": "electrolyte-filling.md",
+      "currentCompany": "Various Manufacturers",
+      "proposedCompany": "BASF / Dow / Solvay / Evonik",
+      "confidence": "medium",
+      "reasoning": "Categorized as 'chemicals' based on keywords: electrolyte"
+    },
+    {
+      "file": "electrorefining-cell.md",
+      "currentCompany": "Various Manufacturers",
+      "proposedCompany": "Applied Materials / ASML / Tokyo Electron / Lam Research",
+      "confidence": "medium",
+      "reasoning": "Categorized as 'equipment' based on keywords: cell"
+    },
+    {
+      "file": "electrostatic-chuck.md",
+      "currentCompany": "Various Manufacturers",
+      "proposedCompany": "Applied Materials / ASML / Tokyo Electron / Lam Research",
+      "confidence": "medium",
+      "reasoning": "Categorized as 'equipment' based on keywords: chuck"
+    },
+    {
+      "file": "emulsifiers.md",
+      "currentCompany": "Various Manufacturers",
+      "proposedCompany": "BASF / Dow / Solvay / Evonik",
+      "confidence": "medium",
+      "reasoning": "Categorized as 'chemicals' based on keywords: emulsifiers"
+    },
+    {
+      "file": "epichlorohydrin.md",
+      "currentCompany": "Various Manufacturers",
+      "proposedCompany": "BASF / Dow / Solvay / Evonik",
+      "confidence": "medium",
+      "reasoning": "Categorized as 'chemicals' based on keywords: epichlorohydrin"
+    },
+    {
+      "file": "equipment-operation.md",
+      "currentCompany": "Various Manufacturers",
+      "proposedCompany": "Industrial Equipment Manufacturer / Applied Materials / Teradyne / Keysight",
+      "confidence": "medium",
+      "reasoning": "Keyword pattern matches found for: equipment, operation"
+    },
+    {
+      "file": "esd-additives.md",
+      "currentCompany": "Various Manufacturers",
+      "proposedCompany": "BASF / Dow / Solvay / Evonik",
+      "confidence": "medium",
+      "reasoning": "Categorized as 'chemicals' based on keywords: additives"
+    },
+    {
+      "file": "ethyl-methyl-carbonate.md",
+      "currentCompany": "Various Manufacturers",
+      "proposedCompany": "BASF / Dow / Solvay / Evonik",
+      "confidence": "medium",
+      "reasoning": "Categorized as 'chemicals' based on keywords: ethyl, carbonate"
+    },
+    {
+      "file": "ethylene-carbonate.md",
+      "currentCompany": "Various Manufacturers",
+      "proposedCompany": "BASF / Dow / Solvay / Evonik",
+      "confidence": "medium",
+      "reasoning": "Categorized as 'chemicals' based on keywords: ethylene, carbonate"
+    },
+    {
+      "file": "euv-source.md",
+      "currentCompany": "Various Manufacturers",
+      "proposedCompany": "Sony / Canon / Nikon / Zeiss",
+      "confidence": "medium",
+      "reasoning": "Categorized as 'optics' based on keywords: euv, source"
+    },
+    {
+      "file": "ferrite-core.md",
+      "currentCompany": "Various Manufacturers",
+      "proposedCompany": "Saint-Gobain / 3M / Corning / AGC",
+      "confidence": "medium",
+      "reasoning": "Categorized as 'materials' based on keywords: ferrite, core"
+    },
+    {
+      "file": "flame-retardant.md",
+      "currentCompany": "Various Manufacturers",
+      "proposedCompany": "BASF / Dow / Solvay / Evonik",
+      "confidence": "medium",
+      "reasoning": "Categorized as 'chemicals' based on keywords: retardant"
+    },
+    {
+      "file": "flash-smelter.md",
+      "currentCompany": "Various Manufacturers",
+      "proposedCompany": "TSMC / Samsung / Intel / Texas Instruments",
+      "confidence": "medium",
+      "reasoning": "Categorized as 'semiconductors' based on keywords: flash"
+    },
+    {
+      "file": "flotation-chemicals.md",
+      "currentCompany": "Various Manufacturers",
+      "proposedCompany": "BASF / Dow / Solvay / Evonik",
+      "confidence": "medium",
+      "reasoning": "Categorized as 'chemicals' based on keywords: chemicals"
+    },
+    {
+      "file": "flotation-equipment.md",
+      "currentCompany": "Various Manufacturers",
+      "proposedCompany": "Industrial Equipment Manufacturer / Applied Materials / Teradyne / Keysight",
+      "confidence": "medium",
+      "reasoning": "Keyword pattern matches found for: flotation, equipment"
+    },
+    {
+      "file": "fluorinated-lc.md",
+      "currentCompany": "Various Manufacturers",
+      "proposedCompany": "BASF / Dow / Siemens / 3M",
+      "confidence": "low",
+      "reasoning": "No specific matches found; using industry leaders for Various Manufacturers"
+    },
+    {
+      "file": "flux-vehicle.md",
+      "currentCompany": "Various Manufacturers",
+      "proposedCompany": "BASF / Dow / Siemens / 3M",
+      "confidence": "low",
+      "reasoning": "No specific matches found; using industry leaders for Various Manufacturers"
+    },
+    {
+      "file": "flying-probe.md",
+      "currentCompany": "Various Manufacturers",
+      "proposedCompany": "Applied Materials / ASML / Tokyo Electron / Lam Research",
+      "confidence": "medium",
+      "reasoning": "Categorized as 'equipment' based on keywords: probe"
+    },
+    {
+      "file": "formation-equipment.md",
+      "currentCompany": "Various Manufacturers",
+      "proposedCompany": "Industrial Equipment Manufacturer / Applied Materials / Teradyne / Keysight",
+      "confidence": "medium",
+      "reasoning": "Keyword pattern matches found for: formation, equipment"
+    },
+    {
+      "file": "fpc-stiffener.md",
+      "currentCompany": "Various Manufacturers",
+      "proposedCompany": "Saint-Gobain / 3M / Corning / AGC",
+      "confidence": "medium",
+      "reasoning": "Categorized as 'materials' based on keywords: stiffener"
+    },
+    {
+      "file": "fuel-transport.md",
+      "currentCompany": "Various Manufacturers",
+      "proposedCompany": "ExxonMobil / Shell / BP",
+      "confidence": "medium",
+      "reasoning": "Keyword pattern matches found for: fuel, transport"
+    },
+    {
+      "file": "galvo-scanner.md",
+      "currentCompany": "Various Manufacturers",
+      "proposedCompany": "Applied Materials / ASML / Tokyo Electron / Lam Research",
+      "confidence": "medium",
+      "reasoning": "Categorized as 'equipment' based on keywords: scanner"
+    },
+    {
+      "file": "hall-heroult-cells.md",
+      "currentCompany": "Various Manufacturers",
+      "proposedCompany": "BASF / Dow / Siemens / 3M",
+      "confidence": "low",
+      "reasoning": "No specific matches found; using industry leaders for Various Manufacturers"
+    },
+    {
+      "file": "heat-exchanger.md",
+      "currentCompany": "Various Manufacturers",
+      "proposedCompany": "BASF / Dow / Siemens / 3M",
+      "confidence": "low",
+      "reasoning": "No specific matches found; using industry leaders for Various Manufacturers"
+    },
+    {
+      "file": "heating-coils.md",
+      "currentCompany": "Various Manufacturers",
+      "proposedCompany": "BASF / Dow / Siemens / 3M",
+      "confidence": "low",
+      "reasoning": "No specific matches found; using industry leaders for Various Manufacturers"
+    },
+    {
+      "file": "heating-elements.md",
+      "currentCompany": "Various Manufacturers",
+      "proposedCompany": "BASF / Dow / Siemens / 3M",
+      "confidence": "low",
+      "reasoning": "No specific matches found; using industry leaders for Various Manufacturers"
+    },
+    {
+      "file": "heating-modules.md",
+      "currentCompany": "Various Manufacturers",
+      "proposedCompany": "BASF / Dow / Siemens / 3M",
+      "confidence": "low",
+      "reasoning": "No specific matches found; using industry leaders for Various Manufacturers"
+    },
+    {
+      "file": "heating-stage.md",
+      "currentCompany": "Various Manufacturers",
+      "proposedCompany": "Applied Materials / ASML / Tokyo Electron / Lam Research",
+      "confidence": "medium",
+      "reasoning": "Categorized as 'equipment' based on keywords: stage"
+    },
+    {
+      "file": "heating-system.md",
+      "currentCompany": "Various Manufacturers",
+      "proposedCompany": "Applied Materials / Castrol / Schneider Electric / Microsoft",
+      "confidence": "medium",
+      "reasoning": "Keyword pattern matches found for: heating, system"
+    },
+    {
+      "file": "high-resolution-optics.md",
+      "currentCompany": "Various Manufacturers",
+      "proposedCompany": "Sony / Canon / Nikon / Zeiss",
+      "confidence": "medium",
+      "reasoning": "Categorized as 'optics' based on keywords: optics"
+    },
+    {
+      "file": "high-shear-mixer.md",
+      "currentCompany": "Various Manufacturers",
+      "proposedCompany": "Applied Materials / ASML / Tokyo Electron / Lam Research",
+      "confidence": "medium",
+      "reasoning": "Categorized as 'equipment' based on keywords: mixer"
+    },
+    {
+      "file": "high-voltage-accelerator.md",
+      "currentCompany": "Various Manufacturers",
+      "proposedCompany": "Applied Materials / ASML / Tokyo Electron / Lam Research",
+      "confidence": "medium",
+      "reasoning": "Categorized as 'equipment' based on keywords: accelerator"
+    },
+    {
+      "file": "hot-runner.md",
+      "currentCompany": "Various Manufacturers",
+      "proposedCompany": "Applied Materials / ASML / Tokyo Electron / Lam Research",
+      "confidence": "medium",
+      "reasoning": "Categorized as 'equipment' based on keywords: runner"
+    },
+    {
+      "file": "hvac-system.md",
+      "currentCompany": "Various Manufacturers",
+      "proposedCompany": "Applied Materials / Castrol / Schneider Electric / Microsoft",
+      "confidence": "medium",
+      "reasoning": "Keyword pattern matches found for: hvac, system"
+    },
+    {
+      "file": "hydrotreater.md",
+      "currentCompany": "Various Manufacturers",
+      "proposedCompany": "BASF / Dow / Siemens / 3M",
+      "confidence": "low",
+      "reasoning": "No specific matches found; using industry leaders for Various Manufacturers"
+    },
+    {
+      "file": "ic-testing.md",
+      "currentCompany": "Various Manufacturers",
+      "proposedCompany": "Teradyne / Keysight",
+      "confidence": "medium",
+      "reasoning": "Keyword pattern matches found for: testing"
+    },
+    {
+      "file": "igzo-sputtering.md",
+      "currentCompany": "Various Manufacturers",
+      "proposedCompany": "Saint-Gobain / 3M / Corning / AGC",
+      "confidence": "medium",
+      "reasoning": "Categorized as 'materials' based on keywords: igzo"
+    },
+    {
+      "file": "injection-unit.md",
+      "currentCompany": "Various Manufacturers",
+      "proposedCompany": "Applied Materials / ASML / Tokyo Electron / Lam Research",
+      "confidence": "medium",
+      "reasoning": "Categorized as 'equipment' based on keywords: unit"
+    },
+    {
+      "file": "insulated-chamber.md",
+      "currentCompany": "Various Manufacturers",
+      "proposedCompany": "Applied Materials / ASML / Tokyo Electron / Lam Research",
+      "confidence": "medium",
+      "reasoning": "Categorized as 'equipment' based on keywords: chamber"
+    },
+    {
+      "file": "iodine-dye.md",
+      "currentCompany": "Various Manufacturers",
+      "proposedCompany": "BASF / Dow / Solvay / Evonik",
+      "confidence": "medium",
+      "reasoning": "Categorized as 'chemicals' based on keywords: dye"
+    },
+    {
+      "file": "lead-shielding.md",
+      "currentCompany": "Various Manufacturers",
+      "proposedCompany": "Johnson Controls / Carrier / Trane / Daikin",
+      "confidence": "medium",
+      "reasoning": "Categorized as 'infrastructure' based on keywords: shielding"
+    },
+    {
+      "file": "lipf6-salt.md",
+      "currentCompany": "Various Manufacturers",
+      "proposedCompany": "BASF / Dow / Solvay / Evonik",
+      "confidence": "medium",
+      "reasoning": "Categorized as 'chemicals' based on keywords: lipf6, salt"
+    },
+    {
+      "file": "magnetizer.md",
+      "currentCompany": "Various Manufacturers",
+      "proposedCompany": "BASF / Dow / Siemens / 3M",
+      "confidence": "low",
+      "reasoning": "No specific matches found; using industry leaders for Various Manufacturers"
+    },
+    {
+      "file": "magnetron-sources.md",
+      "currentCompany": "Various Manufacturers",
+      "proposedCompany": "BASF / Dow / Siemens / 3M",
+      "confidence": "low",
+      "reasoning": "No specific matches found; using industry leaders for Various Manufacturers"
+    },
+    {
+      "file": "manganese-sulfate.md",
+      "currentCompany": "Various Manufacturers",
+      "proposedCompany": "BASF / Dow / Solvay / Evonik",
+      "confidence": "medium",
+      "reasoning": "Categorized as 'chemicals' based on keywords: manganese, sulfate"
+    },
+    {
+      "file": "mesh-grille.md",
+      "currentCompany": "Various Manufacturers",
+      "proposedCompany": "Johnson Controls / Carrier / Trane / Daikin",
+      "confidence": "medium",
+      "reasoning": "Categorized as 'infrastructure' based on keywords: grille"
+    },
+    {
+      "file": "metal-electrodes.md",
+      "currentCompany": "Various Manufacturers",
+      "proposedCompany": "Glencore / Materials Producer / China Molybdenum / Nyrstar",
+      "confidence": "medium",
+      "reasoning": "Keyword pattern matches found for: metal, electrodes"
+    },
+    {
+      "file": "metal-gate.md",
+      "currentCompany": "Various Manufacturers",
+      "proposedCompany": "Glencore / Materials Producer / China Molybdenum / Nyrstar",
+      "confidence": "medium",
+      "reasoning": "Keyword pattern matches found for: metal, gate"
+    },
+    {
+      "file": "miners.md",
+      "currentCompany": "Various Manufacturers",
+      "proposedCompany": "BASF / Dow / Siemens / 3M",
+      "confidence": "low",
+      "reasoning": "No specific matches found; using industry leaders for Various Manufacturers"
+    },
+    {
+      "file": "moisture-trap.md",
+      "currentCompany": "Various Manufacturers",
+      "proposedCompany": "BASF / Dow / Siemens / 3M",
+      "confidence": "low",
+      "reasoning": "No specific matches found; using industry leaders for Various Manufacturers"
+    },
+    {
+      "file": "molding-machine.md",
+      "currentCompany": "Various Manufacturers",
+      "proposedCompany": "Sumitomo Bakelite / Arburg / Applied Materials / Tokyo Electron",
+      "confidence": "medium",
+      "reasoning": "Keyword pattern matches found for: molding, machine"
+    },
+    {
+      "file": "mounting-hardware.md",
+      "currentCompany": "Various Manufacturers",
+      "proposedCompany": "Dell / Lenovo",
+      "confidence": "medium",
+      "reasoning": "Keyword pattern matches found for: mounting, hardware"
+    },
+    {
+      "file": "nand-interface.md",
+      "currentCompany": "Various Manufacturers",
+      "proposedCompany": "TSMC / Samsung / Intel / Texas Instruments",
+      "confidence": "medium",
+      "reasoning": "Categorized as 'semiconductors' based on keywords: nand, interface"
+    },
+    {
+      "file": "occupational-health.md",
+      "currentCompany": "Various Manufacturers",
+      "proposedCompany": "BASF / Dow / Siemens / 3M",
+      "confidence": "low",
+      "reasoning": "No specific matches found; using industry leaders for Various Manufacturers"
+    },
+    {
+      "file": "office-building.md",
+      "currentCompany": "Various Manufacturers",
+      "proposedCompany": "Johnson Controls / Carrier / Trane / Daikin",
+      "confidence": "medium",
+      "reasoning": "Categorized as 'infrastructure' based on keywords: building"
+    },
+    {
+      "file": "ore-crusher.md",
+      "currentCompany": "Various Manufacturers",
+      "proposedCompany": "Applied Materials / ASML / Tokyo Electron / Lam Research",
+      "confidence": "medium",
+      "reasoning": "Categorized as 'equipment' based on keywords: crusher"
+    },
+    {
+      "file": "organic-feedstock.md",
+      "currentCompany": "Various Manufacturers",
+      "proposedCompany": "BASF / Dow / Solvay / Evonik",
+      "confidence": "medium",
+      "reasoning": "Categorized as 'chemicals' based on keywords: feedstock"
+    },
+    {
+      "file": "organic-pigments.md",
+      "currentCompany": "Various Manufacturers",
+      "proposedCompany": "BASF / Dow / Solvay / Evonik",
+      "confidence": "medium",
+      "reasoning": "Categorized as 'chemicals' based on keywords: pigments"
+    },
+    {
+      "file": "oscillator-ic.md",
+      "currentCompany": "Various Manufacturers",
+      "proposedCompany": "TSMC / Samsung / Intel / Texas Instruments",
+      "confidence": "medium",
+      "reasoning": "Categorized as 'semiconductors' based on keywords: oscillator"
+    },
+    {
+      "file": "overcoat-layer.md",
+      "currentCompany": "Various Manufacturers",
+      "proposedCompany": "Saint-Gobain / 3M / Corning / AGC",
+      "confidence": "medium",
+      "reasoning": "Categorized as 'materials' based on keywords: layer"
+    },
+    {
+      "file": "overhead-transport.md",
+      "currentCompany": "Various Manufacturers",
+      "proposedCompany": "Johnson Controls / Carrier / Trane / Daikin",
+      "confidence": "medium",
+      "reasoning": "Categorized as 'infrastructure' based on keywords: overhead, transport"
+    },
+    {
+      "file": "pac-chemical.md",
+      "currentCompany": "Various Manufacturers",
+      "proposedCompany": "BASF / Dow / Solvay / Evonik",
+      "confidence": "medium",
+      "reasoning": "Categorized as 'chemicals' based on keywords: chemical"
+    },
+    {
+      "file": "particle-counter.md",
+      "currentCompany": "Various Manufacturers",
+      "proposedCompany": "BASF / Dow / Siemens / 3M",
+      "confidence": "low",
+      "reasoning": "No specific matches found; using industry leaders for Various Manufacturers"
+    },
+    {
+      "file": "pcie-interface.md",
+      "currentCompany": "Various Manufacturers",
+      "proposedCompany": "TSMC / Samsung / Intel / Texas Instruments",
+      "confidence": "medium",
+      "reasoning": "Categorized as 'semiconductors' based on keywords: pcie, interface"
+    },
+    {
+      "file": "pcl3-chemical.md",
+      "currentCompany": "Various Manufacturers",
+      "proposedCompany": "BASF / Dow / Solvay / Evonik",
+      "confidence": "medium",
+      "reasoning": "Categorized as 'chemicals' based on keywords: chemical"
+    },
+    {
+      "file": "ph-adjusters.md",
+      "currentCompany": "Various Manufacturers",
+      "proposedCompany": "BASF / Dow / Solvay / Evonik",
+      "confidence": "medium",
+      "reasoning": "Categorized as 'chemicals' based on keywords: adjusters"
+    },
+    {
+      "file": "photomask-set.md",
+      "currentCompany": "Various Manufacturers",
+      "proposedCompany": "BASF / Dow / Siemens / 3M",
+      "confidence": "low",
+      "reasoning": "No specific matches found; using industry leaders for Various Manufacturers"
+    },
+    {
+      "file": "polyurethane-pads.md",
+      "currentCompany": "Various Manufacturers",
+      "proposedCompany": "BASF / Dow / Siemens / 3M",
+      "confidence": "low",
+      "reasoning": "No specific matches found; using industry leaders for Various Manufacturers"
+    },
+    {
+      "file": "power-mosfets.md",
+      "currentCompany": "Various Manufacturers",
+      "proposedCompany": "Southwire",
+      "confidence": "medium",
+      "reasoning": "Partial keyword matches combined with category context"
+    },
+    {
+      "file": "pp-film.md",
+      "currentCompany": "Various Manufacturers",
+      "proposedCompany": "DuPont / Ube Industries",
+      "confidence": "medium",
+      "reasoning": "Keyword pattern matches found for: film"
+    },
+    {
+      "file": "ppe-equipment.md",
+      "currentCompany": "Various Manufacturers",
+      "proposedCompany": "Industrial Equipment Manufacturer / Applied Materials / Teradyne / Keysight",
+      "confidence": "medium",
+      "reasoning": "Keyword pattern matches found for: ppe, equipment"
+    },
+    {
+      "file": "precision-stage.md",
+      "currentCompany": "Various Manufacturers",
+      "proposedCompany": "Applied Materials / ASML / Tokyo Electron / Lam Research",
+      "confidence": "medium",
+      "reasoning": "Categorized as 'equipment' based on keywords: stage"
+    },
+    {
+      "file": "prepreg.md",
+      "currentCompany": "Various Manufacturers",
+      "proposedCompany": "Saint-Gobain / 3M / Corning / AGC",
+      "confidence": "medium",
+      "reasoning": "Categorized as 'materials' based on keywords: prepreg"
+    },
+    {
+      "file": "protective-film.md",
+      "currentCompany": "Various Manufacturers",
+      "proposedCompany": "DuPont / Ube Industries",
+      "confidence": "medium",
+      "reasoning": "Keyword pattern matches found for: protective, film"
+    },
+    {
+      "file": "protective-layers.md",
+      "currentCompany": "Various Manufacturers",
+      "proposedCompany": "Saint-Gobain / 3M / Corning / AGC",
+      "confidence": "medium",
+      "reasoning": "Categorized as 'materials' based on keywords: protective, layers"
+    },
+    {
+      "file": "protective-pellicle.md",
+      "currentCompany": "Various Manufacturers",
+      "proposedCompany": "Saint-Gobain / 3M / Corning / AGC",
+      "confidence": "medium",
+      "reasoning": "Categorized as 'materials' based on keywords: protective, pellicle"
+    },
+    {
+      "file": "pva-film.md",
+      "currentCompany": "Various Manufacturers",
+      "proposedCompany": "DuPont / Ube Industries",
+      "confidence": "medium",
+      "reasoning": "Keyword pattern matches found for: pva, film"
+    },
+    {
+      "file": "quality-equipment.md",
+      "currentCompany": "Various Manufacturers",
+      "proposedCompany": "Industrial Equipment Manufacturer / Applied Materials / Teradyne / Keysight",
+      "confidence": "medium",
+      "reasoning": "Keyword pattern matches found for: quality, equipment"
+    },
+    {
+      "file": "quartz-boat.md",
+      "currentCompany": "Various Manufacturers",
+      "proposedCompany": "Applied Materials / ASML / Tokyo Electron / Lam Research",
+      "confidence": "medium",
+      "reasoning": "Categorized as 'equipment' based on keywords: boat"
+    },
+    {
+      "file": "quartz-chamber.md",
+      "currentCompany": "Various Manufacturers",
+      "proposedCompany": "Applied Materials / ASML / Tokyo Electron / Lam Research",
+      "confidence": "medium",
+      "reasoning": "Categorized as 'equipment' based on keywords: chamber"
+    },
+    {
+      "file": "quartz-crucible.md",
+      "currentCompany": "Various Manufacturers",
+      "proposedCompany": "Applied Materials / ASML / Tokyo Electron / Lam Research",
+      "confidence": "medium",
+      "reasoning": "Categorized as 'equipment' based on keywords: crucible"
+    },
+    {
+      "file": "raised-flooring.md",
+      "currentCompany": "Various Manufacturers",
+      "proposedCompany": "Johnson Controls / Carrier / Trane / Daikin",
+      "confidence": "medium",
+      "reasoning": "Categorized as 'infrastructure' based on keywords: flooring"
+    },
+    {
+      "file": "release-agent.md",
+      "currentCompany": "Various Manufacturers",
+      "proposedCompany": "BASF / Dow / Solvay / Evonik",
+      "confidence": "medium",
+      "reasoning": "Categorized as 'chemicals' based on keywords: agent"
+    },
+    {
+      "file": "resistive-film.md",
+      "currentCompany": "Various Manufacturers",
+      "proposedCompany": "DuPont / Ube Industries",
+      "confidence": "medium",
+      "reasoning": "Keyword pattern matches found for: resistive, film"
+    },
+    {
+      "file": "resistive-heaters.md",
+      "currentCompany": "Various Manufacturers",
+      "proposedCompany": "BASF / Dow / Siemens / 3M",
+      "confidence": "low",
+      "reasoning": "No specific matches found; using industry leaders for Various Manufacturers"
+    },
+    {
+      "file": "rheology-modifiers.md",
+      "currentCompany": "Various Manufacturers",
+      "proposedCompany": "BASF / Dow / Solvay / Evonik",
+      "confidence": "medium",
+      "reasoning": "Categorized as 'chemicals' based on keywords: modifiers"
+    },
+    {
+      "file": "ro-membrane.md",
+      "currentCompany": "Various Manufacturers",
+      "proposedCompany": "Saint-Gobain / 3M / Corning / AGC",
+      "confidence": "medium",
+      "reasoning": "Categorized as 'materials' based on keywords: membrane"
+    },
+    {
+      "file": "rotating-platen.md",
+      "currentCompany": "Various Manufacturers",
+      "proposedCompany": "Applied Materials / ASML / Tokyo Electron / Lam Research",
+      "confidence": "medium",
+      "reasoning": "Categorized as 'equipment' based on keywords: platen"
+    },
+    {
+      "file": "safety-equipment.md",
+      "currentCompany": "Various Manufacturers",
+      "proposedCompany": "Industrial Equipment Manufacturer / Applied Materials / Teradyne / Keysight",
+      "confidence": "medium",
+      "reasoning": "Keyword pattern matches found for: safety, equipment"
+    },
+    {
+      "file": "scheelite-ore.md",
+      "currentCompany": "Various Manufacturers",
+      "proposedCompany": "Rio Tinto / BHP / Glencore / Vale",
+      "confidence": "medium",
+      "reasoning": "Categorized as 'mining' based on keywords: scheelite, ore"
+    },
+    {
+      "file": "serdes-circuits.md",
+      "currentCompany": "Various Manufacturers",
+      "proposedCompany": "TSMC / Samsung / Intel / Texas Instruments",
+      "confidence": "medium",
+      "reasoning": "Categorized as 'semiconductors' based on keywords: serdes, circuits"
+    },
+    {
+      "file": "slurry-chemicals.md",
+      "currentCompany": "Various Manufacturers",
+      "proposedCompany": "BASF / Dow / Solvay / Evonik",
+      "confidence": "medium",
+      "reasoning": "Categorized as 'chemicals' based on keywords: slurry, chemicals"
+    },
+    {
+      "file": "slurry-system.md",
+      "currentCompany": "Various Manufacturers",
+      "proposedCompany": "Applied Materials / Castrol / Schneider Electric / Microsoft",
+      "confidence": "medium",
+      "reasoning": "Keyword pattern matches found for: slurry, system"
+    },
+    {
+      "file": "soda-ash.md",
+      "currentCompany": "Various Manufacturers",
+      "proposedCompany": "BASF / Dow / Siemens / 3M",
+      "confidence": "low",
+      "reasoning": "No specific matches found; using industry leaders for Various Manufacturers"
+    },
+    {
+      "file": "spheroidization.md",
+      "currentCompany": "Various Manufacturers",
+      "proposedCompany": "BASF / Dow / Siemens / 3M",
+      "confidence": "low",
+      "reasoning": "No specific matches found; using industry leaders for Various Manufacturers"
+    },
+    {
+      "file": "spot-welder.md",
+      "currentCompany": "Various Manufacturers",
+      "proposedCompany": "Applied Materials / ASML / Tokyo Electron / Lam Research",
+      "confidence": "medium",
+      "reasoning": "Categorized as 'equipment' based on keywords: welder"
+    },
+    {
+      "file": "sputtering-targets.md",
+      "currentCompany": "Various Manufacturers",
+      "proposedCompany": "Saint-Gobain / 3M / Corning / AGC",
+      "confidence": "medium",
+      "reasoning": "Categorized as 'materials' based on keywords: targets"
+    },
+    {
+      "file": "standards-calibration.md",
+      "currentCompany": "Various Manufacturers",
+      "proposedCompany": "IETF / W3C",
+      "confidence": "medium",
+      "reasoning": "Keyword pattern matches found for: standards, calibration"
+    },
+    {
+      "file": "styrene-monomer.md",
+      "currentCompany": "Various Manufacturers",
+      "proposedCompany": "BASF / Dow / Solvay / Evonik",
+      "confidence": "medium",
+      "reasoning": "Categorized as 'chemicals' based on keywords: styrene, monomer"
+    },
+    {
+      "file": "surfactants.md",
+      "currentCompany": "Various Manufacturers",
+      "proposedCompany": "BASF / Dow / Siemens / 3M",
+      "confidence": "low",
+      "reasoning": "No specific matches found; using industry leaders for Various Manufacturers"
+    },
+    {
+      "file": "suspended-ceiling.md",
+      "currentCompany": "Various Manufacturers",
+      "proposedCompany": "Johnson Controls / Carrier / Trane / Daikin",
+      "confidence": "medium",
+      "reasoning": "Categorized as 'infrastructure' based on keywords: ceiling"
+    },
+    {
+      "file": "suspension-stabilizer.md",
+      "currentCompany": "Various Manufacturers",
+      "proposedCompany": "BASF / Dow / Solvay / Evonik",
+      "confidence": "medium",
+      "reasoning": "Categorized as 'chemicals' based on keywords: stabilizer"
+    },
+    {
+      "file": "synthetic-quartz.md",
+      "currentCompany": "Various Manufacturers",
+      "proposedCompany": "Saint-Gobain / 3M / Corning / AGC",
+      "confidence": "medium",
+      "reasoning": "Categorized as 'materials' based on keywords: quartz"
+    },
+    {
+      "file": "tac-film.md",
+      "currentCompany": "Various Manufacturers",
+      "proposedCompany": "DuPont / Ube Industries",
+      "confidence": "medium",
+      "reasoning": "Keyword pattern matches found for: tac, film"
+    },
+    {
+      "file": "tdr-module.md",
+      "currentCompany": "Various Manufacturers",
+      "proposedCompany": "Applied Materials / ASML / Tokyo Electron / Lam Research",
+      "confidence": "medium",
+      "reasoning": "Categorized as 'equipment' based on keywords: module"
+    },
+    {
+      "file": "termination-electrodes.md",
+      "currentCompany": "Various Manufacturers",
+      "proposedCompany": "BASF / Dow / Siemens / 3M",
+      "confidence": "low",
+      "reasoning": "No specific matches found; using industry leaders for Various Manufacturers"
+    },
+    {
+      "file": "termination-paste.md",
+      "currentCompany": "Various Manufacturers",
+      "proposedCompany": "BASF / Dow / Solvay / Evonik",
+      "confidence": "medium",
+      "reasoning": "Categorized as 'chemicals' based on keywords: paste"
+    },
+    {
+      "file": "uf-membrane.md",
+      "currentCompany": "Various Manufacturers",
+      "proposedCompany": "Saint-Gobain / 3M / Corning / AGC",
+      "confidence": "medium",
+      "reasoning": "Categorized as 'materials' based on keywords: membrane"
+    },
+    {
+      "file": "uv-lamp.md",
+      "currentCompany": "Various Manufacturers",
+      "proposedCompany": "Sony / Canon / Nikon / Zeiss",
+      "confidence": "medium",
+      "reasoning": "Categorized as 'optics' based on keywords: lamp"
+    },
+    {
+      "file": "uv-light-source.md",
+      "currentCompany": "Various Manufacturers",
+      "proposedCompany": "Sony / Canon / Nikon / Zeiss",
+      "confidence": "medium",
+      "reasoning": "Categorized as 'optics' based on keywords: light, source"
+    },
+    {
+      "file": "vna.md",
+      "currentCompany": "Various Manufacturers",
+      "proposedCompany": "BASF / Dow / Siemens / 3M",
+      "confidence": "low",
+      "reasoning": "No specific matches found; using industry leaders for Various Manufacturers"
+    },
+    {
+      "file": "vulcanizing-agent.md",
+      "currentCompany": "Various Manufacturers",
+      "proposedCompany": "BASF / Dow / Solvay / Evonik",
+      "confidence": "medium",
+      "reasoning": "Categorized as 'chemicals' based on keywords: agent"
+    },
+    {
+      "file": "web-handling.md",
+      "currentCompany": "Various Manufacturers",
+      "proposedCompany": "Johnson Controls / Carrier / Trane / Daikin",
+      "confidence": "medium",
+      "reasoning": "Categorized as 'infrastructure' based on keywords: handling"
+    },
+    {
+      "file": "winding-machine.md",
+      "currentCompany": "Various Manufacturers",
+      "proposedCompany": "Applied Materials / Tokyo Electron",
+      "confidence": "medium",
+      "reasoning": "Keyword pattern matches found for: winding, machine"
+    },
+    {
+      "file": "wood-chips.md",
+      "currentCompany": "Various Manufacturers",
+      "proposedCompany": "Nichia / Lumileds / Osram",
+      "confidence": "medium",
+      "reasoning": "Keyword pattern matches found for: wood, chips"
+    },
+    {
+      "file": "xray-detector.md",
+      "currentCompany": "Various Manufacturers",
+      "proposedCompany": "Sony / Canon / Nikon / Zeiss",
+      "confidence": "medium",
+      "reasoning": "Categorized as 'optics' based on keywords: xray, detector"
+    },
+    {
+      "file": "xy-stage.md",
+      "currentCompany": "Various Manufacturers",
+      "proposedCompany": "Applied Materials / ASML / Tokyo Electron / Lam Research",
+      "confidence": "medium",
+      "reasoning": "Categorized as 'equipment' based on keywords: stage"
+    },
+    {
+      "file": "xyz-stage.md",
+      "currentCompany": "Various Manufacturers",
+      "proposedCompany": "Applied Materials / ASML / Tokyo Electron / Lam Research",
+      "confidence": "medium",
+      "reasoning": "Categorized as 'equipment' based on keywords: stage"
+    },
+    {
+      "file": "zeolite-adsorbent.md",
+      "currentCompany": "Various Manufacturers",
+      "proposedCompany": "Saint-Gobain / 3M / Corning / AGC",
+      "confidence": "medium",
+      "reasoning": "Categorized as 'materials' based on keywords: zeolite"
+    },
+    {
+      "file": "air-classifier.md",
+      "currentCompany": "Industrial Manufacturer",
+      "proposedCompany": "Applied Materials / ASML / Tokyo Electron / Lam Research",
+      "confidence": "medium",
+      "reasoning": "Categorized as 'equipment' based on keywords: classifier"
+    },
+    {
+      "file": "assay-lab.md",
+      "currentCompany": "Industrial Manufacturer",
+      "proposedCompany": "Siemens / ABB / Caterpillar / GE",
+      "confidence": "low",
+      "reasoning": "No specific matches found; using industry leaders for Industrial Manufacturer"
+    },
+    {
+      "file": "atomizer.md",
+      "currentCompany": "Industrial Manufacturer",
+      "proposedCompany": "Applied Materials / ASML / Tokyo Electron / Lam Research",
+      "confidence": "medium",
+      "reasoning": "Categorized as 'equipment' based on keywords: atomizer"
+    },
+    {
+      "file": "barrier-film.md",
+      "currentCompany": "Industrial Manufacturer",
+      "proposedCompany": "DuPont / Ube Industries",
+      "confidence": "medium",
+      "reasoning": "Keyword pattern matches found for: barrier, film"
+    },
+    {
+      "file": "cell-design.md",
+      "currentCompany": "Industrial Manufacturer",
+      "proposedCompany": "Applied Materials / ASML / Tokyo Electron / Lam Research",
+      "confidence": "medium",
+      "reasoning": "Categorized as 'equipment' based on keywords: cell"
+    },
+    {
+      "file": "cmos-backplane.md",
+      "currentCompany": "Industrial Manufacturer",
+      "proposedCompany": "Siemens / ABB / Caterpillar / GE",
+      "confidence": "low",
+      "reasoning": "No specific matches found; using industry leaders for Industrial Manufacturer"
+    },
+    {
+      "file": "coin-battery.md",
+      "currentCompany": "Industrial Manufacturer",
+      "proposedCompany": "CATL",
+      "confidence": "medium",
+      "reasoning": "Partial keyword matches combined with category context"
+    },
+    {
+      "file": "crude-storage.md",
+      "currentCompany": "Industrial Manufacturer",
+      "proposedCompany": "NetApp / Samsung / Western Digital",
+      "confidence": "medium",
+      "reasoning": "Keyword pattern matches found for: crude, storage"
+    },
+    {
+      "file": "crypto-engine.md",
+      "currentCompany": "Industrial Manufacturer",
+      "proposedCompany": "TSMC / Samsung / Intel / Texas Instruments",
+      "confidence": "medium",
+      "reasoning": "Categorized as 'semiconductors' based on keywords: crypto"
+    },
+    {
+      "file": "curing-agent.md",
+      "currentCompany": "Industrial Manufacturer",
+      "proposedCompany": "BASF / Dow / Solvay / Evonik",
+      "confidence": "medium",
+      "reasoning": "Categorized as 'chemicals' based on keywords: agent"
+    },
+    {
+      "file": "diffuser-films.md",
+      "currentCompany": "Industrial Manufacturer",
+      "proposedCompany": "Sony / Canon / Nikon / Zeiss",
+      "confidence": "medium",
+      "reasoning": "Categorized as 'optics' based on keywords: diffuser"
+    },
+    {
+      "file": "digester-tanks.md",
+      "currentCompany": "Industrial Manufacturer",
+      "proposedCompany": "Siemens / ABB / Caterpillar / GE",
+      "confidence": "low",
+      "reasoning": "No specific matches found; using industry leaders for Industrial Manufacturer"
+    },
+    {
+      "file": "dimensionally-stable-anode.md",
+      "currentCompany": "Industrial Manufacturer",
+      "proposedCompany": "Saint-Gobain / 3M / Corning / AGC",
+      "confidence": "medium",
+      "reasoning": "Categorized as 'materials' based on keywords: anode"
+    },
+    {
+      "file": "dry-film-resist.md",
+      "currentCompany": "Industrial Manufacturer",
+      "proposedCompany": "DuPont / Ube Industries",
+      "confidence": "medium",
+      "reasoning": "Keyword pattern matches found for: dry, film, resist"
+    },
+    {
+      "file": "emulation-hardware.md",
+      "currentCompany": "Industrial Manufacturer",
+      "proposedCompany": "Dell / Lenovo",
+      "confidence": "medium",
+      "reasoning": "Keyword pattern matches found for: emulation, hardware"
+    },
+    {
+      "file": "excavation.md",
+      "currentCompany": "Industrial Manufacturer",
+      "proposedCompany": "Caterpillar / Komatsu",
+      "confidence": "medium",
+      "reasoning": "Keyword pattern matches found for: excavation"
+    },
+    {
+      "file": "fastly-cdn.md",
+      "currentCompany": "Industrial Manufacturer",
+      "proposedCompany": "Siemens / ABB / Caterpillar / GE",
+      "confidence": "low",
+      "reasoning": "No specific matches found; using industry leaders for Industrial Manufacturer"
+    },
+    {
+      "file": "ferrite-shield.md",
+      "currentCompany": "Industrial Manufacturer",
+      "proposedCompany": "Saint-Gobain / 3M / Corning / AGC",
+      "confidence": "medium",
+      "reasoning": "Categorized as 'materials' based on keywords: ferrite"
+    },
+    {
+      "file": "flux-concentrator.md",
+      "currentCompany": "Industrial Manufacturer",
+      "proposedCompany": "Siemens / ABB / Caterpillar / GE",
+      "confidence": "low",
+      "reasoning": "No specific matches found; using industry leaders for Industrial Manufacturer"
+    },
+    {
+      "file": "foundry-pdk.md",
+      "currentCompany": "Industrial Manufacturer",
+      "proposedCompany": "Cadence / Synopsys / Mentor Graphics / Siemens EDA",
+      "confidence": "medium",
+      "reasoning": "Categorized as 'software' based on keywords: pdk"
+    },
+    {
+      "file": "fpga-emulation.md",
+      "currentCompany": "Industrial Manufacturer",
+      "proposedCompany": "TSMC / Samsung / Intel / Texas Instruments",
+      "confidence": "medium",
+      "reasoning": "Categorized as 'semiconductors' based on keywords: fpga"
+    },
+    {
+      "file": "fused-quartz-crucible.md",
+      "currentCompany": "Industrial Manufacturer",
+      "proposedCompany": "Applied Materials / ASML / Tokyo Electron / Lam Research",
+      "confidence": "medium",
+      "reasoning": "Categorized as 'equipment' based on keywords: crucible"
+    },
+    {
+      "file": "gnss-rf-frontend.md",
+      "currentCompany": "Industrial Manufacturer",
+      "proposedCompany": "Siemens / ABB / Caterpillar / GE",
+      "confidence": "low",
+      "reasoning": "No specific matches found; using industry leaders for Industrial Manufacturer"
+    },
+    {
+      "file": "gps-antenna.md",
+      "currentCompany": "Industrial Manufacturer",
+      "proposedCompany": "Siemens / ABB / Caterpillar / GE",
+      "confidence": "low",
+      "reasoning": "No specific matches found; using industry leaders for Industrial Manufacturer"
+    },
+    {
+      "file": "hardener.md",
+      "currentCompany": "Industrial Manufacturer",
+      "proposedCompany": "Siemens / ABB / Caterpillar / GE",
+      "confidence": "low",
+      "reasoning": "No specific matches found; using industry leaders for Industrial Manufacturer"
+    },
+    {
+      "file": "hcl-reactor.md",
+      "currentCompany": "Industrial Manufacturer",
+      "proposedCompany": "Applied Materials / ASML / Tokyo Electron / Lam Research",
+      "confidence": "medium",
+      "reasoning": "Categorized as 'equipment' based on keywords: reactor"
+    },
+    {
+      "file": "heat-recovery.md",
+      "currentCompany": "Industrial Manufacturer",
+      "proposedCompany": "Johnson Controls / Carrier / Trane / Daikin",
+      "confidence": "medium",
+      "reasoning": "Categorized as 'infrastructure' based on keywords: recovery"
+    },
+    {
+      "file": "ito-target.md",
+      "currentCompany": "Industrial Manufacturer",
+      "proposedCompany": "Saint-Gobain / 3M / Corning / AGC",
+      "confidence": "medium",
+      "reasoning": "Categorized as 'materials' based on keywords: ito, target"
+    },
+    {
+      "file": "kneader.md",
+      "currentCompany": "Industrial Manufacturer",
+      "proposedCompany": "Applied Materials / ASML / Tokyo Electron / Lam Research",
+      "confidence": "medium",
+      "reasoning": "Categorized as 'equipment' based on keywords: kneader"
+    },
+    {
+      "file": "layout-design.md",
+      "currentCompany": "Industrial Manufacturer",
+      "proposedCompany": "Cadence / Synopsys / Mentor Graphics / Siemens EDA",
+      "confidence": "medium",
+      "reasoning": "Categorized as 'software' based on keywords: layout, design"
+    },
+    {
+      "file": "lets-encrypt.md",
+      "currentCompany": "Industrial Manufacturer",
+      "proposedCompany": "Siemens / ABB / Caterpillar / GE",
+      "confidence": "low",
+      "reasoning": "No specific matches found; using industry leaders for Industrial Manufacturer"
+    },
+    {
+      "file": "lib-validation.md",
+      "currentCompany": "Industrial Manufacturer",
+      "proposedCompany": "Cadence / Synopsys / Mentor Graphics / Siemens EDA",
+      "confidence": "medium",
+      "reasoning": "Categorized as 'software' based on keywords: validation"
+    },
+    {
+      "file": "mass-transfer.md",
+      "currentCompany": "Industrial Manufacturer",
+      "proposedCompany": "Siemens / ABB / Caterpillar / GE",
+      "confidence": "low",
+      "reasoning": "No specific matches found; using industry leaders for Industrial Manufacturer"
+    },
+    {
+      "file": "material-characterization.md",
+      "currentCompany": "Industrial Manufacturer",
+      "proposedCompany": "Saint-Gobain / 3M / Corning / AGC",
+      "confidence": "medium",
+      "reasoning": "Categorized as 'materials' based on keywords: material"
+    },
+    {
+      "file": "membrane-cell.md",
+      "currentCompany": "Industrial Manufacturer",
+      "proposedCompany": "Applied Materials / ASML / Tokyo Electron / Lam Research",
+      "confidence": "medium",
+      "reasoning": "Categorized as 'equipment' based on keywords: cell"
+    },
+    {
+      "file": "mems-package.md",
+      "currentCompany": "Industrial Manufacturer",
+      "proposedCompany": "STMicroelectronics / Ibiden",
+      "confidence": "medium",
+      "reasoning": "Keyword pattern matches found for: mems, package"
+    },
+    {
+      "file": "mineral-ore.md",
+      "currentCompany": "Industrial Manufacturer",
+      "proposedCompany": "Rio Tinto / BHP / Glencore / Vale",
+      "confidence": "medium",
+      "reasoning": "Categorized as 'mining' based on keywords: mineral, ore"
+    },
+    {
+      "file": "nafion-membrane.md",
+      "currentCompany": "Industrial Manufacturer",
+      "proposedCompany": "Saint-Gobain / 3M / Corning / AGC",
+      "confidence": "medium",
+      "reasoning": "Categorized as 'materials' based on keywords: nafion, membrane"
+    },
+    {
+      "file": "neodymium-magnets.md",
+      "currentCompany": "Industrial Manufacturer",
+      "proposedCompany": "Saint-Gobain / 3M / Corning / AGC",
+      "confidence": "medium",
+      "reasoning": "Categorized as 'materials' based on keywords: neodymium"
+    },
+    {
+      "file": "packed-column.md",
+      "currentCompany": "Industrial Manufacturer",
+      "proposedCompany": "Applied Materials / ASML / Tokyo Electron / Lam Research",
+      "confidence": "medium",
+      "reasoning": "Categorized as 'equipment' based on keywords: column"
+    },
+    {
+      "file": "pet-film.md",
+      "currentCompany": "Industrial Manufacturer",
+      "proposedCompany": "DuPont / Ube Industries",
+      "confidence": "medium",
+      "reasoning": "Keyword pattern matches found for: pet, film"
+    },
+    {
+      "file": "photomask-blank.md",
+      "currentCompany": "Industrial Manufacturer",
+      "proposedCompany": "Saint-Gobain / 3M / Corning / AGC",
+      "confidence": "medium",
+      "reasoning": "Categorized as 'materials' based on keywords: blank"
+    },
+    {
+      "file": "pigment.md",
+      "currentCompany": "Industrial Manufacturer",
+      "proposedCompany": "BASF / Dow / Solvay / Evonik",
+      "confidence": "medium",
+      "reasoning": "Categorized as 'chemicals' based on keywords: pigment"
+    },
+    {
+      "file": "qd-encapsulation.md",
+      "currentCompany": "Industrial Manufacturer",
+      "proposedCompany": "Siemens / ABB / Caterpillar / GE",
+      "confidence": "low",
+      "reasoning": "No specific matches found; using industry leaders for Industrial Manufacturer"
+    },
+    {
+      "file": "qd-synthesis.md",
+      "currentCompany": "Industrial Manufacturer",
+      "proposedCompany": "Siemens / ABB / Caterpillar / GE",
+      "confidence": "low",
+      "reasoning": "No specific matches found; using industry leaders for Industrial Manufacturer"
+    },
+    {
+      "file": "reactor-vessel.md",
+      "currentCompany": "Industrial Manufacturer",
+      "proposedCompany": "Applied Materials / ASML / Tokyo Electron / Lam Research",
+      "confidence": "medium",
+      "reasoning": "Categorized as 'equipment' based on keywords: reactor"
+    },
+    {
+      "file": "reflector-sheets.md",
+      "currentCompany": "Industrial Manufacturer",
+      "proposedCompany": "Sony / Canon / Nikon / Zeiss",
+      "confidence": "medium",
+      "reasoning": "Categorized as 'optics' based on keywords: reflector"
+    },
+    {
+      "file": "refractory-lining.md",
+      "currentCompany": "Industrial Manufacturer",
+      "proposedCompany": "Siemens / ABB / Caterpillar / GE",
+      "confidence": "low",
+      "reasoning": "No specific matches found; using industry leaders for Industrial Manufacturer"
+    },
+    {
+      "file": "refrigeration.md",
+      "currentCompany": "Industrial Manufacturer",
+      "proposedCompany": "Siemens / ABB / Caterpillar / GE",
+      "confidence": "low",
+      "reasoning": "No specific matches found; using industry leaders for Industrial Manufacturer"
+    },
+    {
+      "file": "rf-frontend.md",
+      "currentCompany": "Industrial Manufacturer",
+      "proposedCompany": "Siemens / ABB / Caterpillar / GE",
+      "confidence": "low",
+      "reasoning": "No specific matches found; using industry leaders for Industrial Manufacturer"
+    },
+    {
+      "file": "rotary-dryer.md",
+      "currentCompany": "Industrial Manufacturer",
+      "proposedCompany": "Applied Materials / ASML / Tokyo Electron / Lam Research",
+      "confidence": "medium",
+      "reasoning": "Categorized as 'equipment' based on keywords: dryer"
+    },
+    {
+      "file": "salt-ponds.md",
+      "currentCompany": "Industrial Manufacturer",
+      "proposedCompany": "BASF / Dow / Solvay / Evonik",
+      "confidence": "medium",
+      "reasoning": "Categorized as 'chemicals' based on keywords: salt"
+    },
+    {
+      "file": "sapphire-cover.md",
+      "currentCompany": "Industrial Manufacturer",
+      "proposedCompany": "Saint-Gobain / 3M / Corning / AGC",
+      "confidence": "medium",
+      "reasoning": "Categorized as 'materials' based on keywords: sapphire"
+    },
+    {
+      "file": "secure-element.md",
+      "currentCompany": "Industrial Manufacturer",
+      "proposedCompany": "Siemens / ABB / Caterpillar / GE",
+      "confidence": "low",
+      "reasoning": "No specific matches found; using industry leaders for Industrial Manufacturer"
+    },
+    {
+      "file": "secure-rom.md",
+      "currentCompany": "Industrial Manufacturer",
+      "proposedCompany": "Cadence / Synopsys / Mentor Graphics / Siemens EDA",
+      "confidence": "medium",
+      "reasoning": "Categorized as 'software' based on keywords: rom"
+    },
+    {
+      "file": "shaking-table.md",
+      "currentCompany": "Industrial Manufacturer",
+      "proposedCompany": "Siemens / ABB / Caterpillar / GE",
+      "confidence": "low",
+      "reasoning": "No specific matches found; using industry leaders for Industrial Manufacturer"
+    },
+    {
+      "file": "siemens-reactor.md",
+      "currentCompany": "Industrial Manufacturer",
+      "proposedCompany": "Applied Materials / ASML / Tokyo Electron / Lam Research",
+      "confidence": "medium",
+      "reasoning": "Categorized as 'equipment' based on keywords: reactor"
+    },
+    {
+      "file": "silver-flake.md",
+      "currentCompany": "Industrial Manufacturer",
+      "proposedCompany": "Saint-Gobain / 3M / Corning / AGC",
+      "confidence": "medium",
+      "reasoning": "Categorized as 'materials' based on keywords: silver"
+    },
+    {
+      "file": "sodium-carbonate.md",
+      "currentCompany": "Industrial Manufacturer",
+      "proposedCompany": "BASF / Dow / Solvay / Evonik",
+      "confidence": "medium",
+      "reasoning": "Categorized as 'chemicals' based on keywords: carbonate"
+    },
+    {
+      "file": "starter-rods.md",
+      "currentCompany": "Industrial Manufacturer",
+      "proposedCompany": "Siemens / ABB / Caterpillar / GE",
+      "confidence": "low",
+      "reasoning": "No specific matches found; using industry leaders for Industrial Manufacturer"
+    },
+    {
+      "file": "strain-gauges.md",
+      "currentCompany": "Industrial Manufacturer",
+      "proposedCompany": "Siemens / ABB / Caterpillar / GE",
+      "confidence": "low",
+      "reasoning": "No specific matches found; using industry leaders for Industrial Manufacturer"
+    },
+    {
+      "file": "surfactant.md",
+      "currentCompany": "Industrial Manufacturer",
+      "proposedCompany": "BASF / Dow / Solvay / Evonik",
+      "confidence": "medium",
+      "reasoning": "Categorized as 'chemicals' based on keywords: surfactant"
+    },
+    {
+      "file": "sx-cobalt.md",
+      "currentCompany": "Industrial Manufacturer",
+      "proposedCompany": "BASF / Dow / Solvay / Evonik",
+      "confidence": "medium",
+      "reasoning": "Categorized as 'chemicals' based on keywords: cobalt"
+    },
+    {
+      "file": "true-rng.md",
+      "currentCompany": "Industrial Manufacturer",
+      "proposedCompany": "Siemens / ABB / Caterpillar / GE",
+      "confidence": "low",
+      "reasoning": "No specific matches found; using industry leaders for Industrial Manufacturer"
+    },
+    {
+      "file": "tungsten-mass.md",
+      "currentCompany": "Industrial Manufacturer",
+      "proposedCompany": "Saint-Gobain / 3M / Corning / AGC",
+      "confidence": "medium",
+      "reasoning": "Categorized as 'materials' based on keywords: tungsten"
+    },
+    {
+      "file": "vibrating-screens.md",
+      "currentCompany": "Industrial Manufacturer",
+      "proposedCompany": "Applied Materials / ASML / Tokyo Electron / Lam Research",
+      "confidence": "medium",
+      "reasoning": "Categorized as 'equipment' based on keywords: screens"
+    },
+    {
+      "file": "adc-array.md",
+      "currentCompany": "Semiconductor Manufacturer",
+      "proposedCompany": "TSMC / Samsung / Intel / Texas Instruments",
+      "confidence": "medium",
+      "reasoning": "Categorized as 'semiconductors' based on keywords: adc"
+    },
+    {
+      "file": "arm-core.md",
+      "currentCompany": "Semiconductor Manufacturer",
+      "proposedCompany": "TSMC / Samsung / Intel / Texas Instruments",
+      "confidence": "medium",
+      "reasoning": "Categorized as 'semiconductors' based on keywords: core"
+    },
+    {
+      "file": "capacitive-array.md",
+      "currentCompany": "Semiconductor Manufacturer",
+      "proposedCompany": "TSMC / Samsung / Intel / ASML",
+      "confidence": "low",
+      "reasoning": "No specific matches found; using industry leaders for Semiconductor Manufacturer"
+    },
+    {
+      "file": "chemical-additives.md",
+      "currentCompany": "Semiconductor Manufacturer",
+      "proposedCompany": "BASF / Dow / Solvay / Evonik",
+      "confidence": "medium",
+      "reasoning": "Categorized as 'chemicals' based on keywords: chemical, additives"
+    },
+    {
+      "file": "chemical-safety.md",
+      "currentCompany": "Semiconductor Manufacturer",
+      "proposedCompany": "BASF / Dow / Solvay / Evonik",
+      "confidence": "medium",
+      "reasoning": "Categorized as 'chemicals' based on keywords: chemical"
+    },
+    {
+      "file": "classification.md",
+      "currentCompany": "Semiconductor Manufacturer",
+      "proposedCompany": "Cadence / Synopsys / Mentor Graphics / Siemens EDA",
+      "confidence": "medium",
+      "reasoning": "Categorized as 'software' based on keywords: classification"
+    },
+    {
+      "file": "dac-core.md",
+      "currentCompany": "Semiconductor Manufacturer",
+      "proposedCompany": "TSMC / Samsung / Intel / Texas Instruments",
+      "confidence": "medium",
+      "reasoning": "Categorized as 'semiconductors' based on keywords: dac, core"
+    },
+    {
+      "file": "electrical-linemen.md",
+      "currentCompany": "Semiconductor Manufacturer",
+      "proposedCompany": "TSMC / Samsung / Intel / ASML",
+      "confidence": "low",
+      "reasoning": "No specific matches found; using industry leaders for Semiconductor Manufacturer"
+    },
+    {
+      "file": "electrolytic-cobalt.md",
+      "currentCompany": "Semiconductor Manufacturer",
+      "proposedCompany": "BASF / Dow / Solvay / Evonik",
+      "confidence": "medium",
+      "reasoning": "Categorized as 'chemicals' based on keywords: cobalt"
+    },
+    {
+      "file": "electrolytic-recovery.md",
+      "currentCompany": "Semiconductor Manufacturer",
+      "proposedCompany": "Johnson Controls / Carrier / Trane / Daikin",
+      "confidence": "medium",
+      "reasoning": "Categorized as 'infrastructure' based on keywords: recovery"
+    },
+    {
+      "file": "geological-survey.md",
+      "currentCompany": "Semiconductor Manufacturer",
+      "proposedCompany": "TSMC / Samsung / Intel / ASML",
+      "confidence": "low",
+      "reasoning": "No specific matches found; using industry leaders for Semiconductor Manufacturer"
+    },
+    {
+      "file": "gps-chipset.md",
+      "currentCompany": "Semiconductor Manufacturer",
+      "proposedCompany": "TSMC / Samsung / Intel / Texas Instruments",
+      "confidence": "medium",
+      "reasoning": "Categorized as 'semiconductors' based on keywords: chipset"
+    },
+    {
+      "file": "organic-synthesis.md",
+      "currentCompany": "Semiconductor Manufacturer",
+      "proposedCompany": "TSMC / Samsung / Intel / ASML",
+      "confidence": "low",
+      "reasoning": "No specific matches found; using industry leaders for Semiconductor Manufacturer"
+    },
+    {
+      "file": "rtc-ic.md",
+      "currentCompany": "Semiconductor Manufacturer",
+      "proposedCompany": "TSMC / Samsung / Intel / Texas Instruments",
+      "confidence": "medium",
+      "reasoning": "Categorized as 'semiconductors' based on keywords: rtc"
+    },
+    {
+      "file": "silicon-seed.md",
+      "currentCompany": "Semiconductor Manufacturer",
+      "proposedCompany": "Shin-Etsu / Sumco",
+      "confidence": "medium",
+      "reasoning": "Keyword pattern matches found for: silicon, seed"
+    },
+    {
+      "file": "sublimation-purification.md",
+      "currentCompany": "Semiconductor Manufacturer",
+      "proposedCompany": "TSMC / Samsung / Intel / ASML",
+      "confidence": "low",
+      "reasoning": "No specific matches found; using industry leaders for Semiconductor Manufacturer"
+    },
+    {
+      "file": "verification-algorithms.md",
+      "currentCompany": "Semiconductor Manufacturer",
+      "proposedCompany": "Cadence / Synopsys / Mentor Graphics / Siemens EDA",
+      "confidence": "medium",
+      "reasoning": "Categorized as 'software' based on keywords: verification, algorithms"
+    },
+    {
+      "file": "wifi-chipset.md",
+      "currentCompany": "Semiconductor Manufacturer",
+      "proposedCompany": "TSMC / Samsung / Intel / Texas Instruments",
+      "confidence": "medium",
+      "reasoning": "Categorized as 'semiconductors' based on keywords: chipset"
+    },
+    {
+      "file": "dragline-mining.md",
+      "currentCompany": "Various Mining Companies",
+      "proposedCompany": "Komatsu / Caterpillar / Peabody",
+      "confidence": "medium",
+      "reasoning": "Keyword pattern matches found for: dragline, mining"
+    },
+    {
+      "file": "laterite-mining.md",
+      "currentCompany": "Various Mining Companies",
+      "proposedCompany": "Komatsu / Caterpillar / Peabody",
+      "confidence": "medium",
+      "reasoning": "Keyword pattern matches found for: laterite, mining"
+    },
+    {
+      "file": "mining-lease.md",
+      "currentCompany": "Various Mining Companies",
+      "proposedCompany": "Komatsu / Caterpillar / Peabody",
+      "confidence": "medium",
+      "reasoning": "Keyword pattern matches found for: mining, lease"
+    },
+    {
+      "file": "mining-trucks.md",
+      "currentCompany": "Various Mining Companies",
+      "proposedCompany": "Komatsu / Caterpillar / Peabody",
+      "confidence": "medium",
+      "reasoning": "Keyword pattern matches found for: mining, trucks"
+    },
+    {
+      "file": "open-pit-mining.md",
+      "currentCompany": "Various Mining Companies",
+      "proposedCompany": "Komatsu / Caterpillar / Peabody",
+      "confidence": "medium",
+      "reasoning": "Keyword pattern matches found for: open, pit, mining"
+    },
+    {
+      "file": "placer-deposits.md",
+      "currentCompany": "Various Mining Companies",
+      "proposedCompany": "Rio Tinto / BHP / Glencore / Vale",
+      "confidence": "medium",
+      "reasoning": "Categorized as 'mining' based on keywords: placer"
+    },
+    {
+      "file": "quartz-mining.md",
+      "currentCompany": "Various Mining Companies",
+      "proposedCompany": "Seiko Epson / Komatsu / Caterpillar / Peabody",
+      "confidence": "medium",
+      "reasoning": "Keyword pattern matches found for: quartz, mining"
+    },
+    {
+      "file": "sphalerite-mining.md",
+      "currentCompany": "Various Mining Companies",
+      "proposedCompany": "Komatsu / Caterpillar / Peabody",
+      "confidence": "medium",
+      "reasoning": "Keyword pattern matches found for: sphalerite, mining"
+    },
+    {
+      "file": "underground-mining.md",
+      "currentCompany": "Various Mining Companies",
+      "proposedCompany": "Komatsu / Caterpillar / Peabody",
+      "confidence": "medium",
+      "reasoning": "Keyword pattern matches found for: underground, mining"
+    }
+  ]
+}
