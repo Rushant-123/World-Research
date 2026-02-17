@@ -369,21 +369,33 @@
       });
     });
 
-    // Build links (prevent circular)
+    // Build links (prevent circular - only forward flows)
     var linkSet = new Set();
+    var nodeDistanceMap = new Map();
+
+    // Map node IDs to their distances
+    nodes.forEach(function(node) {
+      nodeDistanceMap.set(node.id, node.distance);
+    });
 
     edges.forEach(function(edge) {
       if (nodeIds.has(edge.source) && nodeIds.has(edge.target)) {
-        var linkKey = edge.target + '->' + edge.source;
-        var reverseKey = edge.source + '->' + edge.target;
+        var sourceDistance = nodeDistanceMap.get(edge.target);
+        var targetDistance = nodeDistanceMap.get(edge.source);
 
-        if (!linkSet.has(linkKey) && !linkSet.has(reverseKey) && edge.target !== edge.source) {
-          linkSet.add(linkKey);
-          links.push({
-            source: edge.target,
-            target: edge.source,
-            value: edge.cost || 1
-          });
+        // Only create link if flow goes forward (lower distance to higher distance)
+        // In Sankey, visual flow is left-to-right, so source should have lower distance than target
+        if (sourceDistance < targetDistance) {
+          var linkKey = edge.target + '->' + edge.source;
+
+          if (!linkSet.has(linkKey) && edge.target !== edge.source) {
+            linkSet.add(linkKey);
+            links.push({
+              source: edge.target,
+              target: edge.source,
+              value: edge.cost || 1
+            });
+          }
         }
       }
     });
