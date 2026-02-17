@@ -1,6 +1,6 @@
 ---
 title: "Optical Coatings"
-company: "Semiconductor Manufacturer"
+company: "PPG Industries / Sherwin-Williams / AkzoNobel"
 country: "Taiwan"
 selling_price: 2.5
 inputs:

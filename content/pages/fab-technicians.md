@@ -1,6 +1,6 @@
 ---
 title: "Fab Technicians"
-company: "Various Manufacturers"
+company: "Various Service Companies / OEM Support / Third-party Services"
 country: "Global"
 selling_price: 8
 inputs:

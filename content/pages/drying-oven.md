@@ -1,6 +1,6 @@
 ---
 title: "Drying Oven"
-company: "Various Manufacturers"
+company: "Despatch / Wisconsin Oven / Grieve"
 country: "Global"
 selling_price: 8
 inputs:

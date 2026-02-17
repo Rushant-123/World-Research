@@ -1,488 +1,846 @@
 [
   {
-    "name": "Johnson Matthey",
+    "name": "Ipsen",
     "products": [
-      "Alumina Catalyst",
-      "Copper Catalyst",
-      "Hydroprocessing Catalyst",
-      "Magnetite Catalyst",
-      "Nickel Catalyst",
-      "Oxygen Removal Catalyst",
-      "Phase Transfer Catalyst",
-      "Platinum Catalyst",
-      "Vanadium Catalyst",
-      "Ziegler Natta Catalyst"
+      "Annealing Furnace",
+      "Arc Furnace",
+      "Calcination Furnace",
+      "Electric Arc Furnace",
+      "Heat Treatment Furnace",
+      "Homogenization Furnace",
+      "Lead Blast Furnace",
+      "Reduction Furnace",
+      "Reformer Furnace",
+      "Reverberatory Furnace",
+      "Sintering Furnace",
+      "Tube Furnace"
     ],
     "countries": {},
-    "slug": "johnson-matthey"
+    "slug": "ipsen"
   },
   {
-    "name": "SAP",
+    "name": "Surface Combustion",
     "products": [
-      "Inspection Software",
-      "Metrology Software",
-      "Open Source Software",
-      "Operating System Software",
-      "Software Developers",
-      "Software Engineer Education",
-      "Test Software",
-      "Web Server Software",
-      "Xray Software"
+      "Annealing Furnace",
+      "Arc Furnace",
+      "Calcination Furnace",
+      "Electric Arc Furnace",
+      "Heat Treatment Furnace",
+      "Homogenization Furnace",
+      "Lead Blast Furnace",
+      "Reduction Furnace",
+      "Reformer Furnace",
+      "Reverberatory Furnace",
+      "Sintering Furnace",
+      "Tube Furnace"
     ],
     "countries": {},
-    "slug": "sap"
+    "slug": "surface-combustion"
   },
   {
-    "name": "General Cable",
+    "name": "Lindberg",
     "products": [
-      "Bond Wire",
-      "Copper Wire Raw",
-      "Diamond Wire",
-      "Magnet Wire",
-      "Wire Cutter",
-      "Wire Extruder",
-      "Wire Insulation",
-      "Wireless Power Ic"
+      "Annealing Furnace",
+      "Arc Furnace",
+      "Calcination Furnace",
+      "Electric Arc Furnace",
+      "Heat Treatment Furnace",
+      "Homogenization Furnace",
+      "Lead Blast Furnace",
+      "Reduction Furnace",
+      "Reformer Furnace",
+      "Reverberatory Furnace",
+      "Sintering Furnace",
+      "Tube Furnace"
     ],
     "countries": {},
-    "slug": "general-cable"
+    "slug": "lindberg"
   },
   {
-    "name": "H.B. Fuller",
+    "name": "MPH",
     "products": [
-      "Adhesive Dispenser",
-      "Adhesive Filler",
-      "Adhesive Layer",
-      "Adhesive Training",
-      "Coil Adhesive",
-      "Ffc Adhesive",
-      "Fpc Adhesive"
+      "Annealing Furnace",
+      "Arc Furnace",
+      "Calcination Furnace",
+      "Electric Arc Furnace",
+      "Heat Treatment Furnace",
+      "Homogenization Furnace",
+      "Lead Blast Furnace",
+      "Reduction Furnace",
+      "Reformer Furnace",
+      "Reverberatory Furnace",
+      "Sintering Furnace",
+      "Tube Furnace"
     ],
     "countries": {},
-    "slug": "h-b-fuller"
+    "slug": "mph"
   },
   {
-    "name": "SGL Carbon",
+    "name": "Mill-Max",
     "products": [
-      "Graphite Components",
-      "Graphite Electrodes",
-      "Graphite Purification",
-      "Graphite Susceptor",
-      "Natural Graphite",
-      "Synthetic Graphite"
+      "Acoustic Damping",
+      "Clamping Unit",
+      "Contact Pins",
+      "Crimping Press",
+      "Lapping Machine",
+      "Pogo Pins",
+      "Precision Spindle",
+      "Spindle System",
+      "Stamping Die",
+      "Stripping Blades"
     ],
     "countries": {},
-    "slug": "sgl-carbon"
+    "slug": "mill-max"
   },
   {
-    "name": "Tokai Carbon",
+    "name": "Harwin",
     "products": [
-      "Graphite Components",
-      "Graphite Electrodes",
-      "Graphite Purification",
-      "Graphite Susceptor",
-      "Natural Graphite",
-      "Synthetic Graphite"
+      "Acoustic Damping",
+      "Clamping Unit",
+      "Contact Pins",
+      "Crimping Press",
+      "Lapping Machine",
+      "Pogo Pins",
+      "Precision Spindle",
+      "Spindle System",
+      "Stamping Die",
+      "Stripping Blades"
     ],
     "countries": {},
-    "slug": "tokai-carbon"
+    "slug": "harwin"
   },
   {
-    "name": "GrafTech",
+    "name": "Samtec",
     "products": [
-      "Graphite Components",
-      "Graphite Electrodes",
-      "Graphite Purification",
-      "Graphite Susceptor",
-      "Natural Graphite",
-      "Synthetic Graphite"
+      "Acoustic Damping",
+      "Clamping Unit",
+      "Contact Pins",
+      "Crimping Press",
+      "Lapping Machine",
+      "Pogo Pins",
+      "Precision Spindle",
+      "Spindle System",
+      "Stamping Die",
+      "Stripping Blades"
     ],
     "countries": {},
-    "slug": "graftech"
+    "slug": "samtec"
   },
   {
-    "name": "Bosch",
+    "name": "Nichia",
     "products": [
-      "Hall Sensor",
-      "Humidity Sensors",
-      "Proximity Sensor",
-      "Sensor Asic",
-      "Sensor Package"
+      "Clean Led Lights",
+      "Led Driver",
+      "Led Lighting",
+      "Led Pcb Strip",
+      "Led Pcb",
+      "Microled Dies",
+      "Mini Led Chips",
+      "Skilled Labor",
+      "White Led Chips",
+      "White Leds"
     ],
     "countries": {},
-    "slug": "bosch"
+    "slug": "nichia"
   },
   {
-    "name": "Grundfos",
+    "name": "Lumileds",
     "products": [
-      "Precision Pump",
-      "Submersible Pump",
-      "Turbomolecular Pump",
-      "Vacuum Pumps",
-      "Water Pump"
+      "Clean Led Lights",
+      "Led Driver",
+      "Led Lighting",
+      "Led Pcb Strip",
+      "Led Pcb",
+      "Microled Dies",
+      "Mini Led Chips",
+      "Skilled Labor",
+      "White Led Chips",
+      "White Leds"
     ],
     "countries": {},
-    "slug": "grundfos"
+    "slug": "lumileds"
   },
   {
-    "name": "Xylem",
+    "name": "Osram",
     "products": [
-      "Precision Pump",
-      "Submersible Pump",
-      "Turbomolecular Pump",
-      "Vacuum Pumps",
-      "Water Pump"
+      "Clean Led Lights",
+      "Led Driver",
+      "Led Lighting",
+      "Led Pcb Strip",
+      "Led Pcb",
+      "Microled Dies",
+      "Mini Led Chips",
+      "Skilled Labor",
+      "White Led Chips",
+      "White Leds"
     ],
     "countries": {},
-    "slug": "xylem"
+    "slug": "osram"
   },
   {
-    "name": "ITT",
+    "name": "POSCO",
     "products": [
-      "Precision Pump",
-      "Submersible Pump",
-      "Turbomolecular Pump",
-      "Vacuum Pumps",
-      "Water Pump"
+      "Stainless Steel Body",
+      "Stainless Steel Chamber",
+      "Stainless Steel Coil",
+      "Steel Die",
+      "Steel Frame",
+      "Steel Raw",
+      "Steel Shaft",
+      "Steel Sheet",
+      "Steel Vessel"
     ],
     "countries": {},
-    "slug": "itt"
+    "slug": "posco"
   },
   {
-    "name": "Tektronix",
+    "name": "PPG Industries",
     "products": [
-      "Digital Multimeter",
-      "Mass Spectrometer Magnet",
-      "Oscilloscope",
-      "Spectrometer"
+      "Carbon Coating",
+      "Coating Head",
+      "Coating",
+      "Ito Coating",
+      "Optical Coatings",
+      "Protective Coating",
+      "Pvd Coating",
+      "Teflon Coating"
     ],
     "countries": {},
-    "slug": "tektronix"
+    "slug": "ppg-industries"
   },
   {
-    "name": "Kyocera",
+    "name": "Sherwin-Williams",
     "products": [
-      "Ceramic Coating",
-      "Ceramic Package",
-      "Ceramic Slurry"
+      "Carbon Coating",
+      "Coating Head",
+      "Coating",
+      "Ito Coating",
+      "Optical Coatings",
+      "Protective Coating",
+      "Pvd Coating",
+      "Teflon Coating"
     ],
     "countries": {},
-    "slug": "kyocera"
+    "slug": "sherwin-williams"
   },
   {
-    "name": "CoorsTek",
+    "name": "AkzoNobel",
     "products": [
-      "Ceramic Coating",
-      "Ceramic Package",
-      "Ceramic Slurry"
+      "Carbon Coating",
+      "Coating Head",
+      "Coating",
+      "Ito Coating",
+      "Optical Coatings",
+      "Protective Coating",
+      "Pvd Coating",
+      "Teflon Coating"
     ],
     "countries": {},
-    "slug": "coorstek"
+    "slug": "akzonobel"
   },
   {
-    "name": "Morgan Advanced Materials",
+    "name": "Norsk Hydro",
     "products": [
-      "Ceramic Coating",
-      "Ceramic Package",
-      "Ceramic Slurry"
+      "Aluminum Alloy Element",
+      "Aluminum Chamber",
+      "Aluminum Enclosure",
+      "Aluminum Extrusion",
+      "Aluminum Ingot",
+      "Aluminum Powder",
+      "Aluminum Sheet"
     ],
     "countries": {},
-    "slug": "morgan-advanced-materials"
+    "slug": "norsk-hydro"
   },
   {
-    "name": "LG Chem",
+    "name": "Eclipse",
     "products": [
-      "Abs Resin",
-      "Plastic Tanks"
+      "Biocides",
+      "Light Guide Plate",
+      "Linear Guides",
+      "Neodymium Oxide",
+      "Spider Die",
+      "Tungsten Carbide Powder",
+      "Vinyl Chloride"
     ],
     "countries": {},
-    "slug": "lg-chem"
+    "slug": "eclipse"
   },
   {
-    "name": "Ingersoll Rand",
+    "name": "Schott",
     "products": [
-      "Centrifugal Compressor",
-      "Industrial Compressor"
+      "Cover Glass",
+      "Fiberglass Cloth",
+      "Glass Cloth",
+      "Glass Fiber",
+      "Glass Lined Reactor",
+      "Trackpad Glass"
     ],
     "countries": {},
-    "slug": "ingersoll-rand"
+    "slug": "schott"
   },
   {
-    "name": "Gardner Denver",
+    "name": "AGC",
     "products": [
-      "Centrifugal Compressor",
-      "Industrial Compressor"
+      "Cover Glass",
+      "Fiberglass Cloth",
+      "Glass Cloth",
+      "Glass Fiber",
+      "Glass Lined Reactor",
+      "Trackpad Glass"
     ],
     "countries": {},
-    "slug": "gardner-denver"
+    "slug": "agc"
   },
   {
-    "name": "Lesjöfors",
+    "name": "Haas",
     "products": [
-      "Compression Springs",
-      "Spring System"
+      "Cnc Controller",
+      "Cnc Machining",
+      "Cnc Programming",
+      "Grinding Mill",
+      "Rolling Mill"
     ],
     "countries": {},
-    "slug": "lesj-fors"
+    "slug": "haas"
   },
   {
-    "name": "Lee Spring",
+    "name": "Mazak",
     "products": [
-      "Compression Springs",
-      "Spring System"
+      "Cnc Controller",
+      "Cnc Machining",
+      "Cnc Programming",
+      "Grinding Mill",
+      "Rolling Mill"
     ],
     "countries": {},
-    "slug": "lee-spring"
+    "slug": "mazak"
   },
   {
-    "name": "Associated Spring",
+    "name": "Consulting Companies",
     "products": [
-      "Compression Springs",
-      "Spring System"
+      "Engineer Compensation Package",
+      "Electrical Engineering Degree",
+      "Engineering Workstation",
+      "Engineering Internship Programs",
+      "Process Engineers"
     ],
     "countries": {},
-    "slug": "associated-spring"
+    "slug": "consulting-companies"
   },
   {
-    "name": "Fastenal",
+    "name": "OEM Staff",
     "products": [
-      "Fasteners",
-      "Twin Screw Extruder"
+      "Engineer Compensation Package",
+      "Electrical Engineering Degree",
+      "Engineering Workstation",
+      "Engineering Internship Programs",
+      "Process Engineers"
     ],
     "countries": {},
-    "slug": "fastenal"
+    "slug": "oem-staff"
   },
   {
-    "name": "Würth",
+    "name": "TXC Corporation",
     "products": [
-      "Fasteners",
-      "Twin Screw Extruder"
+      "Crystal Furnace",
+      "Crystal Grower",
+      "Crystal Oscillator",
+      "Quartz Crystal Blank",
+      "Silicon Seed Crystal"
     ],
     "countries": {},
-    "slug": "w-rth"
+    "slug": "txc-corporation"
   },
   {
-    "name": "ITW",
+    "name": "Abracon",
     "products": [
-      "Fasteners",
-      "Twin Screw Extruder"
+      "Crystal Furnace",
+      "Crystal Grower",
+      "Crystal Oscillator",
+      "Quartz Crystal Blank",
+      "Silicon Seed Crystal"
     ],
     "countries": {},
-    "slug": "itw"
+    "slug": "abracon"
   },
   {
-    "name": "Multi-Color Corporation",
+    "name": "Aida",
     "products": [
-      "Label Printing Labor",
-      "Product Labels"
+      "Extrusion Press",
+      "Press Brake",
+      "Press Control",
+      "Press Frame"
     ],
     "countries": {},
-    "slug": "multi-color-corporation"
+    "slug": "aida"
   },
   {
-    "name": "WEG",
+    "name": "Makita",
     "products": [
-      "Motor Driver",
-      "Spindle Motors"
+      "Cylindrical Grinder",
+      "Directional Drilling",
+      "Micro Drill"
     ],
     "countries": {},
-    "slug": "weg"
+    "slug": "makita"
   },
   {
-    "name": "Vishay",
+    "name": "DeWalt",
     "products": [
-      "Photodiode",
-      "Thin Film Resistors"
+      "Cylindrical Grinder",
+      "Directional Drilling",
+      "Micro Drill"
     ],
     "countries": {},
-    "slug": "vishay"
+    "slug": "dewalt"
   },
   {
-    "name": "ON Semiconductor",
+    "name": "Ube Industries",
     "products": [
-      "Photodiode",
-      "Power Transistors"
+      "Nylon Braiding",
+      "Nylon Film",
+      "Polyimide Film"
     ],
     "countries": {},
-    "slug": "on-semiconductor"
+    "slug": "ube-industries"
   },
   {
-    "name": "Covestro",
+    "name": "Fanuc",
     "products": [
-      "Polycarbonate Resin",
-      "Polycarbonate"
+      "Robotic Arm",
+      "Vacuum Robot",
+      "Wafer Transfer Robots"
     ],
     "countries": {},
-    "slug": "covestro"
+    "slug": "fanuc"
   },
   {
-    "name": "Mitsubishi Engineering-Plastics",
+    "name": "Kuka",
     "products": [
-      "Polycarbonate Resin",
-      "Polycarbonate"
+      "Robotic Arm",
+      "Vacuum Robot",
+      "Wafer Transfer Robots"
     ],
     "countries": {},
-    "slug": "mitsubishi-engineering-plastics"
+    "slug": "kuka"
   },
   {
-    "name": "Westlake Chemical",
+    "name": "NXP",
     "products": [
-      "Pvc Additives",
-      "Pvc Piping"
+      "Temperature Control",
+      "Temperature Controller",
+      "Temperature Controllers"
     ],
     "countries": {},
-    "slug": "westlake-chemical"
+    "slug": "nxp"
   },
   {
-    "name": "Sony",
+    "name": "Shinko",
     "products": [
-      "3d Camera"
+      "Alumina Substrate",
+      "Substrate Handling"
     ],
     "countries": {},
-    "slug": "sony"
+    "slug": "shinko"
   },
   {
-    "name": "OmniVision",
+    "name": "KME",
     "products": [
-      "3d Camera"
+      "Brass Billet",
+      "Brass Strip"
     ],
     "countries": {},
-    "slug": "omnivision"
+    "slug": "kme"
   },
   {
-    "name": "Saint-Gobain",
+    "name": "Contract Labor",
     "products": [
-      "Abrasive Particles"
+      "Chemical Workers",
+      "Wafer Workers"
     ],
     "countries": {},
-    "slug": "saint-gobain"
+    "slug": "contract-labor"
   },
   {
-    "name": "Carborundum",
+    "name": "Staffing Agencies",
     "products": [
-      "Abrasive Particles"
+      "Chemical Workers",
+      "Wafer Workers"
     ],
     "countries": {},
-    "slug": "carborundum"
+    "slug": "staffing-agencies"
   },
   {
-    "name": "INEOS Styrolution",
+    "name": "LLVM",
     "products": [
-      "Abs Resin"
+      "Compiler Development",
+      "Compiler Tools"
     ],
     "countries": {},
-    "slug": "ineos-styrolution"
+    "slug": "llvm"
   },
   {
-    "name": "Amcor",
+    "name": "Bridgestone",
     "products": [
-      "Cof Packaging"
+      "Gas Scrubber",
+      "Nbr Rubber"
     ],
     "countries": {},
-    "slug": "amcor"
+    "slug": "bridgestone"
   },
   {
-    "name": "Berry Global",
+    "name": "Michelin",
     "products": [
-      "Cof Packaging"
+      "Gas Scrubber",
+      "Nbr Rubber"
     ],
     "countries": {},
-    "slug": "berry-global"
+    "slug": "michelin"
   },
   {
-    "name": "SEW-Eurodrive",
+    "name": "Goodyear",
     "products": [
-      "Electronic Test Gear"
+      "Gas Scrubber",
+      "Nbr Rubber"
     ],
     "countries": {},
-    "slug": "sew-eurodrive"
+    "slug": "goodyear"
   },
   {
-    "name": "Bonfiglioli",
+    "name": "HPE",
     "products": [
-      "Electronic Test Gear"
+      "GPU Server",
+      "Server Hardware"
     ],
     "countries": {},
-    "slug": "bonfiglioli"
+    "slug": "hpe"
   },
   {
-    "name": "Nord Drivesystems",
+    "name": "Southco",
     "products": [
-      "Electronic Test Gear"
+      "Hinge Grease",
+      "Hinge Housing"
     ],
     "countries": {},
-    "slug": "nord-drivesystems"
+    "slug": "southco"
   },
   {
-    "name": "Samsung Electro-Mechanics",
+    "name": "Sugatsune",
     "products": [
-      "Mim Capacitors"
+      "Hinge Grease",
+      "Hinge Housing"
     ],
     "countries": {},
-    "slug": "samsung-electro-mechanics"
+    "slug": "sugatsune"
   },
   {
-    "name": "Edmund Optics",
+    "name": "Hettich",
     "products": [
-      "Mo Si Mirrors"
+      "Hinge Grease",
+      "Hinge Housing"
     ],
     "countries": {},
-    "slug": "edmund-optics"
+    "slug": "hettich"
   },
   {
-    "name": "Thorlabs",
+    "name": "Nornickel",
     "products": [
-      "Mo Si Mirrors"
+      "Nickel Paste",
+      "Nickel Sulfate"
     ],
     "countries": {},
-    "slug": "thorlabs"
+    "slug": "nornickel"
   },
   {
-    "name": "Newport",
+    "name": "Sensata",
     "products": [
-      "Mo Si Mirrors"
+      "Pressure Acid Leach",
+      "Pressure Swing Adsorption"
     ],
     "countries": {},
-    "slug": "newport"
+    "slug": "sensata"
   },
   {
-    "name": "Rohde & Schwarz",
+    "name": "Timet",
     "products": [
-      "Oscilloscope"
+      "Titanium Drum",
+      "Titanium Getter"
     ],
     "countries": {},
-    "slug": "rohde-schwarz"
+    "slug": "timet"
   },
   {
-    "name": "Rohm",
+    "name": "ATI",
     "products": [
-      "Photodiode"
+      "Titanium Drum",
+      "Titanium Getter"
     ],
     "countries": {},
-    "slug": "rohm"
+    "slug": "ati"
   },
   {
-    "name": "Taiyo Yuden",
+    "name": "Mitsubishi Chemical",
     "products": [
-      "Power Inductors"
+      "Acrylic Pressure-Sensitive Adhesive"
     ],
     "countries": {},
-    "slug": "taiyo-yuden"
+    "slug": "mitsubishi-chemical"
   },
   {
-    "name": "Toshiba",
+    "name": "Sumitomo Chemical",
     "products": [
-      "Power Transistors"
+      "Acrylic Pressure-Sensitive Adhesive"
     ],
     "countries": {},
-    "slug": "toshiba"
+    "slug": "sumitomo-chemical"
   },
   {
-    "name": "KOA Speer",
+    "name": "Despatch",
     "products": [
-      "Thin Film Resistors"
+      "Drying Oven"
     ],
     "countries": {},
-    "slug": "koa-speer"
+    "slug": "despatch"
+  },
+  {
+    "name": "Wisconsin Oven",
+    "products": [
+      "Drying Oven"
+    ],
+    "countries": {},
+    "slug": "wisconsin-oven"
+  },
+  {
+    "name": "Grieve",
+    "products": [
+      "Drying Oven"
+    ],
+    "countries": {},
+    "slug": "grieve"
+  },
+  {
+    "name": "OEM Support",
+    "products": [
+      "Fab Technicians"
+    ],
+    "countries": {},
+    "slug": "oem-support"
+  },
+  {
+    "name": "Third-party Services",
+    "products": [
+      "Fab Technicians"
+    ],
+    "countries": {},
+    "slug": "third-party-services"
+  },
+  {
+    "name": "Flexible Circuit",
+    "products": [
+      "Flexibilizer"
+    ],
+    "countries": {},
+    "slug": "flexible-circuit"
+  },
+  {
+    "name": "Career Technology",
+    "products": [
+      "Flexibilizer"
+    ],
+    "countries": {},
+    "slug": "career-technology"
+  },
+  {
+    "name": "Flexcom",
+    "products": [
+      "Flexibilizer"
+    ],
+    "countries": {},
+    "slug": "flexcom"
+  },
+  {
+    "name": "Futek",
+    "products": [
+      "Force Control"
+    ],
+    "countries": {},
+    "slug": "futek"
+  },
+  {
+    "name": "Interface",
+    "products": [
+      "Force Control"
+    ],
+    "countries": {},
+    "slug": "interface"
+  },
+  {
+    "name": "Praxair",
+    "products": [
+      "Hydrogen Flame"
+    ],
+    "countries": {},
+    "slug": "praxair"
+  },
+  {
+    "name": "Engel",
+    "products": [
+      "Injection Molding"
+    ],
+    "countries": {},
+    "slug": "engel"
+  },
+  {
+    "name": "Haitian",
+    "products": [
+      "Injection Molding"
+    ],
+    "countries": {},
+    "slug": "haitian"
+  },
+  {
+    "name": "THK",
+    "products": [
+      "Linear Actuators"
+    ],
+    "countries": {},
+    "slug": "thk"
+  },
+  {
+    "name": "IAI",
+    "products": [
+      "Linear Actuators"
+    ],
+    "countries": {},
+    "slug": "iai"
+  },
+  {
+    "name": "Festo",
+    "products": [
+      "Linear Actuators"
+    ],
+    "countries": {},
+    "slug": "festo"
+  },
+  {
+    "name": "Red Hat",
+    "products": [
+      "Linux Operating System"
+    ],
+    "countries": {},
+    "slug": "red-hat"
+  },
+  {
+    "name": "Canonical",
+    "products": [
+      "Linux Operating System"
+    ],
+    "countries": {},
+    "slug": "canonical"
+  },
+  {
+    "name": "US Magnesium",
+    "products": [
+      "Magnesium Metal"
+    ],
+    "countries": {},
+    "slug": "us-magnesium"
+  },
+  {
+    "name": "Dead Sea Magnesium",
+    "products": [
+      "Magnesium Metal"
+    ],
+    "countries": {},
+    "slug": "dead-sea-magnesium"
+  },
+  {
+    "name": "Ma Steel",
+    "products": [
+      "Magnesium Metal"
+    ],
+    "countries": {},
+    "slug": "ma-steel"
+  },
+  {
+    "name": "Daifuku",
+    "products": [
+      "Mesh Conveyor"
+    ],
+    "countries": {},
+    "slug": "daifuku"
+  },
+  {
+    "name": "Dematic",
+    "products": [
+      "Mesh Conveyor"
+    ],
+    "countries": {},
+    "slug": "dematic"
+  },
+  {
+    "name": "Intelligrated",
+    "products": [
+      "Mesh Conveyor"
+    ],
+    "countries": {},
+    "slug": "intelligrated"
+  },
+  {
+    "name": "Kaneka",
+    "products": [
+      "Polyimide Film"
+    ],
+    "countries": {},
+    "slug": "kaneka"
+  },
+  {
+    "name": "Olympus",
+    "products": [
+      "Scanning Electron Microscope"
+    ],
+    "countries": {},
+    "slug": "olympus"
+  },
+  {
+    "name": "Zeiss",
+    "products": [
+      "Scanning Electron Microscope"
+    ],
+    "countries": {},
+    "slug": "zeiss"
+  },
+  {
+    "name": "Nikon",
+    "products": [
+      "Scanning Electron Microscope"
+    ],
+    "countries": {},
+    "slug": "nikon"
+  },
+  {
+    "name": "Afag",
+    "products": [
+      "Vibratory Feeder"
+    ],
+    "countries": {},
+    "slug": "afag"
+  },
+  {
+    "name": "RNA",
+    "products": [
+      "Vibratory Feeder"
+    ],
+    "countries": {},
+    "slug": "rna"
+  },
+  {
+    "name": "Vibratory Solutions",
+    "products": [
+      "Vibratory Feeder"
+    ],
+    "countries": {},
+    "slug": "vibratory-solutions"
   }
 ]

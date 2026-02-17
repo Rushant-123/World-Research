@@ -1,6 +1,6 @@
 ---
 title: "Copper Conductors"
-company: "Industrial Manufacturer"
+company: "Freeport-McMoRan / BHP / Glencore"
 country: "Global"
 selling_price: 35
 inputs:

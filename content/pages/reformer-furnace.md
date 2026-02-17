@@ -1,6 +1,6 @@
 ---
 title: "Reformer Furnace"
-company: "Metallurgical Equipment Supplier"
+company: "Ipsen / Surface Combustion / Lindberg/MPH"
 country: "Global"
 selling_price: 450
 inputs:

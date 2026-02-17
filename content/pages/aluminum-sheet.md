@@ -1,6 +1,6 @@
 ---
 title: "Aluminum Sheet"
-company: "Various Manufacturers"
+company: "Alcoa / Rio Tinto / Norsk Hydro"
 country: "Global"
 selling_price: 8
 inputs:

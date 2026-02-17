@@ -1,6 +1,6 @@
 ---
 title: "Acrylic Pressure-Sensitive Adhesive"
-company: "3M Company"
+company: "Arkema / Mitsubishi Chemical / Sumitomo Chemical"
 country: "United States"
 selling_price: 3.0
 inputs:

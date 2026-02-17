@@ -1,6 +1,6 @@
 ---
 title: "Cnc Machining"
-company: "Industrial Manufacturer"
+company: "Haas / DMG Mori / Mazak"
 country: "Global"
 selling_price: 35
 inputs:

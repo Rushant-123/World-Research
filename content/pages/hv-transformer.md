@@ -1,6 +1,6 @@
 ---
 title: "Hv Transformer"
-company: "Various Manufacturers"
+company: "ABB / Siemens / Schneider Electric"
 country: "Global"
 selling_price: 8
 inputs:

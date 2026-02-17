@@ -1,6 +1,6 @@
 ---
 title: "Coating"
-company: "Various Manufacturers"
+company: "PPG Industries / Sherwin-Williams / AkzoNobel"
 country: "Global"
 selling_price: 8
 inputs:

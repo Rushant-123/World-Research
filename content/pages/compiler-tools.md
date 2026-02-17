@@ -1,6 +1,6 @@
 ---
 title: "Compiler Tools"
-company: "Software Company"
+company: "GNU / LLVM / Intel"
 country: "United States"
 selling_price: 25
 inputs:

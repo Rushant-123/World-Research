@@ -1,6 +1,6 @@
 ---
 title: "Alumina Substrate"
-company: "Various Manufacturers"
+company: "Ibiden / Shinko / AT&S"
 country: "Global"
 selling_price: 4
 inputs:

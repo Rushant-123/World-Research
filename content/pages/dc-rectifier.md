@@ -1,6 +1,6 @@
 ---
 title: "Dc Rectifier"
-company: "Various Manufacturers"
+company: "Vishay / Infineon / STMicroelectronics"
 country: "Global"
 selling_price: 8
 inputs:

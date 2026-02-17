@@ -1,6 +1,6 @@
 ---
 title: "Mosfet Switches"
-company: "Various Manufacturers"
+company: "Cisco / Arista / Juniper"
 country: "Global"
 selling_price: 8
 inputs:

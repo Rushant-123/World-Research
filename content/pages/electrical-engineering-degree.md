@@ -1,6 +1,6 @@
 ---
 title: "Electrical Engineering Degree"
-company: "Semiconductor Manufacturer"
+company: "Various Engineering Firms / Consulting Companies / OEM Staff"
 country: "Taiwan"
 selling_price: 2.5
 inputs:

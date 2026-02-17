@@ -1,6 +1,6 @@
 ---
 title: "Brass Strip"
-company: "Various Manufacturers"
+company: "Mueller Industries / KME / Wieland"
 country: "Global"
 selling_price: 8
 inputs:

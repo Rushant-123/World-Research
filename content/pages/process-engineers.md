@@ -1,6 +1,6 @@
 ---
 title: "Process Engineers"
-company: "Various Manufacturers"
+company: "Various Engineering Firms / Consulting Companies / OEM Staff"
 country: "Global"
 selling_price: 0
 inputs:

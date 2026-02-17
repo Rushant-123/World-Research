@@ -1,6 +1,6 @@
 ---
 title: "Glass Lined Reactor"
-company: "Various Manufacturers"
+company: "Corning / Schott / AGC"
 country: "Global"
 selling_price: 80
 inputs:

@@ -1,6 +1,6 @@
 ---
 title: "Clean Led Lights"
-company: "Various Manufacturers"
+company: "Nichia / Lumileds / Osram"
 country: "Global"
 selling_price: 8
 inputs:

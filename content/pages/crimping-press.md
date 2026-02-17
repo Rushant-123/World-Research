@@ -1,6 +1,6 @@
 ---
 title: "Crimping Press"
-company: "Various Manufacturers"
+company: "Mill-Max / Harwin / Samtec"
 country: "Global"
 selling_price: 8
 inputs:

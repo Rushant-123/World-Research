@@ -1,6 +1,6 @@
 ---
 title: "Pogo Pins"
-company: "Industrial Manufacturer"
+company: "Mill-Max / Harwin / Samtec"
 country: "Global"
 selling_price: 35
 inputs:

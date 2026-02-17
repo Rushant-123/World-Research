@@ -1,6 +1,6 @@
 ---
 title: "Vibratory Feeder"
-company: "Various Manufacturers"
+company: "Afag / RNA / Vibratory Solutions"
 country: "Global"
 selling_price: 8
 inputs:

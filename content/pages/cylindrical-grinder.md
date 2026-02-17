@@ -1,6 +1,6 @@
 ---
 title: "Cylindrical Grinder"
-company: "Various Manufacturers"
+company: "Makita / DeWalt / Bosch"
 country: "Global"
 selling_price: 8
 inputs:

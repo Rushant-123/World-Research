@@ -1,6 +1,6 @@
 ---
 title: "Nickel Sulfate"
-company: "Various Manufacturers"
+company: "Vale / Nornickel / Glencore"
 country: "Global"
 selling_price: 8
 inputs:

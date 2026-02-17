@@ -1,6 +1,6 @@
 ---
 title: "Pressure Acid Leach"
-company: "Chemical Processing Company"
+company: "Honeywell / TE Connectivity / Sensata"
 country: "Global"
 selling_price: 35
 inputs:

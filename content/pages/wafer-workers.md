@@ -1,6 +1,6 @@
 ---
 title: "Wafer Workers"
-company: "Various Manufacturers"
+company: "Various Employers / Contract Labor / Staffing Agencies"
 country: "Global"
 selling_price: 0
 inputs:

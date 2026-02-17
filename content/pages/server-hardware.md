@@ -1,6 +1,6 @@
 ---
 title: "Server Hardware"
-company: "Various Server OEMs"
+company: "Dell / HPE / Lenovo"
 country: "United States"
 selling_price: 500.00
 inputs:

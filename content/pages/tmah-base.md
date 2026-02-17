@@ -1,6 +1,6 @@
 ---
 title: "Tmah Base"
-company: "Various Manufacturers"
+company: "Olin / Westlake Chemical / Formosa Plastics"
 country: "Global"
 selling_price: 8
 inputs:

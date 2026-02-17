@@ -1,6 +1,6 @@
 ---
 title: "Nitrogen Generator"
-company: "Various Manufacturers"
+company: "Air Products / Linde / Air Liquide"
 country: "Global"
 selling_price: 8
 inputs:

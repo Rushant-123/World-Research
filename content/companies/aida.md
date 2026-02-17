@@ -1,0 +1,43 @@
+---
+title: "Aida"
+type: "companies"
+industry: "Industrial Equipment"
+country: "Global"
+revenue: 16000000000
+market_cap: 54720000000.000015
+
+products:
+  - name: "Extrusion Press"
+    link: "extrusion-press"
+  - name: "Press Brake"
+    link: "press-brake"
+  - name: "Press Control"
+    link: "press-control"
+  - name: "Press Frame"
+    link: "press-frame"
+
+financials:
+  profit_margin: 14.0
+  operating_margin: 18.2
+---
+
+# Aida
+
+Aida is a major player in the Industrial Equipment industry, manufacturing products across the global supply chain.
+
+## Products
+
+Aida produces 4 products in our database, including:
+
+- Extrusion Press
+- Press Brake
+- Press Control
+- Press Frame
+
+## Market Position
+
+As a Industrial Equipment company operating primarily in Global, Aida supplies critical components and materials to the global technology supply chain.
+
+## Industry
+
+**Industrial Equipment**: Companies in this sector typically have 14.0% profit margins and invest 6.0% of revenue in R&D.

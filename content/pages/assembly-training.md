@@ -1,6 +1,6 @@
 ---
 title: "Assembly Training"
-company: "Various Manufacturers"
+company: "Foxconn / Jabil / Flex"
 country: "Global"
 selling_price: 0
 inputs:

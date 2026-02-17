@@ -1,6 +1,6 @@
 ---
 title: "Database Server"
-company: "Multiple Vendors"
+company: "Olin / Westlake Chemical / Formosa Plastics"
 country: "Global"
 selling_price: 100000
 inputs:
@@ -32,6 +32,13 @@ value_created: 0
 ---
 
 # How to Make Database Server
+
+**Top Market Leaders:**
+- [Olin](/companies/olin)
+- [Westlake Chemical](/companies/westlake-chemical)
+- [Formosa Plastics](/companies/formosa-plastics)
+
+
 
 A database server is a specialized computer optimized for storing, retrieving, and managing structured data. It runs database management software (PostgreSQL, MySQL, Oracle, SQL Server) and uses RAID arrays, high memory, and fast storage to ensure data integrity, performance, and availability.
 

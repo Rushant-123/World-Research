@@ -1,6 +1,6 @@
 ---
 title: "Wafer Transfer Robots"
-company: "Various Manufacturers"
+company: "ABB / Fanuc / Kuka"
 country: "Global"
 selling_price: 8
 inputs:

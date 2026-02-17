@@ -1,6 +1,6 @@
 ---
 title: "Gas Scrubber"
-company: "Industrial Manufacturer"
+company: "Bridgestone / Michelin / Goodyear"
 country: "Global"
 selling_price: 35
 inputs:

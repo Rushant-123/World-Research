@@ -1,6 +1,6 @@
 ---
 title: "Scanning Electron Microscope"
-company: "Various Manufacturers"
+company: "Olympus / Zeiss / Nikon"
 country: "Global"
 selling_price: 8
 inputs:

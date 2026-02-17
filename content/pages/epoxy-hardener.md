@@ -1,6 +1,6 @@
 ---
 title: "Epoxy Hardener"
-company: "Various Manufacturers"
+company: "Huntsman / Hexion / Olin"
 country: "Global"
 selling_price: 8
 inputs:

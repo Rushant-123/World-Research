@@ -1,6 +1,6 @@
 ---
 title: "Teflon Coating"
-company: "Industrial Manufacturer"
+company: "PPG Industries / Sherwin-Williams / AkzoNobel"
 country: "Global"
 selling_price: 35
 inputs:

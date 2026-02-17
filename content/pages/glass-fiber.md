@@ -1,6 +1,6 @@
 ---
 title: "Glass Fiber"
-company: "Various Manufacturers"
+company: "Corning / Schott / AGC"
 country: "Global"
 selling_price: 8
 inputs:

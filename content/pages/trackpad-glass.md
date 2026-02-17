@@ -1,6 +1,6 @@
 ---
 title: "Trackpad Glass"
-company: "Industrial Manufacturer"
+company: "Corning / Schott / AGC"
 country: "Global"
 selling_price: 35
 inputs:

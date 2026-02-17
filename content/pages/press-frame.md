@@ -1,6 +1,6 @@
 ---
 title: "Press Frame"
-company: "Various Manufacturers"
+company: "Schuler / Aida / Komatsu"
 country: "Global"
 selling_price: 8
 inputs:

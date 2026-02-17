@@ -1,6 +1,6 @@
 ---
 title: "Foam Rubber"
-company: "Various Manufacturers"
+company: "BASF / Covestro / Huntsman"
 country: "Global"
 selling_price: 8
 inputs:

@@ -1,6 +1,6 @@
 ---
 title: "Injection Molding"
-company: "Various Manufacturers"
+company: "Engel / Arburg / Haitian"
 country: "Global"
 selling_price: 8
 inputs:

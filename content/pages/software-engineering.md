@@ -1,6 +1,6 @@
 ---
 title: "Software Engineering"
-company: "Software Company"
+company: "Microsoft / Oracle / SAP"
 country: "United States"
 selling_price: 25
 inputs:

@@ -1,6 +1,6 @@
 ---
 title: "Nylon Braiding"
-company: "Various Textile Manufacturers"
+company: "BASF / DuPont / Ube Industries"
 country: "China"
 selling_price: 0.30
 inputs:

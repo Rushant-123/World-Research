@@ -1,6 +1,6 @@
 ---
 title: "Crystal Grower"
-company: "Industrial Manufacturer"
+company: "Seiko Epson / TXC Corporation / Abracon"
 country: "Global"
 selling_price: 35
 inputs:

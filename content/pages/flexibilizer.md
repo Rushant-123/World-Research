@@ -1,6 +1,6 @@
 ---
 title: "Flexibilizer"
-company: "Various Manufacturers"
+company: "Flexible Circuit / Career Technology / Flexcom"
 country: "Global"
 selling_price: 8
 inputs:

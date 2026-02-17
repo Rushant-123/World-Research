@@ -1,6 +1,6 @@
 ---
 title: "Linux Operating System"
-company: "Various Distributions"
+company: "Microsoft / Red Hat / Canonical"
 country: "Global"
 selling_price: 0.0
 inputs:

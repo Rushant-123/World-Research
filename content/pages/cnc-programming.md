@@ -1,6 +1,6 @@
 ---
 title: "Cnc Programming"
-company: "Various Manufacturers"
+company: "Haas / DMG Mori / Mazak"
 country: "Global"
 selling_price: 8
 inputs:

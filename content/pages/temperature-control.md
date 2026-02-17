@@ -1,6 +1,6 @@
 ---
 title: "Temperature Control"
-company: "Various Manufacturers"
+company: "Texas Instruments / Analog Devices / NXP"
 country: "Global"
 selling_price: 8
 inputs:

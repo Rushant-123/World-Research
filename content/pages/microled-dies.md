@@ -1,6 +1,6 @@
 ---
 title: "Microled Dies"
-company: "Semiconductor Manufacturer"
+company: "Nichia / Lumileds / Osram"
 country: "Taiwan"
 selling_price: 2.5
 inputs:

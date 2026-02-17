@@ -1,6 +1,6 @@
 ---
 title: "Substrate Handling"
-company: "Various Manufacturers"
+company: "Ibiden / Shinko / AT&S"
 country: "Global"
 selling_price: 4
 inputs:

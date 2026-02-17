@@ -1,6 +1,6 @@
 ---
 title: "Aluminum Extrusion"
-company: "Industrial Manufacturer"
+company: "Alcoa / Rio Tinto / Norsk Hydro"
 country: "Global"
 selling_price: 35
 inputs:

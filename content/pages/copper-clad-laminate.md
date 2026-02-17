@@ -1,6 +1,6 @@
 ---
 title: "Copper Clad Laminate"
-company: "Various Manufacturers"
+company: "Freeport-McMoRan / BHP / Glencore"
 country: "Global"
 selling_price: 8
 inputs:

@@ -1,6 +1,6 @@
 ---
 title: "Pcb Antenna"
-company: "Industrial Manufacturer"
+company: "TTM Technologies / Unimicron / Ibiden"
 country: "Global"
 selling_price: 35
 inputs:

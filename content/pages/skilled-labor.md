@@ -1,6 +1,6 @@
 ---
 title: "Skilled Labor"
-company: "Various Employers"
+company: "Nichia / Lumileds / Osram"
 country: "Global"
 selling_price: 45
 inputs:

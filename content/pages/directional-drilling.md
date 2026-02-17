@@ -1,6 +1,6 @@
 ---
 title: "Directional Drilling"
-company: "Industrial Manufacturer"
+company: "Makita / DeWalt / Bosch"
 country: "Global"
 selling_price: 35
 inputs:

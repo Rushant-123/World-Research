@@ -1,6 +1,6 @@
 ---
 title: "Hydrogen Flame"
-company: "Industrial Manufacturer"
+company: "Air Products / Linde / Praxair"
 country: "Global"
 selling_price: 35
 inputs:

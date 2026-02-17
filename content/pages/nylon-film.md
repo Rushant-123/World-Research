@@ -1,6 +1,6 @@
 ---
 title: "Nylon Film"
-company: "Various Manufacturers"
+company: "BASF / DuPont / Ube Industries"
 country: "Global"
 selling_price: 4
 inputs:

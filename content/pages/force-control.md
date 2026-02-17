@@ -1,6 +1,6 @@
 ---
 title: "Force Control"
-company: "Various Manufacturers"
+company: "Honeywell / Futek / Interface"
 country: "Global"
 selling_price: 8
 inputs:

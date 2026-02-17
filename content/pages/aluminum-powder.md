@@ -1,6 +1,6 @@
 ---
 title: "Aluminum Powder"
-company: "Materials Producer"
+company: "Alcoa / Rio Tinto / Norsk Hydro"
 country: "Global"
 selling_price: 4.5
 inputs:

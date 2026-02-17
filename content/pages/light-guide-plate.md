@@ -1,6 +1,6 @@
 ---
 title: "Light Guide Plate"
-company: "Industrial Manufacturer"
+company: "Microsoft / JetBrains / Eclipse"
 country: "Global"
 selling_price: 35
 inputs:

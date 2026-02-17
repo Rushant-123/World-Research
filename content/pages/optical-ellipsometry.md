@@ -1,6 +1,6 @@
 ---
 title: "Optical Ellipsometry"
-company: "Various Manufacturers"
+company: "Edmund Optics / Thorlabs / Newport"
 country: "Global"
 selling_price: 8
 inputs:

@@ -1,6 +1,6 @@
 ---
 title: "Concrete Base"
-company: "Various Construction Companies"
+company: "Olin / Westlake Chemical / Formosa Plastics"
 country: "United States"
 selling_price: 20000.00
 inputs:

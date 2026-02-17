@@ -1,6 +1,6 @@
 ---
 title: "Magnesium Metal"
-company: "Materials Producer"
+company: "US Magnesium / Dead Sea Magnesium / Ma Steel"
 country: "Global"
 selling_price: 4.5
 inputs:

@@ -1,6 +1,6 @@
 ---
 title: "Nbr Rubber"
-company: "Various Manufacturers"
+company: "Bridgestone / Michelin / Goodyear"
 country: "Global"
 selling_price: 8
 inputs:

@@ -1,6 +1,6 @@
 ---
 title: "Steel Shaft"
-company: "Various Manufacturers"
+company: "ArcelorMittal / Nippon Steel / POSCO"
 country: "Global"
 selling_price: 8
 inputs:

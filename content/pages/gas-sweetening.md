@@ -1,6 +1,6 @@
 ---
 title: "Gas Sweetening"
-company: "Industrial Manufacturer"
+company: "Air Products / Linde / Air Liquide"
 country: "Global"
 selling_price: 35
 inputs:

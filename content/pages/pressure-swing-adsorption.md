@@ -1,6 +1,6 @@
 ---
 title: "Pressure Swing Adsorption"
-company: "Industrial Manufacturer"
+company: "Honeywell / TE Connectivity / Sensata"
 country: "Global"
 selling_price: 35
 inputs:

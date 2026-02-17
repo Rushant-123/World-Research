@@ -1,6 +1,6 @@
 ---
 title: "Sintering Furnace"
-company: "Various Manufacturers"
+company: "Ipsen / Surface Combustion / Lindberg/MPH"
 country: "Global"
 selling_price: 80
 inputs:

@@ -1,6 +1,6 @@
 ---
 title: "Fuel Source (Coal/Natural Gas)"
-company: "Energy Companies"
+company: "Air Products / Linde / Air Liquide"
 country: "Various"
 selling_price: 0.3
 inputs:

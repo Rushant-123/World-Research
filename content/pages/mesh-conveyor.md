@@ -1,6 +1,6 @@
 ---
 title: "Mesh Conveyor"
-company: "Various Manufacturers"
+company: "Daifuku / Dematic / Intelligrated"
 country: "Global"
 selling_price: 8
 inputs:

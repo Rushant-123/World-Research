@@ -1,6 +1,6 @@
 ---
 title: "Foam Molds"
-company: "Various Mold Manufacturers"
+company: "BASF / Covestro / Huntsman"
 country: "China"
 selling_price: 8500.00
 inputs:

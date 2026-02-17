@@ -1,6 +1,6 @@
 ---
 title: "Zinc Electrowinning"
-company: "Industrial Manufacturer"
+company: "Glencore / Nyrstar / Teck Resources"
 country: "Global"
 selling_price: 35
 inputs:

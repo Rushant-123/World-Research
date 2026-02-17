@@ -1,6 +1,6 @@
 ---
 title: "GPU Server"
-company: "Multiple Vendors"
+company: "Dell / HPE / Lenovo"
 country: "Global"
 selling_price: 150000
 inputs:
@@ -32,6 +32,13 @@ value_created: 0
 ---
 
 # How to Make GPU Server
+
+**Top Market Leaders:**
+- [Dell](/companies/dell)
+- [HPE](/companies/hpe)
+- [Lenovo](/companies/lenovo)
+
+
 
 A GPU server is a specialized computer designed for parallel computing tasks like AI training, inference, scientific simulations, and graphics rendering. Unlike standard servers, GPU servers contain multiple high-performance graphics processing units (GPUs) connected via high-speed interconnects.
 

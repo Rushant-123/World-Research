@@ -1,6 +1,6 @@
 ---
 title: "White Leds"
-company: "Industrial Manufacturer"
+company: "Nichia / Lumileds / Osram"
 country: "Global"
 selling_price: 35
 inputs:

@@ -1,6 +1,6 @@
 ---
 title: "Hinge Grease"
-company: "Various Manufacturers"
+company: "Southco / Sugatsune / Hettich"
 country: "Global"
 selling_price: 8
 inputs:

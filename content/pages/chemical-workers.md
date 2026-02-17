@@ -1,6 +1,6 @@
 ---
 title: "Chemical Workers"
-company: "Various Manufacturers"
+company: "Various Employers / Contract Labor / Staffing Agencies"
 country: "Global"
 selling_price: 8
 inputs:

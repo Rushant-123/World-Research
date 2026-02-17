@@ -1,6 +1,6 @@
 ---
 title: "Hinge Housing"
-company: "Various Manufacturers"
+company: "Southco / Sugatsune / Hettich"
 country: "Global"
 selling_price: 8
 inputs:

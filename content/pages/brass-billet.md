@@ -1,6 +1,6 @@
 ---
 title: "Brass Billet"
-company: "Various Manufacturers"
+company: "Mueller Industries / KME / Wieland"
 country: "Global"
 selling_price: 12
 inputs:

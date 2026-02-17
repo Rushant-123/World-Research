@@ -1,6 +1,6 @@
 ---
 title: "Crystal Furnace"
-company: "Various Manufacturers"
+company: "Seiko Epson / TXC Corporation / Abracon"
 country: "Global"
 selling_price: 80
 inputs:

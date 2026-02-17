@@ -1,6 +1,6 @@
 ---
 title: "Zinc Ingot"
-company: "Various Manufacturers"
+company: "Glencore / Nyrstar / Teck Resources"
 country: "Global"
 selling_price: 12
 inputs:

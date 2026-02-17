@@ -1,6 +1,6 @@
 ---
 title: "Engineer Compensation Package"
-company: "Tech Companies"
+company: "Various Engineering Firms / Consulting Companies / OEM Staff"
 country: "USA"
 selling_price: 180000.0
 inputs:

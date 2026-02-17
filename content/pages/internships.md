@@ -1,6 +1,6 @@
 ---
 title: "Engineering Internship Programs"
-company: "Tech Companies"
+company: "Various Engineering Firms / Consulting Companies / OEM Staff"
 country: "USA"
 selling_price: 25000.0
 inputs:

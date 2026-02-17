@@ -1,6 +1,6 @@
 ---
 title: "Spindle System"
-company: "Various Manufacturers"
+company: "Mill-Max / Harwin / Samtec"
 country: "Global"
 selling_price: 45
 inputs:

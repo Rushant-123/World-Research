@@ -1,6 +1,6 @@
 ---
 title: "Micro Drill"
-company: "Semiconductor Manufacturer"
+company: "Makita / DeWalt / Bosch"
 country: "Taiwan"
 selling_price: 2.5
 inputs:

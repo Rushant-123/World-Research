@@ -1,6 +1,6 @@
 ---
 title: "Linear Actuators"
-company: "Industrial Manufacturer"
+company: "THK / IAI / Festo"
 country: "Global"
 selling_price: 35
 inputs:

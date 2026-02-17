@@ -1,6 +1,6 @@
 ---
 title: "Titanium Getter"
-company: "Industrial Manufacturer"
+company: "VSMPO-AVISMA / Timet / ATI"
 country: "Global"
 selling_price: 35
 inputs:

@@ -1,6 +1,6 @@
 ---
 title: "Titanium Drum"
-company: "Various Manufacturers"
+company: "VSMPO-AVISMA / Timet / ATI"
 country: "Global"
 selling_price: 8
 inputs:

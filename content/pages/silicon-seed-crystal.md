@@ -1,6 +1,6 @@
 ---
 title: "Silicon Seed Crystal"
-company: "Various Manufacturers"
+company: "Seiko Epson / TXC Corporation / Abracon"
 country: "Global"
 selling_price: 8
 inputs:

@@ -1,6 +1,6 @@
 ---
 title: "Polyimide Film"
-company: "Various Manufacturers"
+company: "DuPont / Ube Industries / Kaneka"
 country: "Global"
 selling_price: 4
 inputs:

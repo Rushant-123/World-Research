@@ -1,6 +1,6 @@
 ---
 title: "Atmosphere Gas"
-company: "Various Manufacturers"
+company: "Air Products / Linde / Air Liquide"
 country: "Global"
 selling_price: 15
 inputs:

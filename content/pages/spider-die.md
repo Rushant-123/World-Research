@@ -1,6 +1,6 @@
 ---
 title: "Spider Die"
-company: "Various Manufacturers"
+company: "Microsoft / JetBrains / Eclipse"
 country: "Global"
 selling_price: 8
 inputs:

@@ -1,6 +1,6 @@
 ---
 title: "Engineering Workstation"
-company: "Industrial Manufacturer"
+company: "Various Engineering Firms / Consulting Companies / OEM Staff"
 country: "Global"
 selling_price: 35
 inputs:

@@ -1,6 +1,6 @@
 ---
 title: "Pcb Conveyors"
-company: "Various Manufacturers"
+company: "TTM Technologies / Unimicron / Ibiden"
 country: "Global"
 selling_price: 8
 inputs:
