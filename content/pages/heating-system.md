@@ -1,6 +1,6 @@
 ---
 title: "Heating System"
-company: "Various Manufacturers"
+company: "Applied Materials / Castrol / Schneider Electric / Microsoft"
 country: "Global"
 selling_price: 45
 inputs:

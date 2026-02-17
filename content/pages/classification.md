@@ -1,6 +1,6 @@
 ---
 title: "Classification"
-company: "Semiconductor Manufacturer"
+company: "Cadence / Synopsys / Mentor Graphics / Siemens EDA"
 country: "Taiwan"
 selling_price: 2.5
 inputs:

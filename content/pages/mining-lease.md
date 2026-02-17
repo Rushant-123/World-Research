@@ -1,6 +1,6 @@
 ---
 title: "Mining Lease"
-company: "Various Mining Companies"
+company: "Komatsu / Caterpillar / Peabody"
 country: "Global"
 selling_price: 15
 inputs:

@@ -1,6 +1,6 @@
 ---
 title: "Foundry Pdk"
-company: "Industrial Manufacturer"
+company: "Cadence / Synopsys / Mentor Graphics / Siemens EDA"
 country: "Global"
 selling_price: 35
 inputs:

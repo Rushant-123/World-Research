@@ -1,6 +1,6 @@
 ---
 title: "Open Pit Mining Operations"
-company: "Various Mining Companies"
+company: "Komatsu / Caterpillar / Peabody"
 country: "Global"
 selling_price: 12
 inputs:

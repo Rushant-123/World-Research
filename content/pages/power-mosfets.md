@@ -1,6 +1,6 @@
 ---
 title: "Power Mosfets"
-company: "Various Manufacturers"
+company: "Southwire"
 country: "Global"
 selling_price: 8
 inputs:

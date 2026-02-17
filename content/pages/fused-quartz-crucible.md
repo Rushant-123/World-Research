@@ -1,6 +1,6 @@
 ---
 title: "Fused Quartz Crucible"
-company: "Industrial Manufacturer"
+company: "Applied Materials / ASML / Tokyo Electron / Lam Research"
 country: "Global"
 selling_price: 35
 inputs:

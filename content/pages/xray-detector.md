@@ -1,6 +1,6 @@
 ---
 title: "Xray Detector"
-company: "Various Manufacturers"
+company: "Sony / Canon / Nikon / Zeiss"
 country: "Global"
 selling_price: 8
 inputs:

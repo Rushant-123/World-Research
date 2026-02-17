@@ -1,6 +1,6 @@
 ---
 title: "Molding Machine"
-company: "Various Manufacturers"
+company: "Sumitomo Bakelite / Arburg / Applied Materials / Tokyo Electron"
 country: "Global"
 selling_price: 45
 inputs:

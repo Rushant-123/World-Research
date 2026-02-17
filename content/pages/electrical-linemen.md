@@ -1,6 +1,6 @@
 ---
 title: "Electrical Linemen"
-company: "Semiconductor Manufacturer"
+company: "TSMC / Samsung / Intel / ASML"
 country: "Taiwan"
 selling_price: 2.5
 inputs:

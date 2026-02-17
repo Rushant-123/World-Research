@@ -1,6 +1,6 @@
 ---
 title: "Mineral Ore"
-company: "Industrial Manufacturer"
+company: "Rio Tinto / BHP / Glencore / Vale"
 country: "Global"
 selling_price: 35
 inputs:

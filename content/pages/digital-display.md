@@ -1,6 +1,6 @@
 ---
 title: "Digital Display"
-company: "Various Manufacturers"
+company: "TSMC / Samsung / Intel / Texas Instruments"
 country: "Global"
 selling_price: 8
 inputs:

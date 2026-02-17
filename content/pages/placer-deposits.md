@@ -1,6 +1,6 @@
 ---
 title: "Placer Deposits"
-company: "Various Mining Companies"
+company: "Rio Tinto / BHP / Glencore / Vale"
 country: "Global"
 selling_price: 15
 inputs:

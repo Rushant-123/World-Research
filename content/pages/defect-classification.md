@@ -1,6 +1,6 @@
 ---
 title: "Defect Classification"
-company: "Various Manufacturers"
+company: "Cadence / Synopsys / Mentor Graphics / Siemens EDA"
 country: "Global"
 selling_price: 8
 inputs:

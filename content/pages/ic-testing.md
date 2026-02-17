@@ -1,6 +1,6 @@
 ---
 title: "Ic Testing"
-company: "Various Manufacturers"
+company: "Teradyne / Keysight"
 country: "Global"
 selling_price: 8
 inputs:

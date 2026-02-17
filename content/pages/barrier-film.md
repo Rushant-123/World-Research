@@ -1,6 +1,6 @@
 ---
 title: "Barrier Film"
-company: "Industrial Manufacturer"
+company: "DuPont / Ube Industries"
 country: "Global"
 selling_price: 35
 inputs:

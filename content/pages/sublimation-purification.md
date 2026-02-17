@@ -1,6 +1,6 @@
 ---
 title: "Sublimation Purification"
-company: "Semiconductor Manufacturer"
+company: "TSMC / Samsung / Intel / ASML"
 country: "Taiwan"
 selling_price: 2.5
 inputs:

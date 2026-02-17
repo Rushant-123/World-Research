@@ -1,6 +1,6 @@
 ---
 title: "Coin Battery"
-company: "Industrial Manufacturer"
+company: "CATL"
 country: "Global"
 selling_price: 35
 inputs:

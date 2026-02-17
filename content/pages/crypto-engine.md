@@ -1,6 +1,6 @@
 ---
 title: "Crypto Engine"
-company: "Industrial Manufacturer"
+company: "TSMC / Samsung / Intel / Texas Instruments"
 country: "Global"
 selling_price: 35
 inputs:

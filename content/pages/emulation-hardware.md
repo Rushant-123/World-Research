@@ -1,6 +1,6 @@
 ---
 title: "Emulation Hardware"
-company: "Industrial Manufacturer"
+company: "Dell / Lenovo"
 country: "Global"
 selling_price: 35
 inputs:

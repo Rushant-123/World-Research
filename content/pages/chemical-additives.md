@@ -1,6 +1,6 @@
 ---
 title: "Chemical Additives"
-company: "Semiconductor Manufacturer"
+company: "BASF / Dow / Solvay / Evonik"
 country: "Taiwan"
 selling_price: 2.5
 inputs:

@@ -1,6 +1,6 @@
 ---
 title: "Underground Mining Operations"
-company: "Various Mining Companies"
+company: "Komatsu / Caterpillar / Peabody"
 country: "Global"
 selling_price: 28
 inputs:

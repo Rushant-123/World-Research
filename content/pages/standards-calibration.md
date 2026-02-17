@@ -1,6 +1,6 @@
 ---
 title: "Standards Calibration"
-company: "Various Manufacturers"
+company: "IETF / W3C"
 country: "Global"
 selling_price: 8
 inputs:

@@ -1,6 +1,6 @@
 ---
 title: "Photomask Blank"
-company: "Industrial Manufacturer"
+company: "Saint-Gobain / 3M / Corning / AGC"
 country: "Global"
 selling_price: 35
 inputs:

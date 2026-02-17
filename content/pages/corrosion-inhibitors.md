@@ -1,6 +1,6 @@
 ---
 title: "Corrosion Inhibitors"
-company: "Various Manufacturers"
+company: "BASF / Dow / Solvay / Evonik"
 country: "Global"
 selling_price: 8
 inputs:

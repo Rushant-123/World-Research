@@ -1,6 +1,6 @@
 ---
 title: "Silicon Seed"
-company: "Semiconductor Manufacturer"
+company: "Shin-Etsu / Sumco"
 country: "Taiwan"
 selling_price: 2.5
 inputs:

@@ -1,6 +1,6 @@
 ---
 title: "Electrolytic Recovery"
-company: "Semiconductor Manufacturer"
+company: "Johnson Controls / Carrier / Trane / Daikin"
 country: "Taiwan"
 selling_price: 2.5
 inputs:

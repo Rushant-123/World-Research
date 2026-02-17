@@ -1,6 +1,6 @@
 ---
 title: "Air Shower"
-company: "Various Manufacturers"
+company: "Johnson Controls / Carrier / Trane / Daikin"
 country: "Global"
 selling_price: 8
 inputs:

@@ -1,6 +1,6 @@
 ---
 title: "Coverlay Film"
-company: "Various Manufacturers"
+company: "DuPont / Ube Industries"
 country: "Global"
 selling_price: 4
 inputs:

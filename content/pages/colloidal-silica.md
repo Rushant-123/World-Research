@@ -1,6 +1,6 @@
 ---
 title: "Colloidal Silica"
-company: "Various Manufacturers"
+company: "Sibelco / US Silica"
 country: "Global"
 selling_price: 8
 inputs:

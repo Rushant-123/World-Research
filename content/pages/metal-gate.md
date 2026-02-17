@@ -1,6 +1,6 @@
 ---
 title: "Metal Gate"
-company: "Various Manufacturers"
+company: "Glencore / Materials Producer / China Molybdenum / Nyrstar"
 country: "Global"
 selling_price: 8
 inputs:

@@ -1,6 +1,6 @@
 ---
 title: "Sx Cobalt"
-company: "Industrial Manufacturer"
+company: "BASF / Dow / Solvay / Evonik"
 country: "Global"
 selling_price: 35
 inputs:

@@ -1,6 +1,6 @@
 ---
 title: "Surfactants"
-company: "Various Manufacturers"
+company: "BASF / Dow / Siemens / 3M"
 country: "Global"
 selling_price: 8
 inputs:

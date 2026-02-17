@@ -1,6 +1,6 @@
 ---
 title: "Diffuser Films"
-company: "Industrial Manufacturer"
+company: "Sony / Canon / Nikon / Zeiss"
 country: "Global"
 selling_price: 35
 inputs:

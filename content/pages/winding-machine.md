@@ -1,6 +1,6 @@
 ---
 title: "Winding Machine"
-company: "Various Manufacturers"
+company: "Applied Materials / Tokyo Electron"
 country: "Global"
 selling_price: 45
 inputs:

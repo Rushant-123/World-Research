@@ -1,6 +1,6 @@
 ---
 title: "Excavation"
-company: "Industrial Manufacturer"
+company: "Caterpillar / Komatsu"
 country: "Global"
 selling_price: 35
 inputs:

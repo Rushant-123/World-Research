@@ -1,6 +1,6 @@
 ---
 title: "Scheelite Ore"
-company: "Various Manufacturers"
+company: "Rio Tinto / BHP / Glencore / Vale"
 country: "Global"
 selling_price: 8
 inputs:

@@ -1,6 +1,6 @@
 ---
 title: "Uf Membrane"
-company: "Various Manufacturers"
+company: "Saint-Gobain / 3M / Corning / AGC"
 country: "Global"
 selling_price: 8
 inputs:

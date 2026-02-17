@@ -1,6 +1,6 @@
 ---
 title: "Arm Core"
-company: "Semiconductor Manufacturer"
+company: "TSMC / Samsung / Intel / Texas Instruments"
 country: "Taiwan"
 selling_price: 2.5
 inputs:

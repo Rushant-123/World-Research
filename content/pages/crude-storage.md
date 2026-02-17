@@ -1,6 +1,6 @@
 ---
 title: "Crude Storage"
-company: "Industrial Manufacturer"
+company: "NetApp / Samsung / Western Digital"
 country: "Global"
 selling_price: 35
 inputs:

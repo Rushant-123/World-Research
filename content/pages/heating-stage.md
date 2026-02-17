@@ -1,6 +1,6 @@
 ---
 title: "Heating Stage"
-company: "Various Manufacturers"
+company: "Applied Materials / ASML / Tokyo Electron / Lam Research"
 country: "Global"
 selling_price: 8
 inputs:

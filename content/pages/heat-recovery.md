@@ -1,6 +1,6 @@
 ---
 title: "Heat Recovery"
-company: "Industrial Manufacturer"
+company: "Johnson Controls / Carrier / Trane / Daikin"
 country: "Global"
 selling_price: 35
 inputs:

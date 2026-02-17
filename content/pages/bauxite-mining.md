@@ -1,6 +1,6 @@
 ---
 title: "Bauxite Mining"
-company: "Various Manufacturers"
+company: "Komatsu / Caterpillar / Peabody"
 country: "Global"
 selling_price: 8
 inputs:

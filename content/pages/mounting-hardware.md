@@ -1,6 +1,6 @@
 ---
 title: "Mounting Hardware"
-company: "Various Manufacturers"
+company: "Dell / Lenovo"
 country: "Global"
 selling_price: 8
 inputs:

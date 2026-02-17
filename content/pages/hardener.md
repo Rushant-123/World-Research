@@ -1,6 +1,6 @@
 ---
 title: "Hardener"
-company: "Industrial Manufacturer"
+company: "Siemens / ABB / Caterpillar / GE"
 country: "Global"
 selling_price: 35
 inputs:

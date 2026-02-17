@@ -1,6 +1,6 @@
 ---
 title: "Safety Equipment"
-company: "Various Manufacturers"
+company: "Industrial Equipment Manufacturer / Applied Materials / Teradyne / Keysight"
 country: "Global"
 selling_price: 45
 inputs:

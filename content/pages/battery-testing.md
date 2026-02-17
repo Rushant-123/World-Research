@@ -1,6 +1,6 @@
 ---
 title: "Battery Testing"
-company: "Various Manufacturers"
+company: "CATL / Teradyne / Keysight"
 country: "Global"
 selling_price: 8
 inputs:

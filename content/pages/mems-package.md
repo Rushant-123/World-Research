@@ -1,6 +1,6 @@
 ---
 title: "Mems Package"
-company: "Industrial Manufacturer"
+company: "STMicroelectronics / Ibiden"
 country: "Global"
 selling_price: 35
 inputs:

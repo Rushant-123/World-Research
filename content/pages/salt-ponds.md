@@ -1,6 +1,6 @@
 ---
 title: "Salt Ponds"
-company: "Industrial Manufacturer"
+company: "BASF / Dow / Solvay / Evonik"
 country: "Global"
 selling_price: 35
 inputs:
