@@ -1,6 +1,6 @@
 ---
 title: "Polycarbonate Resin"
-company: "Various Manufacturers"
+company: "Covestro / SABIC / Mitsubishi Engineering-Plastics"
 country: "Global"
 selling_price: 8
 inputs:

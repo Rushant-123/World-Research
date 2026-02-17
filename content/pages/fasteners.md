@@ -1,6 +1,6 @@
 ---
 title: "Fasteners"
-company: "Various Manufacturers"
+company: "Fastenal / Würth / ITW"
 country: "Global"
 selling_price: 8
 inputs:

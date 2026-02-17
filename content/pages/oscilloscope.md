@@ -1,6 +1,6 @@
 ---
 title: "Oscilloscope"
-company: "Various Manufacturers"
+company: "Keysight / Tektronix / Rohde & Schwarz"
 country: "Global"
 selling_price: 8
 inputs:

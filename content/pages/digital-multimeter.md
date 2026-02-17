@@ -1,6 +1,6 @@
 ---
 title: "Digital Multimeter"
-company: "Various Manufacturers"
+company: "Fluke / Keysight / Tektronix"
 country: "Global"
 selling_price: 8
 inputs:

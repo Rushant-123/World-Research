@@ -1,6 +1,6 @@
 ---
 title: "Synthetic Graphite"
-company: "Various Manufacturers"
+company: "SGL Carbon / Tokai Carbon / GrafTech"
 country: "Global"
 selling_price: 8
 inputs:

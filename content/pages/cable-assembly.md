@@ -1,6 +1,6 @@
 ---
 title: "Cable Assembly"
-company: "Industrial Manufacturer"
+company: "Prysmian / Nexans / Sumitomo Electric"
 country: "Global"
 selling_price: 35
 inputs:

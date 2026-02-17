@@ -1,6 +1,6 @@
 ---
 title: "Open Source Software"
-company: "Various Open Source Projects"
+company: "Microsoft / Oracle / SAP"
 country: "Various"
 selling_price: 0.00
 inputs:

@@ -1,6 +1,6 @@
 ---
 title: "Photodiode"
-company: "Industrial Manufacturer"
+company: "Vishay / ON Semiconductor / Rohm"
 country: "Global"
 selling_price: 35
 inputs:

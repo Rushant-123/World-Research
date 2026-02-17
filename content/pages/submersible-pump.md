@@ -1,6 +1,6 @@
 ---
 title: "Submersible Pump"
-company: "Industrial Manufacturer"
+company: "Grundfos / Xylem / ITT"
 country: "Global"
 selling_price: 35
 inputs:

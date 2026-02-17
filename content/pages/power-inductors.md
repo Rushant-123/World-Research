@@ -1,6 +1,6 @@
 ---
 title: "Power Inductors"
-company: "Various Manufacturers"
+company: "Murata / TDK / Taiyo Yuden"
 country: "Global"
 selling_price: 8
 inputs:

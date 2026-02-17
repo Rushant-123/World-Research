@@ -1,6 +1,6 @@
 ---
 title: "Power Transistors"
-company: "Various Manufacturers"
+company: "Infineon / ON Semiconductor / Toshiba"
 country: "Global"
 selling_price: 8
 inputs:

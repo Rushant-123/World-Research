@@ -1,6 +1,6 @@
 ---
 title: "Precision Pump"
-company: "Various Manufacturers"
+company: "Grundfos / Xylem / ITT"
 country: "Global"
 selling_price: 8
 inputs:

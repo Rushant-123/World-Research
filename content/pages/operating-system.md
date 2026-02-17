@@ -1,6 +1,6 @@
 ---
 title: "Operating System Software"
-company: "Various"
+company: "Microsoft / Oracle / SAP"
 country: "Global"
 selling_price: 0.0
 inputs:

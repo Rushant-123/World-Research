@@ -1,6 +1,6 @@
 ---
 title: "Abrasive Particles"
-company: "Various Manufacturers"
+company: "Saint-Gobain / 3M / Carborundum"
 country: "Global"
 selling_price: 8
 inputs:

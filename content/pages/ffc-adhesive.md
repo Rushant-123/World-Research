@@ -1,6 +1,6 @@
 ---
 title: "Ffc Adhesive"
-company: "Industrial Manufacturer"
+company: "Henkel / 3M / H.B. Fuller"
 country: "Global"
 selling_price: 35
 inputs:

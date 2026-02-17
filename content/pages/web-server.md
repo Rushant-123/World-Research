@@ -1,6 +1,6 @@
 ---
 title: "Web Server Software"
-company: "Various"
+company: "Microsoft / Oracle / SAP"
 country: "Global"
 selling_price: 0
 inputs:
@@ -20,6 +20,13 @@ value_created: 0
 ---
 
 # Web Server Software
+
+**Top Market Leaders:**
+- [Microsoft](/companies/microsoft)
+- [Oracle](/companies/oracle)
+- [SAP](/companies/sap)
+
+
 
 ## Phase 1: Foundation and Core Architecture (Steps 1-20)
 

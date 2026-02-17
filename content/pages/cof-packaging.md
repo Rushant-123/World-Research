@@ -1,6 +1,6 @@
 ---
 title: "Cof Packaging"
-company: "Various Manufacturers"
+company: "Amcor / Sealed Air / Berry Global"
 country: "Global"
 selling_price: 8
 inputs:

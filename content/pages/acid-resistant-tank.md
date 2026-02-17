@@ -1,6 +1,6 @@
 ---
 title: "Acid Resistant Tank"
-company: "Various Manufacturers"
+company: "Dow / BASF / Solvay"
 country: "Global"
 selling_price: 6
 inputs:

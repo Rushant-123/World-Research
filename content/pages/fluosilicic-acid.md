@@ -1,6 +1,6 @@
 ---
 title: "Fluosilicic Acid"
-company: "Semiconductor Manufacturer"
+company: "Dow / BASF / Solvay"
 country: "Taiwan"
 selling_price: 2.5
 inputs:

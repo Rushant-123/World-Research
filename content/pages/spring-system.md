@@ -1,6 +1,6 @@
 ---
 title: "Spring System"
-company: "Industrial Equipment Manufacturer"
+company: "Lesjöfors / Lee Spring / Associated Spring"
 country: "Global"
 selling_price: 120
 inputs:

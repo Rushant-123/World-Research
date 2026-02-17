@@ -1,6 +1,6 @@
 ---
 title: "Packaging Tape"
-company: "Various Manufacturers"
+company: "3M / Nitto Denko / Avery Dennison"
 country: "Global"
 selling_price: 4
 inputs:

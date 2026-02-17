@@ -1,6 +1,6 @@
 ---
 title: "Label Printing Labor"
-company: "Various Label Printing Companies"
+company: "Avery Dennison / CCL Industries / Multi-Color Corporation"
 country: "China"
 selling_price: 12.00
 inputs:

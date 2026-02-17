@@ -1,6 +1,6 @@
 ---
 title: "Compression Springs"
-company: "Various Manufacturers"
+company: "Lesjöfors / Lee Spring / Associated Spring"
 country: "Global"
 selling_price: 8
 inputs:

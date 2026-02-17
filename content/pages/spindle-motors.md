@@ -1,6 +1,6 @@
 ---
 title: "Spindle Motors"
-company: "Various Manufacturers"
+company: "ABB / Siemens / WEG"
 country: "Global"
 selling_price: 8
 inputs:

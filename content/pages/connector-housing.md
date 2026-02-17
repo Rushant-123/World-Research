@@ -1,6 +1,6 @@
 ---
 title: "Connector Housing"
-company: "Various Manufacturers"
+company: "TE Connectivity / Amphenol / Molex"
 country: "Global"
 selling_price: 8
 inputs:

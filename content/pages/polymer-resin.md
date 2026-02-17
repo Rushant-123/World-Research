@@ -1,6 +1,6 @@
 ---
 title: "Polymer Resin"
-company: "Industrial Manufacturer"
+company: "Huntsman / Hexion / Olin"
 country: "Global"
 selling_price: 35
 inputs:

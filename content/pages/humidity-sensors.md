@@ -1,6 +1,6 @@
 ---
 title: "Humidity Sensors"
-company: "Various Manufacturers"
+company: "TE Connectivity / Honeywell / Bosch"
 country: "Global"
 selling_price: 8
 inputs:

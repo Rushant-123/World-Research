@@ -1,6 +1,6 @@
 ---
 title: "Inspection Software"
-company: "Various Manufacturers"
+company: "Microsoft / Oracle / SAP"
 country: "Global"
 selling_price: 8
 inputs:

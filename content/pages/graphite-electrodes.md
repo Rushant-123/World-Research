@@ -1,6 +1,6 @@
 ---
 title: "Graphite Electrodes"
-company: "Industrial Manufacturer"
+company: "SGL Carbon / Tokai Carbon / GrafTech"
 country: "Global"
 selling_price: 35
 inputs:

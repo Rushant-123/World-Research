@@ -1,6 +1,6 @@
 ---
 title: "Sulfuric Acid Plant"
-company: "Various Manufacturers"
+company: "Dow / BASF / Solvay"
 country: "Global"
 selling_price: 8
 inputs:

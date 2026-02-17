@@ -1,6 +1,6 @@
 ---
 title: "Magnetite Catalyst"
-company: "Materials Producer"
+company: "BASF / Johnson Matthey / Clariant"
 country: "Global"
 selling_price: 4.5
 inputs:

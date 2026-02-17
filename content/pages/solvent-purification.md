@@ -1,6 +1,6 @@
 ---
 title: "Solvent Purification"
-company: "Various Manufacturers"
+company: "ExxonMobil / Shell / Dow"
 country: "Global"
 selling_price: 8
 inputs:

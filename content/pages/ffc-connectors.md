@@ -1,6 +1,6 @@
 ---
 title: "Ffc Connectors"
-company: "Industrial Manufacturer"
+company: "TE Connectivity / Amphenol / Molex"
 country: "Global"
 selling_price: 35
 inputs:

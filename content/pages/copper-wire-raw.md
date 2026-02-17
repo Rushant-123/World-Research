@@ -1,6 +1,6 @@
 ---
 title: "Copper Wire Raw"
-company: "Industrial Manufacturer"
+company: "Prysmian / Southwire / General Cable"
 country: "Global"
 selling_price: 35
 inputs:

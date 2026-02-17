@@ -1,6 +1,6 @@
 ---
 title: "Mim Capacitors"
-company: "Various Manufacturers"
+company: "Murata / Samsung Electro-Mechanics / TDK"
 country: "Global"
 selling_price: 8
 inputs:

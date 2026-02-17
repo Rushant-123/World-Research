@@ -1,6 +1,6 @@
 ---
 title: "Acid Leaching Process"
-company: "Various Mining Operations"
+company: "Dow / BASF / Solvay"
 country: "Global"
 selling_price: 35
 inputs:

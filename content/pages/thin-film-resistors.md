@@ -1,6 +1,6 @@
 ---
 title: "Thin Film Resistors"
-company: "Various Manufacturers"
+company: "Yageo / Vishay / KOA Speer"
 country: "Global"
 selling_price: 4
 inputs:

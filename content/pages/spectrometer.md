@@ -1,6 +1,6 @@
 ---
 title: "Spectrometer"
-company: "Industrial Manufacturer"
+company: "Fluke / Keysight / Tektronix"
 country: "Global"
 selling_price: 35
 inputs:

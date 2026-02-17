@@ -1,6 +1,6 @@
 ---
 title: "Product Labels"
-company: "Various Manufacturers"
+company: "Avery Dennison / CCL Industries / Multi-Color Corporation"
 country: "Global"
 selling_price: 8
 inputs:

@@ -1,6 +1,6 @@
 ---
 title: "Ir Filter"
-company: "Industrial Manufacturer"
+company: "Pall Corporation / Donaldson / Parker Hannifin"
 country: "Global"
 selling_price: 35
 inputs:

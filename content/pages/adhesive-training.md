@@ -1,6 +1,6 @@
 ---
 title: "Adhesive Training"
-company: "Various Manufacturers"
+company: "Henkel / 3M / H.B. Fuller"
 country: "Global"
 selling_price: 0
 inputs:

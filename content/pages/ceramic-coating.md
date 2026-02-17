@@ -1,6 +1,6 @@
 ---
 title: "Ceramic Coating"
-company: "Various Manufacturers"
+company: "Kyocera / CoorsTek / Morgan Advanced Materials"
 country: "Global"
 selling_price: 8
 inputs:

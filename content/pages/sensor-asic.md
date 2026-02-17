@@ -1,6 +1,6 @@
 ---
 title: "Sensor Asic"
-company: "Semiconductor Manufacturer"
+company: "TE Connectivity / Honeywell / Bosch"
 country: "Taiwan"
 selling_price: 2.5
 inputs:

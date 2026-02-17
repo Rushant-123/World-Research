@@ -1,6 +1,6 @@
 ---
 title: "Software Developers"
-company: "Various"
+company: "Microsoft / Oracle / SAP"
 country: "Global"
 selling_price: 120000
 inputs:
@@ -29,6 +29,13 @@ value_created: 77150
 ---
 
 # How to Make Software Developers
+
+**Top Market Leaders:**
+- [Microsoft](/companies/microsoft)
+- [Oracle](/companies/oracle)
+- [SAP](/companies/sap)
+
+
 
 Software developers are professionals who design, create, test, and maintain software applications and systems. They write code to solve problems, build products, and create digital experiences. The profession emerged in the mid-20th century and has become one of the most in-demand careers globally.
 

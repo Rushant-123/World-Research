@@ -1,6 +1,6 @@
 ---
 title: "Polymer Capacitors"
-company: "Various Manufacturers"
+company: "Dow / BASF / DuPont"
 country: "Global"
 selling_price: 8
 inputs:

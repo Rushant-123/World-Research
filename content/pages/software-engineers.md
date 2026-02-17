@@ -1,6 +1,6 @@
 ---
 title: "Software Engineer Education"
-company: "Various"
+company: "Microsoft / Oracle / SAP"
 country: "Global"
 selling_price: 0
 inputs:
@@ -20,6 +20,13 @@ value_created: 0
 ---
 
 # Software Engineer Education and Development
+
+**Top Market Leaders:**
+- [Microsoft](/companies/microsoft)
+- [Oracle](/companies/oracle)
+- [SAP](/companies/sap)
+
+
 
 ## Phase 1: Foundational Computer Science Education (Steps 1-35)
 

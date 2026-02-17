@@ -1,6 +1,6 @@
 ---
 title: "Organic Solvent"
-company: "Semiconductor Manufacturer"
+company: "ExxonMobil / Shell / Dow"
 country: "Taiwan"
 selling_price: 2.5
 inputs:

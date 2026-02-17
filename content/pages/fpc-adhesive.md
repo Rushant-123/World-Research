@@ -1,6 +1,6 @@
 ---
 title: "Fpc Adhesive"
-company: "Various Manufacturers"
+company: "Henkel / 3M / H.B. Fuller"
 country: "Global"
 selling_price: 8
 inputs:

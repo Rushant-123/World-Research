@@ -1,6 +1,6 @@
 ---
 title: "Bond Wire"
-company: "Various Manufacturers"
+company: "Prysmian / Southwire / General Cable"
 country: "Global"
 selling_price: 8
 inputs:

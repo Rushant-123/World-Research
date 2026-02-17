@@ -1,6 +1,6 @@
 ---
 title: "Abs Resin"
-company: "Various Manufacturers"
+company: "SABIC / LG Chem / INEOS Styrolution"
 country: "Global"
 selling_price: 8
 inputs:

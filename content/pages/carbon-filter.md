@@ -1,6 +1,6 @@
 ---
 title: "Carbon Filter"
-company: "Various Manufacturers"
+company: "Pall Corporation / Donaldson / Parker Hannifin"
 country: "Global"
 selling_price: 8
 inputs:

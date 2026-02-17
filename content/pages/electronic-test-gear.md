@@ -1,6 +1,6 @@
 ---
 title: "Electronic Test Gear"
-company: "Various Manufacturers"
+company: "SEW-Eurodrive / Bonfiglioli / Nord Drivesystems"
 country: "Global"
 selling_price: 8
 inputs:

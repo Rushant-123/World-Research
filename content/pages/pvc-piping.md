@@ -1,6 +1,6 @@
 ---
 title: "Pvc Piping"
-company: "Various Manufacturers"
+company: "Shin-Etsu / Formosa Plastics / Westlake Chemical"
 country: "Global"
 selling_price: 8
 inputs:

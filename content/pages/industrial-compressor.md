@@ -1,6 +1,6 @@
 ---
 title: "Industrial Compressor"
-company: "Various Manufacturers"
+company: "Atlas Copco / Ingersoll Rand / Gardner Denver"
 country: "Global"
 selling_price: 8
 inputs:

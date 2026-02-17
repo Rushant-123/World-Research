@@ -1,6 +1,6 @@
 ---
 title: "Polypropylene Resin"
-company: "Various Manufacturers"
+company: "LyondellBasell / SABIC / ExxonMobil"
 country: "Global"
 selling_price: 8
 inputs:

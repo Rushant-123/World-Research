@@ -1,6 +1,6 @@
 ---
 title: "3d Camera"
-company: "Various Manufacturers"
+company: "Sony / Samsung / OmniVision"
 country: "Global"
 selling_price: 8
 inputs:

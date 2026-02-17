@@ -1,6 +1,6 @@
 ---
 title: "Ground Tester"
-company: "Various Manufacturers"
+company: "Teradyne / Advantest / Keysight"
 country: "Global"
 selling_price: 8
 inputs:

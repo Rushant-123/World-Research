@@ -1,6 +1,6 @@
 ---
 title: "Wireless Power Ic"
-company: "Semiconductor Manufacturer"
+company: "Prysmian / Southwire / General Cable"
 country: "Taiwan"
 selling_price: 2.5
 inputs:

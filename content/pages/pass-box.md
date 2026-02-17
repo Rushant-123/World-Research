@@ -1,6 +1,6 @@
 ---
 title: "Pass Box"
-company: "Various Manufacturers"
+company: "International Paper / WestRock / Smurfit Kappa"
 country: "Global"
 selling_price: 8
 inputs:

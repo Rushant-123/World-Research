@@ -1,6 +1,6 @@
 ---
 title: "Vanadium Catalyst"
-company: "Various Manufacturers"
+company: "BASF / Johnson Matthey / Clariant"
 country: "Global"
 selling_price: 8
 inputs:

@@ -1,6 +1,6 @@
 ---
 title: "Automated Cable Assembly"
-company: "Various Cable Assembly Companies"
+company: "Prysmian / Nexans / Sumitomo Electric"
 country: "China"
 selling_price: 250000.00
 inputs:

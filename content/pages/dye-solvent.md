@@ -1,6 +1,6 @@
 ---
 title: "Dye Solvent"
-company: "Various Manufacturers"
+company: "ExxonMobil / Shell / Dow"
 country: "Global"
 selling_price: 6
 inputs:

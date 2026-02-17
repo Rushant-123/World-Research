@@ -1,6 +1,6 @@
 ---
 title: "Motor Driver"
-company: "Industrial Manufacturer"
+company: "ABB / Siemens / WEG"
 country: "Global"
 selling_price: 35
 inputs:

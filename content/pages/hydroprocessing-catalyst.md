@@ -1,6 +1,6 @@
 ---
 title: "Hydroprocessing Catalyst"
-company: "Various Manufacturers"
+company: "BASF / Johnson Matthey / Clariant"
 country: "Global"
 selling_price: 0
 inputs:

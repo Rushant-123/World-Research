@@ -1,6 +1,6 @@
 ---
 title: "Twin Screw Extruder"
-company: "Industrial Manufacturer"
+company: "Fastenal / Würth / ITW"
 country: "Global"
 selling_price: 35
 inputs:
