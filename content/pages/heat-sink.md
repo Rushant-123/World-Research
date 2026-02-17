@@ -18,6 +18,12 @@ value_created: 0.2
 
 # Aluminum Heat Sink Manufacturing for Mac Cooling
 
+**Top Market Leaders:**
+- [Rio Tinto](/companies/rio-tinto)
+- [Alcoa](/companies/alcoa)
+
+
+
 ## Phase 1: Design and Thermal Analysis (Steps 1-25)
 
 1. Receive thermal dissipation requirements from Mac design team (TDP: 15-45W)

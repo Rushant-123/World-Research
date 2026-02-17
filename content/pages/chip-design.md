@@ -21,6 +21,13 @@ value_created: 0
 
 # How to Make Chip Design Files
 
+**Top Market Leaders:**
+- [Tsmc](/companies/tsmc)
+- [Samsung Electronics](/companies/samsung-electronics)
+- [Intel](/companies/intel)
+
+
+
 Complete circuit layout for M3 chip. 3-5 years development, 1000+ engineers, $1-3 billion cost. GDSII format files defining every transistor, wire, via.
 
 [Chip Designers](chip-designers) use [EDA Software](design-automation-tools) (Cadence, Synopsys, Mentor). RTL design → synthesis → place & route → verification. [Simulation Tools](verification-software) verify functionality, timing, power. [Design Libraries](cell-libraries) provide standard cells (AND, OR, flip-flops). Result: GDSII files + verification reports. Files: 100-500 GB. Contains 20-50 billion transistors for M3. Tape-out: final design sent to TSMC.

@@ -24,6 +24,13 @@ value_created: 2.6
 
 # Display Glass Substrate Manufacturing Process
 
+**Top Market Leaders:**
+- [Samsung Electronics](/companies/samsung-electronics)
+- [Lg Display](/companies/lg-display)
+- [Boe](/companies/boe)
+
+
+
 Ultra-thin glass substrates for Mac Retina displays require precision manufacturing to achieve 0.5-0.7mm thickness with exceptional optical clarity, surface quality, and mechanical strength. This process combines advanced fusion draw technology with chemical strengthening.
 
 ## Raw Material Preparation and Batch Mixing

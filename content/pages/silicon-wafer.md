@@ -69,6 +69,13 @@ value_created: -18
 
 # How to Make a Silicon Wafer
 
+**Top Market Leaders:**
+- [TSMC](/companies/tsmc) - 54% share
+- [Samsung](/companies/samsung-electronics) - 16% share
+- [Intel](/companies/intel) - 8% share
+
+
+
 A silicon wafer is a thin, circular disc of ultra-pure crystalline silicon used as the substrate for manufacturing computer chips. They're typically 300mm (12 inches) in diameter and less than 1mm thick.
 
 ## What is it?

@@ -117,6 +117,13 @@ value_created: -341
 
 # How to Make an M3 Chip
 
+**Top Market Leaders:**
+- [Tsmc](/companies/tsmc)
+- [Samsung Electronics](/companies/samsung-electronics)
+- [Intel](/companies/intel)
+
+
+
 The M3 chip is Apple's custom-designed processor manufactured by TSMC (Taiwan Semiconductor Manufacturing Company) using advanced 3-nanometer process technology. It combines CPU, GPU, and Neural Engine on a single piece of silicon.
 
 ## What is it?

@@ -51,6 +51,13 @@ value_created: 3.5
 
 # How to Make a Lithium-Ion Battery
 
+**Top Market Leaders:**
+- [Catl](/companies/catl)
+- [Lg Energy](/companies/lg-energy)
+- [Panasonic](/companies/panasonic)
+
+
+
 A lithium-ion battery stores electrical energy through reversible electrochemical reactions. Lithium ions move between anode and cathode during charge/discharge cycles. Used in laptops, phones, and electric vehicles.
 
 ## What is it?

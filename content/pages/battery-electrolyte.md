@@ -24,6 +24,13 @@ value_created: 0.7
 
 # Lithium Battery Electrolyte Production Process
 
+**Top Market Leaders:**
+- [Catl](/companies/catl)
+- [Lg Energy](/companies/lg-energy)
+- [Panasonic](/companies/panasonic)
+
+
+
 ## Phase 1: Raw Material Preparation and Quality Control (Steps 1-25)
 
 ### Raw Material Reception and Inspection

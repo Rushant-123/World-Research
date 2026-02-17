@@ -51,6 +51,13 @@ value_created: 0
 
 # How to Make a Display Panel
 
+**Top Market Leaders:**
+- [Samsung Electronics](/companies/samsung-electronics)
+- [Lg Display](/companies/lg-display)
+- [Boe](/companies/boe)
+
+
+
 A laptop display panel is typically an LCD (liquid crystal display) or OLED (organic LED) panel. Modern MacBooks use mini-LED or OLED technology for improved brightness and contrast. This page covers LCD manufacturing, the most common type.
 
 ## What is it?

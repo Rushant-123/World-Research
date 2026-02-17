@@ -21,6 +21,13 @@ value_created: 0.5
 
 # Electrolytic Copper Foil Manufacturing Process
 
+**Top Market Leaders:**
+- [Freeport Mcmoran](/companies/freeport-mcmoran)
+- [Bhp](/companies/bhp)
+- [Glencore](/companies/glencore)
+
+
+
 ## Introduction to Electrolytic Copper Foil
 
 1. Understand that electrolytic copper foil is a thin copper sheet produced through electrodeposition, primarily used in printed circuit boards (PCBs) and lithium-ion batteries.

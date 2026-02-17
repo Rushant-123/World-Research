@@ -24,6 +24,13 @@ value_created: 1.5
 
 # Display Driver IC Manufacturing Process
 
+**Top Market Leaders:**
+- [Samsung Electronics](/companies/samsung-electronics)
+- [Lg Display](/companies/lg-display)
+- [Boe](/companies/boe)
+
+
+
 ## Overview
 Display driver ICs are critical components that control LCD and OLED panels by converting digital signals into analog voltages for pixel control. This document details the 195-step process for manufacturing a complete display driver IC with timing controller (TCON), source drivers, gate drivers, and COF packaging.
 

@@ -42,6 +42,12 @@ value_created: 0
 
 # How to Make an Aluminum Chassis
 
+**Top Market Leaders:**
+- [Rio Tinto](/companies/rio-tinto)
+- [Alcoa](/companies/alcoa)
+
+
+
 An aluminum chassis is the main structural body of a laptop, machined from a single block of aluminum using CNC (computer numerical control) milling. Apple pioneered the unibody design which is stronger and lighter than assembled metal parts.
 
 ## What is it?

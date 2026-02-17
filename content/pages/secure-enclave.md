@@ -21,6 +21,13 @@ value_created: 0.9
 
 # Secure Enclave Processor Manufacturing Process
 
+**Top Market Leaders:**
+- [Intel](/companies/intel)
+- [Amd](/companies/amd)
+- [Qualcomm](/companies/qualcomm)
+
+
+
 ## Overview
 The Secure Enclave Processor is a dedicated coprocessor integrated into Apple system-on-chip (SoC) designs. It provides hardware-level security for sensitive operations including cryptographic operations, biometric authentication, and secure key management. This isolated processor operates independently from the main application processor to ensure maximum security for user data.
 

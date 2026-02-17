@@ -27,6 +27,13 @@ value_created: 8
 
 # How to Make Chip Design Engineers
 
+**Top Market Leaders:**
+- [Tsmc](/companies/tsmc)
+- [Samsung Electronics](/companies/samsung-electronics)
+- [Intel](/companies/intel)
+
+
+
 Skilled workforce designing integrated circuits. Typical team for major chip (M3 class): 1,000-2,000 engineers over 3-5 years. Disciplines: architecture, RTL design, verification, physical design, analog/mixed-signal, DFT (design-for-test), power optimization, timing closure. Shortage: ~70,000 unfilled positions globally (2024), growing demand.
 
 **Step 1-15: [University Education](electrical-engineering-degree) - Undergraduate**

@@ -18,6 +18,13 @@ value_created: 15.0
 
 # Manufacturing Process: MicroLED Display
 
+**Top Market Leaders:**
+- [Samsung Electronics](/companies/samsung-electronics)
+- [Lg Display](/companies/lg-display)
+- [Boe](/companies/boe)
+
+
+
 ## Substrate Preparation
 
 1. Receive CMOS backplane substrate with pixel driver circuits pre-fabricated

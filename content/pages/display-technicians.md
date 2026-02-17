@@ -18,6 +18,13 @@ value_created: 0.3
 
 # Display Manufacturing Technicians
 
+**Top Market Leaders:**
+- [Samsung Electronics](/companies/samsung-electronics)
+- [Lg Display](/companies/lg-display)
+- [Boe](/companies/boe)
+
+
+
 ## Step 1: Introduction to Display Manufacturing
 Understand the fundamentals of display manufacturing including LCD, OLED, and microLED technologies. Learn about the critical role technicians play in ensuring product quality and manufacturing efficiency.
 

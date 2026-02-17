@@ -27,6 +27,9 @@ value_created: 0
 
 # How to Make EUV Lithography Machine
 
+**Market Leader:** [ASML](/companies/asml) (100% market share)
+
+
 Most complex machine humans have ever built. ASML Twinscan NXE:3800 costs $200 million, weighs 180 tons. Uses 13.5nm wavelength extreme ultraviolet light to pattern sub-7nm features on silicon wafers. Enables cutting-edge chips (M3, latest GPUs, advanced AI processors).
 
 ## Key Components:

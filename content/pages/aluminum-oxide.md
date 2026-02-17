@@ -30,6 +30,12 @@ value_created: 0
 
 # How to Make Aluminum Oxide (Al₂O₃)
 
+**Top Market Leaders:**
+- [Rio Tinto](/companies/rio-tinto)
+- [Alcoa](/companies/alcoa)
+
+
+
 Alumina - intermediate between bauxite ore and aluminum metal. Also: ceramics, abrasives, refractories, catalysts, sapphire substrates. Global production: 140 million tonnes/year (90% metallurgical-grade for aluminum smelting, 10% specialty grades). Bayer process: chemical extraction from bauxite ore.
 
 **Step 1-15: [Bauxite Ore](bauxite-mining) Mining and Composition**

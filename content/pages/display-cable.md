@@ -33,6 +33,13 @@ value_created: 0
 
 # How to Make Display Cable (DisplayPort/HDMI)
 
+**Top Market Leaders:**
+- [Samsung Electronics](/companies/samsung-electronics)
+- [Lg Display](/companies/lg-display)
+- [Boe](/companies/boe)
+
+
+
 High-speed digital video/audio cable connecting computer to display. DisplayPort (DP) or HDMI protocols transmit compressed/uncompressed video, audio, control signals. Modern MacBooks: Mini DisplayPort, USB-C with DP Alt Mode, or Thunderbolt (DP tunneling). Cable specifications: DP 1.4 (32.4 Gbps, 8K@60Hz), DP 2.0 (80 Gbps, 16K), HDMI 2.1 (48 Gbps, 10K@60Hz). Construction: shielded twisted-pair copper conductors, EMI shielding, strain relief, precision connectors. Global production: 500+ million cables/year.
 
 **Step 1-15: [Copper Wire](copper-wire) Conductor Production**

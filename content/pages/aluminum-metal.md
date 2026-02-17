@@ -24,6 +24,13 @@ value_created: 0
 
 # How to Make Aluminum Metal
 
+**Top Market Leaders:**
+- [Rio Tinto](/companies/rio-tinto) - 18% share
+- [Alcoa](/companies/alcoa) - 14% share
+- [Norsk Hydro](/companies/norsk-hydro) - 11% share
+
+
+
 Aluminum extracted from [Bauxite Ore](bauxite-mining) (Al₂O₃·2H₂O). Two-step process: Bayer Process (bauxite → alumina) + Hall-Héroult Process (alumina → aluminum).
 
 ## Bayer Process:

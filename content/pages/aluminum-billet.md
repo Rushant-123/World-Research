@@ -21,6 +21,12 @@ value_created: 0.5
 
 # Aluminum Billet Manufacturing for Mac Unibody Enclosures
 
+**Top Market Leaders:**
+- [Rio Tinto](/companies/rio-tinto)
+- [Alcoa](/companies/alcoa)
+
+
+
 ## Phase 1: Alloy Selection and Specification (Steps 1-20)
 
 1. Evaluate material requirements for Mac unibody applications requiring high strength-to-weight ratio and excellent surface finish capability.

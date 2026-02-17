@@ -24,6 +24,13 @@ value_created: 3.0
 
 # SSD Controller Chip Manufacturing Process
 
+**Top Market Leaders:**
+- [Tsmc](/companies/tsmc)
+- [Samsung Electronics](/companies/samsung-electronics)
+- [Intel](/companies/intel)
+
+
+
 ## Phase 1: Design and Architecture (Steps 1-25)
 
 ### Firmware Processor Architecture

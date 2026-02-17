@@ -24,6 +24,13 @@ value_created: 1.0
 
 # Battery Management System for Mac Batteries
 
+**Top Market Leaders:**
+- [Catl](/companies/catl)
+- [Lg Energy](/companies/lg-energy)
+- [Panasonic](/companies/panasonic)
+
+
+
 A comprehensive Battery Management System (BMS) designed for lithium-ion battery packs used in MacBook laptops, providing cell monitoring, protection, balancing, and state estimation capabilities.
 
 ## Hardware Design Phase

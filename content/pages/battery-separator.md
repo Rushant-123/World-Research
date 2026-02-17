@@ -21,6 +21,13 @@ value_created: 0.2
 
 # Battery Separator Membrane Production
 
+**Top Market Leaders:**
+- [Catl](/companies/catl)
+- [Lg Energy](/companies/lg-energy)
+- [Panasonic](/companies/panasonic)
+
+
+
 ## Raw Material Preparation and Quality Control
 
 1. Receive ultra-high molecular weight polyethylene (UHMWPE) resin in powder form with molecular weight 2-6 million g/mol

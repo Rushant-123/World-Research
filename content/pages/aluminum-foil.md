@@ -21,6 +21,12 @@ value_created: 0.1
 
 # Aluminum Foil Manufacturing Process
 
+**Top Market Leaders:**
+- [Rio Tinto](/companies/rio-tinto)
+- [Alcoa](/companies/alcoa)
+
+
+
 ## Overview
 Aluminum foil production involves rolling aluminum ingots through multiple passes to achieve ultra-thin gauges of 7-200 micrometers, suitable for cable shielding and battery current collectors. The process requires precise control of temperature, tension, and surface quality.
 

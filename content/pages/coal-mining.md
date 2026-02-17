@@ -30,6 +30,13 @@ value_created: 0
 
 # How to Make Coal Mining Operations
 
+**Top Market Leaders:**
+- [Rio Tinto](/companies/rio-tinto)
+- [Bhp](/companies/bhp)
+- [Vale](/companies/vale)
+
+
+
 Coal mining extracts coal from underground seams or surface deposits for use in power generation (60% globally), steelmaking (15%), cement production (8%), and industrial processes (17%). Two primary methods: surface mining (open-pit, strip mining) for shallow deposits <150m depth, and underground mining (room-and-pillar, longwall) for deeper seams 150-1,500m depth. Global production: 8.5 billion tonnes/year (2025), dominated by China (50%), India (12%), Indonesia (9%), USA (7%), Australia (7%). Coal reserves: 1.1 trillion tonnes, 130-year supply at current rates. Industry declining in developed nations due to climate concerns, but growing in Asia.
 
 ## What is it?

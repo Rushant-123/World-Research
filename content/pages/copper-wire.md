@@ -21,6 +21,13 @@ value_created: 0.025
 
 # Insulated Copper Wire Manufacturing Process
 
+**Top Market Leaders:**
+- [Freeport Mcmoran](/companies/freeport-mcmoran)
+- [Bhp](/companies/bhp)
+- [Glencore](/companies/glencore)
+
+
+
 ## Overview
 This document details the 195-step process for manufacturing insulated copper wire from copper rod, including wire drawing operations that reduce 8mm diameter copper rod down to fine wires ranging from 0.1mm to 2mm, followed by annealing, insulation application, stranding operations, comprehensive testing, and final spooling for distribution.
 

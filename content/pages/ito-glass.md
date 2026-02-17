@@ -21,6 +21,9 @@ value_created: 0.7
 
 # ITO Coated Glass Manufacturing Process
 
+**Market Leader:** [Corning](/companies/corning)
+
+
 ## Raw Material Preparation and Quality Control
 
 1. Receive glass substrate shipment from cover glass manufacturer

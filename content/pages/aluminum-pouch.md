@@ -24,6 +24,12 @@ value_created: 0.1
 
 # Aluminum Pouch Material Manufacturing Process
 
+**Top Market Leaders:**
+- [Rio Tinto](/companies/rio-tinto)
+- [Alcoa](/companies/alcoa)
+
+
+
 ## Material Selection and Preparation (Steps 1-15)
 
 ### 1. Aluminum Foil Selection

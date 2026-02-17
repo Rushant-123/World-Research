@@ -24,6 +24,13 @@ value_created: 300000.0
 
 # Mining Excavation Machinery Manufacturing Process
 
+**Top Market Leaders:**
+- [Rio Tinto](/companies/rio-tinto)
+- [Bhp](/companies/bhp)
+- [Vale](/companies/vale)
+
+
+
 ## Frame and Undercarriage Foundation
 
 1. **Steel Plate Inspection**: Receive and inspect high-strength steel plates (50-100mm thick) for structural frame components, checking for mill certificates and material composition.

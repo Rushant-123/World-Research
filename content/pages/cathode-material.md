@@ -24,6 +24,13 @@ value_created: 1.5
 
 # Lithium-Ion Battery Cathode Material Synthesis
 
+**Top Market Leaders:**
+- [Catl](/companies/catl)
+- [Lg Energy](/companies/lg-energy)
+- [Panasonic](/companies/panasonic)
+
+
+
 This comprehensive guide covers the industrial-scale synthesis of lithium-ion battery cathode materials including NMC (Nickel Manganese Cobalt), NCA (Nickel Cobalt Aluminum), and LFP (Lithium Iron Phosphate) for high-performance applications such as MacBook batteries.
 
 ## Raw Material Preparation and Quality Control

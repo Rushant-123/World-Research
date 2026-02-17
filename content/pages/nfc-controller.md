@@ -18,6 +18,13 @@ value_created: 0.4
 
 # NFC Controller Chip Manufacturing Process
 
+**Top Market Leaders:**
+- [Tsmc](/companies/tsmc)
+- [Samsung Electronics](/companies/samsung-electronics)
+- [Intel](/companies/intel)
+
+
+
 ## Phase 1: Design and Architecture (Steps 1-25)
 
 ### ISO 14443 Protocol Implementation

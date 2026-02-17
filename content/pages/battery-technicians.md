@@ -18,6 +18,13 @@ value_created: 0.2
 
 # Battery Manufacturing Technicians Training Program
 
+**Top Market Leaders:**
+- [Catl](/companies/catl)
+- [Lg Energy](/companies/lg-energy)
+- [Panasonic](/companies/panasonic)
+
+
+
 ## Module 1: Battery Safety Fundamentals (Steps 1-30)
 
 1. Review the Material Safety Data Sheets (MSDS) for all battery components including lithium compounds, electrolytes, and solvents

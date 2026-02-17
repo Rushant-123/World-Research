@@ -24,6 +24,13 @@ value_created: 0
 
 # How to Make Chip Packaging
 
+**Top Market Leaders:**
+- [Tsmc](/companies/tsmc)
+- [Samsung Electronics](/companies/samsung-electronics)
+- [Intel](/companies/intel)
+
+
+
 Protects silicon die, provides electrical connections, dissipates heat.
 
 **[Package Substrate](organic-substrate):** Multi-layer PCB (4-8 layers) with fine pitch traces. Connects die pads to [BGA Solder Balls](bga-solder-balls) on bottom.

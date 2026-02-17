@@ -18,6 +18,13 @@ value_created: 0.1
 
 # Stainless Steel Battery Can Manufacturing Process
 
+**Top Market Leaders:**
+- [Catl](/companies/catl)
+- [Lg Energy](/companies/lg-energy)
+- [Panasonic](/companies/panasonic)
+
+
+
 ## Material Preparation and Selection
 
 1. Source 18-8 stainless steel strip (AISI 304) with 18% chromium and 8% nickel composition

@@ -24,6 +24,13 @@ value_created: 1.9
 
 # Thunderbolt Controller Chip Manufacturing Process
 
+**Top Market Leaders:**
+- [Tsmc](/companies/tsmc)
+- [Samsung Electronics](/companies/samsung-electronics)
+- [Intel](/companies/intel)
+
+
+
 ## Silicon Substrate Preparation
 
 1. Receive 300mm diameter silicon wafers with <100> crystal orientation optimized for high-speed digital logic

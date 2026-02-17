@@ -24,6 +24,13 @@ value_created: 0.3
 
 # Audio Codec Chip Manufacturing Process
 
+**Top Market Leaders:**
+- [Tsmc](/companies/tsmc)
+- [Samsung Electronics](/companies/samsung-electronics)
+- [Intel](/companies/intel)
+
+
+
 ## Phase 1: Architecture and Specification Definition
 
 ### Step 1: Audio Performance Requirements Analysis
