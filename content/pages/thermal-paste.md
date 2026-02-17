@@ -18,6 +18,10 @@ value_created: 0.007
 
 # How to Make Thermal Interface Paste for Mac Cooling
 
+**Market Leader:** [Shin-Etsu](/companies/shin-etsu)
+
+
+
 Thermal interface material (TIM) that conducts heat between processor dies and heatsinks in Mac computers. High-performance paste achieves 3-8 W/mK thermal conductivity through optimized filler loading and viscosity control. Applied in ultra-thin layers (25-75 microns) to maximize thermal transfer while resisting pump-out during thermal cycling.
 
 ## What is it?

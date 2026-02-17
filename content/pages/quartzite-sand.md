@@ -51,6 +51,10 @@ value_created: 0
 
 # How to Make Quartzite Sand
 
+**Market Leader:** [Mining Companies](/companies/mining-companies)
+
+
+
 Quartzite sand is naturally occurring silicon dioxide (SiO2) that forms from the weathering of quartz-rich rocks over millions of years. It's the primary raw material for making silicon used in computer chips and glass.
 
 ## What is it?

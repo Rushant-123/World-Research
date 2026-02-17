@@ -21,6 +21,10 @@ value_created: 0.2
 
 # LED Backlight Assembly Manufacturing Process
 
+**Market Leader:** [Seoul Semiconductor](/companies/seoul-semiconductor)
+
+
+
 ## Phase 1: Material Preparation and Incoming Quality Control
 
 ### Step 1: LED Chip Reception

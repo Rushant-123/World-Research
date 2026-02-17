@@ -42,6 +42,13 @@ value_created: 0.16
 
 # How to Make Nickel Metal
 
+**Top Market Leaders:**
+- [Vale](/companies/vale)
+- [Norilsk Nickel](/companies/norilsk-nickel)
+- [Glencore](/companies/glencore)
+
+
+
 Nickel - essential metal for stainless steel (70% of demand), lithium-ion batteries (15%, growing rapidly for EVs), superalloys (10%), electroplating (5%). Extracted from laterite ores (70% of reserves, HPAL pressure acid leaching) or sulfide ores (30% of production, traditional flash smelting). Global production: 3.3 million tonnes/year. Top producers: Indonesia (1.6 Mt, 48%), Philippines (0.4 Mt, 12%), Russia (0.22 Mt, 7%), New Caledonia (0.19 Mt, 6%), Australia (0.16 Mt, 5%). Final purity: 99.8-99.99% Ni for various applications.
 
 **Step 1-12: Laterite Ore Mining and Composition**

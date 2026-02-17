@@ -1,0 +1,34 @@
+---
+title: "Kraton Polymers"
+type: "companies"
+industry: "Materials & Plastics"
+country: "Global"
+revenue: 3500000000
+market_cap: 11707500000
+
+products:
+  - name: "Thermoplastic Elastomer"
+    link: "thermoplastic-elastomer"
+
+financials:
+  profit_margin: 11.5
+  operating_margin: 15.0
+---
+
+# Kraton Polymers
+
+Kraton Polymers is a major player in the Materials & Plastics industry, manufacturing products across the global supply chain.
+
+## Products
+
+Kraton Polymers produces 1 products in our database, including:
+
+- Thermoplastic Elastomer
+
+## Market Position
+
+As a Materials & Plastics company operating primarily in Global, Kraton Polymers supplies critical components and materials to the global technology supply chain.
+
+## Industry
+
+**Materials & Plastics**: Companies in this sector typically have 11.5% profit margins and invest 3.5% of revenue in R&D.

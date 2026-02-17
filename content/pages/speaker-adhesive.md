@@ -21,6 +21,10 @@ value_created: 0.006
 
 # Speaker Assembly Adhesive Manufacturing Process
 
+**Market Leader:** [Henkel](/companies/henkel)
+
+
+
 ## Phase 1: Raw Material Preparation and Quality Control
 
 1. Receive epoxy resin shipment in 200L drums and verify batch documentation

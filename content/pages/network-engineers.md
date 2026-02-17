@@ -33,6 +33,13 @@ value_created: 0
 
 # How to Make Network Engineers
 
+**Top Market Leaders:**
+- [ISPs](/companies/isps)
+- [Enterprises](/companies/enterprises)
+- [Cloud Providers](/companies/cloud-providers)
+
+
+
 Skilled professionals who design, implement, and maintain computer networks - from small enterprise LANs to global ISP infrastructure and massive data center fabrics. Network engineers work on routers, switches, firewalls, load balancers, wireless systems, and network security. Global shortage: ~300,000 unfilled network positions (2025), driven by cloud migration, 5G deployment, IoT expansion, cybersecurity needs, and aging workforce. Specializations: routing/switching, wireless, security, data center, service provider, network automation/DevOps.
 
 ## What is it?

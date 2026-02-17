@@ -24,6 +24,12 @@ value_created: 0
 
 # How to Make CMP Equipment
 
+**Top Market Leaders:**
+- [Applied Materials](/companies/applied-materials)
+- [Ebara](/companies/ebara)
+
+
+
 Planarizes wafer surface by combining chemical etching and mechanical abrasion. Wafer pressed against rotating pad with abrasive slurry. Removes high spots, creates flat surface for next lithography step. Critical for multi-level interconnects - each metal layer must be flat.
 
 ## Components:

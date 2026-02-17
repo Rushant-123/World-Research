@@ -24,6 +24,10 @@ value_created: 0.4
 
 # Neodymium Magnet Production Process
 
+**Market Leader:** [Hitachi Metals](/companies/hitachi-metals)
+
+
+
 ## Raw Material Preparation and Inspection
 
 1. Receive neodymium oxide (Nd2O3) shipment in sealed containers from rare earth processing facility

@@ -27,6 +27,10 @@ value_created: 48.0
 
 # Manufacturing Process: Assembly Automation System
 
+**Market Leader:** [FANUC Corporation](/companies/fanuc-corporation)
+
+
+
 ## Phase 1: Requirements Analysis and System Design
 
 1. **Initial Customer Consultation**: Meet with client to understand production requirements, including product dimensions, cycle time targets, annual volume projections, and quality specifications.

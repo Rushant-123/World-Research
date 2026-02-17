@@ -24,6 +24,12 @@ value_created: 20000000.0
 
 # Offshore Oil Platform Manufacturing Process
 
+**Top Market Leaders:**
+- [McDermott](/companies/mcdermott)
+- [Technip](/companies/technip)
+
+
+
 ## Phase 1: Design and Engineering (Steps 1-25)
 
 1. Conduct seabed survey using multibeam sonar to map ocean floor topology and identify suitable foundation locations.

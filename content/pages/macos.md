@@ -24,6 +24,10 @@ value_created: 0
 
 # How to Make macOS Software
 
+**Market Leader:** [Apple](/companies/apple)
+
+
+
 macOS is Apple's proprietary operating system for Mac computers. Built on Unix (Darwin kernel, BSD subsystems), with proprietary Apple frameworks (Cocoa, Metal, Core Animation). Developed by thousands of engineers over decades. Major version released annually, minor updates throughout year.
 
 ## What is it?

@@ -24,6 +24,12 @@ value_created: 50.0
 
 # Structural Steel Fabrication
 
+**Top Market Leaders:**
+- [Nucor](/companies/nucor)
+- [AISC Members](/companies/aisc-members)
+
+
+
 Structural steel fabrication transforms raw steel materials into precision-engineered components for buildings, bridges, and infrastructure through cutting, forming, welding, and finishing operations.
 
 ## Steel Receiving and Inspection

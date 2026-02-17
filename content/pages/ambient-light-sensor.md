@@ -21,6 +21,10 @@ value_created: 0.02
 
 # Ambient Light Sensor Manufacturing Process
 
+**Market Leader:** [ams OSRAM](/companies/ams-osram)
+
+
+
 ## Photodiode Array Design and Fabrication
 
 ### Step 1: Silicon Wafer Selection

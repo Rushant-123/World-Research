@@ -21,6 +21,10 @@ value_created: 0.6
 
 # Analog ASIC Manufacturing Process
 
+**Market Leader:** [Analog Devices](/companies/analog-devices)
+
+
+
 ## Design Specification Phase
 
 1. Define sensor interface requirements and performance specifications

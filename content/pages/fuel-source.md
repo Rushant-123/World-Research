@@ -18,6 +18,10 @@ value_created: 0
 
 # How to Make Fuel Source
 
+**Market Leader:** [Energy Companies](/companies/energy-companies)
+
+
+
 Fossil fuels for power generation. **Coal:** Mined from [Coal Mine](coal-mining), transported by rail/barge. Types: anthracite (highest energy), bituminous, sub-bituminous, lignite. Energy content: 20-30 MJ/kg. Power plant burns pulverized coal.
 
 **Natural Gas:** Extracted from [Gas Well](gas-extraction). Primarily methane (CH₄). Transported via pipeline. Energy content: 38-40 MJ/m³. Burned in gas turbine or boiler. Cleaner than coal - 50% less CO₂ per kWh.

@@ -24,6 +24,10 @@ value_created: 0.35
 
 # Wire Bonder Manufacturing Process
 
+**Market Leader:** [Kulicke & Soffa](/companies/kulicke-soffa)
+
+
+
 ## System Architecture and Platform Setup
 
 ### 1-5: Base Platform Construction

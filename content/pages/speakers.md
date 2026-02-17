@@ -42,6 +42,13 @@ value_created: 0
 
 # How to Make Speakers (Laptop Audio)
 
+**Top Market Leaders:**
+- [AAC Technologies](/companies/aac-technologies)
+- [GoerTek](/companies/goertek)
+- [Knowles](/companies/knowles)
+
+
+
 Laptop speakers are miniature dynamic drivers that convert electrical signals to sound waves. Compact design (10-20mm diameter) fits in thin laptop chassis while delivering audio for music, videos, and calls. Modern MacBooks use stereo speakers with wide frequency response and spatial audio.
 
 ## What is it?

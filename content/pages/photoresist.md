@@ -24,6 +24,13 @@ value_created: 0
 
 # How to Make Photoresist
 
+**Top Market Leaders:**
+- [JSR](/companies/jsr)
+- [Tokyo Ohka Kogyo](/companies/tokyo-ohka-kogyo)
+- [DuPont](/companies/dupont)
+
+
+
 Light-sensitive chemical used in semiconductor photolithography. Coated on wafer, exposed through photomask, developed to create pattern. **Positive resist:** exposed areas dissolve. **Negative resist:** exposed areas harden.
 
 ## Composition:

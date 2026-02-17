@@ -24,6 +24,10 @@ value_created: 6.5
 
 # Multilayer PCB Manufacturing Process
 
+**Market Leader:** [TTM Technologies](/companies/ttm-technologies)
+
+
+
 ## Phase 1: Material Preparation and Incoming Inspection
 
 1. Receive copper-clad laminate sheets in controlled humidity environment

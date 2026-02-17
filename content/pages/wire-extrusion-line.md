@@ -24,6 +24,10 @@ value_created: 0.1
 
 # Wire Insulation Extrusion Line
 
+**Market Leader:** [Maillefer](/companies/maillefer)
+
+
+
 A comprehensive plastic insulation extrusion line for applying PVC, PE, or XLPE insulation onto copper or aluminum conductors for electrical cables. This industrial system integrates precise material handling, thermal processing, concentricity control, and quality assurance testing.
 
 ## Raw Material Preparation

@@ -24,6 +24,13 @@ value_created: 0
 
 # How to Make Hydrochloric Acid
 
+**Top Market Leaders:**
+- [Dow](/companies/dow)
+- [BASF](/companies/basf)
+- [Olin](/companies/olin)
+
+
+
 Strong acid (HCl). Two methods: **Direct synthesis** (H₂ + Cl₂) or **Byproduct** from chlorination reactions.
 
 ## Direct Synthesis:

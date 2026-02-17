@@ -24,6 +24,10 @@ value_created: 0.035
 
 # Epoxy Molding Compound Manufacturing Process
 
+**Market Leader:** [Sumitomo Bakelite](/companies/sumitomo-bakelite)
+
+
+
 ## Raw Material Preparation and Quality Control
 
 1. Receive epoxy resin shipment in temperature-controlled storage facility at 15-25°C

@@ -21,6 +21,10 @@ value_created: 0.7
 
 # Wireless Charging Module Manufacturing Process
 
+**Market Leader:** [IDT](/companies/idt)
+
+
+
 ## Overview of Qi Standard Wireless Charging
 
 1. Understand the Qi wireless power transfer standard developed by the Wireless Power Consortium (WPC).

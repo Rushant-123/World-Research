@@ -21,6 +21,10 @@ value_created: 0.01
 
 # Photoresist Developer Manufacturing Process
 
+**Market Leader:** [Tokyo Ohka Kogyo](/companies/tokyo-ohka-kogyo)
+
+
+
 ## Phase 1: Raw Material Preparation and Quality Control (Steps 1-25)
 
 ### TMAH Base Material Handling

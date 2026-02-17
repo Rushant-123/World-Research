@@ -21,6 +21,10 @@ value_created: 0
 
 # Training Cluster
 
+**Market Leader:** [Anthropic](/companies/anthropic)
+
+
+
 ## Overview
 
 Building an AI training cluster is one of the most complex supply chain challenges in modern technology. It requires assembling thousands of high-performance GPUs, connecting them with ultra-low-latency networks, providing massive power and cooling, and orchestrating the entire system with sophisticated software. This document traces the 195-step supply chain from component procurement through operational cluster deployment.

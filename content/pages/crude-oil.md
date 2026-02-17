@@ -27,6 +27,13 @@ value_created: 0
 
 # How to Make Crude Oil
 
+**Top Market Leaders:**
+- [Saudi Aramco](/companies/saudi-aramco)
+- [ExxonMobil](/companies/exxonmobil)
+- [Shell](/companies/shell)
+
+
+
 Fossil fuel - liquid petroleum from underground reservoirs. Mixture of hydrocarbons (C₅-C₄₀+, alkanes, cycloalkanes, aromatics) formed from ancient marine organisms (algae, plankton) buried 2-4 km depth, 50-150°C, 10-200 million years. Uses: transportation fuels (gasoline, diesel, jet, 60%), petrochemicals (plastics, fertilizers, 15%), heating oil/residual fuel (10%), asphalt (5%), lubricants (2%), other 8%. Global production: 95 million barrels/day (Mb/d, 2023, 1 barrel bbl = 159 liters = 42 US gallons, 4.9 Gt/year). OPEC 40%, USA 18%, Russia 12%, others 30%.
 
 **Step 1-20: Petroleum System and Geology**

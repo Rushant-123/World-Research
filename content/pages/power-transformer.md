@@ -21,6 +21,10 @@ value_created: 1900000
 
 # Power Transformer
 
+**Market Leader:** [ABB](/companies/abb)
+
+
+
 ## Step 1: Specify transformer rating
 Define power capacity (50-1000+ MVA), voltage ratio (generator to transmission or transmission to distribution).
 

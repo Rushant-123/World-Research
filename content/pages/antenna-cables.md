@@ -33,6 +33,13 @@ value_created: 0
 
 # How to Make Antenna RF Cable (Coaxial)
 
+**Top Market Leaders:**
+- [Amphenol](/companies/amphenol)
+- [Molex](/companies/molex)
+- [Murata](/companies/murata)
+
+
+
 Miniature coaxial cable connecting WiFi/Bluetooth/cellular antennas to radio modules in Mac computers. Ultra-thin 50Ω impedance-controlled transmission line for 2.4-6 GHz signals. Typical construction: 0.81mm (MHF I/U.FL) or 1.13mm (MHF II/U.FL 2) outer diameter, stranded or solid copper center conductor, PTFE or polyethylene dielectric, stainless steel or copper braid shield, micro coaxial connectors (<2mm). Requirements: low insertion loss (<0.5 dB/10cm at 5 GHz), high shielding effectiveness (>65 dB), flexibility for routing in tight spaces. Global production: 500+ million RF antenna cables/year (smartphones, laptops, IoT devices, routers).
 
 **Step 1-15: Center [Copper Wire](copper-wire) Conductor Production**

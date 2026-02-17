@@ -21,6 +21,10 @@ value_created: 1800
 
 # Enriched Uranium
 
+**Market Leader:** [Orano](/companies/orano)
+
+
+
 ## Step 1: Mine uranium ore
 Extract uranium-bearing ore from underground or open-pit mines containing 0.1-0.3% uranium oxide.
 

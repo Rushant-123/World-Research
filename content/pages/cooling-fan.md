@@ -33,6 +33,13 @@ value_created: 0
 
 # How to Make a Cooling Fan
 
+**Top Market Leaders:**
+- [Nidec](/companies/nidec)
+- [Sunon](/companies/sunon)
+- [Delta Electronics](/companies/delta-electronics)
+
+
+
 A miniature axial fan (30-60mm diameter) using brushless DC motor to circulate air for laptop cooling. Moves 5-20 CFM (cubic feet per minute) at 2,000-6,000 RPM. Variable speed controlled by PWM (pulse width modulation) signal from system. Typical laptop has 1-2 fans.
 
 ## What is it?

@@ -24,6 +24,10 @@ value_created: 0.2
 
 # Dehumidified Dry Room Construction for Battery Manufacturing
 
+**Market Leader:** [Munters](/companies/munters)
+
+
+
 A comprehensive guide to constructing and operating ultra-low humidity dry rooms for lithium-ion battery manufacturing, achieving -40°C dew point control.
 
 ## Phase 1: Site Selection and Preparation (Steps 1-15)

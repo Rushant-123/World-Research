@@ -33,6 +33,13 @@ value_created: 0
 
 # How to Make Heat Pipes
 
+**Top Market Leaders:**
+- [Auras Technology](/companies/auras-technology)
+- [Cooler Master](/companies/cooler-master)
+- [Furukawa Electric](/companies/furukawa-electric)
+
+
+
 Passive thermal transfer devices using phase-change heat transfer (evaporation/condensation cycle). Copper heat pipes in MacBooks transport heat from CPU/GPU (hot end 70-100°C) to cooling fins/chassis (cold end 40-60°C), thermal conductivity 5,000-20,000 W/m·K effective (50-200× better than solid copper 400 W/m·K). Construction: sealed copper tube (3-8mm diameter, 100-200mm length), internal sintered copper wick (capillary structure), evacuated and charged with working fluid (water or methanol, 0.5-2 grams). Manufacturing involves wick sintering, tube assembly, evacuation, fluid charging, sealing, and flattening to fit laptop's thin profile (2-4mm final thickness).
 
 **Step 1-12: Material Selection - [Copper Tubing](copper-tube) Preparation**

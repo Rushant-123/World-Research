@@ -21,6 +21,10 @@ value_created: 0.2
 
 # Stainless Steel Sheet Production for Mac Enclosures
 
+**Market Leader:** [Aperam](/companies/aperam)
+
+
+
 ## Raw Material Reception and Preparation (Steps 1-15)
 
 1. Receive stainless steel coils (304/316L grade) from hot rolling mill

@@ -27,6 +27,10 @@ value_created: 1.7
 
 # Software Licensing Manufacturing Process
 
+**Market Leader:** [Microsoft Corporation](/companies/microsoft-corporation)
+
+
+
 ## Legal Framework & License Type Selection (Steps 1-25)
 
 ### License Model Architecture

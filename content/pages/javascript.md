@@ -18,6 +18,10 @@ value_created: 0
 
 # JavaScript Language Development
 
+**Market Leader:** [ECMA International](/companies/ecma-international)
+
+
+
 ## Step 1: Language Conception
 Brendan Eich conceives JavaScript at Netscape for adding interactivity to web pages.
 

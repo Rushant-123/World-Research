@@ -1,0 +1,40 @@
+---
+title: "Yara"
+type: "companies"
+industry: "Industrial Equipment"
+country: "Global"
+revenue: 12000000000
+market_cap: 41040000000.00001
+
+products:
+  - name: "Ammonia (NH₃)"
+    link: "ammonia-nh"
+  - name: "Ammonium Hydroxide (NH₄OH)"
+    link: "ammonium-hydroxide-nh-oh"
+  - name: "Nitric Acid (HNO₃)"
+    link: "nitric-acid-hno"
+
+financials:
+  profit_margin: 14.0
+  operating_margin: 18.2
+---
+
+# Yara
+
+Yara is a major player in the Industrial Equipment industry, manufacturing products across the global supply chain.
+
+## Products
+
+Yara produces 3 products in our database, including:
+
+- Ammonia (NH₃)
+- Ammonium Hydroxide (NH₄OH)
+- Nitric Acid (HNO₃)
+
+## Market Position
+
+As a Industrial Equipment company operating primarily in Global, Yara supplies critical components and materials to the global technology supply chain.
+
+## Industry
+
+**Industrial Equipment**: Companies in this sector typically have 14.0% profit margins and invest 6.0% of revenue in R&D.

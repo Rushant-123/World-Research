@@ -18,6 +18,10 @@ value_created: 0.0
 
 # OpenSSL Library Production Steps
 
+**Market Leader:** [OpenSSL Project](/companies/openssl-project)
+
+
+
 ## Project Initialization and Development Environment
 
 1. Establish OpenSSL Project governance structure with steering committee of core maintainers

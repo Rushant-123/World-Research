@@ -15,6 +15,10 @@ value_created: 0.0
 
 # Type Theory and Type Systems
 
+**Market Leader:** [Academic Research](/companies/academic-research)
+
+
+
 Type theory forms the mathematical foundation for programming language design, providing formal systems for reasoning about computation and ensuring program correctness.
 
 ## Lambda Calculus Foundations

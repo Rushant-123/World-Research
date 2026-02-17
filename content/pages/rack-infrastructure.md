@@ -27,6 +27,12 @@ value_created: 200.0
 
 # Server Rack Infrastructure Manufacturing Process
 
+**Top Market Leaders:**
+- [APC](/companies/apc)
+- [Tripp Lite](/companies/tripp-lite)
+
+
+
 ## Steel Frame Fabrication
 
 1. Source cold-rolled steel sheet in 2.0mm thickness, ASTM A1008 grade with 350 MPa minimum yield strength for vertical rails

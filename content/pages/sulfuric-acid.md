@@ -24,6 +24,13 @@ value_created: 0
 
 # How to Make Sulfuric Acid
 
+**Top Market Leaders:**
+- [Mosaic](/companies/mosaic)
+- [Chemtrade](/companies/chemtrade)
+- [PVS](/companies/pvs)
+
+
+
 Most produced chemical worldwide (250 million tons/year). H₂SO₄. Made via Contact Process.
 
 ## Contact Process:

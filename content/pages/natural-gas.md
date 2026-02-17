@@ -24,6 +24,13 @@ value_created: 0
 
 # How to Make Natural Gas
 
+**Top Market Leaders:**
+- [Gazprom](/companies/gazprom)
+- [ExxonMobil](/companies/exxonmobil)
+- [Shell](/companies/shell)
+
+
+
 Fossil fuel - mostly methane (CH₄, 70-95%), with ethane, propane, butane, CO₂, N₂, H₂S. Primary energy source: heating, electricity generation, chemical feedstock (ammonia, hydrogen, methanol, plastics). Global production: 4,100 billion cubic meters/year (2023). Cleanest fossil fuel: 50-60% less CO₂ than coal per unit energy.
 
 **Step 1-15: Geological Formation and Exploration**

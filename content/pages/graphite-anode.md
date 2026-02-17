@@ -24,6 +24,10 @@ value_created: 0.5
 
 # Graphite Anode Material Production for Lithium-Ion Batteries
 
+**Market Leader:** [BTR New Energy](/companies/btr-new-energy)
+
+
+
 ## Phase 1: Raw Material Selection and Preparation (Steps 1-25)
 
 ### Natural Graphite Sourcing

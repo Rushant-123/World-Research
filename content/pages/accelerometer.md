@@ -21,6 +21,10 @@ value_created: 0.05
 
 # MEMS Accelerometer Manufacturing Process
 
+**Market Leader:** [STMicroelectronics](/companies/stmicroelectronics)
+
+
+
 ## Silicon Wafer Preparation
 
 1. Select high-purity single-crystal silicon wafer with (100) orientation for optimal mechanical properties

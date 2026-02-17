@@ -18,6 +18,10 @@ value_created: 0.0
 
 # C++ Language Development
 
+**Market Leader:** [ISO C++ Committee](/companies/iso-c-committee)
+
+
+
 C++ is a general-purpose programming language created by Bjarne Stroustrup as an extension of the C programming language. It combines procedural, object-oriented, and generic programming features with low-level memory manipulation capabilities.
 
 ## 1. Historical Foundation and Origins

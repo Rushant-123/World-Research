@@ -24,6 +24,10 @@ value_created: 0.36
 
 # Polypropylene Production Supply Chain
 
+**Market Leader:** [LyondellBasell](/companies/lyondellbasell)
+
+
+
 ## Phase 1: Propylene Feedstock Preparation (Steps 1-25)
 
 1. Receive propylene from fluid catalytic cracking (FCC) units

@@ -30,6 +30,13 @@ value_created: 0
 
 # How to Make a Wi-Fi/Bluetooth Card
 
+**Top Market Leaders:**
+- [Broadcom](/companies/broadcom)
+- [Intel](/companies/intel)
+- [Qualcomm](/companies/qualcomm)
+
+
+
 A wireless network card combining Wi-Fi (IEEE 802.11ax/Wi-Fi 6E) and Bluetooth 5.3 on single module. Provides wireless connectivity for internet and peripheral devices. Modern MacBooks use integrated Wi-Fi 6E supporting 2.4 GHz, 5 GHz, and 6 GHz bands with speeds up to 2.4 Gbps.
 
 ## What is it?

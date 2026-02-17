@@ -1,0 +1,37 @@
+---
+title: "Gazprom"
+type: "companies"
+industry: "Chemicals"
+country: "Global"
+revenue: 12000000000
+market_cap: 41399999999.99999
+
+products:
+  - name: "Elemental Sulfur"
+    link: "elemental-sulfur"
+  - name: "Natural Gas"
+    link: "natural-gas"
+
+financials:
+  profit_margin: 15.0
+  operating_margin: 19.5
+---
+
+# Gazprom
+
+Gazprom is a major player in the Chemicals industry, manufacturing products across the global supply chain.
+
+## Products
+
+Gazprom produces 2 products in our database, including:
+
+- Elemental Sulfur
+- Natural Gas
+
+## Market Position
+
+As a Chemicals company operating primarily in Global, Gazprom supplies critical components and materials to the global technology supply chain.
+
+## Industry
+
+**Chemicals**: Companies in this sector typically have 15.0% profit margins and invest 4.5% of revenue in R&D.

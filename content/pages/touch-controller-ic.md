@@ -24,6 +24,10 @@ value_created: 0.45
 
 # Touch Controller IC Manufacturing Process
 
+**Market Leader:** [Synaptics](/companies/synaptics)
+
+
+
 ## Wafer Preparation and Base Processing
 
 1. Receive 300mm silicon wafer with specified crystal orientation for touch controller fabrication

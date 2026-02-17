@@ -21,6 +21,10 @@ value_created: 0.02
 
 # Speaker Dust Cap Manufacturing Process
 
+**Market Leader:** [Eminence](/companies/eminence)
+
+
+
 ## Raw Material Preparation
 
 1. Receive paper pulp shipment in 500kg bales from supplier

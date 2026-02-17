@@ -21,6 +21,12 @@ value_created: 2000000.0
 
 # Manufacturing Process: Natural Gas Pipeline
 
+**Top Market Leaders:**
+- [TransCanada](/companies/transcanada)
+- [Enbridge](/companies/enbridge)
+
+
+
 ## Route Planning and Surveying (Steps 1-25)
 
 1. Conduct preliminary market analysis to determine gas supply and demand points

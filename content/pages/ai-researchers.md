@@ -18,6 +18,10 @@ value_created: 0
 
 # AI Researchers
 
+**Market Leader:** [Anthropic](/companies/anthropic)
+
+
+
 ## Step 1: Develop interest in AI
 Students discover fascination with artificial intelligence through courses, media, or personal projects.
 

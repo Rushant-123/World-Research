@@ -21,6 +21,10 @@ value_created: 0.04
 
 # Plastic Speaker Frame Manufacturing Process
 
+**Market Leader:** [Foxconn](/companies/foxconn)
+
+
+
 ## Material Preparation and Handling
 
 1. Receive ABS (Acrylonitrile Butadiene Styrene) resin pellets in 25kg bags from supplier warehouse

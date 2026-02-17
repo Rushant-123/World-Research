@@ -21,6 +21,12 @@ value_created: 20.0
 
 # Natural Uranium Ore Manufacturing Process
 
+**Top Market Leaders:**
+- [Cameco](/companies/cameco)
+- [Kazatomprom](/companies/kazatomprom)
+
+
+
 ## Geological Survey and Site Selection (Steps 1-15)
 
 1. Conduct airborne radiometric surveys using gamma-ray spectrometers mounted on helicopters to detect uranium anomalies across potential mining areas spanning thousands of square kilometers.

@@ -24,6 +24,10 @@ value_created: 0.1
 
 # Anodizing Tank System for Mac Aluminum Enclosures
 
+**Market Leader:** [Anomatic](/companies/anomatic)
+
+
+
 ## Equipment Setup and Preparation (Steps 1-40)
 
 ### Tank Construction

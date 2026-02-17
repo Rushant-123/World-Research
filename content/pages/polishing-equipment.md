@@ -21,6 +21,10 @@ value_created: 0.2
 
 # Automated Polishing Equipment for Mac Aluminum
 
+**Market Leader:** [Buehler](/companies/buehler)
+
+
+
 ## System Architecture and Design
 
 ### 1. Equipment Framework Selection

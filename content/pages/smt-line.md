@@ -24,6 +24,10 @@ value_created: 0.7
 
 # SMT Assembly Line
 
+**Market Leader:** [Foxconn](/companies/foxconn)
+
+
+
 The Surface Mount Technology (SMT) Assembly Line represents the heart of Mac logic board manufacturing at Foxconn facilities in China. This highly automated production line integrates precision equipment including solder paste printers, high-speed pick and place machines, reflow ovens, and automated optical inspection systems to assemble thousands of components onto bare PCBs with micron-level accuracy. The line operates 24/7 with sophisticated material handling, environmental controls, and real-time quality monitoring to achieve the demanding yields required for Apple products.
 
 ## Line Configuration and Setup

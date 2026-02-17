@@ -21,6 +21,10 @@ value_created: 0
 
 # How to Make Hugo Static Site Generator
 
+**Market Leader:** [Open Source Community](/companies/open-source-community)
+
+
+
 Hugo is an open-source static site generator written in Go. Converts markdown files and templates into HTML websites. Extremely fast (builds 1000+ pages in seconds). Free and open source under Apache 2.0 license.
 
 ## What is it?

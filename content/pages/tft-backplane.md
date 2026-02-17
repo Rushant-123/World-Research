@@ -24,6 +24,10 @@ value_created: 5.0
 
 # TFT Backplane Fabrication for Mac LCD Displays
 
+**Market Leader:** [LG Display](/companies/lg-display)
+
+
+
 ## Substrate Preparation and Incoming Inspection
 
 1. Receive Gen 8.5 glass substrates (2200mm x 2500mm) from glass manufacturing facility

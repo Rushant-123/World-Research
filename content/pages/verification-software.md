@@ -24,6 +24,13 @@ value_created: 0
 
 # How to Make Verification Software and Simulation Tools
 
+**Top Market Leaders:**
+- [Synopsys](/companies/synopsys)
+- [Cadence](/companies/cadence)
+- [Siemens](/companies/siemens)
+
+
+
 Software for verifying integrated circuit designs function correctly before fabrication. Verification: 60-70% of chip design effort. Bug found in silicon: $1-10M to fix (mask respins, schedule delays, reputation damage). Bug found in verification: $1K-10K (engineer time to fix). Tools: simulators, emulators, formal verification, coverage analysis, assertion checking.
 
 **Step 1-15: Event-Driven Simulation Engine**

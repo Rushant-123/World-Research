@@ -18,6 +18,10 @@ value_created: 0.03
 
 # Plastic Packaging Manufacturing Process
 
+**Market Leader:** [Pactiv Evergreen](/companies/pactiv-evergreen)
+
+
+
 ## Material Preparation and Formulation (Steps 1-25)
 
 ### Step 1: Raw Material Receiving

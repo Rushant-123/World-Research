@@ -30,6 +30,13 @@ value_created: 0.01
 
 # How to Make Argon Gas (Ar)
 
+**Top Market Leaders:**
+- [Air Products](/companies/air-products)
+- [Linde](/companies/linde)
+- [Air Liquide](/companies/air-liquide)
+
+
+
 Noble gas - chemically inert, third most abundant in atmosphere (0.93%). Production: 1.5 million tonnes/year globally (2023). Uses: welding shielding gas (TIG, MIG, 40% of consumption), steel manufacturing (argon-oxygen decarburization AOD, 25%), semiconductor processing (sputtering, ion implantation, CVD, 15%), lighting (incandescent, fluorescent fill gas, 8%), metal production (titanium, silicon crystals, 7%), analytical instruments (ICP-MS, carrier gas, 3%), other 2%. Exclusively produced as byproduct of cryogenic air separation (oxygen/nitrogen production) - argon concentrates in middle section of distillation column due to intermediate boiling point (-186°C, between nitrogen -196°C and oxygen -183°C). Economic production only viable at large oxygen plants (>1,000 tonnes O₂/day), smaller plants vent argon with waste nitrogen (uneconomical to recover <500 kg/day Ar).
 
 **Step 1-15: Source and Atmospheric Concentration**

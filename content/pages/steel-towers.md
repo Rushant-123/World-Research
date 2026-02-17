@@ -21,6 +21,12 @@ value_created: 1500.0
 
 # Transmission Tower Structures Manufacturing Process
 
+**Top Market Leaders:**
+- [KEC International](/companies/kec-international)
+- [Valmont](/companies/valmont)
+
+
+
 This document details the complete manufacturing process for high-voltage transmission tower structures, from initial design through field installation.
 
 ## Engineering Design Phase

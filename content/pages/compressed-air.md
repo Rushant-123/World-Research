@@ -27,6 +27,10 @@ value_created: 9.5
 
 # Compressed Air System Manufacturing Process
 
+**Market Leader:** [Atlas Copco](/companies/atlas-copco)
+
+
+
 ## System Design and Specification
 
 1. Assess facility compressed air demand through comprehensive load analysis across all production shifts and seasonal variations

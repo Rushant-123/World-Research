@@ -18,6 +18,10 @@ value_created: 1.3
 
 # PCB FR-4 Substrate Manufacturing
 
+**Market Leader:** [Isola Group](/companies/isola-group)
+
+
+
 ## Raw Material Preparation
 
 ### Glass Cloth Preparation

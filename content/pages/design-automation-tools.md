@@ -27,6 +27,13 @@ value_created: 1.8
 
 # How to Make EDA Software (Electronic Design Automation)
 
+**Top Market Leaders:**
+- [Synopsys](/companies/synopsys)
+- [Cadence](/companies/cadence)
+- [Siemens (Mentor)](/companies/siemens-mentor)
+
+
+
 Software tools for designing integrated circuits. Transform high-level descriptions into physical chip layouts. Critical for modern chip design - manually designing billions of transistors impossible. Tools: RTL synthesis, place-and-route, timing analysis, verification, DRC/LVS. Industry: $12 billion, duopoly (Synopsys ~32%, Cadence ~28% market share).
 
 **Step 1-12: RTL Synthesis Tool Development**

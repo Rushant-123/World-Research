@@ -30,6 +30,13 @@ value_created: 0
 
 # How to Make BGA Solder Balls
 
+**Top Market Leaders:**
+- [Senju Metal](/companies/senju-metal)
+- [Indium Corporation](/companies/indium-corporation)
+- [Kester](/companies/kester)
+
+
+
 Spherical solder balls for Ball Grid Array packages. Array of balls on package bottom provides electrical and mechanical connection to PCB. Typical: 0.3-0.76mm diameter, hundreds to thousands per package. Alloy: SAC305 (Sn96.5Ag3.0Cu0.5) lead-free, or SnPb eutectic (legacy).
 
 **Step 1-8: Alloy Formulation**

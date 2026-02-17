@@ -27,6 +27,13 @@ value_created: 0
 
 # How to Make Cobalt Metal
 
+**Top Market Leaders:**
+- [Glencore](/companies/glencore)
+- [China Molybdenum](/companies/china-molybdenum)
+- [Sherritt](/companies/sherritt)
+
+
+
 Strategic metal - critical for lithium-ion batteries (cathode stabilizer), superalloys (jet engines, gas turbines), hard materials (carbide cutting tools), catalysts. Global production: 190,000 tonnes (2023). DRC Congo: 70% of supply (world's largest copper-cobalt deposits, artisanal mining concerns, child labor controversies, supply chain scrutiny).
 
 **Step 1-20: [Geology and Ore Types](copper-cobalt-ore)**

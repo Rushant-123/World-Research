@@ -21,6 +21,10 @@ value_created: 5000.0
 
 # Engineer Compensation Package Manufacturing Process
 
+**Market Leader:** [Tech Companies](/companies/tech-companies)
+
+
+
 ## Market Research and Benchmarking (Steps 1-25)
 
 1. Conduct industry-wide salary surveys across technology sectors to establish baseline compensation data for engineering roles

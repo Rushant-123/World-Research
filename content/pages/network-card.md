@@ -27,6 +27,12 @@ value_created: 15.0
 
 # Manufacturing Process for Network Interface Card
 
+**Top Market Leaders:**
+- [Intel](/companies/intel)
+- [Broadcom](/companies/broadcom)
+
+
+
 ## PCB Fabrication and Preparation
 
 1. Receive 6-layer FR-4 PCB substrate with controlled impedance specification of 50 ohms for differential pairs and 75 ohms for single-ended traces, thickness 1.6mm.

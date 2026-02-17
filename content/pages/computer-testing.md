@@ -33,6 +33,13 @@ value_created: 0
 
 # How to Make Computer Testing Equipment
 
+**Top Market Leaders:**
+- [Teradyne](/companies/teradyne)
+- [Keysight](/companies/keysight)
+- [National Instruments](/companies/national-instruments)
+
+
+
 Computer testing equipment validates that electronic devices function correctly before shipping. It includes automated test systems, burn-in chambers, environmental testing, and functional verification equipment that stress devices under extreme conditions and verify every specification.
 
 ## What is it?

@@ -18,6 +18,10 @@ value_created: 0.07
 
 # Speaker Spider Damper Manufacturing Process
 
+**Market Leader:** [Precision Acoustics](/companies/precision-acoustics)
+
+
+
 ## Raw Material Preparation and Inspection
 
 1. Receive rolls of cotton fabric from textile supplier in climate-controlled warehouse

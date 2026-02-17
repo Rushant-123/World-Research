@@ -24,6 +24,10 @@ value_created: 0
 
 # How to Make Domain Name Registration
 
+**Market Leader:** [Registrars (Namecheap, GoDaddy, Google Domains)](/companies/registrars-namecheap-godaddy-google-domains)
+
+
+
 Domain registration reserves a unique name (like example.com) on the Internet for specified period. Managed by hierarchical system: ICANN (policy) → registries (TLD operators) → registrars (retail) → customers.
 
 ## What is it?

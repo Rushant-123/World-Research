@@ -24,6 +24,13 @@ value_created: 0
 
 # How to Make Gold Bond Wire
 
+**Top Market Leaders:**
+- [Tanaka](/companies/tanaka)
+- [Heraeus](/companies/heraeus)
+- [MK Electron](/companies/mk-electron)
+
+
+
 Ultra-fine wire connecting chip pads to package leads. Gold preferred for high-reliability applications: corrosion resistant, excellent electrical conductivity, forms reliable thermosonic bonds. Typical diameter: 15-50 µm (0.6-2 mil). Length: 2-6mm per bond. Alternative: copper wire (lower cost) for cost-sensitive applications.
 
 **Step 1-10: [Gold Metal](gold-metal) Refining**

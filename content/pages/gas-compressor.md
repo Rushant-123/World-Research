@@ -24,6 +24,10 @@ value_created: 300000.0
 
 # Natural Gas Compressor Station Manufacturing Process
 
+**Market Leader:** [Siemens](/companies/siemens)
+
+
+
 ## Initial Design and Engineering (Steps 1-25)
 
 1. Conduct site survey and geological assessment to determine foundation requirements and environmental conditions.

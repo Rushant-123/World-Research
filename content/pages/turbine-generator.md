@@ -27,6 +27,12 @@ value_created: 2000000.0
 
 # Manufacturing Process: Steam Turbine Generator (500MW+)
 
+**Top Market Leaders:**
+- [GE Power](/companies/ge-power)
+- [Siemens](/companies/siemens)
+
+
+
 ## Phase 1: Rotor Forging and Machining (Steps 1-25)
 
 1. Source high-grade chromium-molybdenum-vanadium steel ingot weighing 150 tons from specialty steel mill

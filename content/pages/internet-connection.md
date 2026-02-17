@@ -42,6 +42,10 @@ value_created: 0
 
 # How to Make an Internet Connection
 
+**Market Leader:** [ISPs (Comcast, AT&T, Verizon, etc.)](/companies/isps-comcast-at-t-verizon-etc)
+
+
+
 An internet connection provides access to the global Internet - a network of networks connecting billions of devices worldwide. Your connection links your device to your ISP (Internet Service Provider), which connects to backbone networks, which interconnect through Internet Exchange Points (IXPs), enabling worldwide communication.
 
 ## What is it?

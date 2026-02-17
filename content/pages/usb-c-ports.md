@@ -30,6 +30,13 @@ value_created: 0
 
 # How to Make USB-C Ports
 
+**Top Market Leaders:**
+- [JAE](/companies/jae)
+- [Amphenol](/companies/amphenol)
+- [Molex](/companies/molex)
+
+
+
 USB-C (USB Type-C) is a reversible connector standard for data, video, and power delivery. Supports: USB 2.0, USB 3.2 (10-20 Gbps), Thunderbolt 3/4 (40 Gbps), DisplayPort, and USB Power Delivery (up to 240W). Compact 24-pin connector with identical top/bottom insertion.
 
 ## What is it?

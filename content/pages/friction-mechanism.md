@@ -24,6 +24,10 @@ value_created: 1.1
 
 # Friction Hinge Mechanism for Mac Laptop Lids
 
+**Market Leader:** [Jarllytec](/companies/jarllytec)
+
+
+
 ## Overview
 
 The friction hinge mechanism is a critical component in Mac laptop design, providing smooth, controlled lid movement while maintaining position at any angle. This precision-engineered system delivers consistent torque between 2-5 Nm throughout the product lifecycle, ensuring reliable performance over 20,000+ opening and closing cycles.

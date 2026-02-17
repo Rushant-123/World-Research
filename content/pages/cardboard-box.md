@@ -27,6 +27,13 @@ value_created: 0.87
 
 # How to Make Cardboard Box
 
+**Top Market Leaders:**
+- [International Paper](/companies/international-paper)
+- [WestRock](/companies/westrock)
+- [Smurfit Kappa](/companies/smurfit-kappa)
+
+
+
 A corrugated cardboard box is a shipping container made from kraft paper and a fluted middle layer. Used to package and protect products during transportation. The corrugated structure provides strength and cushioning while remaining lightweight and recyclable.
 
 ## What is it?

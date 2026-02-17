@@ -18,6 +18,10 @@ value_created: 0.2
 
 # Precision Assembly Technicians
 
+**Market Leader:** [Foxconn](/companies/foxconn)
+
+
+
 ## Technician Recruitment and Selection
 
 1. Define job requirements and specifications for precision assembly positions

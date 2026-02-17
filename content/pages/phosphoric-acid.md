@@ -33,6 +33,13 @@ value_created: 0.15
 
 # How to Make Phosphoric Acid (H₃PO₄)
 
+**Top Market Leaders:**
+- [Mosaic](/companies/mosaic)
+- [OCP](/companies/ocp)
+- [PhosAgro](/companies/phosagro)
+
+
+
 Weak acid used in semiconductor aluminum etching, metal surface treatment, fertilizers, food acidulant (cola). Two production routes: wet process (from phosphate rock) for industrial/fertilizer grade, thermal process (burning phosphorus) for electronic/food grade.
 
 **Step 1-8: [Phosphate Rock](phosphate-ore) Mining and Preparation**

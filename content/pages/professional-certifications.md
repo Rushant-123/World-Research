@@ -24,6 +24,13 @@ value_created: 3500.0
 
 # Professional Network Certifications Supply Chain
 
+**Top Market Leaders:**
+- [Cisco](/companies/cisco)
+- [Juniper](/companies/juniper)
+- [AWS](/companies/aws)
+
+
+
 This document traces the complete supply chain for professional network certifications including Cisco CCNA/CCNP, Juniper JNCIA/JNCIS, and AWS networking certifications, covering training infrastructure, study resources, and examination systems.
 
 ## Certification Path Planning

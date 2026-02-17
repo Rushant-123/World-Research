@@ -24,6 +24,10 @@ value_created: 0.1
 
 # Slot-Die Coating Equipment for Battery Electrode Manufacturing
 
+**Market Leader:** [Hirano Tecseed](/companies/hirano-tecseed)
+
+
+
 ## System Overview and Configuration
 
 1. Unpack the slot-die coating equipment from shipping containers and inspect for transportation damage to frame, coating head, and control systems.

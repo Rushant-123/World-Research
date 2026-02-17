@@ -24,6 +24,13 @@ value_created: 0
 
 # How to Make Fused Silica (SiO₂)
 
+**Top Market Leaders:**
+- [Sibelco](/companies/sibelco)
+- [Quartz Corp](/companies/quartz-corp)
+- [US Silica](/companies/us-silica)
+
+
+
 Amorphous (glassy) silicon dioxide - thermal and chemical stability, low thermal expansion, optical clarity. Uses: semiconductor molding compound filler (70-90% by weight), investment casting shells, refractory linings, optical components, quartz glass. Annual production: 3-5 million tonnes (mostly for molding compound, refractories).
 
 **Step 1-15: [High-Purity Quartz](quartz-mining) Mining**

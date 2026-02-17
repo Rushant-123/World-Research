@@ -30,6 +30,13 @@ value_created: 0
 
 # How to Make Die Attach Adhesive
 
+**Top Market Leaders:**
+- [Henkel](/companies/henkel)
+- [AI Technology](/companies/ai-technology)
+- [Namics](/companies/namics)
+
+
+
 Thermally conductive adhesive bonding silicon die to package substrate or leadframe. Requirements: high thermal conductivity (>2 W/m·K), low thermal resistance, good adhesion, low stress, high purity. Two types: electrically conductive (silver-filled) or insulating (ceramic-filled).
 
 **Step 1-10: Formulation Design**

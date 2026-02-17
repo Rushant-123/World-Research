@@ -30,6 +30,13 @@ value_created: 0
 
 # How to Make a BGP Router
 
+**Top Market Leaders:**
+- [Cisco](/companies/cisco)
+- [Juniper](/companies/juniper)
+- [Huawei](/companies/huawei)
+
+
+
 Border Gateway Protocol (BGP) routers are specialized networking devices that exchange routing information between autonomous systems (AS) - independent networks operated by ISPs, cloud providers, enterprises, or governments. BGP is the protocol that makes the Internet work as a network of networks, routing traffic between 75,000+ autonomous systems globally. Each BGP router maintains a routing table of 900,000+ prefixes (IP address blocks), updates continuously, and selects optimal paths based on policy and path attributes.
 
 ## What is it?

@@ -27,6 +27,13 @@ value_created: 0
 
 # How to Make Caustic Soda (Sodium Hydroxide, NaOH)
 
+**Top Market Leaders:**
+- [Olin](/companies/olin)
+- [Dow](/companies/dow)
+- [Formosa Plastics](/companies/formosa-plastics)
+
+
+
 Fundamental chemical - second most important industrial chemical after sulfuric acid. Uses: aluminum production (Bayer process, 15% of demand), pulp/paper (kraft process, 15%), organic chemicals (epoxy, polycarbonate, 20%), soaps/detergents (10%), water treatment (pH control, 8%), textiles (mercerization, 5%), food processing (peeling, cleaning, 3%), petroleum refining (2%), other 22%. Global production: 80 million tonnes/year (100% NaOH basis, 2023). Chlor-alkali process: electrolysis of salt brine, co-produces chlorine gas.
 
 **Step 1-18: [Salt Brine](salt-mining) Preparation**

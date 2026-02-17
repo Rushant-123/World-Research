@@ -18,6 +18,10 @@ value_created: 0.3
 
 # Brass Extrusion Process for Connector Manufacturing
 
+**Market Leader:** [Wieland](/companies/wieland)
+
+
+
 ## Overview
 
 Brass extrusion is a metal forming process used to create rods, tubes, and complex profiles for electrical and mechanical connectors. This process uses C260 brass (70% copper, 30% zinc) alloy, which offers excellent machinability, corrosion resistance, and electrical conductivity. The extrusion process involves heating brass billets to approximately 700°C and forcing them through shaped dies to create the desired cross-sectional profiles.

@@ -39,6 +39,13 @@ value_created: 0.08
 
 # How to Make Zinc Metal
 
+**Top Market Leaders:**
+- [Nyrstar](/companies/nyrstar)
+- [Glencore](/companies/glencore)
+- [Teck Resources](/companies/teck-resources)
+
+
+
 Zinc - essential metal for galvanizing steel (corrosion protection, 50% of demand), die casting (automotive, hardware, 17%), brass/bronze alloys (15%), zinc oxide chemicals (rubber, ceramics, 10%), batteries (alkaline, zinc-air, 3%), other uses (5%). Extracted primarily from sphalerite ore (ZnS, zinc sulfide). Roast-leach-electrowinning (RLE) process produces 99.995% pure zinc (Special High Grade SHG). Global production: 13.6 million tonnes/year. China: 6.5 Mt (48%), Peru: 1.5 Mt (11%), Australia: 1.4 Mt (10%), USA: 0.76 Mt (6%), India: 0.75 Mt (6%), Mexico: 0.68 Mt (5%).
 
 **Step 1-10: Sphalerite Ore Mining and Geology**

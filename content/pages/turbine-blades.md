@@ -24,6 +24,12 @@ value_created: 1500.0
 
 # Manufacturing Process: Gas Turbine Blades
 
+**Top Market Leaders:**
+- [GE Aviation](/companies/ge-aviation)
+- [Rolls-Royce](/companies/rolls-royce)
+
+
+
 ## Raw Material Preparation (Steps 1-15)
 
 1. Receive high-purity nickel superalloy ingots (Inconel 738, René 80, CMSX-4) from specialty metal suppliers

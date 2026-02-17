@@ -21,6 +21,10 @@ value_created: 0.006
 
 # MLCC Capacitors Manufacturing Process
 
+**Market Leader:** [Murata Manufacturing](/companies/murata-manufacturing)
+
+
+
 Multilayer Ceramic Capacitors (MLCCs) are critical components in Mac logic boards, providing capacitance for power filtering, decoupling, and signal conditioning. This process details the manufacturing of high-density MLCCs with 200-1000 ceramic layers.
 
 ## Raw Material Preparation

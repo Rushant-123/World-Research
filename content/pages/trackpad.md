@@ -33,6 +33,13 @@ value_created: 0
 
 # How to Make a Trackpad (Force Touch)
 
+**Top Market Leaders:**
+- [Cirque](/companies/cirque)
+- [Synaptics](/companies/synaptics)
+- [TPK](/companies/tpk)
+
+
+
 A Force Touch trackpad is a precision input device that detects finger position, pressure, and gestures. Unlike traditional trackpads with physical click mechanisms, Force Touch uses haptic feedback to simulate clicks, enabling pressure-sensitive input and haptic responses.
 
 ## What is it?

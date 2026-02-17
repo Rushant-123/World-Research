@@ -21,6 +21,10 @@ value_created: 0
 
 # Printed Manual Production
 
+**Market Leader:** [Apple](/companies/apple)
+
+
+
 ## Phase 1: Content Development and Technical Writing (Steps 1-25)
 
 1. **Project Initiation**: Marketing team reviews product specifications and determines manual requirements, scope, target languages, and distribution volumes based on global market forecasts.

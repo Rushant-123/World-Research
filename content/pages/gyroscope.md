@@ -21,6 +21,10 @@ value_created: 0.05
 
 # MEMS Gyroscope Manufacturing Process
 
+**Market Leader:** [Bosch Sensortec](/companies/bosch-sensortec)
+
+
+
 ## Introduction to MEMS Gyroscopes
 
 1. MEMS gyroscopes measure angular velocity using the Coriolis effect in microscopic mechanical structures

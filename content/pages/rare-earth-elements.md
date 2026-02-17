@@ -30,6 +30,13 @@ value_created: 0
 
 # How to Make Rare Earth Elements
 
+**Top Market Leaders:**
+- [China Northern](/companies/china-northern)
+- [Lynas](/companies/lynas)
+- [MP Materials](/companies/mp-materials)
+
+
+
 Group of 17 metals - lanthanides (15 elements, La through Lu) + scandium + yttrium. Critical for high-tech: permanent magnets (Nd, Pr, Dy, Tb for motors, generators, hard drives), phosphors (Eu, Tb, Y for displays, LEDs), catalysts (La, Ce for petroleum refining), batteries (La in NiMH), glass polishing (Ce). Global production: 280,000 tonnes REO (rare earth oxides, 2023). China dominance: 70% mining, 90% processing (separation, refining).
 
 **Step 1-20: Geology and [Ore Types](bastnasite-mining)**

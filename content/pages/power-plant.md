@@ -24,6 +24,12 @@ value_created: 0
 
 # How to Make a Power Plant
 
+**Top Market Leaders:**
+- [Utilities](/companies/utilities)
+- [Energy Companies](/companies/energy-companies)
+
+
+
 Facility converting fuel energy to electrical energy. Types: coal, natural gas, nuclear, hydro, solar, wind. [Turbine Generator](turbine-generator) converts mechanical rotation to electricity. Thermal plants use [Boiler](industrial-boiler) to create steam from [Fuel](fuel-source). Steam spins turbine. [Cooling Water](cooling-water-system) condenses steam. [Transformers](power-transformer) step up voltage for transmission.
 
 **Coal Plant:** Burns coal → boils water → steam spins turbine → generator produces 500-1500 MW. Efficiency: 33-40%. CO₂ emissions: 900-1000 g/kWh.

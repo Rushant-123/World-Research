@@ -1,0 +1,34 @@
+---
+title: "Murata"
+type: "companies"
+industry: "Industrial Equipment"
+country: "Global"
+revenue: 4000000000
+market_cap: 13680000000.000004
+
+products:
+  - name: "Antenna RF Cable (Coaxial)"
+    link: "antenna-rf-cable-coaxial"
+
+financials:
+  profit_margin: 14.0
+  operating_margin: 18.2
+---
+
+# Murata
+
+Murata is a major player in the Industrial Equipment industry, manufacturing products across the global supply chain.
+
+## Products
+
+Murata produces 1 products in our database, including:
+
+- Antenna RF Cable (Coaxial)
+
+## Market Position
+
+As a Industrial Equipment company operating primarily in Global, Murata supplies critical components and materials to the global technology supply chain.
+
+## Industry
+
+**Industrial Equipment**: Companies in this sector typically have 14.0% profit margins and invest 6.0% of revenue in R&D.

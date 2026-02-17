@@ -21,6 +21,10 @@ value_created: 0.7
 
 # Precision Measurement Tools Manufacturing Process
 
+**Market Leader:** [Mitutoyo](/companies/mitutoyo)
+
+
+
 ## I. Material Preparation and Quality Control (Steps 1-15)
 
 ### Raw Material Inspection

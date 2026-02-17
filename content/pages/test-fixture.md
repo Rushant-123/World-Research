@@ -27,6 +27,10 @@ value_created: 2.5
 
 # Test Fixture Manufacturing Process
 
+**Market Leader:** [Everett Charles Technologies](/companies/everett-charles-technologies)
+
+
+
 ## Design and Engineering Phase
 
 1. Receive PCB CAD files (Gerber RS-274X, ODB++, or IPC-2581 formats) from customer design team for fixture layout planning

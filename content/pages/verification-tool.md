@@ -27,6 +27,10 @@ value_created: 5.2
 
 # Hardware Verification Tool Manufacturing Process
 
+**Market Leader:** [Synopsys Inc.](/companies/synopsys-inc)
+
+
+
 ## RTL Simulation Engine (Steps 1-25)
 
 1. Initialize simulation kernel with event-driven scheduling architecture supporting 10M+ events/second throughput

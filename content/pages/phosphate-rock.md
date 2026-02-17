@@ -27,6 +27,13 @@ value_created: 0
 
 # How to Make Phosphate Rock
 
+**Top Market Leaders:**
+- [OCP Group](/companies/ocp-group)
+- [Mosaic](/companies/mosaic)
+- [PhosAgro](/companies/phosagro)
+
+
+
 Sedimentary ore - source of phosphorus for fertilizers. Mineral: apatite Ca₅(PO₄)₃(F,Cl,OH), mostly fluorapatite Ca₁₀(PO₄)₆F₂ (42% P₂O₅ theoretical). Uses: fertilizers (85%, DAP/MAP/TSP ammonium/triple superphosphate), animal feed supplements (10%, dicalcium/monocalcium phosphate), industrial chemicals (phosphoric acid, elemental phosphorus, 3%), detergents/food additives (2%, declining). Global production: 240 million tonnes/year rock (2023, 70-75% P₂O₅ concentrate, equivalent to 75-85 Mt P₂O₅). China 45%, Morocco 20%, USA 10%, Russia 6%, others 19%.
 
 **Step 1-20: Sedimentary Phosphorite Formation**

@@ -24,6 +24,10 @@ value_created: 2.0
 
 # RGB Color Filter Array Manufacturing Process
 
+**Market Leader:** [Toppan Printing](/companies/toppan-printing)
+
+
+
 ## Phase 1: Substrate Preparation (Steps 1-20)
 
 1. Receive Gen 8.5 glass substrates (2200mm x 2500mm) from Corning Eagle XG facility

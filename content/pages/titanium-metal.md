@@ -21,6 +21,10 @@ value_created: 8500
 
 # Titanium Metal Production Supply Chain
 
+**Market Leader:** [VSMPO-AVISMA](/companies/vsmpo-avisma)
+
+
+
 ## Overview
 Titanium metal production is a complex metallurgical process primarily using the Kroll process, which converts titanium dioxide (TiO2) from rutile ore into metallic titanium through chlorination and magnesium reduction.
 

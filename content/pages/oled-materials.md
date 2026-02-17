@@ -18,6 +18,10 @@ value_created: 7.0
 
 # OLED Organic Materials Manufacturing Process
 
+**Market Leader:** [Universal Display Corporation](/companies/universal-display-corporation)
+
+
+
 ## Overview
 This document details the comprehensive 195-step process for manufacturing high-purity OLED organic materials, including phosphorescent emitters, host materials, and charge transport layers used in modern organic light-emitting diode displays.
 

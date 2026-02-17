@@ -21,4 +21,8 @@ value_created: 0
 
 # How to Make Utility Workers
 
+**Market Leader:** [Electric Utilities](/companies/electric-utilities)
+
+
+
 [Linemen](electrical-linemen) maintain power grid. Install/repair transmission lines, transformers, substations. [Apprenticeship](lineman-training) (3-4 years) required. [Safety Gear](line-safety-equipment): insulated gloves, hot sticks, arc flash suits. Work at heights on [Bucket Trucks](bucket-trucks). Live-line work (energized conductors) extremely dangerous. Wages: $30-50/hour. On-call 24/7 for outages. Storm response critical.

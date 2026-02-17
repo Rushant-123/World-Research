@@ -21,6 +21,10 @@ value_created: 1.0
 
 # WiFi Module Assembly Process
 
+**Market Leader:** [Murata Manufacturing](/companies/murata-manufacturing)
+
+
+
 This document details the comprehensive 195-step process for assembling WiFi 6E (802.11ax) and Bluetooth 5.3 modules for Mac computers, as performed by Murata Manufacturing in Japan.
 
 ## Phase 1: Design and Preparation (Steps 1-25)

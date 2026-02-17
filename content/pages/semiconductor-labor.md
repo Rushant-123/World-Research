@@ -18,4 +18,11 @@ value_created: 0
 
 # How to Make Semiconductor Labor
 
+**Top Market Leaders:**
+- [TSMC](/companies/tsmc)
+- [Samsung](/companies/samsung)
+- [Intel](/companies/intel)
+
+
+
 [Cleanroom Technicians](fab-technicians) operate semiconductor equipment. Load wafers, monitor processes, perform maintenance. [Process Engineers](process-engineers) develop recipes, troubleshoot, optimize yield. [Training](fab-training) (3-6 months) covers: equipment operation, cleanroom protocols, safety, quality. Work in full bunny suits. 12-hour shifts common (24/7 operations). Wages: Technicians $20-35/hour, Engineers $50-80/hour. High precision work - single error can scrap $1M batch. Career path: technician → senior tech → engineer.

@@ -27,6 +27,13 @@ value_created: 0
 
 # How to Make Packaging Materials
 
+**Top Market Leaders:**
+- [DS Smith](/companies/ds-smith)
+- [International Paper](/companies/international-paper)
+- [Smurfit Kappa](/companies/smurfit-kappa)
+
+
+
 Product packaging protects during shipping and presents brand image. MacBook packaging includes: outer corrugated box, internal molded fiber tray, protective films, manuals, accessories, and Apple stickers. Designed for minimal waste and recyclability.
 
 ## What is it?

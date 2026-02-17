@@ -27,6 +27,10 @@ value_created: 20.0
 
 # Manufacturing Process: Vector Network Analyzer
 
+**Market Leader:** [Keysight Technologies](/companies/keysight-technologies)
+
+
+
 ## 1. Broadband Signal Source Design (Steps 1-25)
 
 1. Design frequency synthesizer architecture for 10 MHz to 67 GHz frequency range with phase-locked loop topology

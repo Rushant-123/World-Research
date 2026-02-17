@@ -24,6 +24,13 @@ value_created: 0.21
 
 # How to Make Ammonium Hydroxide (NH₄OH)
 
+**Top Market Leaders:**
+- [Yara](/companies/yara)
+- [CF Industries](/companies/cf-industries)
+- [Nutrien](/companies/nutrien)
+
+
+
 Aqueous ammonia solution - weak base used in semiconductor wafer cleaning (RCA SC-1), photoresist stripping, metal etching. Technically, "ammonium hydroxide" is misnomer - solution is ammonia (NH₃) dissolved in water, not true NH₄OH compound. Commercial name persists despite chemical inaccuracy.
 
 **Step 1-8: [Ammonia Gas](ammonia-synthesis) Production**

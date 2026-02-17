@@ -21,6 +21,10 @@ value_created: 1.3
 
 # Power Management IC Manufacturing Process
 
+**Market Leader:** [Dialog Semiconductor](/companies/dialog-semiconductor)
+
+
+
 ## Phase 1: Design and Architecture (Steps 1-25)
 
 ### 1. System Requirements Definition

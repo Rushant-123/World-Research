@@ -21,6 +21,10 @@ value_created: 0.09
 
 # Speaker Paper Cone Manufacturing Process
 
+**Market Leader:** [Panasonic](/companies/panasonic)
+
+
+
 ## Phase 1: Raw Material Preparation and Pulp Slurry Formulation
 
 ### Step 1: Wood Pulp Reception and Quality Inspection

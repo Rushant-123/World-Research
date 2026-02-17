@@ -1,0 +1,34 @@
+---
+title: "Marvell Technology"
+type: "companies"
+industry: "Industrial Equipment"
+country: "Global"
+revenue: 4000000000
+market_cap: 13680000000.000004
+
+products:
+  - name: "Switching ASIC"
+    link: "switching-asic"
+
+financials:
+  profit_margin: 14.0
+  operating_margin: 18.2
+---
+
+# Marvell Technology
+
+Marvell Technology is a major player in the Industrial Equipment industry, manufacturing products across the global supply chain.
+
+## Products
+
+Marvell Technology produces 1 products in our database, including:
+
+- Switching ASIC
+
+## Market Position
+
+As a Industrial Equipment company operating primarily in Global, Marvell Technology supplies critical components and materials to the global technology supply chain.
+
+## Industry
+
+**Industrial Equipment**: Companies in this sector typically have 14.0% profit margins and invest 6.0% of revenue in R&D.

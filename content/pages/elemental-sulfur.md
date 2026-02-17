@@ -30,6 +30,13 @@ value_created: 0.03
 
 # How to Make Elemental Sulfur
 
+**Top Market Leaders:**
+- [Gazprom](/companies/gazprom)
+- [Saudi Aramco](/companies/saudi-aramco)
+- [Shell](/companies/shell)
+
+
+
 Bright yellow nonmetal - S₈ ring structure at room temperature. Uses: sulfuric acid production (90% of sulfur demand, 250 Mt H₂SO₄/year consumes 85 Mt S), fertilizers (ammonium sulfate, elemental S soil amendment, 5%), chemicals (carbon disulfide, sulfur dichloride, 2%), vulcanization (rubber tire manufacturing, 1%), other 2%. Global production: 90 million tonnes/year (2023). Sources: recovered sulfur from petroleum/gas desulfurization (90%), Frasch mining (5%, nearly obsolete), volcanic/native deposits (3%), pyrite roasting (2%, declining).
 
 **Step 1-20: Sour [Natural Gas](natural-gas) and Petroleum Feedstocks**

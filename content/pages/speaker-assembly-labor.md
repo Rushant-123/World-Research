@@ -18,6 +18,10 @@ value_created: 0.15
 
 # Speaker Assembly Technicians
 
+**Market Leader:** [GoerTek](/companies/goertek)
+
+
+
 Speaker assembly technicians at GoerTek facilities perform precision manufacturing operations to construct high-quality acoustic transducers for consumer electronics, automotive systems, and professional audio equipment. This specialized labor combines mechanical assembly, adhesive application, electrical soldering, and acoustic testing to produce speakers meeting stringent performance specifications.
 
 ## Assembly Process Overview

@@ -21,6 +21,10 @@ value_created: 0
 
 # How to Make Transmission Lines
 
+**Market Leader:** [Utilities](/companies/utilities)
+
+
+
 High-voltage power lines carrying electricity long distances. [Aluminum Conductor](aluminum-conductor) cables (ACSR - Aluminum Conductor Steel Reinforced) suspended from [Steel Towers](steel-towers) by [Ceramic Insulators](ceramic-insulators). Voltages: 115kV to 765kV. Higher voltage = less current for same power = lower resistive losses.
 
 **Construction:** Survey route, acquire right-of-way, erect towers every 200-500m, string conductors, energize line. [Installation](line-construction) requires helicopters for remote areas, specialized equipment. 3-phase AC system uses 3 conductors + optional ground wire.

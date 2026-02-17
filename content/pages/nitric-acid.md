@@ -36,6 +36,13 @@ value_created: 0
 
 # How to Make Nitric Acid (HNO₃)
 
+**Top Market Leaders:**
+- [Yara](/companies/yara)
+- [CF Industries](/companies/cf-industries)
+- [Orica](/companies/orica)
+
+
+
 Strong oxidizing acid used in semiconductor etching, metal cleaning, fertilizer production, explosives manufacture. Ostwald process: catalytic oxidation of ammonia. Discovered by Wilhelm Ostwald, Nobel Prize 1909.
 
 **Step 1-8: [Ammonia](ammonia-synthesis) Preparation**

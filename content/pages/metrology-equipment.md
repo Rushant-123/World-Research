@@ -21,6 +21,13 @@ value_created: 0
 
 # How to Make Metrology Tools
 
+**Top Market Leaders:**
+- [KLA](/companies/kla)
+- [Onto Innovation](/companies/onto-innovation)
+- [Bruker](/companies/bruker)
+
+
+
 Measure dimensions and properties at nanometer scale. Critical for process control - if measurements drift out of spec, adjust process parameters before yield drops.
 
 **[Ellipsometer](optical-ellipsometry):** Measures thin film thickness and optical properties. Shines polarized light, measures reflection. Accuracy: ±0.1nm for films 1-1000nm thick.

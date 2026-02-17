@@ -21,6 +21,10 @@ value_created: 0.2
 
 # Metal Stamping Press Manufacturing and Operation
 
+**Market Leader:** [Schuler](/companies/schuler)
+
+
+
 ## Press Frame Construction (Steps 1-25)
 
 1. Design press frame structure using FEA software to calculate stress distribution for 50-1000 ton capacity range

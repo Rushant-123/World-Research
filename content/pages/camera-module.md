@@ -21,6 +21,10 @@ value_created: 0.5
 
 # Camera Module Assembly Process for Mac FaceTime Camera
 
+**Market Leader:** [LG Innotek](/companies/lg-innotek)
+
+
+
 ## Pre-Assembly Preparation (Steps 1-20)
 
 1. Receive incoming materials from qualified suppliers with certificates of conformance

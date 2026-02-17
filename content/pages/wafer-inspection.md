@@ -21,6 +21,13 @@ value_created: 0
 
 # How to Make Wafer Inspection System
 
+**Top Market Leaders:**
+- [KLA](/companies/kla)
+- [Applied Materials](/companies/applied-materials)
+- [Hitachi](/companies/hitachi)
+
+
+
 Detects defects on wafers: particles, scratches, pattern defects, contamination. Critical for yield - single 50nm particle can kill a chip.
 
 **Optical Inspection:** [High-Resolution Optics](high-resolution-optics) + [Laser Scanner](laser-system) scan wafer at high speed. [Image Processing](machine-vision) compares to golden reference or adjacent die. Detects defects >20nm. Speed: 100-200 wafers/hour.

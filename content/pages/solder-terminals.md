@@ -18,6 +18,10 @@ value_created: 0.023
 
 # Speaker Solder Terminals Manufacturing Process
 
+**Market Leader:** [TE Connectivity](/companies/te-connectivity)
+
+
+
 ## Phase 1: Raw Material Preparation and Inspection (Steps 1-15)
 
 1. Receive brass strip coils (C26000 cartridge brass, 70% copper, 30% zinc) in 0.5mm thickness

@@ -24,6 +24,10 @@ value_created: 0.4
 
 # Power Management IC Manufacturing Process
 
+**Market Leader:** [Texas Instruments](/companies/texas-instruments)
+
+
+
 ## Phase 1: Substrate Preparation and Initial Processing (Steps 1-15)
 
 1. **Silicon Wafer Reception**: Receive 300mm <100> orientation p-type silicon wafers with 10-20 ohm-cm resistivity optimized for power applications

@@ -21,6 +21,12 @@ value_created: 1000.0
 
 # Software Development Tools Manufacturing Process
 
+**Top Market Leaders:**
+- [Microsoft](/companies/microsoft)
+- [JetBrains](/companies/jetbrains)
+
+
+
 This page details the complete supply chain for producing modern Integrated Development Environment (IDE) software tools.
 
 ## IDE Architecture Design

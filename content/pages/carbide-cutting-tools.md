@@ -24,6 +24,10 @@ value_created: 0.2
 
 # Carbide Cutting Tools Manufacturing Process
 
+**Market Leader:** [Sandvik Coromant](/companies/sandvik-coromant)
+
+
+
 ## Raw Material Preparation and Quality Control
 
 1. Receive tungsten carbide powder shipment in sealed moisture-proof containers

@@ -21,6 +21,12 @@ value_created: 0
 
 # How to Make Tungsten Metal
 
+**Top Market Leaders:**
+- [China Molybdenum](/companies/china-molybdenum)
+- [H.C. Starck](/companies/h-c-starck)
+
+
+
 Tungsten (W): highest melting point of all metals (3422°C). Used in: semiconductors (via plugs), light bulb filaments, tools, armor-piercing projectiles.
 
 ## Process:

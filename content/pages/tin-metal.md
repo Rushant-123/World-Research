@@ -36,6 +36,13 @@ value_created: 0
 
 # How to Make Tin Metal
 
+**Top Market Leaders:**
+- [Yunnan Tin](/companies/yunnan-tin)
+- [MSC](/companies/msc)
+- [PT Timah](/companies/pt-timah)
+
+
+
 High-purity tin metal (99.95-99.99% Sn) from cassiterite ore via gravity concentration, smelting, and electrorefining. Primary use: lead-free solder (SAC alloys, 50% of demand). Applications: solder/electronics (50%), tinplate steel cans (20%), chemicals/PVC stabilizers (15%), bronze/bearing alloys (10%), float glass/other (5%). Global production: 350,000-380,000 tonnes/year refined tin. China: 100,000 t (29%), Indonesia: 80,000 t (23%), Myanmar: 50,000 t (14%), Peru: 18,000 t (5%), Bolivia: 17,000 t (5%).
 
 **Step 1-18: [Cassiterite Ore](cassiterite-ore) Mining - Alluvial and Hard Rock Deposits**

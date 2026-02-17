@@ -24,6 +24,12 @@ value_created: 50.0
 
 # Specialty Steel Alloys Manufacturing Process
 
+**Top Market Leaders:**
+- [ArcelorMittal](/companies/arcelormittal)
+- [Nucor](/companies/nucor)
+
+
+
 ## Raw Material Reception and Preparation
 
 1. Receive iron ore shipments at the steel mill's rail terminal from mining operations.

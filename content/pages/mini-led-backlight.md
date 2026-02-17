@@ -18,6 +18,10 @@ value_created: 2.0
 
 # Mini-LED Backlight Manufacturing Process
 
+**Market Leader:** [Epistar](/companies/epistar)
+
+
+
 ## Overview
 Mini-LED backlighting represents advanced display technology featuring 10,000+ dimming zones, HDR peak brightness up to 1600 nits, and precise chip-on-board assembly for premium display applications.
 

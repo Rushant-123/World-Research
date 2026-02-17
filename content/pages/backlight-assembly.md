@@ -24,6 +24,10 @@ value_created: 1.0
 
 # LED Backlight Assembly Manufacturing Process
 
+**Market Leader:** [Radiant Opto-Electronics](/companies/radiant-opto-electronics)
+
+
+
 ## Section 1: Incoming Material Inspection and Preparation (Steps 1-15)
 
 1. Receive incoming shipment of White LEDs and verify quantity against purchase order specifications

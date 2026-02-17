@@ -21,6 +21,10 @@ value_created: 1.5
 
 # Keyboard Assembly Process
 
+**Market Leader:** [Foxconn](/companies/foxconn)
+
+
+
 ## Pre-Assembly Preparation
 
 ### 1. Workstation Setup

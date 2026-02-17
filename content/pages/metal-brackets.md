@@ -33,6 +33,13 @@ value_created: 0
 
 # How to Make Metal Brackets
 
+**Top Market Leaders:**
+- [Foxconn](/companies/foxconn)
+- [Jabil](/companies/jabil)
+- [Flex](/companies/flex)
+
+
+
 Structural support components (30-80 brackets per laptop) providing mounting points, reinforcement, shielding, and positioning for internal components. Types: Logic board mounting brackets (standoffs, alignment pins), display hinge reinforcement plates, port shields (USB-C, headphone jack), battery retention clips, cable routing guides, EMI shielding brackets. Materials: Aluminum alloy 5052/6061 (lightweight, corrosion resistant, 0.5-1.5mm thick), cold-rolled steel/stainless (stronger, magnetic shielding, 0.3-1.0mm thick). Manufacturing: Blanking/piercing (cut from sheet), bending/forming (create 3D geometry), tapping/hardware insertion (threaded holes), surface treatment (anodizing, plating, coating), assembly integration.
 
 **Step 1-13: Material Selection - [Aluminum Sheet](aluminum-sheet) and [Steel Sheet](steel-sheet)**

@@ -33,6 +33,13 @@ value_created: 0
 
 # How to Make a MEMS Microphone
 
+**Top Market Leaders:**
+- [Knowles](/companies/knowles)
+- [AAC Technologies](/companies/aac-technologies)
+- [Goertek](/companies/goertek)
+
+
+
 A micro-electro-mechanical systems (MEMS) microphone converts sound waves into electrical signals using a silicon diaphragm and capacitive sensing. Modern MacBooks use 3-4 MEMS microphones for voice input, noise cancellation, and beamforming. Typical sensitivity: -38 dBV, SNR: 64 dB, size: 3.76×2.95×1.0mm.
 
 ## What is it?

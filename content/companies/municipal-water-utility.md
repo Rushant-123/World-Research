@@ -1,0 +1,34 @@
+---
+title: "Municipal Water Utility"
+type: "companies"
+industry: "Industrial Equipment"
+country: "Global"
+revenue: 4000000000
+market_cap: 13680000000.000004
+
+products:
+  - name: "Water Source (Industrial)"
+    link: "water-source-industrial"
+
+financials:
+  profit_margin: 14.0
+  operating_margin: 18.2
+---
+
+# Municipal Water Utility
+
+Municipal Water Utility is a major player in the Industrial Equipment industry, manufacturing products across the global supply chain.
+
+## Products
+
+Municipal Water Utility produces 1 products in our database, including:
+
+- Water Source (Industrial)
+
+## Market Position
+
+As a Industrial Equipment company operating primarily in Global, Municipal Water Utility supplies critical components and materials to the global technology supply chain.
+
+## Industry
+
+**Industrial Equipment**: Companies in this sector typically have 14.0% profit margins and invest 6.0% of revenue in R&D.

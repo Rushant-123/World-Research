@@ -24,6 +24,10 @@ value_created: 8600
 
 # Chromium Metal Production Supply Chain
 
+**Market Leader:** [Glencore Alloys](/companies/glencore-alloys)
+
+
+
 ## Overview
 Chromium metal production begins with chromite ore extraction and proceeds through ferrochrome production in electric arc furnaces, followed by aluminothermic reduction to produce high-purity chromium metal for specialized applications.
 

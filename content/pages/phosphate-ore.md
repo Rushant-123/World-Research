@@ -24,6 +24,13 @@ value_created: 0
 
 # How to Make Phosphate Rock
 
+**Top Market Leaders:**
+- [OCP Group](/companies/ocp-group)
+- [Mosaic](/companies/mosaic)
+- [Nutrien](/companies/nutrien)
+
+
+
 Sedimentary rock containing phosphorus - essential nutrient for agriculture. Phosphorite (phosphate rock): 10-40% P₂O₅ (phosphorus pentoxide equivalent). Mineral: fluorapatite Ca₅(PO₄)₃F (42% P₂O₅). Uses: 90% fertilizer production (phosphoric acid → MAP, DAP, triple superphosphate), 5% animal feed supplements, 5% industrial phosphates (detergents, food additives, flame retardants). Global production: 240 million tonnes/year.
 
 **Step 1-15: Geological Formation and Reserves**

@@ -1,0 +1,34 @@
+---
+title: "TRUMPF"
+type: "companies"
+industry: "Industrial Equipment"
+country: "Global"
+revenue: 4000000000
+market_cap: 13680000000.000004
+
+products:
+  - name: "Laser Welding System"
+    link: "laser-welding-system"
+
+financials:
+  profit_margin: 14.0
+  operating_margin: 18.2
+---
+
+# TRUMPF
+
+TRUMPF is a major player in the Industrial Equipment industry, manufacturing products across the global supply chain.
+
+## Products
+
+TRUMPF produces 1 products in our database, including:
+
+- Laser Welding System
+
+## Market Position
+
+As a Industrial Equipment company operating primarily in Global, TRUMPF supplies critical components and materials to the global technology supply chain.
+
+## Industry
+
+**Industrial Equipment**: Companies in this sector typically have 14.0% profit margins and invest 6.0% of revenue in R&D.

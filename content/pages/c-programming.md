@@ -18,6 +18,12 @@ value_created: 0.0
 
 # C Programming Language Supply Chain
 
+**Top Market Leaders:**
+- [Bell Labs](/companies/bell-labs)
+- [ISO](/companies/iso)
+
+
+
 ## Historical Foundation and Standards Development
 
 1. **Original Design (1972)**: Dennis Ritchie develops C at Bell Labs for implementing the Unix operating system, evolving from the B language created by Ken Thompson.

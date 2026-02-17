@@ -21,6 +21,10 @@ value_created: 0
 
 # Security Infrastructure
 
+**Market Leader:** [Anthropic](/companies/anthropic)
+
+
+
 ## Step 1: Conduct security assessment
 Evaluate threats to AI training infrastructure including data theft, sabotage, and intellectual property loss.
 

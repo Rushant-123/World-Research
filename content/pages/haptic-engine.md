@@ -21,6 +21,10 @@ value_created: 1.0
 
 # Haptic Feedback Engine Manufacturing Process
 
+**Market Leader:** [Nidec](/companies/nidec)
+
+
+
 ## Phase 1: Linear Resonant Actuator (LRA) Design & Assembly (Steps 1-40)
 
 1. Source high-grade electromagnetic steel laminations (0.35mm thickness) for minimal eddy current losses

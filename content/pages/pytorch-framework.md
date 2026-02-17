@@ -21,6 +21,10 @@ value_created: 0
 
 # PyTorch Framework
 
+**Market Leader:** [Meta (Facebook)](/companies/meta-facebook)
+
+
+
 ## Step 1: Recognize need for deep learning framework
 Research community identifies need for flexible, efficient tools for neural network development.
 

@@ -18,6 +18,10 @@ value_created: 3.0
 
 # Quantum Dot Enhancement Film Manufacturing Process
 
+**Market Leader:** [Nanosys](/companies/nanosys)
+
+
+
 ## Phase 1: Quantum Dot Synthesis (Steps 1-40)
 
 ### CdSe Quantum Dot Core Synthesis

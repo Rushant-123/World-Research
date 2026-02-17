@@ -21,6 +21,10 @@ value_created: 12000000
 
 # Steam Turbine
 
+**Market Leader:** [General Electric](/companies/general-electric)
+
+
+
 ## Step 1: Design turbine for power level
 Specify turbine output (100-1500 MW), steam conditions (pressure, temperature), and efficiency targets.
 

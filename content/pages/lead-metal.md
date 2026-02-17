@@ -39,6 +39,13 @@ value_created: 0.2
 
 # How to Make Lead Metal
 
+**Top Market Leaders:**
+- [Glencore](/companies/glencore)
+- [Nyrstar](/companies/nyrstar)
+- [Doe Run](/companies/doe-run)
+
+
+
 Lead (Pb) is a heavy, soft, malleable metal extracted from galena ore (PbS) through flotation concentration, sintering, blast furnace smelting, and pyrometallurgical refining. Primary uses: lead-acid batteries (85% of consumption), radiation shielding, ammunition, cable sheathing. Global production: 12 million tonnes/year.
 
 ## What is it?

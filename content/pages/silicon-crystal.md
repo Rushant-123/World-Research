@@ -33,6 +33,13 @@ value_created: 0
 
 # How to Make Single Crystal Silicon Ingot
 
+**Top Market Leaders:**
+- [Shin-Etsu](/companies/shin-etsu)
+- [Sumco](/companies/sumco)
+- [GlobalWafers](/companies/globalwafers)
+
+
+
 Perfect monocrystalline silicon - basis for all semiconductor wafers. Czochralski (CZ) method: grow cylindrical single crystal from molten silicon. Ingot: 200-450mm diameter, 1-3 meters long, 100-400 kg, <100> or <111> crystal orientation. Dislocation-free, oxygen-controlled, precise resistivity. 90% of silicon wafers from CZ ingots, 10% float-zone (FZ, higher purity but smaller diameter).
 
 **Step 1-15: [Polycrystalline Silicon](purified-silicon) Loading**

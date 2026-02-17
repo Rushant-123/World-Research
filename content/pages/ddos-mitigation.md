@@ -24,6 +24,12 @@ value_created: 4000.0
 
 # Traffic Analysis Algorithm Development
 
+**Top Market Leaders:**
+- [Cloudflare](/companies/cloudflare)
+- [Akamai](/companies/akamai)
+
+
+
 1. Design baseline traffic profiling system to analyze normal traffic patterns over 30-day historical windows, establishing request rate thresholds of 100-10000 requests per second per endpoint.
 
 2. Implement entropy-based detection algorithms measuring Shannon entropy across source IP distributions, flagging anomalies when entropy drops below 3.5 bits indicating concentrated attack sources.

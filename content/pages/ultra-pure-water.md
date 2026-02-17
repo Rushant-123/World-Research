@@ -42,6 +42,10 @@ value_created: 0
 
 # How to Make Ultra-Pure Water
 
+**Market Leader:** [Water Treatment Facilities](/companies/water-treatment-facilities)
+
+
+
 Ultra-pure water (UPW) is water purified to extreme levels, with 18.2 MΩ·cm resistivity and parts-per-trillion contamination levels. Essential for semiconductor manufacturing, pharmaceutical production, and laboratory research where even trace impurities cause defects or interfere with processes.
 
 ## What is it?

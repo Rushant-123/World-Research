@@ -24,6 +24,10 @@ value_created: 0.45
 
 # Diamond Dicing Saw for Semiconductor Manufacturing
 
+**Market Leader:** [Disco Corporation](/companies/disco-corporation)
+
+
+
 ## Blade Technology and Selection
 
 1. Select diamond blade based on wafer material composition and thickness specifications

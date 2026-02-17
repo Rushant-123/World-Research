@@ -21,6 +21,10 @@ value_created: 1.5
 
 # Force Touch Trackpad Assembly
 
+**Market Leader:** [TPK Holding](/companies/tpk-holding)
+
+
+
 ## Component Preparation and Inspection
 
 1. Receive glass surface components from trackpad-glass supplier and verify shipment documentation

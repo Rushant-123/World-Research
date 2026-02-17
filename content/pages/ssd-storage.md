@@ -36,6 +36,13 @@ value_created: 0
 
 # How to Make an SSD Storage Drive
 
+**Top Market Leaders:**
+- [Samsung](/companies/samsung)
+- [Western Digital](/companies/western-digital)
+- [SK Hynix](/companies/sk-hynix)
+
+
+
 A solid-state drive (SSD) uses NAND flash memory chips to store data electronically, with no moving parts. Much faster and more durable than traditional hard disk drives. Modern laptops use M.2 NVMe SSDs for high-speed storage.
 
 ## What is it?

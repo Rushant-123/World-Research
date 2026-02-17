@@ -27,6 +27,13 @@ value_created: 0
 
 # How to Make Limestone
 
+**Top Market Leaders:**
+- [Vulcan Materials](/companies/vulcan-materials)
+- [Martin Marietta](/companies/martin-marietta)
+- [HeidelbergCement](/companies/heidelbergcement)
+
+
+
 Sedimentary rock - calcium carbonate (CaCO₃), formed from marine organism shells/skeletons over millions of years. Uses: cement (70% of limestone, clinker feedstock), aggregate (construction roads/buildings, 15%), flux (steel/glass manufacturing, 8%), agriculture (soil pH correction, 3%), chemicals (lime, soda ash production, 2%), other 2%. Global production: 4.5 billion tonnes/year (crushed limestone + quicklime production, 2023). Quarrying: open pit mining, drill-blast-crush-screen.
 
 **Step 1-18: Geology and Deposit Formation**

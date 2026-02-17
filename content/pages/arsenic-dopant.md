@@ -18,6 +18,10 @@ value_created: 0
 
 # How to Make Arsenic Dopant
 
+**Market Leader:** [Air Products](/companies/air-products)
+
+
+
 Arsenic creates n-type silicon (like phosphorus but heavier atom). Arsenic: 5 valence electrons, donates one. Used when shallow junctions needed (arsenic diffuses slower than phosphorus due to larger atomic size).
 
 ## Forms:

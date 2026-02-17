@@ -24,6 +24,10 @@ value_created: 0
 
 # How to Make Claude AI Model
 
+**Market Leader:** [Anthropic](/companies/anthropic)
+
+
+
 Claude is a large language model (LLM) trained by Anthropic using transformer architecture. Trained on vast text corpus to predict next tokens. Constitutional AI (CAI) training aligns model with human values. Billions of parameters enable sophisticated language understanding and generation.
 
 ## What is it?

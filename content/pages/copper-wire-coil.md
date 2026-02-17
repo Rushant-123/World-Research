@@ -21,6 +21,10 @@ value_created: 0.3
 
 # Speaker Voice Coil Manufacturing Process
 
+**Market Leader:** [Foster Electric](/companies/foster-electric)
+
+
+
 ## Raw Material Preparation (Steps 1-15)
 
 1. Receive copper magnet wire spools in AWG 38-42 gauge range from supplier

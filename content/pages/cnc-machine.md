@@ -24,6 +24,10 @@ value_created: 0.3
 
 # CNC Machining Center Manufacturing Process
 
+**Market Leader:** [DMG MORI](/companies/dmg-mori)
+
+
+
 ## Machine Bed Foundation Construction
 
 1. Prepare polymer concrete mixing facility with controlled temperature and humidity

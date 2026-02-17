@@ -21,6 +21,10 @@ value_created: 0.4
 
 # Manufacturing Process: USB-C Port Connector
 
+**Market Leader:** [JAE Electronics](/companies/jae-electronics)
+
+
+
 ## Step 1: Design Specification and Requirements Analysis
 Review USB-C specifications including USB Type-C Cable and Connector Specification 2.1, USB Power Delivery 3.0 requirements, and mechanical durability standards for 10,000 insertion cycles.
 

@@ -33,6 +33,12 @@ value_created: 0
 
 # How to Make an Ethernet Switch
 
+**Top Market Leaders:**
+- [Cisco, Juniper, Arista, HP](/companies/cisco-juniper-arista-hp)
+- [Aruba](/companies/aruba)
+
+
+
 An Ethernet switch connects multiple devices on a local network, forwarding frames based on MAC addresses. Switches learn which devices are on which ports, maintain MAC address tables, support VLANs for network segmentation, provide Power over Ethernet (PoE) to connected devices, and operate at Layer 2 (data link layer) of the OSI model.
 
 ## What is it?

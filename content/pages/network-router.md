@@ -33,6 +33,10 @@ value_created: 0
 
 # How to Make a Network Router
 
+**Market Leader:** [Cisco, Juniper, Arista, Huawei](/companies/cisco-juniper-arista-huawei)
+
+
+
 An enterprise network router is a specialized computer that forwards data packets between networks based on IP addresses. Routers form the backbone of the Internet, making routing decisions using complex algorithms, maintaining routing tables with millions of entries, and processing packets at wire speed using custom silicon ASICs.
 
 ## What is it?

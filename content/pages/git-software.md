@@ -18,6 +18,10 @@ value_created: 0
 
 # Git Version Control Software
 
+**Market Leader:** [Linux Foundation](/companies/linux-foundation)
+
+
+
 ## Step 1: Project Conception
 Linus Torvalds conceives Git as distributed version control system for Linux kernel development.
 

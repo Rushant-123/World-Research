@@ -21,6 +21,10 @@ value_created: 0.1
 
 # PVC Polymer Production for Cable Insulation and Components
 
+**Market Leader:** [Formosa Plastics](/companies/formosa-plastics)
+
+
+
 ## Raw Material Preparation and Quality Control
 
 1. Receive vinyl chloride monomer (VCM) in dedicated storage tanks with refrigeration systems maintaining -13°C to -10°C

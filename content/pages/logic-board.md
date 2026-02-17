@@ -69,6 +69,13 @@ value_created: -302
 
 # How to Make a Logic Board
 
+**Top Market Leaders:**
+- [Foxconn](/companies/foxconn)
+- [Pegatron](/companies/pegatron)
+- [Quanta](/companies/quanta)
+
+
+
 A logic board (motherboard) is the main circuit board in a computer, connecting all components. Contains the processor, memory, power management, I/O controllers, and hundreds of support components. Apple calls it the "logic board" while most others call it the "motherboard".
 
 ## What is it?

@@ -21,6 +21,10 @@ value_created: 0
 
 # How to Make Cassiterite Ore (SnO₂)
 
+**Market Leader:** [Mining Companies](/companies/mining-companies)
+
+
+
 Tin oxide mineral - sole commercial source of tin. Formula: SnO₂ (78.8% Sn). High density (6.8-7.1 g/cm³), dark brown to black, adamantine luster. Most tin from alluvial/placer deposits (secondary, weathered from primary veins, concentrated in streams). Primary deposits: hard rock veins in granite.
 
 **Step 1-15: Geology and Deposit Types**

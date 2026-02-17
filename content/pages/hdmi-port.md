@@ -18,6 +18,10 @@ value_created: 0.3
 
 # HDMI Port Connector Manufacturing Process
 
+**Market Leader:** [Molex](/companies/molex)
+
+
+
 ## Introduction to HDMI Technology
 
 ### Step 1: Understanding HDMI Standards

@@ -33,6 +33,13 @@ value_created: 0.15
 
 # How to Make Hydrogen Gas (H₂)
 
+**Top Market Leaders:**
+- [Air Products](/companies/air-products)
+- [Linde](/companies/linde)
+- [Air Liquide](/companies/air-liquide)
+
+
+
 Most abundant element in universe, third most produced industrial gas (after nitrogen, oxygen). Global production: 95 million tonnes H₂/year (2023), equivalent to 1,050 billion Nm³. Uses: ammonia synthesis (60%, fertilizers), petroleum refining (25%, hydrocracking, desulfurization), methanol production (8%), semiconductor manufacturing (3%, annealing atmospheres, epitaxy), fuel cells (2%, emerging), food processing (hydrogenation, 1%), metallurgy (1%, reducing atmosphere). Production methods: steam methane reforming SMR (75% of supply, from natural gas), coal gasification (20%, China dominant), electrolysis (4%, chlor-alkali byproduct + dedicated), byproduct from petrochemicals (1%, catalytic reforming, ethylene crackers). Hydrogen economy: clean fuel alternative, energy carrier, decarbonization pathway if produced from renewables ("green hydrogen").
 
 **Step 1-20: [Natural Gas](natural-gas) Feedstock and Desulfurization**

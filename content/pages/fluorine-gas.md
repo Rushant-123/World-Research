@@ -21,6 +21,12 @@ value_created: 20.0
 
 # Fluorine Gas Production
 
+**Top Market Leaders:**
+- [Solvay](/companies/solvay)
+- [Honeywell](/companies/honeywell)
+
+
+
 Fluorine gas (F₂) is the most reactive chemical element and is produced exclusively through electrolysis of anhydrous hydrogen fluoride. This process requires specialized nickel-based equipment and extreme safety protocols due to fluorine's extreme reactivity.
 
 ## Raw Material Preparation

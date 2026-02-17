@@ -21,6 +21,10 @@ value_created: 0.03
 
 # Magnetometer Sensor Manufacturing Process
 
+**Market Leader:** [Asahi Kasei Microdevices](/companies/asahi-kasei-microdevices)
+
+
+
 ## Phase 1: Hall Sensor Element Fabrication (Steps 1-35)
 
 ### 1. Silicon Wafer Preparation

@@ -30,6 +30,13 @@ value_created: 0
 
 # How to Make Lithium Carbonate (Li₂CO₃)
 
+**Top Market Leaders:**
+- [SQM](/companies/sqm)
+- [Albemarle](/companies/albemarle)
+- [Ganfeng](/companies/ganfeng)
+
+
+
 Lithium compound - precursor to lithium-ion batteries, ceramics, glass, pharmaceuticals, lubricants. Global production: 700,000 tonnes LCE (lithium carbonate equivalent, 2023). Two routes: brine evaporation (50-60% of supply, Chile, Argentina, China salt lakes) or hard rock mining (40-50%, Australia spodumene). Battery boom: demand grew 6× since 2015 (EVs, grid storage).
 
 **Step 1-18: [Lithium Brine](brine-extraction) Sources and Pumping**

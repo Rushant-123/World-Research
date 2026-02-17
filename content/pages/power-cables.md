@@ -33,6 +33,13 @@ value_created: 0
 
 # How to Make AC Power Cable
 
+**Top Market Leaders:**
+- [Volex](/companies/volex)
+- [Shenzhen Deren](/companies/shenzhen-deren)
+- [Honglin](/companies/honglin)
+
+
+
 Mains power cord supplying 120V AC (North America) or 230V AC (Europe/Asia/Oceania) electricity from wall outlet to device. Mac power adapters use detachable 3-conductor cables: Line (hot), Neutral, Ground (safety). Standard types: C5 "Mickey Mouse" (3-prong laptop), C13 (IEC 60320, desktop/monitor), NEMA 1-15P (USA 2-prong), NEMA 5-15P (USA 3-prong grounded). Construction: stranded copper conductors (14-18 AWG), PVC or rubber insulation, molded plug with brass pins. Rated 10-15A, 125-250V. Global production: 2+ billion power cords/year.
 
 **Step 1-15: [Copper Wire](copper-wire) Conductor Manufacturing**

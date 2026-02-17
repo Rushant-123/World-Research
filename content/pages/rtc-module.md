@@ -18,6 +18,10 @@ value_created: 0.05
 
 # Manufacturing Process: Real-Time Clock Module
 
+**Market Leader:** [Maxim Integrated](/companies/maxim-integrated)
+
+
+
 ## Section 1: 32.768 kHz Crystal Oscillator Setup (Steps 1-35)
 
 1. Source 32.768 kHz tuning fork crystal with ±20ppm initial accuracy

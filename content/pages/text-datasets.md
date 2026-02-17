@@ -21,6 +21,10 @@ value_created: 0
 
 # Text Datasets
 
+**Market Leader:** [Anthropic](/companies/anthropic)
+
+
+
 Text datasets form the foundational training data for large language models. The process of collecting, curating, and preparing text data involves a complex supply chain spanning web scraping infrastructure, content licensing, data quality assessment, and large-scale processing pipelines.
 
 ## Phase 1: Web Content Collection (Steps 1-35)

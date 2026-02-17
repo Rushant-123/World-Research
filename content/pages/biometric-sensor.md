@@ -18,6 +18,10 @@ value_created: 0.5
 
 # Fingerprint Sensor Manufacturing Process
 
+**Market Leader:** [Synaptics](/companies/synaptics)
+
+
+
 ## Phase 1: Capacitive Array Preparation (Steps 1-25)
 
 ### Step 1: Silicon Wafer Selection

@@ -21,6 +21,10 @@ value_created: 0
 
 # How to Make GitHub Pages Hosting
 
+**Market Leader:** [GitHub (Microsoft)](/companies/github-microsoft)
+
+
+
 GitHub Pages is a free static website hosting service integrated with GitHub repositories. Serves HTML/CSS/JS files directly from repository. Supports custom domains and HTTPS. Built on Fastly CDN for global distribution.
 
 ## What is it?

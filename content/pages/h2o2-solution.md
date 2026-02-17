@@ -36,6 +36,13 @@ value_created: 0.09
 
 # How to Make Hydrogen Peroxide (H₂O₂)
 
+**Top Market Leaders:**
+- [Solvay](/companies/solvay)
+- [Evonik](/companies/evonik)
+- [Arkema](/companies/arkema)
+
+
+
 Strong oxidizer used in semiconductor wafer cleaning (RCA clean, SC-1 solution), printed circuit board etching, chemical synthesis, bleaching, disinfection. H₂O₂ is unstable - decomposes to water and oxygen. Must be stabilized and handled carefully.
 
 **Step 1-10: Anthraquinone Process Overview**

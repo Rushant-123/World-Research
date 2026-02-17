@@ -30,6 +30,10 @@ value_created: -2002
 
 # How to Make Claude Code
 
+**Market Leader:** [Anthropic](/companies/anthropic)
+
+
+
 Claude Code is an AI-powered command-line interface (CLI) tool that helps with software engineering tasks. It's made by Anthropic and runs on your computer while connecting to cloud services.
 
 ## What is it?

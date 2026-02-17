@@ -21,6 +21,10 @@ value_created: 0.3
 
 # Polyethylene Production Supply Chain
 
+**Market Leader:** [Dow Chemical](/companies/dow-chemical)
+
+
+
 ## Phase 1: Feedstock Preparation & Purification (Steps 1-25)
 
 1. Receive ethylene gas from steam cracking units at -104°C

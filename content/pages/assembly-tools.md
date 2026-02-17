@@ -33,6 +33,13 @@ value_created: 0
 
 # How to Make Assembly Tools
 
+**Top Market Leaders:**
+- [ASM](/companies/asm)
+- [Juki](/companies/juki)
+- [Yamaha](/companies/yamaha)
+
+
+
 Assembly tools are automated machines and equipment used to manufacture electronic devices like computers, smartphones, and tablets. They precisely place thousands of components, drive screws, apply adhesives, and verify quality at high speeds with extreme accuracy.
 
 ## What is it?

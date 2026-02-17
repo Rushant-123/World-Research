@@ -27,6 +27,13 @@ value_created: 0
 
 # How to Make Salt (Sodium Chloride, NaCl)
 
+**Top Market Leaders:**
+- [Compass Minerals](/companies/compass-minerals)
+- [K+S](/companies/k-s)
+- [Cargill](/companies/cargill)
+
+
+
 Essential mineral - sodium chloride. Uses: chemical feedstock (chlor-alkali caustic soda + chlorine, 40%), deicing roads (25%), food processing/preservation (6%), agriculture feed (5%), water treatment (4%), industrial processes (10%), table salt (1%), other 9%. Global production: 300 million tonnes/year (2023). Sources: rock salt mining (45%), solution mining/brine (35%), solar salt evaporation (15%), vacuum salt (5%).
 
 **Step 1-15: Geology of Salt Deposits**

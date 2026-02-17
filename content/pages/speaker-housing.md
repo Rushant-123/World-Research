@@ -21,6 +21,10 @@ value_created: 0.3
 
 # Speaker Housing Enclosure Manufacturing Process
 
+**Market Leader:** [GoerTek](/companies/goertek)
+
+
+
 ## Phase 1: Acoustic Design and Engineering (Steps 1-25)
 
 ### Acoustic Requirements Analysis

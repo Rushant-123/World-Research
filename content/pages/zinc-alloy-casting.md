@@ -21,6 +21,10 @@ value_created: 0.1
 
 # Zinc Alloy Die Casting Process
 
+**Market Leader:** [Dynacast](/companies/dynacast)
+
+
+
 ## Pre-Production Preparation
 
 1. Review engineering drawings and CAD models for cable connector specifications

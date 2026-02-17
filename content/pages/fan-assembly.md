@@ -24,6 +24,10 @@ value_created: 1.04
 
 # Cooling Fan Assembly Manufacturing Process
 
+**Market Leader:** [Nidec](/companies/nidec)
+
+
+
 ## Phase 1: Pre-Assembly Preparation and Component Inspection
 
 1. Receive incoming shipment of brushless DC motors from motor manufacturing facility

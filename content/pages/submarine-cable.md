@@ -33,6 +33,10 @@ value_created: 0
 
 # How to Make a Submarine Cable
 
+**Market Leader:** [SubCom, Alcatel Submarine Networks, NEC](/companies/subcom-alcatel-submarine-networks-nec)
+
+
+
 A submarine telecommunications cable is a fiber optic cable laid on the ocean floor to carry data between continents. These cables form the backbone of the global Internet, carrying 99% of intercontinental traffic. A typical transoceanic system spans 5,000-15,000 km, contains 6-24 fiber pairs, achieves 200-400 Gbps per fiber pair (total capacity 1-10 Tbps), and includes optical repeaters every 50-100 km to amplify signals.
 
 ## What is it?

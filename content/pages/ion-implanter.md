@@ -24,6 +24,12 @@ value_created: 0
 
 # How to Make Ion Implanter
 
+**Top Market Leaders:**
+- [Applied Materials](/companies/applied-materials)
+- [Axcelis](/companies/axcelis)
+
+
+
 Semiconductor tool that shoots dopant ions into silicon wafer at high energy (1-400 keV). Creates n-type (phosphorus, arsenic) or p-type (boron) regions for transistors. Precise dose (10¹¹-10¹⁶ ions/cm²) and depth control.
 
 ## Process:

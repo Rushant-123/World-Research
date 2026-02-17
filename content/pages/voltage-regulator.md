@@ -24,6 +24,10 @@ value_created: 0.5
 
 # Voltage Regulator Module Manufacturing
 
+**Market Leader:** [Infineon](/companies/infineon)
+
+
+
 ## Phase 1: Electrical Architecture Design (Steps 1-25)
 
 ### Power Requirements Analysis

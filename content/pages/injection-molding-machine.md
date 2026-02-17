@@ -21,6 +21,10 @@ value_created: 0.1
 
 # Injection Molding Machine Manufacturing Process
 
+**Market Leader:** [Arburg](/companies/arburg)
+
+
+
 ## Machine Specifications and Setup (Steps 1-25)
 
 1. Select Arburg Allrounder injection molding machine platform for Mac component production

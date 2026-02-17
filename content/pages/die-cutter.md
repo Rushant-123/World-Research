@@ -27,6 +27,10 @@ value_created: 18.0
 
 # Die Cutting Equipment Manufacturing Process
 
+**Market Leader:** [Bobst Group](/companies/bobst-group)
+
+
+
 ## Machine Frame Construction
 
 1. Design main frame structure using 25mm thick steel plate for maximum rigidity

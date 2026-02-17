@@ -18,6 +18,12 @@ value_created: 0.0
 
 # Open Source Software Communities Supply Chain
 
+**Top Market Leaders:**
+- [GitHub](/companies/github)
+- [GitLab](/companies/gitlab)
+
+
+
 ## Project Foundation and Licensing
 
 1. **Initial Concept Development**: Core maintainers identify software need and define project scope, objectives, and target user community.

@@ -33,6 +33,13 @@ value_created: 0.05
 
 # How to Make Ammonia (NH₃)
 
+**Top Market Leaders:**
+- [Yara](/companies/yara)
+- [CF Industries](/companies/cf-industries)
+- [Nutrien](/companies/nutrien)
+
+
+
 Foundation chemical - most produced synthetic chemical worldwide (175 million tonnes/year, 2023). 80% for fertilizers, 20% for chemicals (nitric acid, explosives, polymers, refrigerant, semiconductor cleaning). Haber-Bosch process: N₂ + 3H₂ → 2NH₃. Nobel Prize 1918 (Fritz Haber, Carl Bosch). Enabled industrial fertilizer production - supports ~50% of global food supply. Consumes 1-2% of global energy, 1-2% of global CO₂ emissions.
 
 **Step 1-15: [Natural Gas](natural-gas) Feedstock and Desulfurization**

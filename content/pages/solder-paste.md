@@ -24,6 +24,10 @@ value_created: 0.01
 
 # Solder Paste Manufacturing Process
 
+**Market Leader:** [Senju Metal Industry](/companies/senju-metal-industry)
+
+
+
 ## Phase 1: Raw Material Preparation and Quality Control (Steps 1-25)
 
 1. Receive high-purity tin ingots (99.9%+ purity) and verify supplier certificates of analysis for trace element content including lead, bismuth, antimony, and iron impurities below 100 ppm each.

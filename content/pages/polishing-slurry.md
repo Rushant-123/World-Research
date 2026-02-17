@@ -24,6 +24,13 @@ value_created: 0
 
 # How to Make Polishing Slurry
 
+**Top Market Leaders:**
+- [Cabot Microelectronics](/companies/cabot-microelectronics)
+- [DuPont](/companies/dupont)
+- [Fujimi](/companies/fujimi)
+
+
+
 Abrasive suspension for CMP (chemical mechanical polishing). Contains: nanoparticles, chemicals (pH control, oxidizers, inhibitors, surfactants), water.
 
 ## For Silicon Wafer Polishing:

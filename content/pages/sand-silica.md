@@ -27,6 +27,13 @@ value_created: 0
 
 # How to Make Silica Sand
 
+**Top Market Leaders:**
+- [US Silica](/companies/us-silica)
+- [Sibelco](/companies/sibelco)
+- [Quarzwerke](/companies/quarzwerke)
+
+
+
 High-purity quartz sand - silicon dioxide (SiO₂) >95%. Uses: glass manufacturing (soda-lime, container, flat glass, 40%), hydraulic fracturing proppant (oil/gas wells, 30%), foundry casting molds (metal casting, 15%), construction aggregate (concrete, mortar, 8%), ceramics, fillers, abrasives, water filtration (3%), electronics silicon (ultrapure, <1%), other 3%. Global production: 300 million tonnes/year (2023, industrial silica sand, excludes common construction sand). USA 40%, China 15%, Turkey 5%, others 40%.
 
 **Step 1-18: Geology and Formation of Silica-Rich Sands**

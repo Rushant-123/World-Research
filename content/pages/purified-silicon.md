@@ -69,6 +69,12 @@ value_created: -8.4
 
 # How to Make Purified Silicon
 
+**Top Market Leaders:**
+- [Wacker Chemie](/companies/wacker-chemie)
+- [Hemlock Semiconductor](/companies/hemlock-semiconductor)
+
+
+
 Purified silicon (polysilicon) is ultra-pure silicon in polycrystalline form, containing 99.9999999% (nine nines) pure silicon. It's the raw material for making silicon wafers used in computer chips and solar panels.
 
 ## What is it?

@@ -18,6 +18,12 @@ value_created: 1.0
 
 # ICANN Domain Registry
 
+**Top Market Leaders:**
+- [ICANN](/companies/icann)
+- [Verisign](/companies/verisign)
+
+
+
 An ICANN Domain Registry is the authoritative database system that manages top-level domain (TLD) registrations, maintains the master registry of domain names, enforces domain policies, and coordinates with accredited registrars to provide domain name services globally. This registry operates under ICANN oversight and maintains critical infrastructure for Internet naming systems.
 
 ## Registry Infrastructure Setup

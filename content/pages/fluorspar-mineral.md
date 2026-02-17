@@ -24,6 +24,10 @@ value_created: 0
 
 # How to Make Fluorspar Ore (CaF₂)
 
+**Market Leader:** [Mining Companies](/companies/mining-companies)
+
+
+
 Calcium fluoride mineral - sole commercial source of fluorine. Used for: hydrofluoric acid (semiconductor etching), aluminum smelting (flux), steel making (flux), fluoropolymers (Teflon), fluorocarbons (refrigerants), uranium enrichment (fluorination). Critical mineral - limited deposits, geopolitical concentration (China 60% of production).
 
 **Step 1-10: Geological Formation and Exploration**

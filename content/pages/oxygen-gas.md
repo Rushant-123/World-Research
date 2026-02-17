@@ -30,6 +30,13 @@ value_created: 0
 
 # How to Make Oxygen Gas (O₂)
 
+**Top Market Leaders:**
+- [Air Products](/companies/air-products)
+- [Linde](/companies/linde)
+- [Air Liquide](/companies/air-liquide)
+
+
+
 Industrial oxygen - third most produced chemical globally (300 million tonnes/year, 2023). Essential for: steelmaking (55% of demand, basic oxygen furnace, electric arc furnace), chemicals (25%, ethylene oxide, propylene oxide, vinyl chloride, methanol, sulfuric acid), medical (10%, respiratory therapy, anesthesia), water/wastewater treatment (5%, aeration, ozone generation), metal cutting/welding (3%, oxy-acetylene, oxy-fuel), pulp/paper bleaching (1%), rocket propulsion (liquid oxygen LOX, 1%). Cryogenic air separation: fractional distillation of liquefied air, separates by boiling point differences (O₂ -183°C, N₂ -196°C, Ar -186°C).
 
 **Step 1-18: [Atmospheric Air](atmospheric-air) Composition and Intake**

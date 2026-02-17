@@ -18,6 +18,10 @@ value_created: 0.2
 
 # CNC Machinist Training: Comprehensive Apprenticeship Program
 
+**Market Leader:** [Haas Factory Outlet](/companies/haas-factory-outlet)
+
+
+
 ## Phase 1: Foundation and Safety (Steps 1-25)
 
 ### Week 1: Introduction to Manufacturing and Safety

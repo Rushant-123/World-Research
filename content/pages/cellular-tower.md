@@ -33,6 +33,10 @@ value_created: 0
 
 # How to Make a Cellular Tower
 
+**Market Leader:** [American Tower, Crown Castle, SBA Communications](/companies/american-tower-crown-castle-sba-communications)
+
+
+
 A cellular tower (cell site or base station) provides wireless connectivity for mobile phones and devices. It consists of a tall structure (tower, monopole, or rooftop installation) supporting antennas, a base station with radio equipment that communicates with mobile devices, fiber optic backhaul connecting to the mobile network core, and power systems including backup generators.
 
 ## What is it?

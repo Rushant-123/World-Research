@@ -18,6 +18,12 @@ value_created: 0.0
 
 # NPM Package Registry
 
+**Top Market Leaders:**
+- [npm Inc](/companies/npm-inc)
+- [GitHub](/companies/github)
+
+
+
 The NPM (Node Package Manager) registry is the world's largest software registry, hosting millions of JavaScript packages and serving billions of downloads per week. It provides the infrastructure for package publishing, distribution, dependency resolution, and security scanning across the JavaScript ecosystem.
 
 ## Package Publishing Process

@@ -21,6 +21,12 @@ value_created: 50000.0
 
 # Engineering Design Services Manufacturing Process
 
+**Top Market Leaders:**
+- [AECOM](/companies/aecom)
+- [Bechtel](/companies/bechtel)
+
+
+
 ## Requirements Analysis Phase
 
 1. Receive project brief and initial specifications from client stakeholders

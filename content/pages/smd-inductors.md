@@ -21,6 +21,10 @@ value_created: 0.027
 
 # SMD Inductors Manufacturing Process
 
+**Market Leader:** [TDK](/companies/tdk)
+
+
+
 ## Ferrite Material Formulation (Steps 1-25)
 
 1. Source iron oxide (Fe2O3) powder with 99.5% purity for ferrite base material

@@ -36,6 +36,13 @@ value_created: 0
 
 # How to Make Organic Package Substrate
 
+**Top Market Leaders:**
+- [Ibiden](/companies/ibiden)
+- [Unimicron](/companies/unimicron)
+- [AT&S](/companies/at-s)
+
+
+
 Multi-layer circuit board connecting chip to printed circuit board. Advanced PCB with fine features: 15-30 µm traces, 50-100 µm vias, 4-8 layers. Ball Grid Array (BGA) on bottom. Similar to PCB fabrication but finer pitch, tighter tolerances.
 
 **Step 1-10: Core Material Preparation**

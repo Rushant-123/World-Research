@@ -24,6 +24,12 @@ value_created: 0
 
 # How to Make HTML
 
+**Top Market Leaders:**
+- [W3C](/companies/w3c)
+- [WHATWG](/companies/whatwg)
+
+
+
 HTML (HyperText Markup Language) is the standard markup language for creating web pages. It was originally created by Tim Berners-Lee in 1991 and is now maintained by W3C (World Wide Web Consortium) and WHATWG (Web Hypertext Application Technology Working Group).
 
 ## What is it?

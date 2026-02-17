@@ -39,6 +39,13 @@ value_created: -2
 
 # How to Make Silver Metal
 
+**Top Market Leaders:**
+- [Fresnillo](/companies/fresnillo)
+- [KGHM](/companies/kghm)
+- [Pan American Silver](/companies/pan-american-silver)
+
+
+
 Silver (Ag) is a precious white metal with the highest electrical conductivity, thermal conductivity, and reflectivity of all metals. Primarily recovered as a byproduct from lead, copper, and gold refining (70% of production), with 30% from primary silver mines. Used in electronics, solar panels, jewelry, and industrial catalysts.
 
 ## What is it?

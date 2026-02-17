@@ -21,6 +21,10 @@ value_created: 0
 
 # TypeScript Language Development
 
+**Market Leader:** [Microsoft](/companies/microsoft)
+
+
+
 ## Phase 1: Language Design & Specification (Steps 1-25)
 
 ### Core Language Design

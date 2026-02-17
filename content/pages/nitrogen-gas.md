@@ -30,6 +30,13 @@ value_created: 0
 
 # How to Make Nitrogen Gas (N₂)
 
+**Top Market Leaders:**
+- [Air Products](/companies/air-products)
+- [Linde](/companies/linde)
+- [Air Liquide](/companies/air-liquide)
+
+
+
 Industrial workhorse gas - 78% of Earth's atmosphere. Production: 150 million tonnes/year globally (2023). Uses: ammonia synthesis (Haber-Bosch, 75% of production), inert atmosphere (chemical reactors, semiconductor fabs, food packaging, 15%), oil/gas well pressurization (5%), cryogenics (liquid nitrogen, 3%), metal treatment (2%). Three production methods: cryogenic air separation (88%, large-scale, high-purity), pressure swing adsorption PSA (10%, on-site, moderate purity 95-99.999%), membrane separation (2%, small-scale, lower purity 90-99%). Cryogenic process separates atmospheric components by boiling point differences: N₂ (-196°C), Ar (-186°C), O₂ (-183°C).
 
 **Step 1-12: [Atmospheric Air](atmospheric-air) Intake and Filtration**

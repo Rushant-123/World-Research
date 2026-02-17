@@ -30,6 +30,12 @@ value_created: -930
 
 # How to Make npm Dependencies
 
+**Top Market Leaders:**
+- [npm, Inc. (GitHub](/companies/npm-inc-github)
+- [Microsoft)](/companies/microsoft)
+
+
+
 npm (Node Package Manager) is the default package manager for Node.js and the world's largest software registry. Created by Isaac Z. Schlueter in 2010, it enables developers to share and reuse code packages, manage project dependencies, and maintain consistent development environments.
 
 ## What is it?

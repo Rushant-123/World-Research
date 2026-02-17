@@ -24,6 +24,13 @@ value_created: 0
 
 # How to Make Standard Cell Libraries
 
+**Top Market Leaders:**
+- [ARM](/companies/arm)
+- [Synopsys](/companies/synopsys)
+- [Cadence](/companies/cadence)
+
+
+
 Pre-designed, pre-characterized circuit building blocks for digital chip design. Standard cells: logic gates (AND, OR, NAND, NOR, XOR, INV), flip-flops, latches, buffers, multiplexers, adders. Fixed height (typically 6-12 tracks), variable width. Abutted in rows during place-and-route. Library contains: layouts (GDSII), timing models (Liberty .lib), power models, physical abstractions (LEF).
 
 **Step 1-12: Cell Selection and Architecture**

@@ -33,6 +33,13 @@ value_created: 0
 
 # How to Make Epoxy Molding Compound
 
+**Top Market Leaders:**
+- [Sumitomo Bakelite](/companies/sumitomo-bakelite)
+- [Hitachi Chemical](/companies/hitachi-chemical)
+- [Henkel](/companies/henkel)
+
+
+
 Thermoset polymer encapsulating semiconductor chips in packages. Protects from moisture, mechanical stress, contamination. Requirements: low stress (CTE matched to silicon), high purity (no ionic contaminants), flame retardant, moldable. Formulation: epoxy resin + filler + additives.
 
 **Step 1-10: [Epoxy Resin](epoxy-resin) Selection**

@@ -21,6 +21,12 @@ value_created: 0.001
 
 # Payment Gateway Service Manufacturing Process
 
+**Top Market Leaders:**
+- [Stripe](/companies/stripe)
+- [Square](/companies/square)
+
+
+
 ## Infrastructure Setup (Steps 1-25)
 
 1. Deploy primary data center with redundant power supplies and cooling systems

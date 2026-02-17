@@ -24,6 +24,10 @@ value_created: 0.9
 
 # Flexible Printed Circuit Manufacturing Process
 
+**Market Leader:** [Flexium](/companies/flexium)
+
+
+
 ## Phase 1: Material Preparation and Inspection (Steps 1-15)
 
 1. Receive polyimide film rolls in cleanroom environment

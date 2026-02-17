@@ -33,6 +33,13 @@ value_created: 0
 
 # How to Make Fiber Optic Cable
 
+**Top Market Leaders:**
+- [Corning](/companies/corning)
+- [Prysmian](/companies/prysmian)
+- [Sumitomo](/companies/sumitomo)
+
+
+
 High-speed data transmission cable using glass or plastic optical fibers to carry light signals. Modern Macs don't typically include fiber internally, but Thunderbolt cables can use active optical cables (AOC) for long-distance runs (10-50m, 40 Gbps Thunderbolt 3/4). Fiber construction: ultra-pure silica glass core (8-50 µm diameter), cladding (125 µm), protective coatings (acrylate 250 µm), strength members (aramid/Kevlar), outer jacket. Single-mode fiber (SMF, 9 µm core, long-distance 10+ km, laser source) or multi-mode fiber (MMF, 50-62.5 µm core, short-distance <500m, LED/VCSEL source). Advantages over copper: immune to EMI, no ground loops, bandwidth 10-100 Gbps+, lightweight. Global production: 600+ million fiber-km/year.
 
 **Step 1-15: [Silica Glass Preform](silica-glass-preform) Fabrication - Core**

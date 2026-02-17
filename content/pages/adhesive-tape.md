@@ -30,6 +30,12 @@ value_created: 0
 
 # How to Make Double-Sided Adhesive Tape
 
+**Top Market Leaders:**
+- [Nitto Denko](/companies/nitto-denko)
+- [Tesa](/companies/tesa)
+
+
+
 A pressure-sensitive adhesive (PSA) tape with adhesive coated on both sides of a thin carrier film or foam. Used in electronics assembly to bond components: batteries, displays, heatsinks, EMI shields. Provides instant bonding without curing time. Acrylic adhesive formulation offers high temperature resistance, UV stability, and clean removal. Thickness: 0.05-0.5mm depending on application.
 
 ## What is it?

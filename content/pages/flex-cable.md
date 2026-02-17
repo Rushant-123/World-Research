@@ -21,6 +21,10 @@ value_created: 0.2
 
 # Flexible Flat Cable Manufacturing Process
 
+**Market Leader:** [Sumitomo Electric](/companies/sumitomo-electric)
+
+
+
 ## Raw Material Reception and Inspection
 
 1. Receive copper conductor rolls from certified suppliers with material certificates

@@ -24,6 +24,12 @@ value_created: 0
 
 # How to Make CVD Machine
 
+**Top Market Leaders:**
+- [Applied Materials](/companies/applied-materials)
+- [Tokyo Electron](/companies/tokyo-electron)
+
+
+
 Chemical Vapor Deposition deposits thin films on wafers. Gases decompose on hot wafer surface, forming solid film. Deposits: oxides (SiO₂), nitrides (Si₃N₄), metals (W, Al, Cu), dielectrics. Film thickness: 10nm-10µm.
 
 ## Types:

@@ -21,6 +21,10 @@ value_created: 0.7
 
 # Polarizer Film Manufacturing Process
 
+**Market Leader:** [Nitto Denko](/companies/nitto-denko)
+
+
+
 Polarizer film is a critical optical component in LCD displays, converting unpolarized light into polarized light. This manufacturing process produces high-performance polarizer films specifically designed for Mac LCD displays, with precise control over optical properties, thickness, and durability.
 
 ## Raw Material Preparation and Inspection

@@ -1,0 +1,34 @@
+---
+title: "DSM Desotech"
+type: "companies"
+industry: "Industrial Equipment"
+country: "Global"
+revenue: 4000000000
+market_cap: 13680000000.000004
+
+products:
+  - name: "UV Curable Acrylate"
+    link: "uv-curable-acrylate"
+
+financials:
+  profit_margin: 14.0
+  operating_margin: 18.2
+---
+
+# DSM Desotech
+
+DSM Desotech is a major player in the Industrial Equipment industry, manufacturing products across the global supply chain.
+
+## Products
+
+DSM Desotech produces 1 products in our database, including:
+
+- UV Curable Acrylate
+
+## Market Position
+
+As a Industrial Equipment company operating primarily in Global, DSM Desotech supplies critical components and materials to the global technology supply chain.
+
+## Industry
+
+**Industrial Equipment**: Companies in this sector typically have 14.0% profit margins and invest 6.0% of revenue in R&D.

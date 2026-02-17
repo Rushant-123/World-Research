@@ -39,6 +39,13 @@ value_created: 0.12
 
 # How to Make Hydrofluoric Acid (HF)
 
+**Top Market Leaders:**
+- [Honeywell](/companies/honeywell)
+- [Solvay](/companies/solvay)
+- [Stella Chemifa](/companies/stella-chemifa)
+
+
+
 Most dangerous acid in electronics manufacturing. Only chemical that etches silicon dioxide. Used in semiconductor wafer cleaning, glass etching, metal surface treatment. Extremely hazardous - penetrates skin without pain, causes deep tissue and bone damage. Fatality risk from skin contact with concentrated solutions.
 
 **Step 1-5: [Fluorspar](fluorspar-mineral) Preparation**

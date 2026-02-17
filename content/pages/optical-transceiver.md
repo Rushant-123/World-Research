@@ -30,6 +30,12 @@ value_created: 35.0
 
 # Manufacturing Process: 100G QSFP28 Optical Transceiver Module
 
+**Top Market Leaders:**
+- [Finisar](/companies/finisar)
+- [Lumentum](/companies/lumentum)
+
+
+
 ## TOSA Preparation and Laser Diode Integration
 
 1. Receive 1310nm DFB laser diode dies with 2.5mm cavity length and 15μm active region width from wafer fab on sapphire submounts

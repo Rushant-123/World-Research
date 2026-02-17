@@ -18,6 +18,12 @@ value_created: 0
 
 # How to Make Boron Dopant
 
+**Top Market Leaders:**
+- [Air Products](/companies/air-products)
+- [Voltaix](/companies/voltaix)
+
+
+
 Boron creates p-type (positive charge carriers - holes) silicon. Boron has 3 valence electrons vs silicon's 4, creating "hole" that accepts electrons. Used in PMOS transistors, p-wells, and source/drain regions.
 
 ## Forms:

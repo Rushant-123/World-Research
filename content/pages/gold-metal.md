@@ -24,6 +24,13 @@ value_created: 0
 
 # How to Make Gold Metal
 
+**Top Market Leaders:**
+- [Barrick](/companies/barrick)
+- [Newmont](/companies/newmont)
+- [AngloGold](/companies/anglogold)
+
+
+
 Noble metal - chemically inert, excellent conductor, does not oxidize. Electronics: wire bonding (chip-to-package), connectors, contacts, electroplating (PCB fingers). Jewelry: 50% of demand. Investment: 30% (bars, coins, ETFs). Industrial: 8% (electronics 7%, dental 1%). Annual production: 3,000 tonnes (mine) + 1,300 tonnes (recycled) = 4,300 tonnes total supply.
 
 **Step 1-15: [Gold Ore](gold-mining) Geology and Mining**

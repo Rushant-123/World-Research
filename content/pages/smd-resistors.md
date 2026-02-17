@@ -21,6 +21,10 @@ value_created: 0.0017
 
 # SMD Resistors Manufacturing Process
 
+**Market Leader:** [Yageo](/companies/yageo)
+
+
+
 Surface Mount Device (SMD) resistors are critical passive components used extensively in Mac logic boards and modern electronics. This document details the complete manufacturing process for chip resistors in standard sizes (0201, 0402, 0603) with thick film technology.
 
 ## Phase 1: Alumina Substrate Preparation (Steps 1-25)

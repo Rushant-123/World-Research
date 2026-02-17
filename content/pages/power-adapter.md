@@ -21,6 +21,10 @@ value_created: 7.5
 
 # How to Make a USB-C Power Adapter
 
+**Market Leader:** [Flextronics](/companies/flextronics)
+
+
+
 A high-efficiency USB-C power adapter using flyback topology, GaN FETs, and USB PD 3.1 protocol supporting up to 140W output with >94% efficiency, advanced thermal management, and comprehensive safety certifications.
 
 ## Step 1: Design Power Architecture

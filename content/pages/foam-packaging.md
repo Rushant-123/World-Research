@@ -21,6 +21,10 @@ value_created: 0.25
 
 # Foam Packaging Production
 
+**Market Leader:** [Sealed Air](/companies/sealed-air)
+
+
+
 ## Step 1: Raw Material Sourcing
 Source polyethylene pellets from petrochemical suppliers for foam base material production.
 

@@ -21,6 +21,12 @@ value_created: 0
 
 # How to Make Oxidation Furnace
 
+**Top Market Leaders:**
+- [Tokyo Electron](/companies/tokyo-electron)
+- [Kokusai Electric](/companies/kokusai-electric)
+
+
+
 Grows silicon dioxide (SiO₂) layer on silicon wafer by heating in oxygen ambient. SiO₂ is gate oxide (insulates transistor gate) and isolation layer. Temperature: 800-1200°C. Thickness: 1-500nm.
 
 ## Types:

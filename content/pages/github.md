@@ -42,6 +42,10 @@ value_created: -1742
 
 # How to Make GitHub
 
+**Market Leader:** [GitHub (Microsoft)](/companies/github-microsoft)
+
+
+
 GitHub is a web-based platform for version control and collaboration using Git. It was founded in 2008 by Tom Preston-Werner, Chris Wanstrath, and PJ Hyett, and acquired by Microsoft in 2018.
 
 ## What is it?

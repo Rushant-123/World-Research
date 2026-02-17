@@ -24,6 +24,13 @@ value_created: 0
 
 # How to Make Plasma Etching Machine
 
+**Top Market Leaders:**
+- [Lam Research](/companies/lam-research)
+- [Tokyo Electron](/companies/tokyo-electron)
+- [Applied Materials](/companies/applied-materials)
+
+
+
 Semiconductor tool using reactive plasma to etch silicon, oxides, and metals. Creates trenches, vias, and patterns with sub-10nm resolution. Two types: RIE (reactive ion etching) and ICP (inductively coupled plasma).
 
 ## Components:

@@ -1,0 +1,37 @@
+---
+title: "BHP"
+type: "companies"
+industry: "Mining & Metals"
+country: "Global"
+revenue: 16000000000
+market_cap: 54240000000
+
+products:
+  - name: "Copper Concentrate"
+    link: "copper-concentrate"
+  - name: "Copper Ore"
+    link: "copper-ore"
+
+financials:
+  profit_margin: 13.0
+  operating_margin: 16.9
+---
+
+# BHP
+
+BHP is a major player in the Mining & Metals industry, manufacturing products across the global supply chain.
+
+## Products
+
+BHP produces 2 products in our database, including:
+
+- Copper Concentrate
+- Copper Ore
+
+## Market Position
+
+As a Mining & Metals company operating primarily in Global, BHP supplies critical components and materials to the global technology supply chain.
+
+## Industry
+
+**Mining & Metals**: Companies in this sector typically have 13.0% profit margins and invest 2.0% of revenue in R&D.

@@ -39,6 +39,10 @@ value_created: 0
 
 # How to Make AWS Bedrock API
 
+**Market Leader:** [Amazon Web Services](/companies/amazon-web-services)
+
+
+
 AWS Bedrock is Amazon's managed service for accessing foundation AI models (like Claude) through a simple API. It handles infrastructure, scaling, security, and model hosting so developers can build AI applications without managing servers.
 
 ## What is it?

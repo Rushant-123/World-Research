@@ -33,6 +33,12 @@ value_created: 0
 
 # How to Make Rubber Feet
 
+**Top Market Leaders:**
+- [Nitto Denko](/companies/nitto-denko)
+- [Bumper Specialties](/companies/bumper-specialties)
+
+
+
 Small elastomeric bumpers (4-8 pieces per laptop) adhered to bottom case, provide non-slip grip, surface protection, vibration dampening, and height clearance for airflow (0.5-3mm elevation). Materials: Silicone rubber (heat-resistant, durable, Shore A 30-70 hardness), EPDM (ethylene propylene diene, cost-effective alternative), or thermoplastic elastomer (TPE). Geometry: Cylindrical (8-12mm diameter × 2-4mm height), hemispherical dome, or low-profile pad. Manufacturing: Compression molding or injection molding (form rubber shape), lamination with pressure-sensitive adhesive (3M VHB, acrylic foam tape), die cutting to final dimensions, application of release liner. Production: High-volume automated (10,000-100,000 pieces/hour), precise dimensional control (±0.1mm height affects laptop wobble and stability).
 
 **Step 1-15: Material Selection - [Silicone Rubber](silicone-elastomer) Formulation**

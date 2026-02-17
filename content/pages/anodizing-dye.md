@@ -21,6 +21,10 @@ value_created: 0.045
 
 # Anodizing Dye Production Process
 
+**Market Leader:** [Clariant](/companies/clariant)
+
+
+
 ## Overview
 This comprehensive guide covers the complete production process for organic dyes used in aluminum anodizing, including premium colors like Space Gray, Gold, Rose Gold, and other specialty finishes. The process encompasses organic dye synthesis, formulation, quality control, and application protocols.
 

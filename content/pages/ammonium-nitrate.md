@@ -21,6 +21,12 @@ value_created: 50.0
 
 # Ammonium Nitrate Explosive Production
 
+**Top Market Leaders:**
+- [Orica](/companies/orica)
+- [Dyno Nobel](/companies/dyno-nobel)
+
+
+
 ## Raw Material Reception and Storage
 
 1. Receive liquid anhydrous ammonia from synthesis plant in pressurized railcars at -33°C under atmospheric pressure storage conditions

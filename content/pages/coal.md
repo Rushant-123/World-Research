@@ -27,6 +27,13 @@ value_created: 0
 
 # How to Make Coal
 
+**Top Market Leaders:**
+- [China Shenhua](/companies/china-shenhua)
+- [Peabody](/companies/peabody)
+- [Glencore](/companies/glencore)
+
+
+
 Fossil fuel - sedimentary rock from buried plant matter (300-50 million years ago, Carboniferous to Tertiary periods). Uses: electricity generation (40% of coal, declining), steelmaking coking coal (15%), cement production (5%), industrial heat/chemicals (3%), residential heating (declining), other 2%. Global production: 8.5 billion tonnes/year (2023, 8,000 Mt hard coal, 500 Mt lignite). China dominates: 50% of production and consumption. Mining: surface (40%) or underground (60%).
 
 **Step 1-20: Formation and Coal Rank**

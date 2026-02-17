@@ -30,6 +30,12 @@ value_created: 0
 
 # How to Make Structural Epoxy Adhesive
 
+**Top Market Leaders:**
+- [Henkel](/companies/henkel)
+- [Dow](/companies/dow)
+
+
+
 A two-part thermoset adhesive that bonds metal, glass, plastic, and composite materials with high strength. Part A (resin) and Part B (hardener) mixed immediately before application. Cures via chemical reaction, forming cross-linked polymer network. Used for permanent structural bonds in MacBook assembly: display hinge reinforcement, chassis stiffening, component mounting. Lap shear strength: 20-35 MPa. Temperature resistance: 120-180°C.
 
 ## What is it?

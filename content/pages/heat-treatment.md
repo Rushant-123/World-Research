@@ -21,6 +21,10 @@ value_created: 0.3
 
 # Heat Treatment Process for Mac Metal Components
 
+**Market Leader:** [Bodycote](/companies/bodycote)
+
+
+
 ## Pre-Treatment Preparation
 
 1. Receive incoming metal components from machining operations

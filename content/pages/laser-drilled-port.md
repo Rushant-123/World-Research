@@ -18,6 +18,10 @@ value_created: 0.05
 
 # Laser Drilled Acoustic Port Manufacturing Process
 
+**Market Leader:** [Coherent](/companies/coherent)
+
+
+
 ## Overview
 
 Laser microdrilling creates precision acoustic ports in speaker enclosures and membranes, enabling controlled air pressure release and acoustic tuning. This process uses CO2 or fiber lasers to create holes ranging from 50-500μm diameter with precise taper control and minimal thermal damage.

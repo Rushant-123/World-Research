@@ -18,6 +18,10 @@ value_created: 0.7
 
 # GPS/GNSS Module Manufacturing Process
 
+**Market Leader:** [u-blox](/companies/u-blox)
+
+
+
 ## Phase 1: Design and Architecture (Steps 1-25)
 
 ### System Architecture Design

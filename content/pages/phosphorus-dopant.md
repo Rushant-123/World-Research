@@ -18,6 +18,12 @@ value_created: 0
 
 # How to Make Phosphorus Dopant
 
+**Top Market Leaders:**
+- [Air Products](/companies/air-products)
+- [Voltaix](/companies/voltaix)
+
+
+
 Phosphorus creates n-type (negative charge carriers - electrons) silicon. Phosphorus has 5 valence electrons vs silicon's 4, donating extra electron. Used in NMOS transistors, n-wells, source/drain.
 
 ## Forms:

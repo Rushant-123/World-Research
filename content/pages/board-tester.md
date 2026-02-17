@@ -24,6 +24,10 @@ value_created: 0.5
 
 # PCB Board Tester Manufacturing Process
 
+**Market Leader:** [Teradyne](/companies/teradyne)
+
+
+
 ## Stage 1: Pre-Test Setup and Fixture Design (Steps 1-25)
 
 1. Review PCB design files including Gerber data, BOM, and CAD layouts

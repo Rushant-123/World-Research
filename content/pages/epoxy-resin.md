@@ -27,6 +27,13 @@ value_created: 0
 
 # How to Make Epoxy Resin
 
+**Top Market Leaders:**
+- [Hexion](/companies/hexion)
+- [Olin](/companies/olin)
+- [Huntsman](/companies/huntsman)
+
+
+
 Thermosetting polymer - crosslinks upon curing to form strong, chemically resistant solid. Uses: chip packaging (molding compound), printed circuit boards (FR-4 laminate), package substrates, adhesives, coatings, composites. Global production: ~3 million tonnes/year. Most common: DGEBA (diglycidyl ether of bisphenol A).
 
 **Step 1-12: [Bisphenol A](bpa-chemical) (BPA) Production**

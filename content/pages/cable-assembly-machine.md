@@ -24,6 +24,10 @@ value_created: 0.1
 
 # Cable Assembly Machine
 
+**Market Leader:** [Schleuniger](/companies/schleuniger)
+
+
+
 ## Machine Setup and Initialization
 
 1. Position the cable assembly machine on a level, vibration-free industrial floor surface.

@@ -24,6 +24,10 @@ value_created: 0
 
 # How to Make CLI Software
 
+**Market Leader:** [Anthropic](/companies/anthropic)
+
+
+
 Command-line interface software runs in terminal, accepting text commands and displaying text output. Claude Code CLI is built with TypeScript, runs on Node.js, and provides AI-assisted coding through terminal commands.
 
 ## What is it?

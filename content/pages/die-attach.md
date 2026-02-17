@@ -24,6 +24,10 @@ value_created: 0.3
 
 # Die Attach Equipment
 
+**Market Leader:** [ASM Pacific Technology](/companies/asm-pacific-technology)
+
+
+
 ## Overview
 
 Die attach equipment is a critical component in semiconductor packaging operations, responsible for precisely picking semiconductor dies from wafers and attaching them to substrates, leadframes, or packages using various bonding materials. This advanced manufacturing system combines high-speed automation, precision mechanics, sophisticated vision systems, and thermal management to achieve placement accuracies within microns while maintaining high throughput rates.

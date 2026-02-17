@@ -21,6 +21,10 @@ value_created: 0.6
 
 # Synthetic Rubber Production for Mac Rubber Feet
 
+**Market Leader:** [JSR Corporation](/companies/jsr-corporation)
+
+
+
 ## Phase 1: Raw Material Preparation and Quality Control
 
 1. Receive styrene monomer shipment in temperature-controlled storage tanks at 15-20°C

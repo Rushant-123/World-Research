@@ -33,6 +33,10 @@ value_created: 0
 
 # How to Make a DNS Server
 
+**Market Leader:** [Cloudflare, Google, AWS Route 53, ISPs](/companies/cloudflare-google-aws-route-53-isps)
+
+
+
 A DNS (Domain Name System) server translates human-readable domain names (www.example.com) into IP addresses (93.184.216.34) that computers use to connect. DNS servers form a hierarchical distributed database with root servers at the top, TLD (top-level domain) servers for .com/.org/.net, and authoritative nameservers for individual domains. Recursive resolvers cache results and query the hierarchy on behalf of clients.
 
 ## What is it?

@@ -24,6 +24,12 @@ value_created: 1000000.0
 
 # Oil and Gas Drilling Operations Manufacturing Process
 
+**Top Market Leaders:**
+- [Halliburton](/companies/halliburton)
+- [Schlumberger](/companies/schlumberger)
+
+
+
 ## Site Preparation and Mobilization
 
 1. Conduct geological surveys using seismic data to identify potential hydrocarbon reservoirs.

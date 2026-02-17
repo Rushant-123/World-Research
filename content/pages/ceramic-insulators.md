@@ -24,6 +24,12 @@ value_created: 70.0
 
 # Manufacturing Process: High Voltage Ceramic Insulators
 
+**Top Market Leaders:**
+- [NGK](/companies/ngk)
+- [Lapp Insulator](/companies/lapp-insulator)
+
+
+
 ## Raw Material Preparation
 
 1. Receive porcelain clay from ceramic slurry supplier in 1-ton super sacks

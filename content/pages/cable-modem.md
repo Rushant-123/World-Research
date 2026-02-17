@@ -33,6 +33,10 @@ value_created: 0
 
 # How to Make a Cable Modem
 
+**Market Leader:** [ARRIS, Motorola, Netgear, TP-Link](/companies/arris-motorola-netgear-tp-link)
+
+
+
 A cable modem connects your home to the Internet over the same coaxial cable that delivers cable TV. It modulates digital data onto radio frequencies (5-42 MHz upstream, 54-1002 MHz downstream), communicates with the cable company's CMTS (Cable Modem Termination System), and provides Ethernet connectivity to your home network.
 
 ## What is it?

@@ -30,6 +30,13 @@ value_created: 0
 
 # How to Make a 3.5mm Headphone Jack
 
+**Top Market Leaders:**
+- [Kyocera AVX](/companies/kyocera-avx)
+- [JAE Electronics](/companies/jae-electronics)
+- [Foxconn](/companies/foxconn)
+
+
+
 A 3.5mm TRRS (Tip-Ring-Ring-Sleeve) audio connector socket that accepts standard headphone plugs. Provides analog audio output (left/right channels) and microphone input. Spring-loaded contacts ensure reliable connection. Also called TRS jack, audio jack, or phone jack (derived from 1/4" phone connectors used in telephone switchboards).
 
 ## What is it?

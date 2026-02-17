@@ -21,6 +21,10 @@ value_created: 0.1
 
 # Thermoplastic Component Molding for Mac Components
 
+**Market Leader:** [Jabil](/companies/jabil)
+
+
+
 ## Material Preparation and Blending
 
 1. Receive polycarbonate (PC) resin pellets in moisture-proof packaging

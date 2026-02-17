@@ -30,6 +30,12 @@ value_created: 0
 
 # How to Make Diesel Fuel
 
+**Top Market Leaders:**
+- [ExxonMobil](/companies/exxonmobil)
+- [Shell](/companies/shell)
+
+
+
 Middle distillate petroleum product - second most consumed transportation fuel after gasoline. Global production: 1.4 billion tonnes/year (28 million barrels/day, 2023). Diesel fuel: hydrocarbon mixture C10-C22 alkanes (paraffins, naphthenes, aromatics), boiling range 180-360°C. Primary use: compression-ignition engines (trucks, buses, construction equipment, trains, ships, backup generators). Properties: higher energy density than gasoline (36.9 MJ/L vs 32.4 MJ/L), better fuel economy, higher cetane number (ignition quality). Ultra-low sulfur diesel (ULSD): <15 ppm sulfur (US/EU standard since 2006-2009, reduces emissions, enables modern pollution controls).
 
 **Step 1-20: [Crude Oil](crude-oil) Selection and Properties**

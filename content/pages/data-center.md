@@ -36,6 +36,13 @@ value_created: 0
 
 # How to Make a Data Center
 
+**Top Market Leaders:**
+- [Equinix](/companies/equinix)
+- [Digital Realty](/companies/digital-realty)
+- [AWS](/companies/aws)
+
+
+
 Facility housing servers and networking equipment. Provides: redundant power, cooling, physical security, network connectivity. Hyperscale data centers (AWS, Google, Microsoft) contain hundreds of thousands of servers. Colocation data centers rent space/power to customers.
 
 ## What is it?

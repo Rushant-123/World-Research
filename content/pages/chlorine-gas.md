@@ -27,6 +27,13 @@ value_created: 0
 
 # How to Make Chlorine Gas (Cl₂)
 
+**Top Market Leaders:**
+- [Olin](/companies/olin)
+- [Dow](/companies/dow)
+- [Formosa Plastics](/companies/formosa-plastics)
+
+
+
 Essential industrial chemical - fourth most produced chemical globally after sulfuric acid, nitrogen, and oxygen. Uses: PVC production (35% of demand), organic chemicals (EDC, phosgene, chloromethanes, 25%), water treatment and bleaching (pulp/paper, municipal, 20%), inorganic chemicals (titanium dioxide, aluminum chloride, 10%), other 10%. Global production: 70 million tonnes/year (2023). Chlor-alkali process: electrolysis of salt brine, co-produces caustic soda (NaOH) and hydrogen gas. Chlorine dictates production rates - caustic/hydrogen are co-products or byproducts depending on market demand.
 
 **Step 1-18: [Salt Brine](salt-mining) Feedstock Preparation**

@@ -18,6 +18,12 @@ value_created: 0.0
 
 # Compiler Design and Implementation
 
+**Top Market Leaders:**
+- [GCC](/companies/gcc)
+- [LLVM Projects](/companies/llvm-projects)
+
+
+
 This page documents the comprehensive process of designing and implementing a production-quality compiler, from theoretical foundations through optimization and code generation.
 
 ## Foundations and Architecture

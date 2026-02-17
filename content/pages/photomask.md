@@ -27,6 +27,13 @@ value_created: 0
 
 # How to Make a Photomask
 
+**Top Market Leaders:**
+- [Photronics](/companies/photronics)
+- [Toppan](/companies/toppan)
+- [DNP](/companies/dnp)
+
+
+
 Glass plate with chrome patterns defining integrated circuit layout. Used in photolithography - UV/EUV light shines through mask onto silicon wafer. Pattern transfers to photoresist. Advanced chips require 50-100 mask layers. Each mask costs $50,000-200,000. Precision: features down to 13nm (EUV masks).
 
 ## Process:

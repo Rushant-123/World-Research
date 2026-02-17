@@ -27,6 +27,13 @@ value_created: 0
 
 # How to Make Chemical Etchants
 
+**Top Market Leaders:**
+- [BASF](/companies/basf)
+- [KMG](/companies/kmg)
+- [Stella Chemifa](/companies/stella-chemifa)
+
+
+
 Selective removal of materials during semiconductor processing.
 
 **Oxide Etch:** [HF Acid](hf-acid) (hydrofluoric acid) - only chemical that attacks SiO₂ rapidly. SiO₂ + 6HF → H₂SiF₆ + 2H₂O. Extremely dangerous - causes deep tissue burns. Diluted to 1-49% depending on application. Buffered HF (BHF): HF + NH₄F for controlled etch rate.

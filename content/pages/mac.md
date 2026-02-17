@@ -123,6 +123,10 @@ value_created: 362.5
 
 # How to Make a Mac Computer
 
+**Market Leader:** [Apple](/companies/apple)
+
+
+
 A Mac is a personal computer designed and assembled by Apple. It runs macOS and is built from components sourced from suppliers around the world, primarily manufactured in China.
 
 ## What is it?

@@ -33,6 +33,13 @@ value_created: 0
 
 # How to Make Metal Fasteners
 
+**Top Market Leaders:**
+- [SFS Group](/companies/sfs-group)
+- [Nifco](/companies/nifco)
+- [Penn Engineering](/companies/penn-engineering)
+
+
+
 Precision screws, bolts, and nuts used throughout MacBook assembly (150-250 fasteners per laptop). Types: M1.4-M3.5 machine screws (Phillips, Torx, pentalobe heads), self-tapping screws (sheet metal attachment), standoffs (board mounting), threaded inserts. Manufacturing: cold heading (forming heads), thread rolling (creating threads), heat treatment (strength), surface finishing. Production volume: 10,000-50,000 pieces/hour per machine. Materials: 300-series stainless steel (corrosion resistance, non-magnetic), carbon steel with plating (cost-effective for internal use).
 
 **Step 1-13: Material Selection - [Stainless Steel Wire](stainless-steel-wire) Preparation**
