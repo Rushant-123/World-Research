@@ -1,0 +1,180 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>{{ .Title }} - {{ .Site.Title }}</title>
+    <link rel="icon" type="image/svg+xml" href="/globe.svg">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Darker+Grotesque:wght@300;400;500;600;700;800;900&family=JetBrains+Mono:wght@400;600&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="/css/style.css">
+</head>
+<body class="companies-list">
+    <div class="container">
+        <header>
+            <nav>
+                <a href="/">← Home</a>
+            </nav>
+            <h1>{{ .Title }}</h1>
+            {{ .Content }}
+        </header>
+
+        <div class="company-grid">
+            {{ range .Pages }}
+            <div class="company-card-large">
+                <a href="{{ .RelPermalink }}">
+                    <div class="company-card-header">
+                        <h2>{{ .Title }}</h2>
+                        <span class="company-country">{{ .Params.country }}</span>
+                    </div>
+                    <div class="company-industry">{{ .Params.industry }}</div>
+                    <div class="company-metrics">
+                        {{ with .Params.revenue }}
+                        <div class="metric">
+                            <span class="metric-label">Revenue</span>
+                            <span class="metric-value">${{ div . 1000000000.0 | printf "%.1f" }}B</span>
+                        </div>
+                        {{ end }}
+                        {{ with .Params.market_cap }}
+                        <div class="metric">
+                            <span class="metric-label">Market Cap</span>
+                            <span class="metric-value">${{ div . 1000000000.0 | printf "%.1f" }}B</span>
+                        </div>
+                        {{ end }}
+                        {{ with .Params.employees }}
+                        <div class="metric">
+                            <span class="metric-label">Employees</span>
+                            <span class="metric-value">{{ . | printf "%,d" }}</span>
+                        </div>
+                        {{ end }}
+                    </div>
+                    {{ with .Params.products }}
+                    <div class="company-products-preview">
+                        <strong>Products:</strong> {{ len . }} items
+                    </div>
+                    {{ end }}
+                </a>
+            </div>
+            {{ end }}
+        </div>
+    </div>
+
+    <style>
+        .companies-list {
+            background: #0a0a0a;
+            color: #e0e0e0;
+            min-height: 100vh;
+            padding: 2rem 1rem;
+        }
+
+        .companies-list header {
+            margin-bottom: 3rem;
+        }
+
+        .companies-list h1 {
+            font-size: 4rem;
+            font-weight: 900;
+            margin-bottom: 1rem;
+            background: linear-gradient(135deg, #00e5ff, #39ff14);
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+            background-clip: text;
+        }
+
+        .company-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fill, minmax(400px, 1fr));
+            gap: 2rem;
+            margin-bottom: 4rem;
+        }
+
+        .company-card-large {
+            background: linear-gradient(135deg, #1a1a2e 0%, #16213e 100%);
+            border: 1px solid #00e5ff;
+            border-radius: 16px;
+            padding: 2rem;
+            transition: all 0.3s ease;
+            box-shadow: 0 0 30px rgba(0, 229, 255, 0.1);
+        }
+
+        .company-card-large:hover {
+            transform: translateY(-4px);
+            border-color: #39ff14;
+            box-shadow: 0 0 40px rgba(57, 255, 20, 0.3);
+        }
+
+        .company-card-large a {
+            text-decoration: none;
+            color: inherit;
+        }
+
+        .company-card-header {
+            display: flex;
+            justify-content: space-between;
+            align-items: start;
+            margin-bottom: 0.75rem;
+        }
+
+        .company-card-header h2 {
+            font-size: 1.8rem;
+            font-weight: 800;
+            color: #00e5ff;
+            margin: 0;
+            flex: 1;
+        }
+
+        .company-country {
+            font-size: 0.9rem;
+            color: #999;
+            background: #2a2a2a;
+            padding: 0.25rem 0.75rem;
+            border-radius: 12px;
+        }
+
+        .company-industry {
+            font-size: 1.1rem;
+            color: #ffed00;
+            font-weight: 600;
+            margin-bottom: 1.5rem;
+        }
+
+        .company-metrics {
+            display: grid;
+            grid-template-columns: repeat(3, 1fr);
+            gap: 1rem;
+            margin-bottom: 1.5rem;
+            padding: 1rem;
+            background: rgba(0, 0, 0, 0.3);
+            border-radius: 8px;
+        }
+
+        .metric {
+            display: flex;
+            flex-direction: column;
+            gap: 0.25rem;
+        }
+
+        .metric-label {
+            font-size: 0.8rem;
+            color: #999;
+            text-transform: uppercase;
+            letter-spacing: 0.05em;
+        }
+
+        .metric-value {
+            font-size: 1.3rem;
+            font-weight: 700;
+            color: #39ff14;
+            font-family: 'JetBrains Mono', monospace;
+        }
+
+        .company-products-preview {
+            font-size: 0.95rem;
+            color: #bbb;
+            padding-top: 1rem;
+            border-top: 1px solid #333;
+        }
+    </style>
+</body>
+</html>

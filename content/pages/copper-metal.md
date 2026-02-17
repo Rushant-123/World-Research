@@ -39,6 +39,8 @@ value_created: 0
 
 # How to Make Copper Metal
 
+**Market Leader:** [Freeport-McMoRan](/companies/freeport-mcmoran) (28% market share) - $22.9B revenue, 4.4B lbs copper annually
+
 High-purity copper metal (99.99% Cu) from sulfide ore concentrate via pyrometallurgical smelting and electrolytic refining. Primary use: electrical conductivity (second only to silver, 5.96×10⁷ S/m at 20°C). Applications: electrical wire (50% of demand), electronics/PCBs (20%), construction plumbing/roofing (15%), industrial machinery/heat exchangers (10%), transportation (5%). Global production: 25-27 million tonnes/year refined copper. Chile: 5.6 Mt (28%), Peru: 2.4 Mt (12%), China: 2.0 Mt (10%), USA: 1.3 Mt (6%), DRC: 1.2 Mt (6%).
 
 **Step 1-15: [Copper Ore](copper-ore) Mining - Chalcopyrite Extraction**

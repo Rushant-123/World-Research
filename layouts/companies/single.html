@@ -1,0 +1,297 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>{{ .Title }} - {{ .Site.Title }}</title>
+    <link rel="icon" type="image/svg+xml" href="/globe.svg">
+    <link rel="icon" type="image/png" sizes="32x32" href="/globe.svg">
+    <link rel="apple-touch-icon" href="/globe.svg">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Darker+Grotesque:wght@300;400;500;600;700;800;900&family=JetBrains+Mono:wght@400;600&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="/css/style.css">
+</head>
+<body class="company-page">
+    <div class="container">
+        <header>
+            <nav>
+                <a href="/">← Home</a>
+                <a href="/companies">Companies</a>
+            </nav>
+            <div class="company-header">
+                <h1>{{ .Title }}</h1>
+                {{ with .Params.industry }}
+                <p class="company-industry">{{ . }}</p>
+                {{ end }}
+                <div class="company-meta">
+                    {{ with .Params.country }}<span class="meta-item">📍 {{ . }}</span>{{ end }}
+                    {{ with .Params.founded }}<span class="meta-item">📅 Founded {{ . }}</span>{{ end }}
+                    {{ with .Params.employees }}<span class="meta-item">👥 {{ . }} employees</span>{{ end }}
+                </div>
+            </div>
+        </header>
+
+        <div class="company-stats">
+            {{ with .Params.revenue }}
+            <div class="stat-card">
+                <div class="stat-label">Annual Revenue</div>
+                <div class="stat-value">${{ div . 1000000000.0 | printf "%.1f" }}B</div>
+            </div>
+            {{ end }}
+            {{ with .Params.market_cap }}
+            <div class="stat-card">
+                <div class="stat-label">Market Cap</div>
+                <div class="stat-value">${{ div . 1000000000.0 | printf "%.1f" }}B</div>
+            </div>
+            {{ end }}
+            {{ with .Params.financials.profit_margin }}
+            <div class="stat-card">
+                <div class="stat-label">Profit Margin</div>
+                <div class="stat-value">{{ . }}%</div>
+            </div>
+            {{ end }}
+            {{ with .Params.financials.operating_margin }}
+            <div class="stat-card">
+                <div class="stat-label">Operating Margin</div>
+                <div class="stat-value">{{ . }}%</div>
+            </div>
+            {{ end }}
+        </div>
+
+        <div class="company-content">
+            {{ .Content }}
+        </div>
+
+        {{ with .Params.products }}
+        <section class="company-section">
+            <h2>Products</h2>
+            <div class="product-list">
+                {{ range . }}
+                <div class="product-card">
+                    <a href="/pages/{{ .link }}">
+                        <strong>{{ .name }}</strong>
+                        {{ with .market_share }}<span class="market-share">{{ . }}% market share</span>{{ end }}
+                    </a>
+                </div>
+                {{ end }}
+            </div>
+        </section>
+        {{ end }}
+
+        {{ with .Params.financials.revenue_breakdown }}
+        <section class="company-section">
+            <h2>Revenue Breakdown</h2>
+            <div class="financial-breakdown">
+                {{ range . }}
+                <div class="breakdown-item">
+                    <div class="breakdown-header">
+                        <span class="breakdown-category">{{ .category }}</span>
+                        <span class="breakdown-amount">${{ div .amount 1000000000.0 | printf "%.2f" }}B ({{ .percentage }}%)</span>
+                    </div>
+                    <div class="breakdown-bar">
+                        <div class="breakdown-fill" style="width: {{ .percentage }}%; background: #39ff14;"></div>
+                    </div>
+                </div>
+                {{ end }}
+            </div>
+        </section>
+        {{ end }}
+
+        {{ with .Params.financials.cost_breakdown }}
+        <section class="company-section">
+            <h2>Cost Structure</h2>
+            <div class="financial-breakdown">
+                {{ range . }}
+                <div class="breakdown-item">
+                    <div class="breakdown-header">
+                        <span class="breakdown-category">{{ .category }}</span>
+                        <span class="breakdown-amount">${{ div .amount 1000000000.0 | printf "%.2f" }}B ({{ .percentage }}%)</span>
+                    </div>
+                    {{ with .details }}
+                    <div class="breakdown-details">{{ . }}</div>
+                    {{ end }}
+                    <div class="breakdown-bar">
+                        <div class="breakdown-fill" style="width: {{ .percentage }}%; background: #ff006e;"></div>
+                    </div>
+                </div>
+                {{ end }}
+            </div>
+        </section>
+        {{ end }}
+
+    </div>
+
+    <style>
+        .company-page {
+            background: #0a0a0a;
+            color: #e0e0e0;
+        }
+
+        .company-header {
+            margin-bottom: 3rem;
+        }
+
+        .company-header h1 {
+            font-size: 3.5rem;
+            font-weight: 900;
+            margin-bottom: 0.5rem;
+            background: linear-gradient(135deg, #00e5ff, #39ff14);
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+            background-clip: text;
+        }
+
+        .company-industry {
+            font-size: 1.3rem;
+            color: #ffed00;
+            font-weight: 600;
+            margin-bottom: 1rem;
+        }
+
+        .company-meta {
+            display: flex;
+            gap: 2rem;
+            flex-wrap: wrap;
+            font-size: 1rem;
+            color: #999;
+        }
+
+        .meta-item {
+            display: flex;
+            align-items: center;
+            gap: 0.5rem;
+        }
+
+        .company-stats {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+            gap: 1.5rem;
+            margin-bottom: 3rem;
+        }
+
+        .stat-card {
+            background: linear-gradient(135deg, #1a1a2e 0%, #16213e 100%);
+            border: 1px solid #00e5ff;
+            border-radius: 12px;
+            padding: 1.5rem;
+            box-shadow: 0 0 20px rgba(0, 229, 255, 0.2);
+        }
+
+        .stat-label {
+            font-size: 0.9rem;
+            color: #999;
+            margin-bottom: 0.5rem;
+            text-transform: uppercase;
+            letter-spacing: 0.05em;
+        }
+
+        .stat-value {
+            font-size: 2rem;
+            font-weight: 800;
+            color: #00e5ff;
+            font-family: 'JetBrains Mono', monospace;
+        }
+
+        .company-content {
+            margin-bottom: 3rem;
+            font-size: 1.1rem;
+            line-height: 1.8;
+        }
+
+        .company-section {
+            margin-bottom: 3rem;
+        }
+
+        .company-section h2 {
+            font-size: 2rem;
+            font-weight: 800;
+            margin-bottom: 1.5rem;
+            color: #00e5ff;
+        }
+
+        .product-list {
+            display: grid;
+            grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
+            gap: 1rem;
+        }
+
+        .product-card {
+            background: #1a1a1a;
+            border: 1px solid #333;
+            border-radius: 8px;
+            padding: 1rem;
+            transition: all 0.3s ease;
+        }
+
+        .product-card:hover {
+            border-color: #39ff14;
+            box-shadow: 0 0 15px rgba(57, 255, 20, 0.3);
+        }
+
+        .product-card a {
+            color: #e0e0e0;
+            text-decoration: none;
+            display: flex;
+            flex-direction: column;
+            gap: 0.5rem;
+        }
+
+        .market-share {
+            font-size: 0.9rem;
+            color: #39ff14;
+        }
+
+        .financial-breakdown {
+            display: flex;
+            flex-direction: column;
+            gap: 1.5rem;
+        }
+
+        .breakdown-item {
+            background: #1a1a1a;
+            border: 1px solid #333;
+            border-radius: 8px;
+            padding: 1.25rem;
+        }
+
+        .breakdown-header {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            margin-bottom: 0.75rem;
+        }
+
+        .breakdown-category {
+            font-weight: 700;
+            font-size: 1.1rem;
+            color: #e0e0e0;
+        }
+
+        .breakdown-amount {
+            font-family: 'JetBrains Mono', monospace;
+            font-size: 1rem;
+            color: #00e5ff;
+        }
+
+        .breakdown-details {
+            font-size: 0.9rem;
+            color: #999;
+            margin-bottom: 0.75rem;
+        }
+
+        .breakdown-bar {
+            height: 8px;
+            background: #2a2a2a;
+            border-radius: 4px;
+            overflow: hidden;
+        }
+
+        .breakdown-fill {
+            height: 100%;
+            border-radius: 4px;
+            transition: width 0.6s ease;
+        }
+    </style>
+</body>
+</html>
