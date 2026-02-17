@@ -1,0 +1,18 @@
+---
+title: "Mentor Graphics"
+type: "companies"
+industry: "Manufacturing"
+country: "Global"
+---
+
+# Mentor Graphics
+
+Mentor Graphics is a manufacturer in the global supply chain, producing components and materials for technology products.
+
+## Products
+
+This company manufactures products used in the supply chain documented in this database.
+
+## Market Position
+
+As a manufacturing company, Mentor Graphics supplies critical components to the global technology ecosystem.
