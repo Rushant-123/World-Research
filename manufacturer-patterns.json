@@ -1,0 +1,6627 @@
+{
+  "patterns": {
+    "10000": {
+      "Ardmac Group": 1
+    },
+    "camera": {
+      "Sony": 1,
+      "Samsung": 1,
+      "OmniVision": 1,
+      "Largan Precision": 1,
+      "LG Innotek": 1,
+      "Flexium Interconnect": 1
+    },
+    "abrasive": {
+      "Saint-Gobain": 1,
+      "3M": 1,
+      "Carborundum": 1
+    },
+    "particles": {
+      "Saint-Gobain": 1,
+      "3M": 1,
+      "Carborundum": 1,
+      "Denka Company": 1
+    },
+    "resin": {
+      "SABIC": 4,
+      "LG Chem": 1,
+      "INEOS Styrolution": 1,
+      "Hexion": 8,
+      "Olin": 8,
+      "Huntsman": 8,
+      "Covestro": 1,
+      "Mitsubishi Engineering-Plastics": 1,
+      "LyondellBasell": 1,
+      "ExxonMobil": 1
+    },
+    "adapter": {
+      "Delta Electronics": 1,
+      "Various Plastic Molding Companies": 1,
+      "SEGGER Microcontroller": 1,
+      "Flextronics": 1
+    },
+    "ac-dc": {
+      "Delta Electronics": 1
+    },
+    "converter": {
+      "Delta Electronics": 1
+    },
+    "academic": {
+      "International Paper": 1,
+      "UPM": 1,
+      "Stora Enso": 1
+    },
+    "papers": {
+      "International Paper": 1,
+      "UPM": 1,
+      "Stora Enso": 1
+    },
+    "mems": {
+      "STMicroelectronics": 2,
+      "Bosch Sensortec": 1,
+      "GEA": 1,
+      "Alfa Laval": 1,
+      "SPX Flow": 1,
+      "Knowles": 1,
+      "AAC Technologies": 1,
+      "Goertek": 1
+    },
+    "accelerometer": {
+      "STMicroelectronics": 1
+    },
+    "acid": {
+      "Dow": 5,
+      "BASF": 5,
+      "Solvay": 5,
+      "Honeywell": 2,
+      "Stella Chemifa": 1,
+      "Olin": 1,
+      "Yara": 1,
+      "CF Industries": 1,
+      "Orica": 1,
+      "Mosaic": 2,
+      "OCP": 1,
+      "PhosAgro": 1,
+      "TE Connectivity": 1,
+      "Sensata": 1,
+      "Chemtrade": 1,
+      "PVS": 1
+    },
+    "leaching": {
+      "Dow": 1,
+      "BASF": 1,
+      "Solvay": 1,
+      "Various Mining Operations": 1
+    },
+    "process": {
+      "Dow": 1,
+      "BASF": 2,
+      "Solvay": 1,
+      "GEA": 9,
+      "Alfa Laval": 9,
+      "SPX Flow": 9,
+      "FLSmidth": 1,
+      "Metso": 1,
+      "Dow Chemical": 1,
+      "Linde": 1,
+      "Air Liquide": 1,
+      "Bodycote": 1,
+      "Electrochemical Products Inc.": 1,
+      "Cremer": 1,
+      "Abbott": 1,
+      "CM Furnaces": 1
+    },
+    "resistant": {
+      "Dow": 1,
+      "BASF": 1,
+      "Solvay": 1
+    },
+    "tank": {
+      "Dow": 1,
+      "BASF": 1,
+      "Solvay": 1,
+      "Anomatic": 1,
+      "LyondellBasell": 1,
+      "SABIC": 1,
+      "ExxonMobil": 1
+    },
+    "acoustic": {
+      "Mill-Max": 1,
+      "Harwin": 1,
+      "Samtec": 1,
+      "Coursera": 1,
+      "Udemy": 1,
+      "LinkedIn Learning": 1,
+      "Coherent": 1
+    },
+    "damping": {
+      "Mill-Max": 1,
+      "Harwin": 1,
+      "Samtec": 1
+    },
+    "testing": {
+      "Coursera": 1,
+      "Udemy": 1,
+      "LinkedIn Learning": 1,
+      "Teradyne": 2,
+      "Keysight": 2,
+      "National Instruments": 1,
+      "Instron Corporation": 1,
+      "Edmund Optics": 1,
+      "Thorlabs": 1,
+      "Newport": 1,
+      "Keysight Technologies": 1,
+      "Advantest": 1,
+      "Various Test Labs": 1
+    },
+    "training": {
+      "Coursera": 8,
+      "Udemy": 8,
+      "LinkedIn Learning": 8,
+      "Henkel": 1,
+      "3M": 1,
+      "H.B. Fuller": 1,
+      "Foxconn": 1,
+      "Jabil": 1,
+      "Flex": 1,
+      "Clean Air Technology": 1,
+      "Terra Universal": 1,
+      "Mecart": 1,
+      "Applied Materials": 1,
+      "Tokyo Electron": 1,
+      "ASML": 1,
+      "Haas Factory Outlet": 1,
+      "Edmund Optics": 1,
+      "Thorlabs": 1,
+      "Newport": 1,
+      "Cisco": 1,
+      "CompTIA": 1,
+      "Linux Foundation": 1,
+      "Anthropic": 1,
+      "Foxconn Technology": 1
+    },
+    "acrylic": {
+      "Arkema": 1,
+      "Mitsubishi Chemical": 1,
+      "Sumitomo Chemical": 1,
+      "Arkema Group": 1
+    },
+    "pressure-sensitive": {
+      "Arkema": 1,
+      "Mitsubishi Chemical": 1,
+      "Sumitomo Chemical": 1
+    },
+    "adhesive": {
+      "Arkema": 1,
+      "Mitsubishi Chemical": 1,
+      "Sumitomo Chemical": 1,
+      "Henkel": 10,
+      "3M": 9,
+      "H.B. Fuller": 7,
+      "Nitto Denko": 1,
+      "Tesa": 1,
+      "Henkel AG": 1,
+      "Cargill Inc.": 1,
+      "Dow": 1,
+      "AI Technology": 1,
+      "Namics": 1
+    },
+    "polymer": {
+      "Arkema Group": 1,
+      "Dow": 2,
+      "BASF": 2,
+      "DuPont": 2,
+      "Huntsman": 1,
+      "Hexion": 1,
+      "Olin": 1,
+      "Chemours Company": 1,
+      "Formosa Plastics": 1
+    },
+    "enclosure": {
+      "Various Plastic Molding Companies": 1,
+      "Alcoa": 1,
+      "Rio Tinto": 1,
+      "Norsk Hydro": 1,
+      "GoerTek": 1
+    },
+    "dispenser": {
+      "Henkel": 1,
+      "3M": 1,
+      "H.B. Fuller": 1
+    },
+    "filler": {
+      "Henkel": 1,
+      "3M": 1,
+      "H.B. Fuller": 1,
+      "Denka Company": 1,
+      "Evonik Industries": 1
+    },
+    "layer": {
+      "Henkel": 1,
+      "3M": 1,
+      "H.B. Fuller": 1
+    },
+    "double-sided": {
+      "3M": 1,
+      "Nitto Denko": 1,
+      "Tesa": 1
+    },
+    "tape": {
+      "3M": 2,
+      "Nitto Denko": 2,
+      "Tesa": 1,
+      "Avery Dennison": 2,
+      "Nordmeccanica Group": 1
+    },
+    "researchers": {
+      "Anthropic": 1
+    },
+    "filter": {
+      "Donaldson": 4,
+      "Parker Hannifin": 4,
+      "Pall Corporation": 4,
+      "Andritz": 1,
+      "Metso": 1,
+      "Toppan Printing": 1
+    },
+    "handling": {
+      "Carrier Global": 1,
+      "Ibiden": 1,
+      "Shinko": 1,
+      "AT&S": 1,
+      "Brooks Automation": 1,
+      "Rorze": 1,
+      "Yaskawa": 1
+    },
+    "unit": {
+      "Carrier Global": 1,
+      "Alfa Laval": 1,
+      "GEA": 1,
+      "Andritz": 1,
+      "Mill-Max": 1,
+      "Harwin": 1,
+      "Samtec": 1,
+      "Delta Electronics": 1,
+      "Mean Well": 1
+    },
+    "separation": {
+      "Alfa Laval": 2,
+      "GEA": 2,
+      "Andritz": 2
+    },
+    "alerting": {
+      "PagerDuty": 1
+    },
+    "service": {
+      "PagerDuty": 1,
+      "Multiple Vendors": 1,
+      "Okta": 1,
+      "Cloudflare": 1,
+      "Akamai": 1,
+      "Technic Inc.": 1,
+      "Cognex Corporation": 1,
+      "Stripe": 1,
+      "Square": 1,
+      "Jabil Inc.": 1,
+      "ICANN": 1,
+      "Registries": 1
+    },
+    "alignment": {
+      "TOS": 1,
+      "Wotan": 1,
+      "Union": 1,
+      "Cognex": 1,
+      "Keyence": 1,
+      "Omron": 1
+    },
+    "ring": {
+      "TOS": 1,
+      "Wotan": 1,
+      "Union": 1
+    },
+    "alumina": {
+      "BASF": 1,
+      "Johnson Matthey": 1,
+      "Clariant": 1,
+      "Lindab": 1,
+      "Sheet Metal Connectors": 1,
+      "Spiral Manufacturing": 1,
+      "Ibiden": 1,
+      "Shinko": 1,
+      "AT&S": 1
+    },
+    "catalyst": {
+      "BASF": 11,
+      "Johnson Matthey": 10,
+      "Clariant": 10,
+      "Dow": 1,
+      "DuPont": 1
+    },
+    "production": {
+      "Lindab": 2,
+      "Sheet Metal Connectors": 2,
+      "Spiral Manufacturing": 2,
+      "Olin": 1,
+      "Occidental Chemical": 1,
+      "Foxconn Technology": 1,
+      "Solvay": 1,
+      "Honeywell": 1,
+      "Jabil Inc.": 1,
+      "JSR Corporation": 1,
+      "Agilent Technologies": 1
+    },
+    "substrate": {
+      "Ibiden": 4,
+      "Shinko": 2,
+      "AT&S": 3,
+      "Corning": 1,
+      "Unimicron": 1,
+      "Isola Group": 1
+    },
+    "aluminum": {
+      "Alcoa": 11,
+      "Rio Tinto": 9,
+      "Norsk Hydro": 7,
+      "Catcher Technology": 1,
+      "Foxconn": 1,
+      "Southwire": 1,
+      "Nexans": 1,
+      "Rusal": 1,
+      "Chalco": 1,
+      "Showa Denko": 1,
+      "Aavid Thermalloy": 1
+    },
+    "alloy": {
+      "Alcoa": 1,
+      "Rio Tinto": 1,
+      "Norsk Hydro": 1,
+      "Wieland Group": 1,
+      "Materion Corporation": 1,
+      "Dynacast": 1
+    },
+    "element": {
+      "Alcoa": 1,
+      "Rio Tinto": 1,
+      "Norsk Hydro": 1
+    },
+    "billet": {
+      "Alcoa": 1,
+      "Mueller Industries": 1,
+      "KME": 1,
+      "Wieland": 1
+    },
+    "chamber": {
+      "Alcoa": 1,
+      "Rio Tinto": 1,
+      "Norsk Hydro": 1,
+      "Aehr Test Systems": 1,
+      "ArcelorMittal": 1,
+      "Nippon Steel": 1,
+      "POSCO": 1,
+      "ESPEC Corporation": 1,
+      "Edwards": 1,
+      "Pfeiffer": 1,
+      "Leybold": 1
+    },
+    "chassis": {
+      "Catcher Technology": 1,
+      "Foxconn": 2,
+      "Various Sheet Metal Fabricators": 1,
+      "Cisco Systems": 1
+    },
+    "power": {
+      "Southwire": 2,
+      "Nexans": 1,
+      "Rigol Technologies": 1,
+      "Duke Energy": 1,
+      "Exelon": 1,
+      "Texas Instruments": 1,
+      "Flextronics": 1,
+      "Volex": 1,
+      "Shenzhen Deren": 1,
+      "Honglin": 1,
+      "Dialog Semiconductor": 1,
+      "Murata": 1,
+      "TDK": 1,
+      "Taiyo Yuden": 1,
+      "Applied Materials": 1,
+      "Axcelis": 1,
+      "Ion Beam Applications": 1,
+      "Delta Electronics": 1,
+      "ABB": 1,
+      "Infineon": 1,
+      "ON Semiconductor": 1,
+      "Toshiba": 1,
+      "Keithley Instruments": 1,
+      "Prysmian": 1,
+      "General Cable": 1
+    },
+    "conductor": {
+      "Southwire": 1,
+      "Nexans": 2
+    },
+    "extrusion": {
+      "Alcoa": 1,
+      "Rio Tinto": 1,
+      "Norsk Hydro": 1,
+      "Wieland": 1,
+      "SMS group": 2,
+      "Danieli": 2,
+      "Presezzi": 2,
+      "Schuler": 1,
+      "Aida": 1,
+      "Komatsu": 1,
+      "Maillefer": 1
+    },
+    "foil": {
+      "Alcoa": 1,
+      "Mitsui Mining & Smelting": 1
+    },
+    "ingot": {
+      "Alcoa": 1,
+      "Rio Tinto": 1,
+      "Norsk Hydro": 1,
+      "Shin-Etsu": 1,
+      "Sumco": 1,
+      "GlobalWafers": 1,
+      "Glencore": 1,
+      "Nyrstar": 1,
+      "Teck Resources": 1
+    },
+    "metal": {
+      "Alcoa": 1,
+      "Rio Tinto": 1,
+      "Rusal": 1,
+      "Glencore Alloys": 1,
+      "Glencore": 5,
+      "China Molybdenum": 2,
+      "Sherritt": 1,
+      "Freeport-McMoRan": 1,
+      "Codelco": 1,
+      "Barrick": 1,
+      "Newmont": 1,
+      "AngloGold": 1,
+      "Nyrstar": 2,
+      "Doe Run": 1,
+      "Korea Zinc": 1,
+      "US Magnesium": 1,
+      "Dead Sea Magnesium": 1,
+      "Ma Steel": 1,
+      "Foxconn": 1,
+      "Jabil": 1,
+      "Flex": 1,
+      "Various Sheet Metal Fabricators": 1,
+      "SFS Group": 1,
+      "Nifco": 1,
+      "Penn Engineering": 1,
+      "KH Vatec": 1,
+      "Shin Zu Shing": 1,
+      "Jarllytec": 1,
+      "Material Suppliers": 1,
+      "Materials Producer": 3,
+      "Vale": 1,
+      "Norilsk Nickel": 1,
+      "3M": 1,
+      "Ferroglobe": 1,
+      "Elkem": 1,
+      "Fresnillo": 1,
+      "KGHM": 1,
+      "Pan American Silver": 1,
+      "Coeur Mining": 1,
+      "Schuler": 1,
+      "Yunnan Tin": 1,
+      "MSC": 1,
+      "PT Timah": 1,
+      "VSMPO-AVISMA": 1,
+      "H.C. Starck": 1,
+      "Teck Resources": 1
+    },
+    "oxide": {
+      "Alcoa": 1,
+      "Rio Tinto": 1,
+      "Chalco": 1,
+      "Microsoft": 1,
+      "JetBrains": 1,
+      "Eclipse": 1
+    },
+    "(al₂o₃)": {
+      "Alcoa": 1,
+      "Rio Tinto": 1,
+      "Chalco": 1
+    },
+    "pouch": {
+      "Showa Denko": 1
+    },
+    "material": {
+      "Showa Denko": 1,
+      "CATL": 1,
+      "BTR New Energy": 1,
+      "Merck": 1
+    },
+    "powder": {
+      "Alcoa": 1,
+      "Rio Tinto": 1,
+      "Norsk Hydro": 1,
+      "Gema": 3,
+      "Wagner": 3,
+      "Nordson": 3,
+      "GGP Metalpowder": 1,
+      "Ames Goldsmith": 1,
+      "Microsoft": 1,
+      "JetBrains": 1,
+      "Eclipse": 1
+    },
+    "sheet": {
+      "Alcoa": 1,
+      "Rio Tinto": 1,
+      "Norsk Hydro": 1,
+      "ArcelorMittal": 2,
+      "Nippon Steel": 2,
+      "POSCO": 2,
+      "Aperam": 1
+    },
+    "ambient": {
+      "ams OSRAM": 1
+    },
+    "light": {
+      "ams OSRAM": 1,
+      "Microsoft": 1,
+      "JetBrains": 1,
+      "Eclipse": 1
+    },
+    "sensor": {
+      "ams OSRAM": 1,
+      "Synaptics": 1,
+      "Synaptics Inc.": 1,
+      "Sony Semiconductor Solutions": 1,
+      "TE Connectivity": 4,
+      "Honeywell": 4,
+      "Bosch": 4,
+      "Asahi Kasei Microdevices": 1,
+      "Vishay Precision Group": 1
+    },
+    "amine": {
+      "Huntsman Corporation": 1
+    },
+    "curing": {
+      "Huntsman Corporation": 1
+    },
+    "agent": {
+      "Huntsman Corporation": 1
+    },
+    "ammonia": {
+      "Yara": 1,
+      "CF Industries": 1,
+      "Nutrien": 1,
+      "BASF": 1
+    },
+    "(nh₃)": {
+      "Yara": 1,
+      "CF Industries": 1,
+      "Nutrien": 1,
+      "BASF": 1
+    },
+    "ammonium": {
+      "Orica": 1,
+      "Dyno Nobel": 1,
+      "Yara": 1,
+      "CF Industries": 1,
+      "Nutrien": 1
+    },
+    "nitrate": {
+      "Orica": 1,
+      "Dyno Nobel": 1,
+      "Sigma-Aldrich": 1,
+      "American Elements": 1,
+      "Alfa Aesar": 1
+    },
+    "explosive": {
+      "Orica": 1,
+      "Dyno Nobel": 1
+    },
+    "analog": {
+      "Analog Devices": 1
+    },
+    "asic": {
+      "Analog Devices": 1,
+      "Broadcom": 1,
+      "TE Connectivity": 1,
+      "Honeywell": 1,
+      "Bosch": 1,
+      "Marvell Technology": 1
+    },
+    "anfo": {
+      "Orica": 1,
+      "Dyno Nobel": 1,
+      "AEL": 1
+    },
+    "explosives": {
+      "Orica": 2,
+      "Dyno Nobel": 2,
+      "AEL": 1
+    },
+    "annealing": {
+      "Ipsen": 1,
+      "Surface Combustion": 1,
+      "Lindberg": 1,
+      "MPH": 1,
+      "Applied Materials": 1,
+      "Screen": 1,
+      "Tokyo Electron": 1
+    },
+    "furnace": {
+      "Ipsen": 12,
+      "Surface Combustion": 12,
+      "Lindberg": 12,
+      "MPH": 12,
+      "Seiko Epson": 1,
+      "TXC Corporation": 1,
+      "Abracon": 1,
+      "Nextrom": 1,
+      "Tokyo Electron": 1,
+      "Kokusai Electric": 1
+    },
+    "anodizing": {
+      "Clariant": 1,
+      "Technic": 2,
+      "MacDermid": 2,
+      "Coventya": 2,
+      "Anomatic": 1
+    },
+    "rack": {
+      "Technic": 1,
+      "MacDermid": 1,
+      "Coventya": 1,
+      "APC": 1,
+      "Tripp Lite": 1,
+      "Dell Technologies": 1,
+      "Rittal": 1
+    },
+    "system": {
+      "Anomatic": 1,
+      "Koh Young": 1,
+      "Omron": 1,
+      "Mirtec": 1,
+      "FANUC Corporation": 1,
+      "Bosch Packaging Technology": 1,
+      "DEPRAG": 1,
+      "Veeam Software": 1,
+      "Texas Instruments": 1,
+      "Trane": 1,
+      "Carrier": 1,
+      "Johnson Controls": 1,
+      "Atlas Copco": 1,
+      "Continental": 1,
+      "Fenner Dunlop": 1,
+      "Castrol": 2,
+      "Quaker": 1,
+      "Fuchs": 1,
+      "Schneider Electric": 2,
+      "Evapco": 1,
+      "SPX Cooling": 1,
+      "Applied Materials": 3,
+      "Lam Research": 1,
+      "Tokyo Electron": 1,
+      "National Instruments": 1,
+      "Veolia Water Technologies": 1,
+      "GoDaddy": 1,
+      "Namecheap": 1,
+      "Orbotech": 1,
+      "Miva": 1,
+      "Adeon": 1,
+      "Industrial Equipment Manufacturer": 1,
+      "Shell": 1,
+      "Mobil": 1,
+      "Trumpf": 1,
+      "Bystronic": 1,
+      "Mazak": 1,
+      "TRUMPF": 1,
+      "Microsoft": 2,
+      "Red Hat": 1,
+      "Canonical": 1,
+      "Cognex Corporation": 1,
+      "Oracle": 1,
+      "SAP": 1,
+      "BASF SE": 1,
+      "Cisco IOS": 1,
+      "Junos": 1,
+      "Sulzer Chemtech": 1,
+      "Mill-Max": 1,
+      "Harwin": 1,
+      "Samtec": 1,
+      "Lesjöfors": 1,
+      "Lee Spring": 1,
+      "Associated Spring": 1,
+      "Advantest Corporation": 1,
+      "Nordson EFD": 1,
+      "Edwards": 1,
+      "Pfeiffer": 1,
+      "Leybold": 1,
+      "KLA": 1,
+      "Hitachi": 1,
+      "Nordson DAGE": 1
+    },
+    "antenna": {
+      "Amphenol": 1,
+      "Molex": 1,
+      "Murata": 1,
+      "CommScope": 1,
+      "TTM Technologies": 1,
+      "Unimicron": 1,
+      "Ibiden": 1
+    },
+    "cable": {
+      "Amphenol": 3,
+      "Molex": 1,
+      "Murata": 1,
+      "Prysmian": 3,
+      "Nexans": 2,
+      "Sumitomo Electric": 3,
+      "Schleuniger": 1,
+      "ARRIS, Motorola, Netgear, TP-Link": 1,
+      "SubCom": 1,
+      "Luxshare": 2,
+      "JAE": 1,
+      "Corning": 2,
+      "Sumitomo": 1,
+      "Nippon Mektron": 1,
+      "Volex": 1,
+      "Shenzhen Deren": 1,
+      "Honglin": 1,
+      "Andrew Corporation": 1,
+      "SubCom, Alcatel Submarine Networks, NEC": 1,
+      "Foxconn": 1
+    },
+    "(coaxial)": {
+      "Amphenol": 1,
+      "Molex": 1,
+      "Murata": 1
+    },
+    "gateway": {
+      "Multiple Vendors": 1,
+      "Stripe": 1,
+      "Square": 1
+    },
+    "argon": {
+      "Air Products": 1,
+      "Linde": 1,
+      "Air Liquide": 1
+    },
+    "(ar)": {
+      "Air Products": 1,
+      "Linde": 1,
+      "Air Liquide": 1
+    },
+    "arsenic": {
+      "Air Products": 1
+    },
+    "dopant": {
+      "Air Products": 3,
+      "Voltaix": 2
+    },
+    "ash3": {
+      "Air Products": 1,
+      "Linde": 1,
+      "Air Liquide": 1
+    },
+    "assembly": {
+      "FANUC Corporation": 1,
+      "Bosch Rexroth": 1,
+      "Flex Ltd.": 1,
+      "ASM": 1,
+      "Juki": 1,
+      "Yamaha": 1,
+      "Fuji": 1,
+      "Foxconn": 5,
+      "Jabil": 2,
+      "Flex": 1,
+      "Prysmian": 2,
+      "Nexans": 2,
+      "Sumitomo Electric": 2,
+      "Radiant Opto-Electronics": 1,
+      "Hirata Corporation": 1,
+      "Schleuniger": 1,
+      "Largan Precision": 1,
+      "LG Innotek": 1,
+      "JAE Electronics": 1,
+      "Foxlink Group": 1,
+      "Pegatron": 1,
+      "Wistron": 1,
+      "Nidec": 1,
+      "STMicroelectronics": 1,
+      "Nidec Corporation": 1,
+      "Jabil Inc.": 1,
+      "Henkel": 1,
+      "GoerTek": 1,
+      "TPK Holding": 1,
+      "Murata Manufacturing": 1
+    },
+    "automation": {
+      "FANUC Corporation": 1,
+      "Siemens Digital Industries": 1,
+      "Applied Materials": 1,
+      "Tokyo Electron": 1,
+      "ASML": 1,
+      "National Instruments": 1
+    },
+    "line": {
+      "Bosch Rexroth": 1,
+      "Hirata Corporation": 1,
+      "Quanta Services": 1,
+      "MYR Group": 1,
+      "Industrial Equipment Manufacturer": 1,
+      "Jabil Inc.": 1,
+      "Foxconn": 1,
+      "Nordmeccanica Group": 1,
+      "Maillefer": 1
+    },
+    "conveyor": {
+      "Bosch Rexroth": 1,
+      "Continental Conveyor": 1,
+      "Continental": 1,
+      "Fenner Dunlop": 1,
+      "Daifuku": 1,
+      "Dematic": 1,
+      "Intelligrated": 1
+    },
+    "electronics": {
+      "Flex Ltd.": 1,
+      "Foxconn": 2,
+      "Pegatron": 1,
+      "Wistron": 1,
+      "Samsung": 1,
+      "SK Hynix": 1
+    },
+    "labor": {
+      "Flex Ltd.": 1,
+      "JAE Electronics": 1,
+      "Foxconn": 1,
+      "Pegatron": 1,
+      "Wistron": 1,
+      "Avery Dennison": 2,
+      "CCL Industries": 1,
+      "Multi-Color Corporation": 1,
+      "STMicroelectronics": 1,
+      "ManpowerGroup": 1,
+      "Randstad": 1,
+      "Adecco": 1,
+      "TSMC": 1,
+      "Samsung": 1,
+      "Intel": 1,
+      "Nichia": 1,
+      "Lumileds": 1,
+      "Osram": 1
+    },
+    "tools": {
+      "ASM": 1,
+      "Juki": 1,
+      "Yamaha": 1,
+      "Fuji": 1,
+      "GNU": 2,
+      "CMake": 1,
+      "Ninja": 1,
+      "Sandvik Coromant": 1,
+      "LLVM": 1,
+      "Intel": 1,
+      "JetBrains": 2,
+      "Microsoft": 2,
+      "Mitutoyo": 1,
+      "KLA": 1,
+      "Onto Innovation": 1,
+      "Bruker": 1,
+      "Fluke": 1,
+      "NetScout": 1,
+      "Splunk": 1,
+      "Synopsys": 1,
+      "Cadence": 1,
+      "Siemens": 1,
+      "Apple Inc.": 1
+    },
+    "automated": {
+      "Teradyne Inc.": 1,
+      "Prysmian": 1,
+      "Nexans": 1,
+      "Sumitomo Electric": 1,
+      "Bosch Packaging Technology": 1,
+      "DEPRAG": 1,
+      "Koh Young Technology": 1,
+      "Buehler": 1,
+      "Brooks Automation": 1,
+      "Rorze": 1,
+      "Yaskawa": 1
+    },
+    "test": {
+      "Teradyne Inc.": 1,
+      "Aehr Test Systems": 1,
+      "SEW-Eurodrive": 1,
+      "Bonfiglioli": 1,
+      "Nord Drivesystems": 1,
+      "Advantest Corporation": 1,
+      "National Instruments": 2,
+      "Everett Charles Technologies": 1,
+      "Carr Lane": 1,
+      "Jergens": 1,
+      "TE-CO": 1,
+      "Keysight": 1,
+      "Teradyne": 1,
+      "Keysight Technologies": 1,
+      "Agilent Technologies": 1,
+      "Microsoft": 1,
+      "Oracle": 1,
+      "SAP": 1,
+      "ESPEC Corporation": 1,
+      "Thermotron Industries": 1
+    },
+    "equipment": {
+      "Teradyne Inc.": 1,
+      "Linde": 1,
+      "Air Liquide": 1,
+      "Applied Materials": 2,
+      "Ebara": 1,
+      "Teradyne": 2,
+      "Keysight": 2,
+      "National Instruments": 1,
+      "Industrial Equipment Manufacturer": 4,
+      "Metso Outotec": 1,
+      "Sandvik": 1,
+      "Trumpf": 1,
+      "Bystronic": 1,
+      "Mazak": 1,
+      "ASM Pacific Technology": 2,
+      "Bobst Group": 1,
+      "Canon": 2,
+      "Sulzer": 1,
+      "Koch-Glitsch": 1,
+      "Atotech": 1,
+      "MacDermid": 1,
+      "JCU": 1,
+      "Burkle": 1,
+      "Lauffer": 1,
+      "Kitagawa": 1,
+      "Arista Networks": 1,
+      "Multiple Vendors": 1,
+      "ASML": 1,
+      "Nikon": 1,
+      "Buehler": 1,
+      "Jabil Inc.": 1,
+      "Keysight Technologies": 1,
+      "Haver & Boecker": 1,
+      "Hirano Tecseed": 1,
+      "Advantest": 1,
+      "Thermotron Industries": 1,
+      "Coursera": 1,
+      "Udemy": 1,
+      "LinkedIn Learning": 1,
+      "Lincoln Electric": 1,
+      "Miller": 1,
+      "ESAB": 1
+    },
+    "atmosphere": {
+      "Air Products": 1,
+      "Linde": 1,
+      "Air Liquide": 1
+    },
+    "audio": {
+      "Cirrus Logic": 2
+    },
+    "codec": {
+      "Cirrus Logic": 1
+    },
+    "chip": {
+      "Cirrus Logic": 2,
+      "Apple (Internal Design Team)": 1,
+      "Apple": 1,
+      "Qualcomm": 1,
+      "NVIDIA": 1,
+      "ASE": 1,
+      "Amkor": 1,
+      "JCET": 1,
+      "Broadcom": 2,
+      "SK Hynix": 1,
+      "TSMC": 1,
+      "NXP Semiconductors": 1,
+      "Samsung": 1,
+      "Intel": 1
+    },
+    "authentication": {
+      "Okta": 1,
+      "Microsoft": 1
+    },
+    "systems": {
+      "Microsoft": 1,
+      "GitHub Inc.": 1,
+      "Dell": 1,
+      "HP": 1,
+      "Lenovo": 1,
+      "NetApp": 1,
+      "Dell EMC": 1,
+      "Oracle": 1,
+      "PostgreSQL": 1,
+      "Fortinet": 1,
+      "Air Products": 1,
+      "Linde": 1,
+      "Air Liquide": 1,
+      "Academic Research": 1,
+      "Eaton Corporation": 1,
+      "Brooks Automation": 1,
+      "Rorze": 1,
+      "Yaskawa": 1
+    },
+    "packaging": {
+      "Bosch Packaging Technology": 1,
+      "ASE": 1,
+      "Amkor": 1,
+      "JCET": 1,
+      "Amcor": 1,
+      "Sealed Air": 2,
+      "Berry Global": 1,
+      "Sulzer Mixpac": 1,
+      "3M": 1,
+      "Nitto Denko": 1,
+      "Avery Dennison": 1,
+      "DS Smith": 1,
+      "International Paper": 1,
+      "Smurfit Kappa": 1,
+      "Pactiv Evergreen": 1
+    },
+    "screw": {
+      "DEPRAG": 1,
+      "Fastenal": 1,
+      "Würth": 1,
+      "ITW": 1
+    },
+    "driving": {
+      "DEPRAG": 1
+    },
+    "factory": {
+      "Siemens Digital Industries": 1,
+      "Foxconn": 1,
+      "Samsung": 1,
+      "SK Hynix": 1,
+      "Foxconn Technology": 1
+    },
+    "software": {
+      "Siemens Digital Industries": 1,
+      "Anthropic": 1,
+      "Individual Developers": 1,
+      "Oracle": 11,
+      "PostgreSQL Global Development Group": 1,
+      "Synopsys": 2,
+      "Cadence": 2,
+      "Siemens (Mentor)": 1,
+      "Linux Foundation": 1,
+      "Microsoft": 11,
+      "SAP": 10,
+      "F5 Networks": 1,
+      "Apple": 1,
+      "Datadog": 1,
+      "GitHub": 1,
+      "GitLab": 1,
+      "BPM Microsystems": 1,
+      "Cisco Systems": 1,
+      "CrowdStrike": 1,
+      "JetBrains": 1,
+      "Microsoft Corporation": 1,
+      "Arista Networks": 1,
+      "National Instruments": 1,
+      "Vim": 1,
+      "Emacs": 1,
+      "VSCode": 1,
+      "Siemens": 1,
+      "Google": 1,
+      "Mozilla": 1
+    },
+    "bedrock": {
+      "Amazon Web Services": 1
+    },
+    "b2h6": {
+      "Air Products": 1,
+      "Linde": 1,
+      "Air Liquide": 1
+    },
+    "backlight": {
+      "Radiant Opto-Electronics": 1,
+      "Nichia Corporation": 1,
+      "Seoul Semiconductor": 1,
+      "Epistar": 1
+    },
+    "keyboard": {
+      "Nichia Corporation": 1,
+      "Foxconn": 1,
+      "Nippon Mektron": 1
+    },
+    "leds": {
+      "Nichia Corporation": 1,
+      "Nichia": 1,
+      "Lumileds": 1,
+      "Osram": 1
+    },
+    "backup": {
+      "Generac": 1,
+      "Caterpillar": 1,
+      "Veeam Software": 1
+    },
+    "generator": {
+      "Generac": 1,
+      "Open Source Community": 1,
+      "Air Products": 1,
+      "Linde": 1,
+      "Air Liquide": 1,
+      "Caterpillar": 2,
+      "Cummins": 2,
+      "Kohler": 2,
+      "GE Power": 1,
+      "Siemens": 1
+    },
+    "generators": {
+      "Caterpillar": 1
+    },
+    "miniature": {
+      "NSK Ltd.": 1
+    },
+    "ball": {
+      "NSK Ltd.": 1,
+      "Metso Outotec": 1,
+      "FLSmidth": 1
+    },
+    "bearings": {
+      "NSK Ltd.": 1
+    },
+    "mill": {
+      "Metso Outotec": 1,
+      "FLSmidth": 1,
+      "Haas": 2,
+      "DMG Mori": 2,
+      "Mazak": 2
+    },
+    "base": {
+      "Olin": 4,
+      "Westlake Chemical": 4,
+      "Formosa Plastics": 4,
+      "Ericsson": 1
+    },
+    "station": {
+      "Ericsson": 1,
+      "Siemens": 1,
+      "GE": 1,
+      "Various Telecom Operators": 1
+    },
+    "bastnäsite": {
+      "MP Materials": 1,
+      "Lynas": 1
+    },
+    "mining": {
+      "MP Materials": 1,
+      "Lynas": 1,
+      "China Shenhua": 1,
+      "Peabody": 2,
+      "Glencore": 1,
+      "Caterpillar": 3,
+      "Komatsu": 4,
+      "Liebherr": 1,
+      "Orica": 1,
+      "Dyno Nobel": 1,
+      "Newmont": 1,
+      "Barrick": 1,
+      "Hitachi": 1,
+      "Shell": 1,
+      "Mobil": 1,
+      "Castrol": 1,
+      "Komatsu Mining": 1,
+      "Joy Global": 1,
+      "ManpowerGroup": 1,
+      "Randstad": 1,
+      "Adecco": 1,
+      "Various Mining Services": 1,
+      "Clean Air Technology": 1,
+      "Terra Universal": 1,
+      "Mecart": 1,
+      "Arch Resources": 1
+    },
+    "(rare": {
+      "MP Materials": 1,
+      "Lynas": 1
+    },
+    "earth": {
+      "MP Materials": 2,
+      "Lynas": 2,
+      "China Northern": 1
+    },
+    "ore)": {
+      "MP Materials": 1,
+      "Lynas": 1
+    },
+    "battery": {
+      "Hirata Corporation": 1,
+      "Guangzhou Tinci": 1,
+      "Texas Instruments": 1,
+      "Asahi Kasei": 1,
+      "CATL": 3,
+      "LG Energy": 1,
+      "Samsung SDI": 1,
+      "Toyo Seikan": 1
+    },
+    "lithium": {
+      "Guangzhou Tinci": 1,
+      "SQM": 2,
+      "Albemarle": 2,
+      "CATL": 1,
+      "Ganfeng": 1
+    },
+    "electrolyte": {
+      "Guangzhou Tinci": 1
+    },
+    "management": {
+      "Texas Instruments": 2,
+      "Oracle": 1,
+      "PostgreSQL": 1,
+      "GoDaddy": 1,
+      "Namecheap": 1,
+      "Dialog Semiconductor": 1
+    },
+    "separator": {
+      "Asahi Kasei": 1,
+      "Air Products": 1,
+      "Linde": 1,
+      "Air Liquide": 1
+    },
+    "membrane": {
+      "Asahi Kasei": 1
+    },
+    "manufacturing": {
+      "CATL": 1,
+      "LG Display": 1,
+      "Turner Construction": 1,
+      "Pegatron Corporation": 1,
+      "Foxconn Technology": 1
+    },
+    "technicians": {
+      "CATL": 1,
+      "LG Display": 1,
+      "Applied Materials": 1,
+      "Tokyo Electron": 1,
+      "ASML": 1,
+      "Foxconn": 1,
+      "GoerTek": 1
+    },
+    "bauxite": {
+      "Rio Tinto": 1,
+      "Alcoa": 1
+    },
+    "belt": {
+      "Continental Conveyor": 1,
+      "Continental": 1,
+      "Fenner Dunlop": 1
+    },
+    "bench": {
+      "Rigol Technologies": 1
+    },
+    "supply": {
+      "Rigol Technologies": 1,
+      "Delta Electronics": 1,
+      "Keithley Instruments": 1,
+      "Flow": 1,
+      "OMAX": 1,
+      "KMT": 1
+    },
+    "solder": {
+      "Senju Metal": 1,
+      "Indium Corporation": 1,
+      "Kester": 1,
+      "Taiyo": 3,
+      "Uyemura": 3,
+      "Electra Polymers": 3,
+      "Senju Metal Industry": 1,
+      "TE Connectivity": 1
+    },
+    "balls": {
+      "Senju Metal": 1,
+      "Indium Corporation": 1,
+      "Kester": 1
+    },
+    "anycast": {
+      "Cloudflare": 1,
+      "Akamai": 1
+    },
+    "network": {
+      "Cloudflare": 1,
+      "Akamai": 1,
+      "Keysight Technologies": 1,
+      "Broadcom": 2,
+      "Intel": 1,
+      "ISPs": 1,
+      "Enterprises": 1,
+      "Cloud Providers": 1,
+      "Arista Networks": 2,
+      "Cisco": 2,
+      "Juniper": 2,
+      "Arista": 1,
+      "Mellanox Technologies": 1,
+      "Cisco, Juniper, Arista, Huawei": 1,
+      "Cisco Systems": 1,
+      "Fluke": 1,
+      "NetScout": 1,
+      "II-VI Incorporated": 1,
+      "Infrastructure Provider": 1,
+      "AWS": 1
+    },
+    "router": {
+      "Cisco": 2,
+      "Juniper": 2,
+      "Huawei": 1,
+      "Juniper Networks": 1,
+      "Cisco, Juniper, Arista, Huawei": 1,
+      "Cisco Systems": 1,
+      "Cisco IOS": 1,
+      "Junos": 1
+    },
+    "bicmos": {
+      "GEA": 1,
+      "Alfa Laval": 1,
+      "SPX Flow": 1
+    },
+    "binding": {
+      "Various Binding Suppliers": 1
+    },
+    "materials": {
+      "Various Binding Suppliers": 1,
+      "ASE": 1,
+      "Amkor": 1,
+      "JCET": 1,
+      "Universal Display Corporation": 1,
+      "DS Smith": 1,
+      "International Paper": 1,
+      "Smurfit Kappa": 1,
+      "Various Suppliers": 1,
+      "Coursera": 1,
+      "Udemy": 1,
+      "LinkedIn Learning": 1
+    },
+    "biocides": {
+      "Microsoft": 1,
+      "JetBrains": 1,
+      "Eclipse": 1
+    },
+    "fingerprint": {
+      "Synaptics": 1
+    },
+    "brushless": {
+      "Nidec Corporation": 1
+    },
+    "motor": {
+      "Nidec Corporation": 2,
+      "Sumitomo Electric": 1,
+      "ABB": 1,
+      "Siemens": 1,
+      "WEG": 1,
+      "Hitachi Metals": 1,
+      "TDK Corporation": 1
+    },
+    "board": {
+      "Molex": 1,
+      "Teradyne": 1,
+      "Foxconn": 1,
+      "Pegatron": 1,
+      "Quanta": 1,
+      "TTM Technologies": 2,
+      "Unimicron Technology": 1
+    },
+    "connectors": {
+      "Molex": 2,
+      "TE Connectivity": 1,
+      "Amphenol": 1
+    },
+    "tester": {
+      "Teradyne": 5,
+      "Chroma ATE": 1,
+      "Advantest": 4,
+      "Keysight": 4,
+      "EXFO": 1,
+      "Keysight Technologies": 1
+    },
+    "bond": {
+      "Prysmian": 1,
+      "Southwire": 1,
+      "General Cable": 1,
+      "Tanaka": 1,
+      "Heraeus": 1,
+      "MK Electron": 1
+    },
+    "wire": {
+      "Prysmian": 7,
+      "Southwire": 7,
+      "General Cable": 7,
+      "Sumitomo Electric": 2,
+      "Tanaka": 1,
+      "Heraeus": 1,
+      "MK Electron": 1,
+      "Sandvik Materials Technology": 1,
+      "Bridon-Bekaert": 1,
+      "Kulicke & Soffa": 1,
+      "Maillefer": 1
+    },
+    "bonding": {
+      "Henkel": 1,
+      "3M": 1,
+      "Permabond": 1
+    },
+    "capillary": {
+      "Henkel": 1,
+      "3M": 1,
+      "Permabond": 1
+    },
+    "boron": {
+      "Air Products": 1,
+      "Voltaix": 1,
+      "Gema": 1,
+      "Wagner": 1,
+      "Nordson": 1
+    },
+    "brass": {
+      "Wieland Group": 1,
+      "Mueller Industries": 2,
+      "KME": 2,
+      "Wieland": 3,
+      "Lotes Co.": 1
+    },
+    "connector": {
+      "Lotes Co.": 1,
+      "JAE Electronics": 2,
+      "Foxlink Group": 1,
+      "TE Connectivity": 2,
+      "Amphenol": 2,
+      "Molex": 3,
+      "Unitech Printed Circuit Board": 1,
+      "Corning": 1,
+      "Foxconn Interconnect": 1,
+      "Apple": 1,
+      "I-PEX Inc.": 1,
+      "Hirose Electric": 1,
+      "Foxconn Interconnect Technology": 1
+    },
+    "pins": {
+      "Lotes Co.": 1,
+      "Mill-Max": 2,
+      "Harwin": 2,
+      "Samtec": 2
+    },
+    "strip": {
+      "Mueller Industries": 1,
+      "KME": 1,
+      "Wieland": 1,
+      "Nichia": 1,
+      "Lumileds": 1,
+      "Osram": 1,
+      "Allegheny Technologies": 1,
+      "Peabody": 1,
+      "Arch Resources": 1
+    },
+    "bright": {
+      "Applied Materials": 1,
+      "Screen": 1,
+      "Tokyo Electron": 1
+    },
+    "brine": {
+      "SQM": 1,
+      "Albemarle": 1
+    },
+    "extraction": {
+      "SQM": 1,
+      "Albemarle": 1,
+      "BASF": 1,
+      "Dow Chemical": 1,
+      "Air Products": 1,
+      "Linde": 1,
+      "Air Liquide": 1
+    },
+    "browser": {
+      "Chromium": 1,
+      "WebKit": 1,
+      "Google": 1,
+      "Mozilla": 1
+    },
+    "engine": {
+      "Chromium": 1,
+      "WebKit": 1,
+      "Nidec": 1,
+      "Google": 1
+    },
+    "technology": {
+      "Chromium": 1,
+      "WebKit": 1,
+      "Thales Group": 1
+    },
+    "bucket": {
+      "IHC Mining": 1,
+      "Terex": 1,
+      "Altec": 1
+    },
+    "dredge": {
+      "IHC Mining": 1
+    },
+    "trucks": {
+      "Terex": 1,
+      "Altec": 1,
+      "Caterpillar": 1,
+      "Komatsu": 1
+    },
+    "(service": {
+      "Terex": 1,
+      "Altec": 1
+    },
+    "vehicles)": {
+      "Terex": 1,
+      "Altec": 1
+    },
+    "build": {
+      "Amazon Web Services": 1,
+      "GNU": 1,
+      "CMake": 1,
+      "Ninja": 1
+    },
+    "server": {
+      "Amazon Web Services": 1,
+      "Olin": 1,
+      "Westlake Chemical": 1,
+      "Formosa Plastics": 1,
+      "Cloudflare, Google, AWS Route 53, ISPs": 1,
+      "Dell": 2,
+      "HPE": 2,
+      "Lenovo": 2,
+      "Delta Electronics": 2,
+      "APC": 1,
+      "Tripp Lite": 1,
+      "Foxconn": 1,
+      "Dell Technologies": 1,
+      "Intel": 1,
+      "Supermicro": 1,
+      "Rittal": 1,
+      "Microsoft": 1,
+      "Oracle": 1,
+      "SAP": 1
+    },
+    "infrastructure": {
+      "Amazon Web Services": 1,
+      "Equinix": 1,
+      "Multiple Vendors": 1,
+      "Cisco": 1,
+      "Juniper": 1,
+      "Arista": 1,
+      "Infrastructure Provider": 1,
+      "APC": 1,
+      "Tripp Lite": 1,
+      "Anthropic": 1
+    },
+    "compilation": {
+      "GNU": 1,
+      "CMake": 1,
+      "Ninja": 1
+    },
+    "building": {
+      "Infrastructure Provider": 1
+    },
+    "rental": {
+      "Infrastructure Provider": 1
+    },
+    "bulldozer": {
+      "Caterpillar": 1,
+      "Komatsu": 1
+    },
+    "burn-in": {
+      "Aehr Test Systems": 1
+    },
+    "butadiene": {
+      "Dayton Progress": 1,
+      "Danly": 1,
+      "Misumi": 1
+    },
+    "monomer": {
+      "Dayton Progress": 1,
+      "Danly": 1,
+      "Misumi": 1
+    },
+    "butterfly": {
+      "Apple Inc.": 1
+    },
+    "mechanism": {
+      "Apple Inc.": 1,
+      "Jarllytec": 1
+    },
+    "switches": {
+      "Apple Inc.": 1,
+      "Cisco": 1,
+      "Arista": 1,
+      "Juniper": 1,
+      "Cisco Systems": 1
+    },
+    "programming": {
+      "Bell Labs": 1,
+      "ISO": 1,
+      "Haas": 1,
+      "DMG Mori": 1,
+      "Mazak": 1,
+      "Academia": 1,
+      "Research Labs": 1,
+      "BPM Microsystems": 1,
+      "Various": 1,
+      "Enplas Corporation": 1,
+      "Ruby Core Team": 1
+    },
+    "language": {
+      "Bell Labs": 1,
+      "ISO": 1,
+      "ISO C++ Committee": 1,
+      "Software Company": 1,
+      "Academia": 1,
+      "Research Labs": 1,
+      "Various": 1,
+      "Python Software Foundation": 1,
+      "Ruby Core Team": 1,
+      "Microsoft": 1
+    },
+    "machine": {
+      "Schleuniger": 1,
+      "ArcelorMittal": 1,
+      "Nippon Steel": 1,
+      "POSCO": 1,
+      "Applied Materials": 2,
+      "Tokyo Electron": 2,
+      "Hunter": 1,
+      "Inductotherm": 1,
+      "ABP Induction": 1,
+      "ASML": 1,
+      "Seikoh Giken": 1,
+      "Arburg": 1,
+      "Mill-Max": 1,
+      "Harwin": 1,
+      "Samtec": 1,
+      "Olin": 1,
+      "Westlake Chemical": 1,
+      "Formosa Plastics": 1,
+      "Siemens": 1,
+      "Allen-Bradley": 1,
+      "Emerson": 1,
+      "Cognex Corporation": 1,
+      "Fuji": 1,
+      "Yamaha": 1,
+      "Juki": 1,
+      "Lam Research": 1,
+      "Reed Machinery": 1
+    },
+    "modem": {
+      "ARRIS, Motorola, Netgear, TP-Link": 1
+    },
+    "ship": {
+      "SubCom": 1
+    },
+    "calcination": {
+      "Ipsen": 1,
+      "Surface Combustion": 1,
+      "Lindberg": 1,
+      "MPH": 1,
+      "FLSmidth": 1,
+      "Metso": 1
+    },
+    "lens": {
+      "Largan Precision": 1
+    },
+    "module": {
+      "LG Innotek": 1,
+      "Flexium Interconnect": 1,
+      "Samsung": 1,
+      "Winbond Electronics": 1,
+      "u-blox": 1,
+      "Finisar": 1,
+      "Lumentum": 1,
+      "Delta Electronics": 1,
+      "Maxim Integrated": 1,
+      "Infineon": 1,
+      "Murata Manufacturing": 1,
+      "IDT": 1
+    },
+    "capacitive": {
+      "Synaptics Inc.": 1
+    },
+    "touch": {
+      "Synaptics Inc.": 1,
+      "Synaptics": 1,
+      "Broadcom Inc.": 1,
+      "TPK Holding": 1
+    },
+    "carbide": {
+      "Sandvik Coromant": 1,
+      "Microsoft": 1,
+      "JetBrains": 1,
+      "Eclipse": 1
+    },
+    "cutting": {
+      "Sandvik Coromant": 1,
+      "National Steel Rule": 1,
+      "Trumpf": 1,
+      "Bystronic": 1,
+      "Mazak": 1,
+      "Bobst Group": 1,
+      "Marbach Group": 1
+    },
+    "carbon": {
+      "Cabot Corporation": 1,
+      "PPG Industries": 1,
+      "Sherwin-Williams": 1,
+      "AkzoNobel": 1,
+      "Pall Corporation": 1,
+      "Donaldson": 1,
+      "Parker Hannifin": 1
+    },
+    "black": {
+      "Cabot Corporation": 1
+    },
+    "coating": {
+      "PPG Industries": 7,
+      "Sherwin-Williams": 7,
+      "AkzoNobel": 7,
+      "Kyocera": 1,
+      "CoorsTek": 1,
+      "Morgan Advanced Materials": 1,
+      "Hirano Tecseed": 1,
+      "Applied Materials": 1,
+      "Nordmeccanica Group": 1
+    },
+    "cardboard": {
+      "International Paper": 1,
+      "WestRock": 1,
+      "Smurfit Kappa": 1
+    },
+    "carrier": {
+      "ExxonMobil": 1,
+      "Shell": 1,
+      "Fuchs": 1
+    },
+    "grease": {
+      "ExxonMobil": 1,
+      "Shell": 1,
+      "Fuchs": 1,
+      "Southco": 1,
+      "Sugatsune": 1,
+      "Hettich": 1
+    },
+    "cassiterite": {
+      "Mining Companies": 1
+    },
+    "(sno₂)": {
+      "Mining Companies": 1
+    },
+    "cathode": {
+      "CATL": 1
+    },
+    "caustic": {
+      "Olin": 1,
+      "Dow": 1,
+      "Formosa Plastics": 1
+    },
+    "soda": {
+      "Olin": 1,
+      "Dow": 1,
+      "Formosa Plastics": 1
+    },
+    "(naoh)": {
+      "Olin": 1,
+      "Dow": 1,
+      "Formosa Plastics": 1
+    },
+    "cell": {
+      "CommScope": 1,
+      "ARM": 1,
+      "Synopsys": 1,
+      "Cadence": 1,
+      "TSMC": 1
+    },
+    "standard": {
+      "ARM": 1,
+      "Synopsys": 1,
+      "Cadence": 1,
+      "TSMC": 1
+    },
+    "libraries": {
+      "ARM": 1,
+      "Synopsys": 1,
+      "Cadence": 1,
+      "TSMC": 1,
+      "NVIDIA": 1,
+      "OpenSSL": 1,
+      "Mozilla": 1
+    },
+    "cellular": {
+      "American Tower, Crown Castle, SBA Communications": 1
+    },
+    "tower": {
+      "American Tower, Crown Castle, SBA Communications": 1,
+      "Sulzer": 1,
+      "Koch-Glitsch": 1,
+      "Montz": 1,
+      "SPX": 1,
+      "Baltimore Aircoil": 1,
+      "Evapco": 1,
+      "American Tower": 1,
+      "KEC International": 1,
+      "Valmont": 1
+    },
+    "centrifugal": {
+      "Atlas Copco": 1,
+      "Ingersoll Rand": 1,
+      "Gardner Denver": 1
+    },
+    "compressor": {
+      "Atlas Copco": 2,
+      "Ingersoll Rand": 2,
+      "Gardner Denver": 2,
+      "Siemens": 1,
+      "GE": 1
+    },
+    "ceramic": {
+      "Kyocera": 3,
+      "CoorsTek": 3,
+      "Morgan Advanced Materials": 3,
+      "Denka Company": 1,
+      "NGK": 1,
+      "Lapp Insulator": 1
+    },
+    "high": {
+      "NGK": 1,
+      "Lapp Insulator": 1,
+      "ABB": 1,
+      "Siemens": 1,
+      "Danfoss": 1,
+      "Edwards": 1,
+      "Pfeiffer": 1,
+      "Leybold": 1
+    },
+    "voltage": {
+      "NGK": 1,
+      "Lapp Insulator": 1,
+      "ABB": 1,
+      "Siemens": 1,
+      "Danfoss": 1,
+      "Infineon": 1
+    },
+    "insulators": {
+      "NGK": 1,
+      "Lapp Insulator": 1
+    },
+    "package": {
+      "Kyocera": 1,
+      "CoorsTek": 1,
+      "Morgan Advanced Materials": 1,
+      "Various Engineering Firms": 1,
+      "Consulting Companies": 1,
+      "OEM Staff": 1,
+      "npm Inc": 1,
+      "GitHub": 1,
+      "Ibiden": 2,
+      "Unimicron": 1,
+      "AT&S": 1,
+      "TE Connectivity": 1,
+      "Honeywell": 1,
+      "Bosch": 1,
+      "Edwards": 1,
+      "Pfeiffer": 1,
+      "Leybold": 1
+    },
+    "slurry": {
+      "Kyocera": 1,
+      "CoorsTek": 1,
+      "Morgan Advanced Materials": 1,
+      "Cabot Microelectronics": 1,
+      "DuPont": 1,
+      "Fujimi": 1,
+      "Pall": 1,
+      "Parker": 1,
+      "Donaldson": 1
+    },
+    "charging": {
+      "ArcelorMittal": 1,
+      "Nippon Steel": 1,
+      "POSCO": 1,
+      "IDT": 1
+    },
+    "coil": {
+      "ArcelorMittal": 5,
+      "Nippon Steel": 5,
+      "POSCO": 5,
+      "Henkel": 1,
+      "3M": 1,
+      "H.B. Fuller": 1,
+      "Foster Electric": 1,
+      "TDK Corporation": 1
+    },
+    "chemical": {
+      "Sulzer": 1,
+      "Koch-Glitsch": 1,
+      "Montz": 1,
+      "BASF": 2,
+      "KMG": 1,
+      "Stella Chemifa": 1,
+      "Dow Chemical": 1,
+      "GEA": 1,
+      "Alfa Laval": 1,
+      "SPX Flow": 1,
+      "Various Employers": 1,
+      "Contract Labor": 1,
+      "Staffing Agencies": 1,
+      "BASF SE": 1
+    },
+    "distillation": {
+      "Sulzer": 3,
+      "Koch-Glitsch": 3,
+      "Montz": 2,
+      "Linde": 1,
+      "Air Products": 1
+    },
+    "etchants": {
+      "BASF": 1,
+      "KMG": 1,
+      "Stella Chemifa": 1
+    },
+    "processing": {
+      "GEA": 4,
+      "Alfa Laval": 4,
+      "SPX Flow": 4,
+      "Linde": 1,
+      "Air Products": 1,
+      "McLanahan": 1,
+      "CDE Global": 1
+    },
+    "facility": {
+      "GEA": 1,
+      "Alfa Laval": 1,
+      "SPX Flow": 1,
+      "Clean Air Technology": 1,
+      "Terra Universal": 1,
+      "Mecart": 1,
+      "Turner Construction": 1
+    },
+    "workers": {
+      "Various Employers": 1,
+      "Contract Labor": 1,
+      "Staffing Agencies": 1,
+      "Foxconn Technology": 1,
+      "Electric Utilities": 1,
+      "Shin-Etsu": 1,
+      "Sumco": 1,
+      "GlobalWafers": 1
+    },
+    "chemically": {
+      "Corning Incorporated": 1
+    },
+    "strengthened": {
+      "Corning Incorporated": 1
+    },
+    "glass": {
+      "Corning Incorporated": 2,
+      "Corning": 6,
+      "Schott": 5,
+      "AGC": 5,
+      "Nitto Denko": 1
+    },
+    "chiller": {
+      "Trane": 1,
+      "Carrier": 1,
+      "Johnson Controls": 1
+    },
+    "design": {
+      "Apple (Internal Design Team)": 1,
+      "Apple": 1,
+      "Qualcomm": 1,
+      "NVIDIA": 1,
+      "GCC": 1,
+      "LLVM Projects": 1,
+      "Synopsys": 1,
+      "Cadence": 1,
+      "Siemens (Mentor)": 1,
+      "AECOM": 1,
+      "Bechtel": 1,
+      "Academia": 1,
+      "Research Labs": 1
+    },
+    "files": {
+      "Apple (Internal Design Team)": 1
+    },
+    "engineers": {
+      "Apple": 1,
+      "Qualcomm": 1,
+      "NVIDIA": 1,
+      "ISPs": 1,
+      "Enterprises": 1,
+      "Cloud Providers": 1,
+      "GEA": 1,
+      "Alfa Laval": 1,
+      "SPX Flow": 1
+    },
+    "chlorine": {
+      "Olin": 2,
+      "Dow": 1,
+      "Formosa Plastics": 1,
+      "Occidental Chemical": 1
+    },
+    "(cl₂)": {
+      "Olin": 1,
+      "Dow": 1,
+      "Formosa Plastics": 1
+    },
+    "chromite": {
+      "Samancor": 1,
+      "Merafe": 1
+    },
+    "chromium": {
+      "Glencore Alloys": 1
+    },
+    "ci/cd": {
+      "GitHub Inc.": 1
+    },
+    "pipeline": {
+      "GitHub Inc.": 1,
+      "TransCanada": 1,
+      "Enbridge": 1,
+      "Infrastructure Provider": 1
+    },
+    "circuit": {
+      "ABB": 1,
+      "Schneider Electric": 1,
+      "Eaton": 1,
+      "Flexium": 1,
+      "Unimicron Technology": 1,
+      "TTM Technologies": 1
+    },
+    "simulation": {
+      "ABB": 1,
+      "Schneider Electric": 1,
+      "Eaton": 1,
+      "Synopsys": 1,
+      "Cadence": 1,
+      "Siemens": 1
+    },
+    "clamping": {
+      "Mill-Max": 1,
+      "Harwin": 1,
+      "Samtec": 1
+    },
+    "class": {
+      "Ardmac Group": 1
+    },
+    "cleanroom": {
+      "Ardmac Group": 1,
+      "Clean Air Technology": 3,
+      "Terra Universal": 3,
+      "Mecart": 3
+    },
+    "claude": {
+      "Anthropic": 2
+    },
+    "model": {
+      "Anthropic": 1
+    },
+    "code": {
+      "Anthropic": 1,
+      "GitHub": 1,
+      "GitLab": 1
+    },
+    "claus": {
+      "Linde": 1,
+      "Air Liquide": 1
+    },
+    "clean": {
+      "Nichia": 1,
+      "Lumileds": 1,
+      "Osram": 1
+    },
+    "lights": {
+      "Nichia": 1,
+      "Lumileds": 1,
+      "Osram": 1
+    },
+    "panels": {
+      "Clean Air Technology": 1,
+      "Terra Universal": 1,
+      "Mecart": 1
+    },
+    "(command-line": {
+      "Anthropic": 1
+    },
+    "interface)": {
+      "Anthropic": 1
+    },
+    "cmos": {
+      "Sony Semiconductor Solutions": 1
+    },
+    "image": {
+      "Sony Semiconductor Solutions": 1,
+      "GEA": 1,
+      "Alfa Laval": 1,
+      "SPX Flow": 1
+    },
+    "(chemical": {
+      "Applied Materials": 2,
+      "Ebara": 1,
+      "Tokyo Electron": 1
+    },
+    "mechanical": {
+      "Applied Materials": 1,
+      "Ebara": 1
+    },
+    "polishing)": {
+      "Applied Materials": 1,
+      "Ebara": 1
+    },
+    "controller": {
+      "Haas": 1,
+      "DMG Mori": 1,
+      "Mazak": 1,
+      "Microchip Technology": 1,
+      "Siemens": 2,
+      "Allen-Bradley": 2,
+      "Emerson": 2,
+      "NXP Semiconductors": 1,
+      "Cypress Semiconductor": 2,
+      "Broadcom": 1,
+      "Samsung Electronics": 1,
+      "Samsung": 1,
+      "Texas Instruments": 1,
+      "Analog Devices": 1,
+      "NXP": 1,
+      "Intel": 1,
+      "Synaptics": 1,
+      "Broadcom Inc.": 1
+    },
+    "machining": {
+      "DMG MORI": 1,
+      "Haas": 1,
+      "DMG Mori": 2,
+      "Mazak": 1,
+      "Makino": 1
+    },
+    "center": {
+      "DMG MORI": 1,
+      "Schneider Electric": 1,
+      "Equinix": 1,
+      "Digital Realty": 1,
+      "AWS": 1
+    },
+    "laser": {
+      "Trumpf": 2,
+      "Bystronic": 2,
+      "Mazak": 2,
+      "Coherent": 1,
+      "TRUMPF": 1
+    },
+    "coal": {
+      "China Shenhua": 2,
+      "Peabody": 2,
+      "Glencore": 2
+    },
+    "head": {
+      "PPG Industries": 1,
+      "Sherwin-Williams": 1,
+      "AkzoNobel": 1,
+      "Fuji": 1,
+      "Yamaha": 1,
+      "Juki": 1,
+      "Buehler": 1,
+      "Struers": 1,
+      "Lapmaster Wolters": 1
+    },
+    "cobalt": {
+      "Glencore": 1,
+      "China Molybdenum": 1,
+      "Sherritt": 1
+    },
+    "repositories": {
+      "GitHub": 1,
+      "GitLab": 1
+    },
+    "development": {
+      "Individual Developers": 1,
+      "GNU": 1,
+      "LLVM": 1,
+      "Intel": 1,
+      "ISO C++ Committee": 1,
+      "Orbotech": 3,
+      "Schmid": 3,
+      "Chemcut": 3,
+      "JetBrains": 2,
+      "Microsoft": 2,
+      "Apple Inc.": 1
+    },
+    "projects": {
+      "Individual Developers": 1
+    },
+    "former": {
+      "ArcelorMittal": 1,
+      "Nippon Steel": 1,
+      "POSCO": 1
+    },
+    "winding": {
+      "ArcelorMittal": 1,
+      "Nippon Steel": 1,
+      "POSCO": 1
+    },
+    "cold": {
+      "National Machinery": 1,
+      "SMS group": 1,
+      "Primetals": 1,
+      "Danieli": 1
+    },
+    "heading": {
+      "National Machinery": 1
+    },
+    "press": {
+      "National Machinery": 1,
+      "Mill-Max": 1,
+      "Harwin": 1,
+      "Samtec": 1,
+      "Schuler": 5,
+      "Aida": 4,
+      "Komatsu": 4,
+      "Andritz": 1,
+      "Metso": 1,
+      "Schuler Group": 1
+    },
+    "rolling": {
+      "SMS group": 2,
+      "Primetals": 2,
+      "Danieli": 2,
+      "Haas": 1,
+      "DMG Mori": 1,
+      "Mazak": 1,
+      "Reed Machinery": 1
+    },
+    "engineer": {
+      "Various Engineering Firms": 1,
+      "Consulting Companies": 1,
+      "OEM Staff": 1,
+      "Microsoft": 1,
+      "Oracle": 1,
+      "SAP": 1
+    },
+    "compensation": {
+      "Various Engineering Firms": 1,
+      "Consulting Companies": 1,
+      "OEM Staff": 1
+    },
+    "compiler": {
+      "GCC": 1,
+      "LLVM Projects": 1,
+      "GNU": 3,
+      "LLVM": 2,
+      "Intel": 2,
+      "LLVM Project": 1
+    },
+    "implementation": {
+      "GCC": 1,
+      "LLVM Projects": 1
+    },
+    "compressed": {
+      "Atlas Copco": 1
+    },
+    "compression": {
+      "Lesjöfors": 1,
+      "Lee Spring": 1,
+      "Associated Spring": 1
+    },
+    "springs": {
+      "Lesjöfors": 1,
+      "Lee Spring": 1,
+      "Associated Spring": 1
+    },
+    "computer": {
+      "Dell": 1,
+      "HP": 1,
+      "Lenovo": 1,
+      "Stanford": 1,
+      "MIT": 1,
+      "CMU": 1,
+      "Universities": 1,
+      "Online Platforms": 1,
+      "Teradyne": 1,
+      "Keysight": 1,
+      "National Instruments": 1,
+      "Orbotech": 1,
+      "Schmid": 1,
+      "Chemcut": 1,
+      "Apple": 1,
+      "Dell Technologies": 1
+    },
+    "hardware": {
+      "Dell": 2,
+      "HP": 1,
+      "Lenovo": 2,
+      "Cisco": 1,
+      "Juniper": 1,
+      "HPE": 1,
+      "Synopsys Inc.": 1
+    },
+    "science": {
+      "Stanford": 1,
+      "MIT": 1,
+      "CMU": 1,
+      "Universities": 1,
+      "Online Platforms": 1
+    },
+    "degree": {
+      "Stanford": 1,
+      "MIT": 1,
+      "CMU": 1,
+      "Various Universities": 1,
+      "Technical Institutes": 1,
+      "Colleges": 1,
+      "Universities": 1
+    },
+    "education": {
+      "Universities": 1,
+      "Online Platforms": 2,
+      "Coursera": 1,
+      "edX": 1,
+      "Udacity": 1,
+      "Microsoft": 1,
+      "Oracle": 1,
+      "SAP": 1,
+      "Various Universities": 1,
+      "Technical Schools": 1
+    },
+    "computing": {
+      "Amazon Web Services": 1
+    },
+    "resources": {
+      "Amazon Web Services": 1,
+      "YouTube": 1,
+      "Khan Academy": 1
+    },
+    "concentrator": {
+      "Industrial Equipment Manufacturer": 1,
+      "Carr Lane": 1,
+      "Jergens": 1,
+      "TE-CO": 1
+    },
+    "concrete": {
+      "Olin": 1,
+      "Westlake Chemical": 1,
+      "Formosa Plastics": 1
+    },
+    "technical": {
+      "IEEE": 1,
+      "ACM": 1,
+      "Various": 2,
+      "IETF": 1,
+      "W3C": 1,
+      "ISO": 1,
+      "Cisco": 1,
+      "CompTIA": 1,
+      "Linux Foundation": 1
+    },
+    "conferences": {
+      "IEEE": 1,
+      "ACM": 1,
+      "Various": 1
+    },
+    "events": {
+      "IEEE": 1,
+      "ACM": 1,
+      "Various": 1
+    },
+    "housing": {
+      "TE Connectivity": 1,
+      "Amphenol": 1,
+      "Molex": 1,
+      "Delta Electronics": 1,
+      "Southco": 1,
+      "Sugatsune": 1,
+      "Hettich": 1,
+      "Foxconn Technology": 1,
+      "GoerTek": 1
+    },
+    "insulator": {
+      "TE Connectivity": 1,
+      "Amphenol": 1,
+      "Molex": 1
+    },
+    "contact": {
+      "Mill-Max": 1,
+      "Harwin": 1,
+      "Samtec": 1
+    },
+    "continuous": {
+      "Joy Global": 1,
+      "Caterpillar": 1
+    },
+    "miner": {
+      "Joy Global": 1,
+      "Caterpillar": 1
+    },
+    "coolant": {
+      "Castrol": 1,
+      "Quaker": 1,
+      "Fuchs": 1,
+      "Quaker Houghton": 1
+    },
+    "cooling": {
+      "Nidec": 2,
+      "Sunon": 1,
+      "Delta Electronics": 1,
+      "Schneider Electric": 2,
+      "SPX": 1,
+      "Baltimore Aircoil": 1,
+      "Evapco": 2,
+      "SPX Cooling": 1,
+      "CoolIT Systems": 1
+    },
+    "data": {
+      "Schneider Electric": 1,
+      "National Instruments": 1,
+      "Equinix": 1,
+      "Digital Realty": 1,
+      "AWS": 1,
+      "NetApp": 1,
+      "Dell EMC": 1
+    },
+    "trough": {
+      "SPX": 1,
+      "Baltimore Aircoil": 1,
+      "Evapco": 1
+    },
+    "industrial": {
+      "Evapco": 1,
+      "SPX Cooling": 1,
+      "Metso": 1,
+      "Sandvik": 1,
+      "Babcock & Wilcox": 1,
+      "Cleaver-Brooks": 1,
+      "Turner Construction": 1,
+      "Atlas Copco": 1,
+      "Ingersoll Rand": 1,
+      "Gardner Denver": 1,
+      "FANUC Corporation": 1,
+      "ExxonMobil": 1,
+      "Shell": 1,
+      "Dow": 1,
+      "Veolia Water Technologies": 1,
+      "Foxconn Technology": 1
+    },
+    "water": {
+      "Evapco": 1,
+      "SPX Cooling": 1,
+      "Veolia Water Technologies": 2,
+      "GEA": 1,
+      "Alfa Laval": 1,
+      "SPX Flow": 1,
+      "Flow": 3,
+      "OMAX": 3,
+      "KMT": 3,
+      "Water Treatment Facilities": 1,
+      "Grundfos": 1,
+      "Xylem": 1,
+      "ITT": 1,
+      "Municipal Water Utility": 1
+    },
+    "copper": {
+      "BASF": 1,
+      "Johnson Matthey": 1,
+      "Clariant": 1,
+      "Freeport-McMoRan": 8,
+      "BHP": 7,
+      "Glencore": 6,
+      "Rio Tinto": 1,
+      "Nexans": 1,
+      "Mitsui Mining & Smelting": 1,
+      "Codelco": 1,
+      "Sumitomo Electric": 2,
+      "GGP Metalpowder": 1,
+      "Mueller Industries": 1,
+      "Prysmian": 1,
+      "Southwire": 1,
+      "General Cable": 1
+    },
+    "clad": {
+      "Freeport-McMoRan": 1,
+      "BHP": 1,
+      "Glencore": 1
+    },
+    "laminate": {
+      "Freeport-McMoRan": 1,
+      "BHP": 1,
+      "Glencore": 1
+    },
+    "copper-cobalt": {
+      "Glencore": 1,
+      "China Molybdenum": 1
+    },
+    "concentrate": {
+      "Freeport-McMoRan": 1,
+      "BHP": 1,
+      "Rio Tinto": 1,
+      "Glencore": 1,
+      "Teck Resources": 1,
+      "Boliden": 1
+    },
+    "conductors": {
+      "Freeport-McMoRan": 1,
+      "BHP": 1,
+      "Glencore": 1
+    },
+    "electrolytic": {
+      "Mitsui Mining & Smelting": 1,
+      "Chemical Processing Company": 1
+    },
+    "enameled": {
+      "Sumitomo Electric": 1
+    },
+    "sulfate": {
+      "Freeport-McMoRan": 1,
+      "BHP": 1,
+      "Glencore": 2,
+      "Vale": 1,
+      "Nornickel": 1
+    },
+    "tube": {
+      "Mueller Industries": 1,
+      "Tenaris": 2,
+      "Vallourec": 2,
+      "TMK": 2,
+      "Ipsen": 1,
+      "Surface Combustion": 1,
+      "Lindberg": 1,
+      "MPH": 1
+    },
+    "speaker": {
+      "Foster Electric": 1,
+      "Eminence": 1,
+      "Precision Acoustics": 1,
+      "Panasonic": 1,
+      "Foxconn": 1,
+      "Parts Express": 1,
+      "TE Connectivity": 1,
+      "Henkel": 1,
+      "GoerTek": 2
+    },
+    "voice": {
+      "Foster Electric": 1,
+      "TDK Corporation": 1
+    },
+    "insulated": {
+      "Sumitomo Electric": 1
+    },
+    "corrugating": {
+      "WestRock Company": 1
+    },
+    "medium": {
+      "WestRock Company": 1,
+      "Ipsen": 1,
+      "AFC-Holcroft": 1,
+      "ALD": 1
+    },
+    "cotton": {
+      "Applied Materials": 1,
+      "Tokyo Electron": 1,
+      "ASML": 1
+    },
+    "fabric": {
+      "Applied Materials": 2,
+      "Tokyo Electron": 2,
+      "ASML": 2
+    },
+    "cover": {
+      "Corning": 1,
+      "Schott": 1,
+      "AGC": 1
+    },
+    "crimping": {
+      "Mill-Max": 1,
+      "Harwin": 1,
+      "Samtec": 1
+    },
+    "crosshead": {
+      "Dayton Progress": 1,
+      "Danly": 1,
+      "Misumi": 1
+    },
+    "crude": {
+      "Sulzer": 1,
+      "Koch-Glitsch": 1,
+      "Montz": 1,
+      "Saudi Aramco": 1,
+      "ExxonMobil": 1,
+      "Shell": 1
+    },
+    "(petroleum)": {
+      "Saudi Aramco": 1,
+      "ExxonMobil": 1,
+      "Shell": 1
+    },
+    "crushing": {
+      "Metso Outotec": 1,
+      "Sandvik": 1
+    },
+    "crusher": {
+      "Metso": 1,
+      "Sandvik": 2,
+      "Terex": 1
+    },
+    "cryogenic": {
+      "Linde": 1,
+      "Air Products": 1
+    },
+    "crystal": {
+      "Seiko Epson": 6,
+      "TXC Corporation": 5,
+      "Abracon": 5,
+      "Merck": 1,
+      "Shin-Etsu": 1,
+      "Sumco": 1,
+      "GlobalWafers": 1
+    },
+    "grower": {
+      "Seiko Epson": 1,
+      "TXC Corporation": 1,
+      "Abracon": 1
+    },
+    "oscillator": {
+      "Seiko Epson": 2,
+      "TXC Corporation": 1,
+      "Abracon": 1
+    },
+    "(cascading": {
+      "W3C": 1
+    },
+    "style": {
+      "W3C": 1
+    },
+    "sheets)": {
+      "W3C": 1
+    },
+    "cuda": {
+      "NVIDIA": 1
+    },
+    "metalworking": {
+      "Quaker Houghton": 1
+    },
+    "vapor": {
+      "Applied Materials": 1,
+      "Tokyo Electron": 1,
+      "GEA": 1,
+      "Alfa Laval": 1,
+      "SPX Flow": 1
+    },
+    "deposition)": {
+      "Applied Materials": 1,
+      "Tokyo Electron": 1
+    },
+    "precursors": {
+      "Applied Materials": 1,
+      "Lam Research": 1,
+      "Tokyo Electron": 1
+    },
+    "cylindrical": {
+      "Makita": 1,
+      "DeWalt": 1,
+      "Bosch": 1
+    },
+    "grinder": {
+      "Makita": 1,
+      "DeWalt": 1,
+      "Bosch": 1
+    },
+    "acquisition": {
+      "National Instruments": 1
+    },
+    "enterprise": {
+      "NetApp": 1,
+      "Dell EMC": 1,
+      "Juniper Networks": 1,
+      "Cisco": 1,
+      "Juniper": 1
+    },
+    "storage": {
+      "NetApp": 2,
+      "Dell EMC": 1,
+      "Samsung Electronics": 1,
+      "Samsung": 2,
+      "Western Digital": 2,
+      "SK Hynix": 1
+    },
+    "database": {
+      "Olin": 1,
+      "Westlake Chemical": 1,
+      "Formosa Plastics": 1,
+      "Oracle": 2,
+      "PostgreSQL Global Development Group": 1,
+      "PostgreSQL": 1,
+      "InfluxData": 1,
+      "ICANN": 1,
+      "Registries": 1
+    },
+    "datacenter": {
+      "Equinix": 1
+    },
+    "rectifier": {
+      "Vishay": 1,
+      "Infineon": 1,
+      "STMicroelectronics": 1
+    },
+    "ddos": {
+      "Cloudflare": 1,
+      "Akamai": 1
+    },
+    "mitigation": {
+      "Cloudflare": 1,
+      "Akamai": 1
+    },
+    "ddr5": {
+      "Samsung Electronics": 1
+    },
+    "memory": {
+      "Samsung Electronics": 2,
+      "SK Hynix": 2,
+      "Winbond Electronics": 1
+    },
+    "dehumidified": {
+      "Munters": 1
+    },
+    "room": {
+      "Munters": 1,
+      "Clean Air Technology": 2,
+      "Terra Universal": 2,
+      "Mecart": 2
+    },
+    "deionized": {
+      "Veolia Water Technologies": 1
+    },
+    "(electronic": {
+      "Synopsys": 1,
+      "Cadence": 1,
+      "Siemens (Mentor)": 1
+    },
+    "automation)": {
+      "Synopsys": 1,
+      "Cadence": 1,
+      "Siemens (Mentor)": 1
+    },
+    "photoresist": {
+      "Tokyo Ohka Kogyo": 2,
+      "JSR": 1,
+      "DuPont": 1
+    },
+    "developer": {
+      "Tokyo Ohka Kogyo": 1
+    },
+    "device": {
+      "BPM Microsystems": 1
+    },
+    "programmer": {
+      "BPM Microsystems": 2,
+      "Segger": 1,
+      "Data I": 1,
+      "O": 1
+    },
+    "diamond": {
+      "Dayton Progress": 1,
+      "Danly": 1,
+      "Misumi": 1,
+      "Disco Corporation": 1,
+      "Prysmian": 1,
+      "Southwire": 1,
+      "General Cable": 1
+    },
+    "dicing": {
+      "Disco Corporation": 1
+    },
+    "attach": {
+      "Henkel AG": 1,
+      "ASM Pacific Technology": 1,
+      "Henkel": 1,
+      "AI Technology": 1,
+      "Namics": 1
+    },
+    "casting": {
+      "Hunter": 2,
+      "Inductotherm": 2,
+      "ABP Induction": 2,
+      "Dynacast": 1
+    },
+    "ejector": {
+      "Dayton Progress": 1,
+      "Danly": 1,
+      "Misumi": 1
+    },
+    "diesel": {
+      "ExxonMobil": 2,
+      "Shell": 2,
+      "BP": 2
+    },
+    "fuel": {
+      "ExxonMobil": 2,
+      "Shell": 2,
+      "BP": 2,
+      "Air Products": 1,
+      "Linde": 1,
+      "Air Liquide": 1
+    },
+    "digital": {
+      "Various Publishers": 1,
+      "Fluke": 1,
+      "Keysight": 1,
+      "Tektronix": 1
+    },
+    "books": {
+      "Various Publishers": 1
+    },
+    "multimeter": {
+      "Fluke": 1,
+      "Keysight": 1,
+      "Tektronix": 1
+    },
+    "dimming": {
+      "ABB": 1,
+      "Siemens": 1,
+      "Danfoss": 1
+    },
+    "driver": {
+      "ABB": 3,
+      "Siemens": 3,
+      "Danfoss": 2,
+      "Novatek": 1,
+      "Nichia": 1,
+      "Lumileds": 1,
+      "Osram": 1,
+      "WEG": 1
+    },
+    "directional": {
+      "Makita": 1,
+      "DeWalt": 1,
+      "Bosch": 1
+    },
+    "drilling": {
+      "Makita": 1,
+      "DeWalt": 1,
+      "Bosch": 1,
+      "Halliburton": 1,
+      "Schlumberger": 1,
+      "TTM Technologies": 1,
+      "Unimicron": 1,
+      "Ibiden": 1
+    },
+    "display": {
+      "Luxshare": 1,
+      "Amphenol": 1,
+      "JAE": 1,
+      "Novatek": 1,
+      "Corning": 1,
+      "Canon": 1,
+      "Samsung Display": 1,
+      "LG Display": 2,
+      "BOE": 1,
+      "Apple": 1
+    },
+    "(displayport/hdmi)": {
+      "Luxshare": 1,
+      "Amphenol": 1,
+      "JAE": 1
+    },
+    "photolithography": {
+      "Canon": 2,
+      "ASML": 1,
+      "Nikon": 1
+    },
+    "panel": {
+      "Samsung Display": 1,
+      "LG Display": 1,
+      "BOE": 1,
+      "Panduit": 1
+    },
+    "(lcd/oled)": {
+      "Samsung Display": 1,
+      "LG Display": 1,
+      "BOE": 1
+    },
+    "docsis": {
+      "Broadcom": 1
+    },
+    "domain": {
+      "GoDaddy": 1,
+      "Namecheap": 1,
+      "Registrars (Namecheap, GoDaddy, Google Domains)": 1,
+      "ICANN": 1,
+      "Verisign": 1
+    },
+    "name": {
+      "Registrars (Namecheap, GoDaddy, Google Domains)": 1
+    },
+    "registration": {
+      "Registrars (Namecheap, GoDaddy, Google Domains)": 1
+    },
+    "dust": {
+      "Eminence": 1
+    },
+    "dome": {
+      "Dayton Progress": 1,
+      "Danly": 1,
+      "Misumi": 1,
+      "Applied Materials": 1,
+      "Tokyo Electron": 1,
+      "ASML": 1
+    },
+    "dragline": {
+      "Caterpillar": 1,
+      "Komatsu": 1
+    },
+    "excavation": {
+      "Caterpillar": 2,
+      "Komatsu": 2
+    },
+    "dram": {
+      "SK Hynix": 1,
+      "Samsung": 1
+    },
+    "drawing": {
+      "Niehoff": 2,
+      "Samp": 2,
+      "Bartell": 2
+    },
+    "dies": {
+      "Niehoff": 1,
+      "Samp": 1,
+      "Bartell": 1,
+      "Nichia": 1,
+      "Lumileds": 1,
+      "Osram": 1
+    },
+    "lubricant": {
+      "Niehoff": 1,
+      "Samp": 1,
+      "Bartell": 1
+    },
+    "drill": {
+      "Atlas Copco": 1,
+      "Sandvik": 1,
+      "Makita": 1,
+      "DeWalt": 1,
+      "Bosch": 1
+    },
+    "blast": {
+      "Atlas Copco": 1,
+      "Sandvik": 1,
+      "Ipsen": 1,
+      "Surface Combustion": 1,
+      "Lindberg": 1,
+      "MPH": 1
+    },
+    "operations": {
+      "Atlas Copco": 1,
+      "Sandvik": 1,
+      "Various Mining Services": 1,
+      "Halliburton": 1,
+      "Schlumberger": 1
+    },
+    "protocols": {
+      "Clean Air Technology": 1,
+      "Terra Universal": 1,
+      "Mecart": 1
+    },
+    "drying": {
+      "Despatch": 1,
+      "Wisconsin Oven": 1,
+      "Grieve": 1,
+      "Despatch Industries": 1
+    },
+    "oven": {
+      "Despatch": 1,
+      "Wisconsin Oven": 1,
+      "Grieve": 1,
+      "BTU International": 1,
+      "Heller Industries": 1,
+      "Despatch Industries": 1
+    },
+    "dual": {
+      "Sulzer Mixpac": 1
+    },
+    "cartridge": {
+      "Sulzer Mixpac": 1
+    },
+    "haul": {
+      "Caterpillar": 2,
+      "Komatsu": 2,
+      "Liebherr": 1
+    },
+    "truck": {
+      "Caterpillar": 1,
+      "Komatsu": 1,
+      "Liebherr": 1
+    },
+    "dwight": {
+      "Cremer": 1,
+      "Abbott": 1,
+      "CM Furnaces": 1
+    },
+    "lloyd": {
+      "Cremer": 1,
+      "Abbott": 1,
+      "CM Furnaces": 1
+    },
+    "sinter": {
+      "Cremer": 1,
+      "Abbott": 1,
+      "CM Furnaces": 1
+    },
+    "solvent": {
+      "ExxonMobil": 6,
+      "Shell": 6,
+      "Dow": 6,
+      "Sulzer Chemtech": 1
+    },
+    "electric": {
+      "Ipsen": 1,
+      "Surface Combustion": 1,
+      "Lindberg": 1,
+      "MPH": 1
+    },
+    "electrical": {
+      "Schneider Electric": 1,
+      "Duke Energy": 1,
+      "Exelon": 1,
+      "Various Universities": 1,
+      "Technical Institutes": 1,
+      "Colleges": 1,
+      "Chroma ATE": 1,
+      "AK Steel": 1,
+      "Nippon Steel": 1
+    },
+    "distribution": {
+      "Schneider Electric": 1
+    },
+    "generation": {
+      "Duke Energy": 1,
+      "Exelon": 1
+    },
+    "engineering": {
+      "Various Universities": 1,
+      "Technical Institutes": 1,
+      "Colleges": 1,
+      "AECOM": 1,
+      "Bechtel": 1,
+      "Various Engineering Firms": 2,
+      "Consulting Companies": 2,
+      "OEM Staff": 2,
+      "Microsoft": 1,
+      "Oracle": 1,
+      "SAP": 1
+    },
+    "safety": {
+      "Chroma ATE": 1,
+      "Industrial Equipment Manufacturer": 1,
+      "PMI": 1,
+      "ASQ": 1,
+      "ISA": 1,
+      "Coursera": 1,
+      "Udemy": 1,
+      "LinkedIn Learning": 1
+    },
+    "steel": {
+      "AK Steel": 1,
+      "Nippon Steel": 10,
+      "ArcelorMittal": 10,
+      "POSCO": 9,
+      "Toyo Seikan": 1,
+      "Aperam": 1,
+      "Laird Connectivity": 1,
+      "Allegheny Technologies": 1,
+      "Sandvik Materials Technology": 1,
+      "Nucor": 2,
+      "AISC Members": 1,
+      "Leader Tech": 1,
+      "American Tower": 1,
+      "Bridon-Bekaert": 1
+    },
+    "laminations": {
+      "AK Steel": 1,
+      "Nippon Steel": 1
+    },
+    "electricity": {
+      "Duke Energy": 1,
+      "Exelon": 1,
+      "Engie": 1
+    },
+    "electrochemistry": {
+      "Coursera": 1,
+      "Udemy": 1,
+      "LinkedIn Learning": 1
+    },
+    "refining": {
+      "Chemical Processing Company": 2
+    },
+    "electron": {
+      "ASML": 1,
+      "Nikon": 2,
+      "Canon": 1,
+      "Olympus": 1,
+      "Zeiss": 1
+    },
+    "beam": {
+      "ASML": 1,
+      "Nikon": 1,
+      "Canon": 1
+    },
+    "lithography": {
+      "ASML": 3,
+      "Nikon": 2,
+      "Canon": 2
+    },
+    "electronic": {
+      "SEW-Eurodrive": 1,
+      "Bonfiglioli": 1,
+      "Nord Drivesystems": 1,
+      "Keysight Technologies": 1
+    },
+    "gear": {
+      "SEW-Eurodrive": 1,
+      "Bonfiglioli": 1,
+      "Nord Drivesystems": 1
+    },
+    "electroplating": {
+      "Atotech": 2,
+      "MacDermid": 2,
+      "JCU": 2,
+      "Umicore": 1,
+      "Technic Inc.": 1
+    },
+    "chemistry": {
+      "Atotech": 2,
+      "MacDermid": 2,
+      "JCU": 2,
+      "Chemcut": 1,
+      "Schmid": 1,
+      "PST": 1
+    },
+    "gold": {
+      "Umicore": 1,
+      "Technic Inc.": 1,
+      "Barrick": 2,
+      "Newmont": 3,
+      "AngloGold": 1,
+      "Barrick Gold": 1,
+      "AngloGold Ashanti": 1,
+      "Atotech": 1,
+      "MacDermid": 1,
+      "JCU": 1,
+      "Metallurgical Equipment Supplier": 1,
+      "Tanaka": 1,
+      "Heraeus": 1,
+      "MK Electron": 1
+    },
+    "elemental": {
+      "Gazprom": 1,
+      "Saudi Aramco": 1,
+      "Shell": 2,
+      "Aramco": 1
+    },
+    "sulfur": {
+      "Gazprom": 1,
+      "Saudi Aramco": 1,
+      "Shell": 2,
+      "Buehler": 1,
+      "Struers": 1,
+      "Lapmaster Wolters": 1,
+      "Aramco": 1
+    },
+    "encryption": {
+      "Thales Group": 1
+    },
+    "services": {
+      "AECOM": 1,
+      "Bechtel": 1,
+      "Makino": 1,
+      "DMG Mori": 1,
+      "Various Translation Agencies": 1
+    },
+    "workstation": {
+      "Various Engineering Firms": 1,
+      "Consulting Companies": 1,
+      "OEM Staff": 1
+    },
+    "enriched": {
+      "Orano": 1
+    },
+    "uranium": {
+      "Orano": 1,
+      "Cameco": 2,
+      "Kazatomprom": 2
+    },
+    "epoxy": {
+      "Huntsman": 3,
+      "Hexion": 3,
+      "Olin": 3,
+      "Sumitomo Bakelite": 2,
+      "Hitachi Chemical": 1,
+      "Henkel": 2,
+      "3M": 1,
+      "Dow": 1
+    },
+    "hardener": {
+      "Huntsman": 1,
+      "Hexion": 1,
+      "Olin": 1
+    },
+    "molding": {
+      "Sumitomo Bakelite": 2,
+      "Hitachi Chemical": 1,
+      "Henkel": 1,
+      "Huntsman": 1,
+      "Hexion": 1,
+      "Olin": 1,
+      "Arburg": 2,
+      "Engel": 1,
+      "Haitian": 1,
+      "Siemens": 1,
+      "Allen-Bradley": 1,
+      "Emerson": 1,
+      "Jabil": 1
+    },
+    "compound": {
+      "Sumitomo Bakelite": 2,
+      "Hitachi Chemical": 1,
+      "Henkel": 1,
+      "3M": 1
+    },
+    "etchant": {
+      "Chemcut": 1,
+      "Schmid": 1,
+      "PST": 1,
+      "Shin-Etsu": 1,
+      "Sumco": 1,
+      "GlobalWafers": 1
+    },
+    "ethernet": {
+      "Broadcom": 1,
+      "Cisco, Juniper, Arista, HP": 1,
+      "Aruba": 1
+    },
+    "switch": {
+      "Cisco, Juniper, Arista, HP": 1,
+      "Aruba": 1,
+      "Arista Networks": 2,
+      "Cisco Systems": 1
+    },
+    "ethylene": {
+      "Air Products": 1,
+      "Linde": 1,
+      "Air Liquide": 1
+    },
+    "hydraulic": {
+      "Hitachi": 1,
+      "Caterpillar": 1,
+      "Komatsu": 1,
+      "Shell": 2,
+      "Mobil": 2,
+      "Castrol": 2,
+      "Schuler Group": 1
+    },
+    "excavator": {
+      "Hitachi": 2,
+      "Caterpillar": 1,
+      "Komatsu": 2
+    },
+    "expansion": {
+      "GE": 1,
+      "Siemens": 1,
+      "Mitsubishi Heavy Industries": 1
+    },
+    "turbine": {
+      "GE": 1,
+      "Siemens": 2,
+      "Mitsubishi Heavy Industries": 1,
+      "General Electric": 1,
+      "GE Aviation": 1,
+      "Rolls-Royce": 1,
+      "GE Power": 1
+    },
+    "exposure": {
+      "Orbotech": 1,
+      "Miva": 1,
+      "Adeon": 1
+    },
+    "f-connector": {
+      "PPC Broadband": 1
+    },
+    "semiconductor": {
+      "Applied Materials": 1,
+      "TSMC": 1,
+      "Samsung": 1,
+      "Intel": 1
+    },
+    "spider": {
+      "Precision Acoustics": 1,
+      "Microsoft": 1,
+      "JetBrains": 1,
+      "Eclipse": 1
+    },
+    "damper": {
+      "Precision Acoustics": 1
+    },
+    "impeller": {
+      "Ziehl-Abegg": 1,
+      "ebm-papst": 1,
+      "Systemair": 1,
+      "Delta Electronics": 1
+    },
+    "fastener": {
+      "Instron Corporation": 1
+    },
+    "fasteners": {
+      "Fastenal": 1,
+      "Würth": 1,
+      "ITW": 1,
+      "SFS Group": 1,
+      "Nifco": 1,
+      "Penn Engineering": 1
+    },
+    "fiber": {
+      "Corning": 5,
+      "Prysmian": 1,
+      "Sumitomo": 1,
+      "Seikoh Giken": 1,
+      "Schott": 1,
+      "AGC": 1,
+      "DuPont": 1,
+      "Nextrom": 1
+    },
+    "optic": {
+      "Corning": 2,
+      "Prysmian": 1,
+      "Sumitomo": 1
+    },
+    "polishing": {
+      "Seikoh Giken": 1,
+      "Buehler": 5,
+      "Struers": 4,
+      "Lapmaster Wolters": 4,
+      "3M": 1,
+      "Cabot Microelectronics": 1,
+      "DuPont": 1,
+      "Fujimi": 1
+    },
+    "fiberglass": {
+      "Corning": 1,
+      "Schott": 1,
+      "AGC": 1
+    },
+    "cloth": {
+      "Corning": 2,
+      "Schott": 2,
+      "AGC": 2
+    },
+    "film": {
+      "SMS group": 1,
+      "Danieli": 1,
+      "Presezzi": 1,
+      "BASF": 1,
+      "DuPont": 2,
+      "Ube Industries": 2,
+      "Nitto Denko": 1,
+      "Toray Industries": 1,
+      "Kaneka": 1,
+      "Nanosys": 1,
+      "Yageo": 1,
+      "Vishay": 1,
+      "KOA Speer": 1,
+      "Avery Dennison": 1
+    },
+    "fire": {
+      "Kidde Fire Systems": 1
+    },
+    "suppression": {
+      "Kidde Fire Systems": 1
+    },
+    "firewall": {
+      "Palo Alto Networks": 1,
+      "Fortinet": 1
+    },
+    "appliance": {
+      "Palo Alto Networks": 1
+    },
+    "firmware": {
+      "Orbotech": 1,
+      "Schmid": 1,
+      "Chemcut": 1,
+      "Segger": 1,
+      "BPM Microsystems": 1,
+      "Data I": 1,
+      "O": 1,
+      "Samsung Electronics": 1
+    },
+    "flash": {
+      "Winbond Electronics": 1,
+      "Samsung Electronics": 1,
+      "Kioxia": 1
+    },
+    "flexible": {
+      "Sumitomo Electric": 1,
+      "Flexium": 1
+    },
+    "flat": {
+      "Sumitomo Electric": 1
+    },
+    "flexibilizer": {
+      "Flexible Circuit": 1,
+      "Career Technology": 1,
+      "Flexcom": 1
+    },
+    "printed": {
+      "Flexium": 1,
+      "Unimicron Technology": 1,
+      "Apple": 1
+    },
+    "flexographic": {
+      "Sun Chemical": 1
+    },
+    "printing": {
+      "Sun Chemical": 2,
+      "Avery Dennison": 1,
+      "CCL Industries": 1,
+      "Multi-Color Corporation": 1
+    },
+    "flotation": {
+      "Outotec": 1,
+      "Metso": 1,
+      "Applied Materials": 1,
+      "Axcelis": 1,
+      "Ion Beam Applications": 1
+    },
+    "cells": {
+      "Outotec": 1,
+      "Metso": 1
+    },
+    "plant": {
+      "Applied Materials": 2,
+      "Axcelis": 2,
+      "Ion Beam Applications": 2,
+      "Linde": 1,
+      "Air Products": 1,
+      "Alfa Laval": 1,
+      "GEA": 1,
+      "Andritz": 1,
+      "Dow": 1,
+      "BASF": 1,
+      "Solvay": 1,
+      "McLanahan": 1,
+      "CDE Global": 1
+    },
+    "fluidized": {
+      "Metallurgical Equipment Supplier": 1
+    },
+    "roaster": {
+      "Metallurgical Equipment Supplier": 1
+    },
+    "fluorine": {
+      "Solvay": 1,
+      "Honeywell": 1
+    },
+    "fluorspar": {
+      "Mining Companies": 1
+    },
+    "(caf₂)": {
+      "Mining Companies": 1
+    },
+    "fluosilicic": {
+      "Dow": 1,
+      "BASF": 1,
+      "Solvay": 1
+    },
+    "foam": {
+      "BASF": 2,
+      "Covestro": 2,
+      "Huntsman": 2,
+      "Sealed Air": 1
+    },
+    "molds": {
+      "BASF": 1,
+      "Covestro": 1,
+      "Huntsman": 1
+    },
+    "rubber": {
+      "BASF": 1,
+      "Covestro": 1,
+      "Huntsman": 1,
+      "Bridgestone": 1,
+      "Michelin": 1,
+      "Goodyear": 1,
+      "3M": 1,
+      "Nitto Denko": 1,
+      "Bumper Specialties": 1,
+      "Kaneka Corporation": 1,
+      "Parts Express": 1,
+      "JSR Corporation": 1
+    },
+    "force": {
+      "Honeywell": 1,
+      "Futek": 1,
+      "Interface": 1,
+      "TPK Holding": 1
+    },
+    "control": {
+      "Honeywell": 1,
+      "Futek": 1,
+      "Interface": 1,
+      "Siemens": 2,
+      "Allen-Bradley": 2,
+      "Emerson": 2,
+      "Schuler": 1,
+      "Aida": 1,
+      "Komatsu": 1,
+      "Texas Instruments": 1,
+      "Analog Devices": 1,
+      "NXP": 1
+    },
+    "forming": {
+      "Schuler": 1,
+      "Trumpf": 1,
+      "Amada": 1
+    },
+    "friction": {
+      "Jarllytec": 1,
+      "Keysight": 1,
+      "SPEA": 1,
+      "Takaya": 1
+    },
+    "hinge": {
+      "Jarllytec": 1,
+      "Southco": 2,
+      "Sugatsune": 2,
+      "Hettich": 2
+    },
+    "plates": {
+      "Keysight": 1,
+      "SPEA": 1,
+      "Takaya": 1
+    },
+    "source": {
+      "Air Products": 1,
+      "Linde": 1,
+      "Air Liquide": 1,
+      "Various Employers": 1,
+      "Microsoft": 1,
+      "Oracle": 1,
+      "SAP": 1,
+      "GitHub": 1,
+      "GitLab": 1,
+      "Hypertherm": 1,
+      "ESAB": 1,
+      "Kjellberg": 1,
+      "Municipal Water Utility": 1
+    },
+    "(coal/natural": {
+      "Air Products": 1,
+      "Linde": 1,
+      "Air Liquide": 1
+    },
+    "gas)": {
+      "Air Products": 1,
+      "Linde": 1,
+      "Air Liquide": 1
+    },
+    "fused": {
+      "Tenaris": 1,
+      "Vallourec": 1,
+      "TMK": 1,
+      "Sibelco": 1,
+      "Quartz Corp": 1,
+      "US Silica": 1
+    },
+    "quartz": {
+      "Tenaris": 1,
+      "Vallourec": 1,
+      "TMK": 1,
+      "Seiko Epson": 2,
+      "TXC Corporation": 1,
+      "Abracon": 1
+    },
+    "silica": {
+      "Sibelco": 2,
+      "Quartz Corp": 1,
+      "US Silica": 2,
+      "Quarzwerke": 1,
+      "Evonik Industries": 1,
+      "Corning Incorporated": 1,
+      "Empire Abrasive": 1,
+      "Wheelabrator": 1,
+      "Clemco": 1
+    },
+    "(sio₂)": {
+      "Sibelco": 2,
+      "Quartz Corp": 1,
+      "US Silica": 2,
+      "Quarzwerke": 1
+    },
+    "fusion": {
+      "Tokyo Electron": 1,
+      "Kokusai Electric": 1,
+      "Centrotherm": 1
+    },
+    "draw": {
+      "Tokyo Electron": 1,
+      "Kokusai Electric": 1,
+      "Centrotherm": 1
+    },
+    "galena": {
+      "Nyrstar": 1,
+      "Volcan Compania": 1
+    },
+    "(lead": {
+      "Nyrstar": 1,
+      "Volcan Compania": 1
+    },
+    "sulfide)": {
+      "Nyrstar": 1,
+      "Volcan Compania": 1,
+      "Norilsk Nickel": 1,
+      "Vale": 1
+    },
+    "centrifuge": {
+      "Urenco": 1,
+      "Orano": 1
+    },
+    "natural": {
+      "Siemens": 1,
+      "GE": 1,
+      "TransCanada": 1,
+      "Enbridge": 1,
+      "Gazprom": 1,
+      "ExxonMobil": 1,
+      "Shell": 1,
+      "SGL Carbon": 1,
+      "Tokai Carbon": 1,
+      "GrafTech": 1,
+      "Cameco": 1,
+      "Kazatomprom": 1
+    },
+    "flow": {
+      "Air Products": 1,
+      "Linde": 1,
+      "Air Liquide": 1,
+      "Siemens": 1,
+      "Allen-Bradley": 1,
+      "Emerson": 1
+    },
+    "purification": {
+      "Air Products": 1,
+      "Linde": 1,
+      "Air Liquide": 1,
+      "SGL Carbon": 1,
+      "Tokai Carbon": 1,
+      "GrafTech": 1,
+      "ExxonMobil": 1,
+      "Shell": 1,
+      "Dow": 1
+    },
+    "scrubber": {
+      "Bridgestone": 1,
+      "Michelin": 1,
+      "Goodyear": 1
+    },
+    "sweetening": {
+      "Air Products": 1,
+      "Linde": 1,
+      "Air Liquide": 1
+    },
+    "github": {
+      "GitHub (Microsoft)": 2,
+      "GitHub": 1
+    },
+    "pages": {
+      "GitHub (Microsoft)": 1
+    },
+    "hosting": {
+      "GitHub (Microsoft)": 1
+    },
+    "repository": {
+      "GitHub": 1
+    },
+    "lined": {
+      "Corning": 1,
+      "Schott": 1,
+      "AGC": 1
+    },
+    "reactor": {
+      "Corning": 1,
+      "Schott": 1,
+      "AGC": 1
+    },
+    "plating": {
+      "Atotech": 3,
+      "MacDermid": 3,
+      "JCU": 3
+    },
+    "smelter": {
+      "Metallurgical Equipment Supplier": 1
+    },
+    "gps/gnss": {
+      "u-blox": 1
+    },
+    "grafana": {
+      "Grafana Labs": 1
+    },
+    "dashboard": {
+      "Grafana Labs": 1
+    },
+    "graphite": {
+      "BTR New Energy": 1,
+      "SGL Carbon": 6,
+      "Tokai Carbon": 6,
+      "GrafTech": 6
+    },
+    "anode": {
+      "BTR New Energy": 1
+    },
+    "components": {
+      "SGL Carbon": 1,
+      "Tokai Carbon": 1,
+      "GrafTech": 1,
+      "Seoul Semiconductor": 1,
+      "Murata Manufacturing": 1
+    },
+    "electrodes": {
+      "SGL Carbon": 1,
+      "Tokai Carbon": 1,
+      "GrafTech": 1
+    },
+    "susceptor": {
+      "SGL Carbon": 1,
+      "Tokai Carbon": 1,
+      "GrafTech": 1
+    },
+    "grinding": {
+      "Haas": 1,
+      "DMG Mori": 1,
+      "Mazak": 1,
+      "Buhler": 1,
+      "Netzsch": 1,
+      "Retsch": 1
+    },
+    "ground": {
+      "Teradyne": 1,
+      "Advantest": 1,
+      "Keysight": 1
+    },
+    "gyroscope": {
+      "Bosch Sensortec": 1
+    },
+    "hydrogen": {
+      "Solvay": 1,
+      "Evonik": 1,
+      "Arkema": 1,
+      "Air Products": 2,
+      "Linde": 2,
+      "Praxair": 1,
+      "Air Liquide": 1
+    },
+    "peroxide": {
+      "Solvay": 1,
+      "Evonik": 1,
+      "Arkema": 1
+    },
+    "(h₂o₂)": {
+      "Solvay": 1,
+      "Evonik": 1,
+      "Arkema": 1
+    },
+    "hall": {
+      "TE Connectivity": 1,
+      "Honeywell": 1,
+      "Bosch": 1
+    },
+    "haptic": {
+      "ABB": 1,
+      "Siemens": 1,
+      "Danfoss": 1,
+      "Nidec": 1
+    },
+    "feedback": {
+      "Nidec": 1
+    },
+    "hdmi": {
+      "Molex": 1
+    },
+    "port": {
+      "Molex": 1,
+      "Coherent": 1,
+      "JAE Electronics": 1
+    },
+    "3.5mm": {
+      "Kyocera AVX": 1,
+      "JAE Electronics": 1,
+      "Foxconn": 1
+    },
+    "headphone": {
+      "Kyocera AVX": 1,
+      "JAE Electronics": 1,
+      "Foxconn": 1
+    },
+    "jack": {
+      "Kyocera AVX": 1,
+      "JAE Electronics": 1,
+      "Foxconn": 1
+    },
+    "heap": {
+      "Various Mining Operations": 1
+    },
+    "heat": {
+      "Various Energy Providers": 1,
+      "Auras Technology": 1,
+      "Cooler Master": 1,
+      "Furukawa Electric": 1,
+      "Industrial Equipment Manufacturer": 1,
+      "Aavid Thermalloy": 1,
+      "Ipsen": 1,
+      "Surface Combustion": 1,
+      "Lindberg": 1,
+      "MPH": 1,
+      "Bodycote": 1
+    },
+    "energy": {
+      "Various Energy Providers": 1
+    },
+    "pipes": {
+      "Auras Technology": 1,
+      "Cooler Master": 1,
+      "Furukawa Electric": 1
+    },
+    "recovery": {
+      "Industrial Equipment Manufacturer": 1
+    },
+    "sink": {
+      "Aavid Thermalloy": 1
+    },
+    "treatment": {
+      "Ipsen": 1,
+      "Surface Combustion": 1,
+      "Lindberg": 1,
+      "MPH": 1,
+      "Bodycote": 1,
+      "Veolia Water Technologies": 1,
+      "Huntsman": 1,
+      "Hexion": 1,
+      "Olin": 1
+    },
+    "hepa": {
+      "Pall Corporation": 1,
+      "Donaldson": 1,
+      "Parker Hannifin": 1
+    },
+    "filters": {
+      "Pall Corporation": 1,
+      "Donaldson": 1,
+      "Parker Hannifin": 1
+    },
+    "hydrofluoric": {
+      "Honeywell": 1,
+      "Solvay": 1,
+      "Stella Chemifa": 1
+    },
+    "(hf)": {
+      "Honeywell": 1,
+      "Solvay": 1,
+      "Stella Chemifa": 1
+    },
+    "transformer": {
+      "TDK Corporation": 1,
+      "ABB": 2,
+      "Siemens": 1,
+      "Schneider Electric": 1,
+      "Shell": 1,
+      "ExxonMobil": 1
+    },
+    "drivers": {
+      "ABB": 1,
+      "Siemens": 1,
+      "Danfoss": 1
+    },
+    "homogenization": {
+      "Ipsen": 1,
+      "Surface Combustion": 1,
+      "Lindberg": 1,
+      "MPH": 1
+    },
+    "html": {
+      "W3C": 1,
+      "WHATWG": 1
+    },
+    "(hypertext": {
+      "W3C": 1,
+      "WHATWG": 1
+    },
+    "markup": {
+      "W3C": 1,
+      "WHATWG": 1
+    },
+    "language)": {
+      "W3C": 1,
+      "WHATWG": 1
+    },
+    "http": {
+      "IETF": 1,
+      "W3C": 1
+    },
+    "protocol": {
+      "IETF": 1,
+      "W3C": 1
+    },
+    "standards": {
+      "IETF": 2,
+      "W3C": 2,
+      "ISO": 1
+    },
+    "hugo": {
+      "Open Source Community": 1
+    },
+    "static": {
+      "Open Source Community": 1
+    },
+    "site": {
+      "Open Source Community": 1,
+      "Various Construction Companies": 1
+    },
+    "humidity": {
+      "TE Connectivity": 1,
+      "Honeywell": 1,
+      "Bosch": 1
+    },
+    "sensors": {
+      "TE Connectivity": 1,
+      "Honeywell": 1,
+      "Bosch": 1
+    },
+    "hvac": {
+      "Schneider Electric": 1
+    },
+    "large": {
+      "Komatsu": 1,
+      "Hitachi": 1
+    },
+    "hydrochloric": {
+      "Dow": 1,
+      "BASF": 1,
+      "Olin": 1
+    },
+    "flame": {
+      "Air Products": 1,
+      "Linde": 1,
+      "Praxair": 1
+    },
+    "(h₂)": {
+      "Air Products": 1,
+      "Linde": 1,
+      "Air Liquide": 1
+    },
+    "hydroprocessing": {
+      "BASF": 1,
+      "Johnson Matthey": 1,
+      "Clariant": 1
+    },
+    "icann": {
+      "ICANN": 1,
+      "Verisign": 1
+    },
+    "registry": {
+      "ICANN": 1,
+      "Verisign": 1,
+      "npm Inc": 1,
+      "GitHub": 1
+    },
+    "steam": {
+      "Babcock & Wilcox": 1,
+      "Cleaver-Brooks": 1,
+      "GEA": 1,
+      "Alfa Laval": 1,
+      "SPX Flow": 1,
+      "General Electric": 1,
+      "GE Power": 1,
+      "Siemens": 1
+    },
+    "boiler": {
+      "Babcock & Wilcox": 1,
+      "Cleaver-Brooks": 1
+    },
+    "robot": {
+      "FANUC Corporation": 1,
+      "ABB": 1,
+      "Fanuc": 1,
+      "Kuka": 1
+    },
+    "injection": {
+      "Makino Milling Machine": 1,
+      "Foxconn Technology": 1,
+      "Arburg": 2,
+      "Engel": 1,
+      "Haitian": 1
+    },
+    "mold": {
+      "Makino Milling Machine": 1,
+      "DME": 2,
+      "Hasco": 2,
+      "Meusburger": 2,
+      "Sandvik": 1,
+      "Kennametal": 1,
+      "Iscar": 1
+    },
+    "tool": {
+      "Makino Milling Machine": 1,
+      "Sandvik": 2,
+      "Kennametal": 2,
+      "Iscar": 2,
+      "Buhler": 1,
+      "Netzsch": 1,
+      "Retsch": 1,
+      "Synopsys Inc.": 1
+    },
+    "molded": {
+      "Foxconn Technology": 1
+    },
+    "inspection": {
+      "Microsoft": 1,
+      "Oracle": 1,
+      "SAP": 1,
+      "Flex Ltd.": 1,
+      "Cognex Corporation": 2,
+      "KLA": 2,
+      "Applied Materials": 2,
+      "Hitachi": 2,
+      "Olympus Corporation": 1,
+      "Koh Young Technology": 1,
+      "Nordson DAGE": 1
+    },
+    "quality": {
+      "Flex Ltd.": 1,
+      "Cognex Corporation": 1
+    },
+    "staff": {
+      "Flex Ltd.": 1
+    },
+    "instructor": {
+      "Various Employers": 1
+    },
+    "wages": {
+      "Various Employers": 1
+    },
+    "insulation": {
+      "Teradyne": 1,
+      "Advantest": 1,
+      "Keysight": 1,
+      "Owens Corning": 1,
+      "Rockwool": 1,
+      "Saint-Gobain": 1,
+      "Maillefer": 1,
+      "Prysmian": 1,
+      "Southwire": 1,
+      "General Cable": 1
+    },
+    "internet": {
+      "ISPs (Comcast, AT&T, Verizon, etc.)": 1
+    },
+    "connection": {
+      "ISPs (Comcast, AT&T, Verizon, etc.)": 1
+    },
+    "internship": {
+      "Various Engineering Firms": 1,
+      "Consulting Companies": 1,
+      "OEM Staff": 1
+    },
+    "programs": {
+      "Various Engineering Firms": 1,
+      "Consulting Companies": 1,
+      "OEM Staff": 1,
+      "Various Universities": 1,
+      "Cisco": 1,
+      "CompTIA": 1,
+      "Linux Foundation": 1,
+      "Universities": 1
+    },
+    "exchange": {
+      "Huntsman": 1,
+      "Hexion": 1,
+      "Olin": 1
+    },
+    "implanter": {
+      "Applied Materials": 1,
+      "Axcelis": 1
+    },
+    "iron": {
+      "Hunter": 1,
+      "Inductotherm": 1,
+      "ABP Induction": 1,
+      "Vale": 1,
+      "Rio Tinto": 1,
+      "Gema": 1,
+      "Wagner": 1,
+      "Nordson": 1
+    },
+    "coated": {
+      "Nitto Denko": 1
+    },
+    "javascript": {
+      "ECMA International": 1,
+      "Google": 1
+    },
+    "jtag": {
+      "SEGGER Microcontroller": 1
+    },
+    "debug": {
+      "SEGGER Microcontroller": 1
+    },
+    "kevlar": {
+      "DuPont": 1
+    },
+    "flex": {
+      "Nippon Mektron": 1
+    },
+    "keycaps": {
+      "Tai-Hao Enterprise": 1
+    },
+    "kiss": {
+      "Marbach Group": 1
+    },
+    "kraft": {
+      "International Paper": 1
+    },
+    "paper": {
+      "International Paper": 2,
+      "Panasonic": 1,
+      "Sappi Limited": 1
+    },
+    "label": {
+      "Avery Dennison": 1,
+      "CCL Industries": 1,
+      "Multi-Color Corporation": 1
+    },
+    "lamination": {
+      "Burkle": 1,
+      "Lauffer": 1,
+      "Kitagawa": 1
+    },
+    "landing": {
+      "Various Telecom Operators": 1
+    },
+    "lapping": {
+      "Mill-Max": 1,
+      "Harwin": 1,
+      "Samtec": 1
+    },
+    "drilled": {
+      "Coherent": 1
+    },
+    "welding": {
+      "TRUMPF": 1,
+      "Lincoln Electric": 2,
+      "Miller": 2,
+      "ESAB": 2
+    },
+    "lead": {
+      "Ipsen": 1,
+      "Surface Combustion": 1,
+      "Lindberg": 1,
+      "MPH": 1,
+      "Glencore": 2,
+      "Teck Resources": 1,
+      "Boliden": 1,
+      "Nyrstar": 1,
+      "Doe Run": 1,
+      "Korea Zinc": 1
+    },
+    "leakage": {
+      "Teradyne": 1,
+      "Advantest": 1,
+      "Keysight": 1
+    },
+    "lighting": {
+      "Nichia": 1,
+      "Lumileds": 1,
+      "Osram": 1
+    },
+    "libuv": {
+      "Node.js Contributors": 1
+    },
+    "async": {
+      "Node.js Contributors": 1
+    },
+    "library": {
+      "Node.js Contributors": 1,
+      "OpenSSL Project": 1
+    },
+    "guide": {
+      "Microsoft": 1,
+      "JetBrains": 1,
+      "Eclipse": 1
+    },
+    "plate": {
+      "Microsoft": 1,
+      "JetBrains": 1,
+      "Eclipse": 1,
+      "ArcelorMittal": 1,
+      "Nippon Steel": 1,
+      "ThyssenKrupp": 1
+    },
+    "limestone": {
+      "Vulcan Materials": 1,
+      "Martin Marietta": 1,
+      "HeidelbergCement": 1
+    },
+    "(caco₃)": {
+      "Vulcan Materials": 1,
+      "Martin Marietta": 1,
+      "HeidelbergCement": 1
+    },
+    "transmission": {
+      "Quanta Services": 1,
+      "MYR Group": 1,
+      "KEC International": 1,
+      "Valmont": 1,
+      "Utilities": 1
+    },
+    "construction": {
+      "Quanta Services": 1,
+      "MYR Group": 1
+    },
+    "linear": {
+      "Nidec Corporation": 1,
+      "THK": 1,
+      "IAI": 1,
+      "Festo": 1,
+      "Microsoft": 1,
+      "JetBrains": 1,
+      "Eclipse": 1
+    },
+    "actuator": {
+      "Nidec Corporation": 1,
+      "TDK Corporation": 1
+    },
+    "actuators": {
+      "THK": 1,
+      "IAI": 1,
+      "Festo": 1
+    },
+    "guides": {
+      "Microsoft": 1,
+      "JetBrains": 1,
+      "Eclipse": 1
+    },
+    "lineman": {
+      "Coursera": 1,
+      "Udemy": 1,
+      "LinkedIn Learning": 1
+    },
+    "linux": {
+      "Microsoft": 1,
+      "Red Hat": 1,
+      "Canonical": 1
+    },
+    "operating": {
+      "Microsoft": 2,
+      "Red Hat": 1,
+      "Canonical": 1,
+      "Oracle": 1,
+      "SAP": 1,
+      "Cisco IOS": 1,
+      "Junos": 1
+    },
+    "liquid": {
+      "CoolIT Systems": 1,
+      "Merck": 1
+    },
+    "lithium-ion": {
+      "CATL": 1,
+      "LG Energy": 1,
+      "Samsung SDI": 1
+    },
+    "carbonate": {
+      "SQM": 1,
+      "Albemarle": 1,
+      "Ganfeng": 1
+    },
+    "(li₂co₃)": {
+      "SQM": 1,
+      "Albemarle": 1,
+      "Ganfeng": 1
+    },
+    "load": {
+      "F5 Networks": 1,
+      "Multiple Vendors": 1
+    },
+    "balancer": {
+      "F5 Networks": 1,
+      "Multiple Vendors": 1
+    },
+    "logic": {
+      "Foxconn": 1,
+      "Pegatron": 1,
+      "Quanta": 1
+    },
+    "(motherboard)": {
+      "Foxconn": 1,
+      "Pegatron": 1,
+      "Quanta": 1
+    },
+    "longwall": {
+      "Komatsu Mining": 1,
+      "Joy Global": 1
+    },
+    "vision": {
+      "Cognex Corporation": 2,
+      "Cognex": 1,
+      "Keyence": 1,
+      "Omron": 1
+    },
+    "machinist": {
+      "Haas Factory Outlet": 1
+    },
+    "macos": {
+      "Apple": 1
+    },
+    "magnesium": {
+      "US Magnesium": 1,
+      "Dead Sea Magnesium": 1,
+      "Ma Steel": 1
+    },
+    "magnet": {
+      "Prysmian": 1,
+      "Southwire": 1,
+      "General Cable": 1,
+      "Fluke": 1,
+      "Keysight": 1,
+      "Tektronix": 1,
+      "Hitachi Metals": 1
+    },
+    "magnetite": {
+      "BASF": 1,
+      "Johnson Matthey": 1,
+      "Clariant": 1
+    },
+    "magnetometer": {
+      "Asahi Kasei Microdevices": 1
+    },
+    "magsafe": {
+      "Apple": 1
+    },
+    "workforce": {
+      "Pegatron Corporation": 1
+    },
+    "overhead": {
+      "Foxconn Technology": 1
+    },
+    "marine": {
+      "Alcatel Submarine Networks": 1
+    },
+    "survey": {
+      "Alcatel Submarine Networks": 1
+    },
+    "mask": {
+      "KLA": 1,
+      "Applied Materials": 1,
+      "Hitachi": 1,
+      "Taiyo": 2,
+      "Uyemura": 2,
+      "Electra Polymers": 2
+    },
+    "stage": {
+      "Taiyo": 1,
+      "Uyemura": 1,
+      "Electra Polymers": 1
+    },
+    "mass": {
+      "Siemens": 1,
+      "Allen-Bradley": 1,
+      "Emerson": 1,
+      "Fluke": 1,
+      "Keysight": 1,
+      "Tektronix": 1
+    },
+    "controllers": {
+      "Siemens": 1,
+      "Allen-Bradley": 1,
+      "Emerson": 1,
+      "Texas Instruments": 1,
+      "Analog Devices": 1,
+      "NXP": 1
+    },
+    "spectrometer": {
+      "Fluke": 2,
+      "Keysight": 2,
+      "Tektronix": 2
+    },
+    "precision": {
+      "Mitutoyo": 1,
+      "Foxconn": 1,
+      "Makino": 1,
+      "DMG Mori": 1,
+      "DME": 1,
+      "Hasco": 1,
+      "Meusburger": 1,
+      "Grundfos": 1,
+      "Xylem": 1,
+      "ITT": 1,
+      "Mill-Max": 1,
+      "Harwin": 1,
+      "Samtec": 1,
+      "Allegheny Technologies": 1
+    },
+    "measurement": {
+      "Mitutoyo": 1,
+      "Coursera": 1,
+      "Udemy": 1,
+      "LinkedIn Learning": 1,
+      "Fischer": 1,
+      "Elcometer": 1,
+      "DeFelsko": 1
+    },
+    "measuring": {
+      "Zeiss": 1,
+      "Mitutoyo": 1,
+      "Hexagon": 1
+    },
+    "scales": {
+      "Zeiss": 1,
+      "Mitutoyo": 1,
+      "Hexagon": 1
+    },
+    "mesh": {
+      "Daifuku": 1,
+      "Dematic": 1,
+      "Intelligrated": 1
+    },
+    "brackets": {
+      "Foxconn": 1,
+      "Jabil": 1,
+      "Flex": 1
+    },
+    "hinges": {
+      "KH Vatec": 1,
+      "Shin Zu Shing": 1,
+      "Jarllytec": 1
+    },
+    "interconnect": {
+      "Material Suppliers": 1
+    },
+    "layers": {
+      "Material Suppliers": 1
+    },
+    "shell": {
+      "Materials Producer": 1
+    },
+    "metallurgical": {
+      "Materials Producer": 1
+    },
+    "coke": {
+      "Materials Producer": 1
+    },
+    "metrology": {
+      "KLA": 1,
+      "Onto Innovation": 1,
+      "Bruker": 1,
+      "Microsoft": 1,
+      "Oracle": 1,
+      "SAP": 1
+    },
+    "micro-coaxial": {
+      "I-PEX Inc.": 1
+    },
+    "micro": {
+      "Makita": 1,
+      "DeWalt": 1,
+      "Bosch": 1
+    },
+    "microcontroller": {
+      "Siemens": 1,
+      "Allen-Bradley": 1,
+      "Emerson": 1
+    },
+    "microled": {
+      "Nichia": 1,
+      "Lumileds": 1,
+      "Osram": 1,
+      "Apple": 1
+    },
+    "microphone": {
+      "Knowles": 1,
+      "AAC Technologies": 1,
+      "Goertek": 1
+    },
+    "microscope": {
+      "Olympus Corporation": 1,
+      "Olympus": 1,
+      "Zeiss": 1,
+      "Nikon": 1
+    },
+    "microstructure": {
+      "Sandvik": 1,
+      "Kennametal": 1,
+      "Iscar": 1
+    },
+    "tooling": {
+      "Sandvik": 2,
+      "Kennametal": 2,
+      "Iscar": 2
+    },
+    "capacitors": {
+      "Murata": 1,
+      "Samsung Electro-Mechanics": 1,
+      "TDK": 1,
+      "Murata Manufacturing": 1,
+      "Dow": 1,
+      "BASF": 1,
+      "DuPont": 1
+    },
+    "mineral": {
+      "GEA": 1,
+      "Alfa Laval": 1,
+      "SPX Flow": 1
+    },
+    "mini-led": {
+      "Epistar": 1
+    },
+    "mini": {
+      "Nichia": 1,
+      "Lumileds": 1,
+      "Osram": 1
+    },
+    "chips": {
+      "Nichia": 2,
+      "Lumileds": 2,
+      "Osram": 2
+    },
+    "machinery": {
+      "Caterpillar": 1,
+      "Komatsu": 1
+    },
+    "support": {
+      "Various Mining Services": 1
+    },
+    "mixed": {
+      "GEA": 1,
+      "Alfa Laval": 1,
+      "SPX Flow": 1
+    },
+    "signal": {
+      "GEA": 1,
+      "Alfa Laval": 1,
+      "SPX Flow": 1,
+      "Caterpillar": 1,
+      "Cummins": 1,
+      "Kohler": 1,
+      "Keysight Technologies": 1
+    },
+    "mlcc": {
+      "Murata Manufacturing": 1
+    },
+    "mirrors": {
+      "Edmund Optics": 1,
+      "Thorlabs": 1,
+      "Newport": 1
+    },
+    "release": {
+      "DME": 1,
+      "Hasco": 1,
+      "Meusburger": 1,
+      "Loparex LLC": 1
+    },
+    "monitoring": {
+      "Multiple Vendors": 1,
+      "Datadog": 1,
+      "Splunk": 1
+    },
+    "mosfet": {
+      "Cisco": 1,
+      "Arista": 1,
+      "Juniper": 1
+    },
+    "motion": {
+      "Siemens": 1,
+      "Allen-Bradley": 1,
+      "Emerson": 1
+    },
+    "permanent": {
+      "Hitachi Metals": 1
+    },
+    "magnets": {
+      "Hitachi Metals": 1
+    },
+    "multilayer": {
+      "TTM Technologies": 1
+    },
+    "nand": {
+      "Samsung Electronics": 1,
+      "Kioxia": 1
+    },
+    "neodymium": {
+      "Hitachi Metals": 1,
+      "Microsoft": 1,
+      "JetBrains": 1,
+      "Eclipse": 1
+    },
+    "vector": {
+      "Keysight Technologies": 1
+    },
+    "analyzer": {
+      "Keysight Technologies": 1
+    },
+    "interface": {
+      "Intel": 1,
+      "Broadcom": 1,
+      "Mellanox Technologies": 1,
+      "Shin-Etsu": 1
+    },
+    "card": {
+      "Intel": 2,
+      "Broadcom": 2,
+      "Mellanox Technologies": 1,
+      "Shin-Etsu": 1,
+      "Sumco": 1,
+      "GlobalWafers": 1,
+      "Qualcomm": 1
+    },
+    "diagnostic": {
+      "Fluke": 1,
+      "NetScout": 1
+    },
+    "transceiver": {
+      "II-VI Incorporated": 1,
+      "Finisar": 2,
+      "Lumentum": 1
+    },
+    "networking": {
+      "Multiple Vendors": 1,
+      "Cisco": 1,
+      "GNS3": 1,
+      "EVE-NG": 1
+    },
+    "setup": {
+      "Cisco": 1,
+      "GNS3": 1,
+      "EVE-NG": 1
+    },
+    "nginx": {
+      "Infrastructure Provider": 1
+    },
+    "servers": {
+      "Infrastructure Provider": 1,
+      "Dell Technologies": 1
+    },
+    "hydroxide": {
+      "Yara": 1,
+      "CF Industries": 1,
+      "Nutrien": 1
+    },
+    "(nh₄oh)": {
+      "Yara": 1,
+      "CF Industries": 1,
+      "Nutrien": 1
+    },
+    "nickel": {
+      "BASF": 1,
+      "Johnson Matthey": 1,
+      "Clariant": 1,
+      "Vale": 3,
+      "Norilsk Nickel": 1,
+      "Glencore": 3,
+      "Nornickel": 2
+    },
+    "paste": {
+      "Vale": 1,
+      "Nornickel": 1,
+      "Glencore": 1,
+      "Taiyo": 1,
+      "Uyemura": 1,
+      "Electra Polymers": 1,
+      "Senju Metal Industry": 1,
+      "Shin-Etsu": 1
+    },
+    "nitric": {
+      "Yara": 1,
+      "CF Industries": 1,
+      "Orica": 1
+    },
+    "(hno₃)": {
+      "Yara": 1,
+      "CF Industries": 1,
+      "Orica": 1
+    },
+    "nitrogen": {
+      "Air Products": 2,
+      "Linde": 2,
+      "Air Liquide": 2
+    },
+    "(n₂)": {
+      "Air Products": 1,
+      "Linde": 1,
+      "Air Liquide": 1
+    },
+    "node.js": {
+      "OpenJS Foundation": 2
+    },
+    "runtime": {
+      "OpenJS Foundation": 2
+    },
+    "novolac": {
+      "Huntsman": 1,
+      "Hexion": 1,
+      "Olin": 1
+    },
+    "dependencies": {
+      "npm, Inc. (GitHub": 1,
+      "Microsoft)": 1
+    },
+    "nvidia": {
+      "NVIDIA": 2
+    },
+    "gpus": {
+      "NVIDIA": 1
+    },
+    "nvme": {
+      "Samsung Electronics": 1
+    },
+    "nylon": {
+      "BASF": 2,
+      "DuPont": 2,
+      "Ube Industries": 2
+    },
+    "braiding": {
+      "BASF": 1,
+      "DuPont": 1,
+      "Ube Industries": 1
+    },
+    "offshore": {
+      "McDermott": 1,
+      "Technip": 1
+    },
+    "platform": {
+      "McDermott": 1,
+      "Technip": 1
+    },
+    "oled": {
+      "Universal Display Corporation": 1
+    },
+    "organic": {
+      "Universal Display Corporation": 1,
+      "ExxonMobil": 1,
+      "Shell": 1,
+      "Dow": 1,
+      "Ibiden": 1,
+      "Unimicron": 1,
+      "AT&S": 1
+    },
+    "online": {
+      "Coursera": 1,
+      "edX": 1,
+      "Udacity": 1,
+      "YouTube": 1,
+      "Khan Academy": 1
+    },
+    "platforms": {
+      "Coursera": 1,
+      "edX": 1,
+      "Udacity": 1
+    },
+    "learning": {
+      "YouTube": 1,
+      "Khan Academy": 1
+    },
+    "open": {
+      "Various Employers": 1,
+      "Microsoft": 1,
+      "Oracle": 1,
+      "SAP": 1,
+      "GitHub": 1,
+      "GitLab": 1
+    },
+    "contributors": {
+      "Various Employers": 1
+    },
+    "communities": {
+      "GitHub": 1,
+      "GitLab": 1
+    },
+    "openssl": {
+      "OpenSSL Project": 1
+    },
+    "optical": {
+      "PPG Industries": 1,
+      "Sherwin-Williams": 1,
+      "AkzoNobel": 1,
+      "Edmund Optics": 2,
+      "Thorlabs": 2,
+      "Newport": 2,
+      "Nextrom": 1,
+      "Corning": 1,
+      "3M": 1,
+      "Koh Young Technology": 1,
+      "Finisar": 1,
+      "Lumentum": 1
+    },
+    "coatings": {
+      "PPG Industries": 1,
+      "Sherwin-Williams": 1,
+      "AkzoNobel": 1
+    },
+    "ellipsometry": {
+      "Edmund Optics": 1,
+      "Thorlabs": 1,
+      "Newport": 1
+    },
+    "enhancement": {
+      "3M": 1,
+      "Nanosys": 1
+    },
+    "films": {
+      "3M": 1
+    },
+    "oscilloscope": {
+      "Keysight": 1,
+      "Tektronix": 1,
+      "Rohde & Schwarz": 1
+    },
+    "otdr": {
+      "EXFO": 1
+    },
+    "oxidation": {
+      "Tokyo Electron": 1,
+      "Kokusai Electric": 1
+    },
+    "oxygen": {
+      "Air Products": 2,
+      "Linde": 2,
+      "Air Liquide": 2,
+      "BASF": 1,
+      "Johnson Matthey": 1,
+      "Clariant": 1
+    },
+    "delivery": {
+      "Air Products": 1,
+      "Linde": 1,
+      "Air Liquide": 1
+    },
+    "(o₂)": {
+      "Air Products": 1,
+      "Linde": 1,
+      "Air Liquide": 1
+    },
+    "removal": {
+      "BASF": 1,
+      "Johnson Matthey": 1,
+      "Clariant": 1
+    },
+    "packed": {
+      "SPX": 1,
+      "Baltimore Aircoil": 1,
+      "Evapco": 1
+    },
+    "palladium": {
+      "Materials Producer": 1
+    },
+    "cone": {
+      "Panasonic": 1
+    },
+    "silicone": {
+      "Loparex LLC": 1,
+      "Dow Silicones": 1,
+      "Shin-Etsu Chemical": 1
+    },
+    "liner": {
+      "Loparex LLC": 1
+    },
+    "pulp": {
+      "International Paper": 1,
+      "Suzano": 1,
+      "Fibria": 1,
+      "ARAUCO": 1
+    },
+    "pass": {
+      "International Paper": 1,
+      "WestRock": 1,
+      "Smurfit Kappa": 1
+    },
+    "passivation": {
+      "Electrochemical Products Inc.": 1
+    },
+    "patch": {
+      "Panduit": 1
+    },
+    "payment": {
+      "Stripe": 1,
+      "Square": 1
+    },
+    "conveyors": {
+      "TTM Technologies": 1,
+      "Unimicron": 1,
+      "Ibiden": 1
+    },
+    "mounting": {
+      "TTM Technologies": 1,
+      "Unimicron": 1,
+      "Ibiden": 1
+    },
+    "fr-4": {
+      "Isola Group": 1
+    },
+    "pentlandite": {
+      "Norilsk Nickel": 1,
+      "Vale": 1
+    },
+    "(nickel": {
+      "Norilsk Nickel": 1,
+      "Vale": 1
+    },
+    "perlite": {
+      "Owens Corning": 1,
+      "Rockwool": 1,
+      "Saint-Gobain": 1
+    },
+    "pgmea": {
+      "ExxonMobil": 1,
+      "Shell": 1,
+      "Dow": 1
+    },
+    "phase": {
+      "BASF": 1,
+      "Johnson Matthey": 1,
+      "Clariant": 1
+    },
+    "transfer": {
+      "BASF": 1,
+      "Johnson Matthey": 1,
+      "Clariant": 1,
+      "ABB": 1,
+      "Fanuc": 1,
+      "Kuka": 1
+    },
+    "phenolic": {
+      "Huntsman": 1,
+      "Hexion": 1,
+      "Olin": 1
+    },
+    "phosphate": {
+      "OCP Group": 2,
+      "Mosaic": 2,
+      "Nutrien": 1,
+      "PhosAgro": 1
+    },
+    "rock": {
+      "OCP Group": 2,
+      "Mosaic": 2,
+      "Nutrien": 1,
+      "PhosAgro": 1
+    },
+    "phosphor": {
+      "Materion Corporation": 1
+    },
+    "bronze": {
+      "Materion Corporation": 1
+    },
+    "phosphoric": {
+      "Mosaic": 1,
+      "OCP": 1,
+      "PhosAgro": 1
+    },
+    "(h₃po₄)": {
+      "Mosaic": 1,
+      "OCP": 1,
+      "PhosAgro": 1
+    },
+    "phosphorus": {
+      "Air Products": 1,
+      "Voltaix": 1
+    },
+    "photodiode": {
+      "Vishay": 1,
+      "ON Semiconductor": 1,
+      "Rohm": 1
+    },
+    "photomask": {
+      "Photronics": 1,
+      "Toppan": 1,
+      "DNP": 1
+    },
+    "chemicals": {
+      "JSR": 1,
+      "Tokyo Ohka Kogyo": 1,
+      "DuPont": 1
+    },
+    "pick": {
+      "Fuji": 2,
+      "Yamaha": 2,
+      "Juki": 2
+    },
+    "place": {
+      "Fuji": 2,
+      "Yamaha": 2,
+      "Juki": 2
+    },
+    "planetary": {
+      "Charles Ross & Son": 1
+    },
+    "mixer": {
+      "Charles Ross & Son": 1
+    },
+    "plasma": {
+      "Lam Research": 1,
+      "Tokyo Electron": 1,
+      "Applied Materials": 1,
+      "Hypertherm": 1,
+      "ESAB": 1,
+      "Kjellberg": 1
+    },
+    "etching": {
+      "Lam Research": 1,
+      "Tokyo Electron": 1,
+      "Applied Materials": 1
+    },
+    "plastic": {
+      "Foxconn": 1,
+      "Delta Electronics": 1,
+      "Pactiv Evergreen": 1,
+      "SABIC": 1,
+      "LG Chem": 1,
+      "Formosa Plastics": 1
+    },
+    "frame": {
+      "Foxconn": 1,
+      "Schuler": 1,
+      "Aida": 1,
+      "Komatsu": 1,
+      "ArcelorMittal": 1,
+      "Nippon Steel": 1,
+      "POSCO": 1
+    },
+    "tanks": {
+      "SABIC": 1,
+      "LG Chem": 1,
+      "Formosa Plastics": 1
+    },
+    "exchanger": {
+      "ArcelorMittal": 1,
+      "Nippon Steel": 1,
+      "ThyssenKrupp": 1
+    },
+    "platinum": {
+      "BASF": 1,
+      "Johnson Matthey": 1,
+      "Clariant": 1
+    },
+    "pogo": {
+      "Mill-Max": 1,
+      "Harwin": 1,
+      "Samtec": 1
+    },
+    "polarizer": {
+      "Nitto Denko": 1
+    },
+    "additives": {
+      "Buehler": 1,
+      "Struers": 1,
+      "Lapmaster Wolters": 1,
+      "Dow": 1,
+      "BASF": 1,
+      "DuPont": 1,
+      "Shin-Etsu": 1,
+      "Formosa Plastics": 1,
+      "Westlake Chemical": 1
+    },
+    "wheels": {
+      "Buehler": 1,
+      "Struers": 1,
+      "Lapmaster Wolters": 1
+    },
+    "polycarbonate": {
+      "Covestro": 2,
+      "SABIC": 2,
+      "Mitsubishi Engineering-Plastics": 2
+    },
+    "polyester": {
+      "Toray Industries": 1
+    },
+    "polyethylene": {
+      "Dow Chemical": 1
+    },
+    "polyimide": {
+      "DuPont": 1,
+      "Ube Industries": 1,
+      "Kaneka": 1
+    },
+    "polymerization": {
+      "Dow": 2,
+      "BASF": 2,
+      "DuPont": 2
+    },
+    "initiator": {
+      "Dow": 1,
+      "BASF": 1,
+      "DuPont": 1
+    },
+    "polypropylene": {
+      "LyondellBasell": 3,
+      "SABIC": 2,
+      "ExxonMobil": 2
+    },
+    "polyurethane": {
+      "BASF SE": 1,
+      "BASF": 1
+    },
+    "usb-c": {
+      "Flextronics": 1,
+      "Foxconn Interconnect Technology": 1,
+      "JAE Electronics": 1,
+      "JAE": 1,
+      "Amphenol": 2,
+      "Molex": 1,
+      "Luxshare": 1,
+      "Foxconn": 1
+    },
+    "inductors": {
+      "Murata": 1,
+      "TDK": 2,
+      "Taiyo Yuden": 1
+    },
+    "transistors": {
+      "Infineon": 1,
+      "ON Semiconductor": 1,
+      "Toshiba": 1
+    },
+    "pump": {
+      "Grundfos": 4,
+      "Xylem": 4,
+      "ITT": 4,
+      "Edwards Vacuum": 1
+    },
+    "spindle": {
+      "Mill-Max": 2,
+      "Harwin": 2,
+      "Samtec": 2,
+      "ABB": 1,
+      "Siemens": 1,
+      "WEG": 1
+    },
+    "brake": {
+      "Schuler": 1,
+      "Aida": 1,
+      "Komatsu": 1
+    },
+    "pressure": {
+      "Honeywell": 2,
+      "TE Connectivity": 2,
+      "Sensata": 2
+    },
+    "leach": {
+      "Honeywell": 1,
+      "TE Connectivity": 1,
+      "Sensata": 1
+    },
+    "swing": {
+      "Honeywell": 1,
+      "TE Connectivity": 1,
+      "Sensata": 1
+    },
+    "adsorption": {
+      "Honeywell": 1,
+      "TE Connectivity": 1,
+      "Sensata": 1
+    },
+    "manual": {
+      "Apple": 1
+    },
+    "utilities": {
+      "GEA": 1,
+      "Alfa Laval": 1,
+      "SPX Flow": 1
+    },
+    "product": {
+      "Avery Dennison": 2,
+      "CCL Industries": 2,
+      "Multi-Color Corporation": 1,
+      "UPM Raflatac": 1
+    },
+    "labels": {
+      "Avery Dennison": 2,
+      "CCL Industries": 2,
+      "Multi-Color Corporation": 1,
+      "UPM Raflatac": 1
+    },
+    "professional": {
+      "Cisco": 1,
+      "Juniper": 1,
+      "AWS": 1
+    },
+    "certifications": {
+      "Cisco": 1,
+      "Juniper": 1,
+      "AWS": 1
+    },
+    "programmable": {
+      "Keithley Instruments": 1
+    },
+    "suite": {
+      "BPM Microsystems": 1
+    },
+    "ecosystem": {
+      "Various": 1
+    },
+    "socket": {
+      "Enplas Corporation": 1
+    },
+    "propylene": {
+      "Air Products": 1,
+      "Linde": 1,
+      "Air Liquide": 1
+    },
+    "protective": {
+      "PPG Industries": 1,
+      "Sherwin-Williams": 1,
+      "AkzoNobel": 1
+    },
+    "proximity": {
+      "TE Connectivity": 1,
+      "Honeywell": 1,
+      "Bosch": 1
+    },
+    "ptfe": {
+      "Chemours Company": 1
+    },
+    "purified": {
+      "Wacker Chemie": 1,
+      "Hemlock Semiconductor": 1
+    },
+    "silicon": {
+      "Wacker Chemie": 1,
+      "Hemlock Semiconductor": 1,
+      "Shin-Etsu": 2,
+      "Sumco": 2,
+      "GlobalWafers": 1,
+      "Ferroglobe": 1,
+      "Elkem": 1,
+      "Seiko Epson": 1,
+      "TXC Corporation": 1,
+      "Abracon": 1
+    },
+    "piping": {
+      "Shin-Etsu": 1,
+      "Formosa Plastics": 1,
+      "Westlake Chemical": 1
+    },
+    "pyrometallurgical": {
+      "Chemical Processing Company": 1
+    },
+    "python": {
+      "Python Software Foundation": 1
+    },
+    "pytorch": {
+      "Meta (Facebook)": 1
+    },
+    "framework": {
+      "Meta (Facebook)": 1
+    },
+    "quantum": {
+      "Nanosys": 1
+    },
+    "blank": {
+      "Seiko Epson": 1,
+      "TXC Corporation": 1,
+      "Abracon": 1
+    },
+    "quartzite": {
+      "Empire Abrasive": 1,
+      "Wheelabrator": 1,
+      "Clemco": 1
+    },
+    "sand": {
+      "Empire Abrasive": 3,
+      "Wheelabrator": 3,
+      "Clemco": 3,
+      "Pall Corporation": 1,
+      "Donaldson": 1,
+      "Parker Hannifin": 1,
+      "US Silica": 1,
+      "Sibelco": 1,
+      "Quarzwerke": 1
+    },
+    "quenching": {
+      "Ipsen": 1,
+      "AFC-Holcroft": 1,
+      "ALD": 1
+    },
+    "raid": {
+      "Broadcom": 1
+    },
+    "rare": {
+      "China Northern": 1,
+      "Lynas": 1,
+      "MP Materials": 1
+    },
+    "elements": {
+      "China Northern": 1,
+      "Lynas": 1,
+      "MP Materials": 1
+    },
+    "(generic)": {
+      "Various Suppliers": 1
+    },
+    "reduction": {
+      "Ipsen": 1,
+      "Surface Combustion": 1,
+      "Lindberg": 1,
+      "MPH": 1,
+      "Lindab": 1,
+      "Sheet Metal Connectors": 1,
+      "Spiral Manufacturing": 1
+    },
+    "reflector": {
+      "ArcelorMittal": 1,
+      "Nippon Steel": 1,
+      "POSCO": 1
+    },
+    "reflow": {
+      "BTU International": 1,
+      "Heller Industries": 1
+    },
+    "reformer": {
+      "Ipsen": 1,
+      "Surface Combustion": 1,
+      "Lindberg": 1,
+      "MPH": 1
+    },
+    "research": {
+      "Orbotech": 1,
+      "Schmid": 1,
+      "Chemcut": 1
+    },
+    "reverberatory": {
+      "Ipsen": 1,
+      "Surface Combustion": 1,
+      "Lindberg": 1,
+      "MPH": 1
+    },
+    "passive": {
+      "Murata Manufacturing": 1
+    },
+    "shield": {
+      "Laird Connectivity": 2,
+      "Leader Tech": 1
+    },
+    "tuner": {
+      "MaxLinear": 1
+    },
+    "color": {
+      "Toppan Printing": 1
+    },
+    "array": {
+      "Toppan Printing": 1,
+      "NetApp": 1
+    },
+    "robotic": {
+      "ABB": 1,
+      "Fanuc": 1,
+      "Kuka": 1
+    },
+    "rolled": {
+      "Freeport-McMoRan": 1,
+      "BHP": 1,
+      "Glencore": 1
+    },
+    "pillar": {
+      "Clean Air Technology": 1,
+      "Terra Universal": 1,
+      "Mecart": 1
+    },
+    "rotary": {
+      "RotoMetrics": 1,
+      "Metallurgical Equipment Supplier": 1
+    },
+    "kiln": {
+      "Metallurgical Equipment Supplier": 1
+    },
+    "real-time": {
+      "Maxim Integrated": 1
+    },
+    "clock": {
+      "Maxim Integrated": 1
+    },
+    "feet": {
+      "3M": 1,
+      "Nitto Denko": 1,
+      "Bumper Specialties": 1
+    },
+    "toughening": {
+      "Kaneka Corporation": 1
+    },
+    "modifier": {
+      "Kaneka Corporation": 1
+    },
+    "surround": {
+      "Parts Express": 1
+    },
+    "ruby": {
+      "Ruby Core Team": 1,
+      "Basecamp (37signals)": 1
+    },
+    "rails": {
+      "Basecamp (37signals)": 1
+    },
+    "rutile": {
+      "Iluka Resources": 1,
+      "Rio Tinto": 1
+    },
+    "(titanium": {
+      "Iluka Resources": 1,
+      "Rio Tinto": 1
+    },
+    "dioxide)": {
+      "Iluka Resources": 1,
+      "Rio Tinto": 1
+    },
+    "certification": {
+      "PMI": 1,
+      "ASQ": 1,
+      "ISA": 1
+    },
+    "salt": {
+      "Compass Minerals": 1,
+      "K+S": 1,
+      "Cargill": 1
+    },
+    "(sodium": {
+      "Compass Minerals": 1,
+      "K+S": 1,
+      "Cargill": 1
+    },
+    "chloride)": {
+      "Compass Minerals": 1,
+      "K+S": 1,
+      "Cargill": 1
+    },
+    "washing": {
+      "Empire Abrasive": 1,
+      "Wheelabrator": 1,
+      "Clemco": 1,
+      "McLanahan": 1,
+      "CDE Global": 1,
+      "Industrial Equipment Manufacturer": 1
+    },
+    "scanning": {
+      "Olympus": 1,
+      "Zeiss": 1,
+      "Nikon": 1
+    },
+    "screening": {
+      "Haver & Boecker": 1
+    },
+    "secure": {
+      "Apple": 1
+    },
+    "enclave": {
+      "Apple": 1
+    },
+    "processor": {
+      "Apple": 1
+    },
+    "security": {
+      "Anthropic": 1,
+      "Splunk": 1,
+      "CrowdStrike": 1
+    },
+    "(fab": {
+      "TSMC": 1,
+      "Samsung": 1,
+      "Intel": 1
+    },
+    "workers)": {
+      "TSMC": 1,
+      "Samsung": 1,
+      "Intel": 1
+    },
+    "motherboard": {
+      "Supermicro": 1
+    },
+    "integrity": {
+      "Keysight Technologies": 1
+    },
+    "preform": {
+      "Corning Incorporated": 1
+    },
+    "single": {
+      "Shin-Etsu": 1,
+      "Sumco": 1,
+      "GlobalWafers": 1
+    },
+    "seed": {
+      "Seiko Epson": 1,
+      "TXC Corporation": 1,
+      "Abracon": 1
+    },
+    "wafer": {
+      "Shin-Etsu": 6,
+      "Sumco": 6,
+      "GlobalWafers": 5,
+      "KLA": 1,
+      "Applied Materials": 1,
+      "Hitachi": 1,
+      "ABB": 1,
+      "Fanuc": 1,
+      "Kuka": 1
+    },
+    "elastomer": {
+      "Dow Silicones": 1,
+      "Kraton Polymers": 1
+    },
+    "silicone-coated": {
+      "Sappi Limited": 1
+    },
+    "silver": {
+      "Fresnillo": 1,
+      "KGHM": 1,
+      "Pan American Silver": 1,
+      "Coeur Mining": 1,
+      "Sigma-Aldrich": 1,
+      "American Elements": 1,
+      "Alfa Aesar": 1,
+      "Ames Goldsmith": 1
+    },
+    "sintering": {
+      "Ipsen": 1,
+      "Surface Combustion": 1,
+      "Lindberg": 1,
+      "MPH": 1,
+      "Cremer": 1,
+      "Abbott": 1,
+      "CM Furnaces": 1
+    },
+    "work": {
+      "Various Construction Companies": 1
+    },
+    "skilled": {
+      "Nichia": 1,
+      "Lumileds": 1,
+      "Osram": 1
+    },
+    "slot-die": {
+      "Hirano Tecseed": 1
+    },
+    "filtration": {
+      "Pall": 1,
+      "Parker": 1,
+      "Donaldson": 1
+    },
+    "resistors": {
+      "Yageo": 2,
+      "Vishay": 1,
+      "KOA Speer": 1
+    },
+    "placement": {
+      "ASM Pacific Technology": 1,
+      "Celestica Inc.": 1
+    },
+    "component": {
+      "Celestica Inc.": 1,
+      "Jabil": 1
+    },
+    "developers": {
+      "Microsoft": 1,
+      "Oracle": 1,
+      "SAP": 1
+    },
+    "licensing": {
+      "Microsoft Corporation": 1
+    },
+    "solar": {
+      "GEA": 1,
+      "Alfa Laval": 1,
+      "SPX Flow": 1
+    },
+    "evaporation": {
+      "GEA": 1,
+      "Alfa Laval": 1,
+      "SPX Flow": 1
+    },
+    "flux": {
+      "Taiyo": 1,
+      "Uyemura": 1,
+      "Electra Polymers": 1
+    },
+    "printer": {
+      "Taiyo": 1,
+      "Uyemura": 1,
+      "Electra Polymers": 1
+    },
+    "terminals": {
+      "TE Connectivity": 1
+    },
+    "soldering": {
+      "Heller Industries": 1
+    },
+    "reclamation": {
+      "Sulzer Chemtech": 1
+    },
+    "spark": {
+      "Teradyne": 1,
+      "Advantest": 1,
+      "Keysight": 1
+    },
+    "speakers": {
+      "AAC Technologies": 1,
+      "GoerTek": 1,
+      "Knowles": 1
+    },
+    "(laptop": {
+      "AAC Technologies": 1,
+      "GoerTek": 1,
+      "Knowles": 1
+    },
+    "audio)": {
+      "AAC Technologies": 1,
+      "GoerTek": 1,
+      "Knowles": 1
+    },
+    "motors": {
+      "ABB": 1,
+      "Siemens": 1,
+      "WEG": 1
+    },
+    "spray": {
+      "Graco": 1,
+      "Wagner": 1,
+      "Kremlin Rexson": 1
+    },
+    "dryer": {
+      "Graco": 1,
+      "Wagner": 1,
+      "Kremlin Rexson": 1
+    },
+    "spring": {
+      "Lesjöfors": 1,
+      "Lee Spring": 1,
+      "Associated Spring": 1
+    },
+    "sputter": {
+      "Applied Materials": 1
+    },
+    "drive": {
+      "Samsung": 2,
+      "Western Digital": 2,
+      "SK Hynix": 1
+    },
+    "certificate": {
+      "DigiCert": 1
+    },
+    "ssl/tls": {
+      "OpenSSL": 1,
+      "Mozilla": 1
+    },
+    "cryptographic": {
+      "OpenSSL": 1,
+      "Mozilla": 1
+    },
+    "stainless": {
+      "ArcelorMittal": 3,
+      "Nippon Steel": 3,
+      "POSCO": 3,
+      "Toyo Seikan": 1,
+      "Aperam": 1,
+      "Laird Connectivity": 1,
+      "Allegheny Technologies": 1,
+      "Sandvik Materials Technology": 1
+    },
+    "body": {
+      "ArcelorMittal": 1,
+      "Nippon Steel": 1,
+      "POSCO": 1
+    },
+    "stamping": {
+      "Mill-Max": 1,
+      "Harwin": 1,
+      "Samtec": 1,
+      "Schuler": 1
+    },
+    "organizations": {
+      "IETF": 1,
+      "W3C": 1,
+      "ISO": 1
+    },
+    "starch-based": {
+      "Cargill Inc.": 1
+    },
+    "specialty": {
+      "ArcelorMittal": 1,
+      "Nucor": 1
+    },
+    "alloys": {
+      "ArcelorMittal": 1,
+      "Nucor": 1
+    },
+    "structural": {
+      "Nucor": 1,
+      "AISC Members": 1,
+      "Henkel": 1,
+      "3M": 1,
+      "Dow": 1
+    },
+    "fabrication": {
+      "Nucor": 1,
+      "AISC Members": 1
+    },
+    "shaft": {
+      "ArcelorMittal": 1,
+      "Nippon Steel": 1,
+      "POSCO": 1
+    },
+    "structures": {
+      "KEC International": 1,
+      "Valmont": 1
+    },
+    "vessel": {
+      "ArcelorMittal": 1,
+      "Nippon Steel": 1,
+      "POSCO": 1
+    },
+    "stickers": {
+      "Avery Dennison": 1,
+      "UPM Raflatac": 1,
+      "CCL Industries": 1
+    },
+    "strain": {
+      "Vishay Precision Group": 1
+    },
+    "gauge": {
+      "Vishay Precision Group": 1,
+      "Fischer": 1,
+      "Elcometer": 1,
+      "DeFelsko": 1
+    },
+    "(surface": {
+      "Peabody": 1,
+      "Arch Resources": 1
+    },
+    "coal)": {
+      "Peabody": 1,
+      "Arch Resources": 1
+    },
+    "stripping": {
+      "Mill-Max": 1,
+      "Harwin": 1,
+      "Samtec": 1
+    },
+    "blades": {
+      "Mill-Max": 1,
+      "Harwin": 1,
+      "Samtec": 1,
+      "GE Aviation": 1,
+      "Rolls-Royce": 1
+    },
+    "submarine": {
+      "SubCom, Alcatel Submarine Networks, NEC": 1,
+      "SubCom": 1
+    },
+    "repeater": {
+      "SubCom": 1
+    },
+    "submersible": {
+      "Grundfos": 1,
+      "Xylem": 1,
+      "ITT": 1
+    },
+    "sulfuric": {
+      "Dow": 1,
+      "BASF": 1,
+      "Solvay": 1,
+      "Mosaic": 1,
+      "Chemtrade": 1,
+      "PVS": 1
+    },
+    "surface": {
+      "Atotech": 2,
+      "MacDermid": 2,
+      "Uyemura": 2
+    },
+    "finishing": {
+      "Atotech": 1,
+      "MacDermid": 1,
+      "Uyemura": 1
+    },
+    "profiler": {
+      "Atotech": 1,
+      "MacDermid": 1,
+      "Uyemura": 1
+    },
+    "switching": {
+      "Marvell Technology": 1
+    },
+    "synthetic": {
+      "DuPont": 1,
+      "Toray": 1,
+      "Teijin": 1,
+      "SGL Carbon": 1,
+      "Tokai Carbon": 1,
+      "GrafTech": 1,
+      "JSR Corporation": 1
+    },
+    "fibers": {
+      "DuPont": 1,
+      "Toray": 1,
+      "Teijin": 1
+    },
+    "converting": {
+      "Avery Dennison": 1
+    },
+    "documentation": {
+      "Various": 1
+    },
+    "teflon": {
+      "PPG Industries": 1,
+      "Sherwin-Williams": 1,
+      "AkzoNobel": 1
+    },
+    "temperature": {
+      "Texas Instruments": 3,
+      "Analog Devices": 3,
+      "NXP": 3
+    },
+    "fixture": {
+      "Everett Charles Technologies": 1
+    },
+    "fixtures": {
+      "Carr Lane": 1,
+      "Jergens": 1,
+      "TE-CO": 1
+    },
+    "handlers": {
+      "Keysight": 1,
+      "National Instruments": 1,
+      "Teradyne": 1
+    },
+    "instruments": {
+      "Keysight Technologies": 1
+    },
+    "text": {
+      "Anthropic": 1,
+      "Vim": 1,
+      "Emacs": 1,
+      "VSCode": 1
+    },
+    "datasets": {
+      "Anthropic": 1
+    },
+    "editor": {
+      "Vim": 1,
+      "Emacs": 1,
+      "VSCode": 1
+    },
+    "backplane": {
+      "LG Display": 1
+    },
+    "thermal": {
+      "Applied Materials": 1,
+      "Shin-Etsu": 1,
+      "Thermotron Industries": 1
+    },
+    "annealer": {
+      "Applied Materials": 1
+    },
+    "environmental": {
+      "ESPEC Corporation": 1
+    },
+    "thermoforming": {
+      "Schuler": 1,
+      "Trumpf": 1,
+      "Amada": 1
+    },
+    "thermoplastic": {
+      "Kraton Polymers": 1,
+      "Jabil": 1,
+      "BASF": 1,
+      "SABIC": 1
+    },
+    "thickness": {
+      "Fischer": 2,
+      "Elcometer": 2,
+      "DeFelsko": 2
+    },
+    "thin": {
+      "Yageo": 1,
+      "Vishay": 1,
+      "KOA Speer": 1
+    },
+    "this": {
+      "Rushant": 1
+    },
+    "website": {
+      "Rushant": 1
+    },
+    "thread": {
+      "Reed Machinery": 1
+    },
+    "thunderbolt": {
+      "Intel": 1
+    },
+    "time": {
+      "InfluxData": 1
+    },
+    "series": {
+      "InfluxData": 1
+    },
+    "titanium": {
+      "VSMPO-AVISMA": 3,
+      "Timet": 2,
+      "ATI": 2
+    },
+    "drum": {
+      "VSMPO-AVISMA": 1,
+      "Timet": 1,
+      "ATI": 1
+    },
+    "getter": {
+      "VSMPO-AVISMA": 1,
+      "Timet": 1,
+      "ATI": 1
+    },
+    "tmah": {
+      "Olin": 1,
+      "Westlake Chemical": 1,
+      "Formosa Plastics": 1
+    },
+    "toluene": {
+      "ExxonMobil": 1,
+      "Shell": 1,
+      "Dow": 1
+    },
+    "changer": {
+      "Sandvik": 1,
+      "Kennametal": 1,
+      "Iscar": 1
+    },
+    "trackpad": {
+      "TPK Holding": 1,
+      "Corning": 1,
+      "Schott": 1,
+      "AGC": 1,
+      "Cirque": 1,
+      "Synaptics": 1,
+      "TPK": 1
+    },
+    "(force": {
+      "Cirque": 1,
+      "Synaptics": 1,
+      "TPK": 1
+    },
+    "touch)": {
+      "Cirque": 1,
+      "Synaptics": 1,
+      "TPK": 1
+    },
+    "cluster": {
+      "Anthropic": 1
+    },
+    "insulating": {
+      "Shell": 1,
+      "ExxonMobil": 1
+    },
+    "translation": {
+      "Various Translation Agencies": 1
+    },
+    "lines": {
+      "Utilities": 1
+    },
+    "tungsten": {
+      "Microsoft": 1,
+      "JetBrains": 1,
+      "Eclipse": 1,
+      "China Molybdenum": 1,
+      "H.C. Starck": 1,
+      "Lindab": 1,
+      "Sheet Metal Connectors": 1,
+      "Spiral Manufacturing": 1
+    },
+    "turbomolecular": {
+      "Grundfos": 1,
+      "Xylem": 1,
+      "ITT": 1
+    },
+    "twin": {
+      "Fastenal": 1,
+      "Würth": 1,
+      "ITW": 1
+    },
+    "extruder": {
+      "Fastenal": 1,
+      "Würth": 1,
+      "ITW": 1,
+      "Prysmian": 1,
+      "Southwire": 1,
+      "General Cable": 1
+    },
+    "two-part": {
+      "Nordson EFD": 1
+    },
+    "dispensing": {
+      "Nordson EFD": 1
+    },
+    "type": {
+      "Academic Research": 2
+    },
+    "theory": {
+      "Academic Research": 1
+    },
+    "typescript": {
+      "Microsoft": 1
+    },
+    "u.fl": {
+      "Hirose Electric": 1
+    },
+    "uhmwpe": {
+      "Huntsman": 1,
+      "Hexion": 1,
+      "Olin": 1
+    },
+    "ultra": {
+      "Edwards": 1,
+      "Pfeiffer": 1,
+      "Leybold": 1
+    },
+    "vacuum": {
+      "Edwards": 8,
+      "Pfeiffer": 8,
+      "Leybold": 8,
+      "Despatch Industries": 1,
+      "Edwards Vacuum": 1,
+      "Grundfos": 1,
+      "Xylem": 1,
+      "ITT": 1,
+      "ABB": 1,
+      "Fanuc": 1,
+      "Kuka": 1
+    },
+    "ultra-pure": {
+      "Water Treatment Facilities": 1
+    },
+    "(upw)": {
+      "Water Treatment Facilities": 1
+    },
+    "ultrapure": {
+      "Flow": 1,
+      "OMAX": 1,
+      "KMT": 1
+    },
+    "ultrasonic": {
+      "Herrmann Ultrasonics": 1,
+      "Branson": 1,
+      "Rinco": 1,
+      "Lincoln Electric": 1,
+      "Miller": 1,
+      "ESAB": 1
+    },
+    "transducer": {
+      "Herrmann Ultrasonics": 1,
+      "Branson": 1,
+      "Rinco": 1
+    },
+    "university": {
+      "Various Universities": 1,
+      "Technical Schools": 1,
+      "Online Platforms": 1,
+      "Universities": 1
+    },
+    "ports": {
+      "JAE": 1,
+      "Amphenol": 1,
+      "Molex": 1
+    },
+    "compliance": {
+      "Various Test Labs": 1
+    },
+    "utility": {
+      "Electric Utilities": 1
+    },
+    "curable": {
+      "DSM Desotech": 1,
+      "Flint Group": 1
+    },
+    "acrylate": {
+      "DSM Desotech": 1
+    },
+    "chuck": {
+      "Edwards": 1,
+      "Pfeiffer": 1,
+      "Leybold": 1
+    },
+    "evaporator": {
+      "Edwards": 1,
+      "Pfeiffer": 1,
+      "Leybold": 1
+    },
+    "laminator": {
+      "Edwards": 1,
+      "Pfeiffer": 1,
+      "Leybold": 1
+    },
+    "pumps": {
+      "Grundfos": 1,
+      "Xylem": 1,
+      "ITT": 1
+    },
+    "vanadium": {
+      "BASF": 1,
+      "Johnson Matthey": 1,
+      "Clariant": 1
+    },
+    "barrier": {
+      "GEA": 1,
+      "Alfa Laval": 1,
+      "SPX Flow": 1
+    },
+    "verification": {
+      "Synopsys": 1,
+      "Cadence": 1,
+      "Siemens": 1,
+      "Synopsys Inc.": 1
+    },
+    "vibrating": {
+      "Terex": 1,
+      "Metso": 1
+    },
+    "screen": {
+      "Terex": 1,
+      "Metso": 1
+    },
+    "vibratory": {
+      "Afag": 1,
+      "RNA": 1,
+      "Vibratory Solutions": 1
+    },
+    "feeder": {
+      "Afag": 1,
+      "RNA": 1,
+      "Vibratory Solutions": 1
+    },
+    "vinyl": {
+      "Microsoft": 1,
+      "JetBrains": 1,
+      "Eclipse": 1,
+      "Avery Dennison": 1
+    },
+    "chloride": {
+      "Microsoft": 1,
+      "JetBrains": 1,
+      "Eclipse": 1
+    },
+    "vocational": {
+      "Coursera": 1,
+      "Udemy": 1,
+      "LinkedIn Learning": 1
+    },
+    "regulator": {
+      "Infineon": 1
+    },
+    "carriers": {
+      "Shin-Etsu": 1,
+      "Sumco": 1,
+      "GlobalWafers": 1
+    },
+    "cassettes": {
+      "Shin-Etsu": 1,
+      "Sumco": 1,
+      "GlobalWafers": 1
+    },
+    "probe": {
+      "Shin-Etsu": 1,
+      "Sumco": 1,
+      "GlobalWafers": 1
+    },
+    "robots": {
+      "ABB": 1,
+      "Fanuc": 1,
+      "Kuka": 1
+    },
+    "(industrial)": {
+      "Municipal Water Utility": 1
+    },
+    "content": {
+      "Common Crawl Foundation": 1
+    },
+    "wellhead": {
+      "Industrial Equipment Manufacturer": 1
+    },
+    "wheel": {
+      "Caterpillar": 1,
+      "Volvo": 1,
+      "Komatsu": 1
+    },
+    "loader": {
+      "Caterpillar": 1,
+      "Volvo": 1,
+      "Komatsu": 1
+    },
+    "white": {
+      "Nichia": 2,
+      "Lumileds": 2,
+      "Osram": 2
+    },
+    "whois": {
+      "ICANN": 1,
+      "Registries": 1
+    },
+    "wi-fi/bluetooth": {
+      "Broadcom": 1,
+      "Intel": 1,
+      "Qualcomm": 1
+    },
+    "wifi": {
+      "Murata Manufacturing": 1
+    },
+    "bonder": {
+      "Kulicke & Soffa": 1
+    },
+    "cutter": {
+      "Prysmian": 1,
+      "Southwire": 1,
+      "General Cable": 1
+    },
+    "wireless": {
+      "IDT": 1,
+      "Prysmian": 1,
+      "Southwire": 1,
+      "General Cable": 1,
+      "Broadcom Inc.": 1
+    },
+    "system-on-chip": {
+      "Broadcom Inc.": 1
+    },
+    "wood": {
+      "Suzano": 1,
+      "Fibria": 1,
+      "ARAUCO": 1
+    },
+    "worker": {
+      "Foxconn Technology": 1
+    },
+    "xcode": {
+      "Apple Inc.": 1
+    },
+    "x-ray": {
+      "Nordson DAGE": 1
+    },
+    "xray": {
+      "Microsoft": 1,
+      "Oracle": 1,
+      "SAP": 1,
+      "Sandvik": 1,
+      "Kennametal": 1,
+      "Iscar": 1,
+      "Tenaris": 1,
+      "Vallourec": 1,
+      "TMK": 1
+    },
+    "ziegler": {
+      "BASF": 1,
+      "Johnson Matthey": 1,
+      "Clariant": 1
+    },
+    "natta": {
+      "BASF": 1,
+      "Johnson Matthey": 1,
+      "Clariant": 1
+    },
+    "zinc": {
+      "Dynacast": 1,
+      "Glencore": 4,
+      "Nyrstar": 3,
+      "Teck Resources": 3,
+      "Vedanta": 1
+    },
+    "electrowinning": {
+      "Glencore": 1,
+      "Nyrstar": 1,
+      "Teck Resources": 1
+    }
+  },
+  "categoryManufacturers": {
+    "semiconductors": [
+      "Cirrus Logic",
+      "Apple (Internal Design Team)",
+      "Apple",
+      "Qualcomm",
+      "NVIDIA",
+      "ASE",
+      "Amkor",
+      "JCET",
+      "Broadcom",
+      "SK Hynix",
+      "Applied Materials",
+      "TSMC",
+      "Nichia",
+      "Lumileds",
+      "Osram",
+      "NXP Semiconductors",
+      "Samsung",
+      "Intel",
+      "Shin-Etsu",
+      "Sumco",
+      "GlobalWafers",
+      "KLA",
+      "Hitachi",
+      "ABB",
+      "Fanuc",
+      "Kuka",
+      "Broadcom Inc."
+    ],
+    "mining": [
+      "MP Materials",
+      "Lynas",
+      "Rio Tinto",
+      "Alcoa",
+      "Mining Companies",
+      "Samancor",
+      "Merafe",
+      "China Shenhua",
+      "Peabody",
+      "Glencore",
+      "China Molybdenum",
+      "Freeport-McMoRan",
+      "BHP",
+      "Tokyo Ohka Kogyo",
+      "Caterpillar",
+      "Komatsu",
+      "Liebherr",
+      "Orica",
+      "Dyno Nobel",
+      "Nyrstar",
+      "Volcan Compania",
+      "Newmont",
+      "Barrick",
+      "Barrick Gold",
+      "AngloGold Ashanti",
+      "Hitachi",
+      "Shell",
+      "Mobil",
+      "Castrol",
+      "Vale",
+      "Komatsu Mining",
+      "Joy Global",
+      "Materials Producer",
+      "GEA",
+      "Alfa Laval",
+      "SPX Flow",
+      "ManpowerGroup",
+      "Randstad",
+      "Adecco",
+      "Various Mining Services",
+      "Cameco",
+      "Kazatomprom",
+      "McDermott",
+      "Technip",
+      "Norilsk Nickel",
+      "JSR",
+      "DuPont",
+      "Clean Air Technology",
+      "Terra Universal",
+      "Mecart",
+      "Iluka Resources",
+      "Arch Resources",
+      "McLanahan",
+      "CDE Global",
+      "Vedanta"
+    ],
+    "chemicals": [
+      "Dow",
+      "BASF",
+      "Solvay",
+      "Air Products",
+      "Linde",
+      "Air Liquide",
+      "Sulzer",
+      "Koch-Glitsch",
+      "Montz",
+      "KMG",
+      "Stella Chemifa",
+      "Dow Chemical",
+      "GEA",
+      "Alfa Laval",
+      "SPX Flow",
+      "Various Employers",
+      "Contract Labor",
+      "Staffing Agencies",
+      "Corning Incorporated",
+      "Olin",
+      "Formosa Plastics",
+      "Applied Materials",
+      "Ebara",
+      "Tokyo Electron",
+      "Honeywell",
+      "Urenco",
+      "Orano",
+      "Siemens",
+      "GE",
+      "TransCanada",
+      "Enbridge",
+      "Bridgestone",
+      "Michelin",
+      "Goodyear",
+      "Gazprom",
+      "ExxonMobil",
+      "Shell",
+      "Yara",
+      "CF Industries",
+      "Orica",
+      "Halliburton",
+      "Schlumberger",
+      "Mosaic",
+      "OCP",
+      "PhosAgro",
+      "JSR",
+      "Tokyo Ohka Kogyo",
+      "DuPont",
+      "BASF SE",
+      "TE Connectivity",
+      "Sensata",
+      "Chemtrade",
+      "PVS",
+      "GE Aviation",
+      "Rolls-Royce"
+    ],
+    "equipment": [
+      "Teradyne Inc.",
+      "Schleuniger",
+      "Linde",
+      "Air Liquide",
+      "Applied Materials",
+      "Ebara",
+      "ArcelorMittal",
+      "Nippon Steel",
+      "POSCO",
+      "Teradyne",
+      "Keysight",
+      "National Instruments",
+      "Industrial Equipment Manufacturer",
+      "Metso Outotec",
+      "Sandvik",
+      "Trumpf",
+      "Bystronic",
+      "Mazak",
+      "Tokyo Electron",
+      "ASM Pacific Technology",
+      "Hunter",
+      "Inductotherm",
+      "ABP Induction",
+      "Bobst Group",
+      "Canon",
+      "Sulzer",
+      "Koch-Glitsch",
+      "Atotech",
+      "MacDermid",
+      "JCU",
+      "ASML",
+      "Seikoh Giken",
+      "Arburg",
+      "Burkle",
+      "Lauffer",
+      "Kitagawa",
+      "Mill-Max",
+      "Harwin",
+      "Samtec",
+      "Olin",
+      "Westlake Chemical",
+      "Formosa Plastics",
+      "Siemens",
+      "Allen-Bradley",
+      "Emerson",
+      "Cognex Corporation",
+      "Caterpillar",
+      "Komatsu",
+      "Arista Networks",
+      "Multiple Vendors",
+      "Nikon",
+      "Fuji",
+      "Yamaha",
+      "Juki",
+      "Lam Research",
+      "Buehler",
+      "Grundfos",
+      "Xylem",
+      "ITT",
+      "Jabil Inc.",
+      "Keysight Technologies",
+      "Haver & Boecker",
+      "Hirano Tecseed",
+      "Advantest",
+      "Thermotron Industries",
+      "Reed Machinery",
+      "Coursera",
+      "Udemy",
+      "LinkedIn Learning",
+      "Edwards Vacuum",
+      "Lincoln Electric",
+      "Miller",
+      "ESAB"
+    ],
+    "electronics": [
+      "Flex Ltd.",
+      "Molex",
+      "Teradyne",
+      "Flexium Interconnect",
+      "ABB",
+      "Schneider Electric",
+      "Eaton",
+      "Unitech Printed Circuit Board",
+      "Synopsys",
+      "Cadence",
+      "Siemens (Mentor)",
+      "SEW-Eurodrive",
+      "Bonfiglioli",
+      "Nord Drivesystems",
+      "Foxconn",
+      "Pegatron",
+      "Wistron",
+      "Samsung",
+      "SK Hynix",
+      "Flexium",
+      "Nichia",
+      "Lumileds",
+      "Osram",
+      "TTM Technologies",
+      "Unimicron",
+      "Ibiden",
+      "Jabil",
+      "Isola Group",
+      "Unimicron Technology",
+      "Keysight Technologies"
+    ],
+    "software": [
+      "Cirrus Logic",
+      "Siemens Digital Industries",
+      "Bell Labs",
+      "ISO",
+      "Anthropic",
+      "Haas",
+      "DMG Mori",
+      "Mazak",
+      "GitHub",
+      "GitLab",
+      "Individual Developers",
+      "Oracle",
+      "PostgreSQL Global Development Group",
+      "Synopsys",
+      "Cadence",
+      "Siemens (Mentor)",
+      "BPM Microsystems",
+      "Segger",
+      "Data I",
+      "O",
+      "Linux Foundation",
+      "Microsoft",
+      "SAP",
+      "Various Engineering Firms",
+      "Consulting Companies",
+      "OEM Staff",
+      "Academia",
+      "Research Labs",
+      "F5 Networks",
+      "Apple",
+      "Datadog",
+      "Various Universities",
+      "Keithley Instruments",
+      "Various",
+      "Enplas Corporation",
+      "Cisco Systems",
+      "Ruby Core Team",
+      "CrowdStrike",
+      "JetBrains",
+      "Microsoft Corporation",
+      "Arista Networks",
+      "Cisco",
+      "CompTIA",
+      "National Instruments",
+      "Vim",
+      "Emacs",
+      "VSCode",
+      "Universities",
+      "Siemens",
+      "Google",
+      "Mozilla",
+      "Apple Inc."
+    ]
+  }
+}
