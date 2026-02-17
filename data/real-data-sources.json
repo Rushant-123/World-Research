@@ -1,0 +1,16 @@
+{
+  "_readme": "Track all sources used for manual research of top 100 companies",
+  "_template": {
+    "company_slug": {
+      "sources": [
+        {
+          "url": "https://example.com",
+          "type": "company_website|annual_report|news|database",
+          "credibility": "high|medium|low",
+          "accessed": "YYYY-MM-DD"
+        }
+      ],
+      "fields_verified": ["employees", "rd_spending_pct", "factory_locations"]
+    }
+  }
+}
