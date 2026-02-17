@@ -1,0 +1,1652 @@
+[
+  {
+    "slug": "duke-energy",
+    "name": "Duke Energy",
+    "revenue": 8000000000,
+    "market_cap": 27360000000,
+    "industry": "Industrial Equipment",
+    "product_count": 2,
+    "products": [
+      "electrical-power-generation",
+      "electricity"
+    ],
+    "downstream_dependencies": 525,
+    "min_distance": 1,
+    "score": 13226.0944
+  },
+  {
+    "slug": "exelon",
+    "name": "Exelon",
+    "revenue": 8000000000,
+    "market_cap": 27360000000,
+    "industry": "Industrial Equipment",
+    "product_count": 2,
+    "products": [
+      "electrical-power-generation",
+      "electricity"
+    ],
+    "downstream_dependencies": 525,
+    "min_distance": 1,
+    "score": 13226.0944
+  },
+  {
+    "slug": "engie",
+    "name": "Engie",
+    "revenue": 4000000000,
+    "market_cap": 13680000000,
+    "industry": "Industrial Equipment",
+    "product_count": 1,
+    "products": [
+      "electricity"
+    ],
+    "downstream_dependencies": 525,
+    "min_distance": 1,
+    "score": 13200.5472
+  },
+  {
+    "slug": "glencore",
+    "name": "Glencore",
+    "revenue": 80000000000,
+    "market_cap": 271199999999,
+    "industry": "Mining & Metals",
+    "product_count": 5,
+    "products": [
+      "coal-mining",
+      "coal",
+      "cobalt-metal",
+      "copper-cobalt-ore",
+      "copper-metal"
+    ],
+    "downstream_dependencies": 351,
+    "min_distance": 2,
+    "score": 8950.84799999996
+  },
+  {
+    "slug": "peabody",
+    "name": "Peabody",
+    "revenue": 12000000000,
+    "market_cap": 41040000000,
+    "industry": "Industrial Equipment",
+    "product_count": 3,
+    "products": [
+      "coal-mining",
+      "coal",
+      "strip-mining-surface-coal"
+    ],
+    "downstream_dependencies": 342,
+    "min_distance": 2,
+    "score": 8666.6416
+  },
+  {
+    "slug": "china-shenhua",
+    "name": "China Shenhua",
+    "revenue": 8000000000,
+    "market_cap": 27360000000,
+    "industry": "Industrial Equipment",
+    "product_count": 2,
+    "products": [
+      "coal-mining",
+      "coal"
+    ],
+    "downstream_dependencies": 342,
+    "min_distance": 2,
+    "score": 8641.0944
+  },
+  {
+    "slug": "elkem",
+    "name": "Elkem",
+    "revenue": 4000000000,
+    "market_cap": 13680000000,
+    "industry": "Industrial Equipment",
+    "product_count": 1,
+    "products": [
+      "silicon-metal"
+    ],
+    "downstream_dependencies": 88,
+    "min_distance": 5,
+    "score": 2235.5472
+  },
+  {
+    "slug": "ferroglobe",
+    "name": "Ferroglobe",
+    "revenue": 4000000000,
+    "market_cap": 13680000000,
+    "industry": "Industrial Equipment",
+    "product_count": 1,
+    "products": [
+      "silicon-metal"
+    ],
+    "downstream_dependencies": 88,
+    "min_distance": 5,
+    "score": 2235.5472
+  },
+  {
+    "slug": "general-cable",
+    "name": "General Cable",
+    "revenue": 32000000000,
+    "market_cap": 109440000000,
+    "industry": "Industrial Equipment",
+    "product_count": 5,
+    "products": [
+      "bond-wire",
+      "copper-wire-raw",
+      "diamond-wire",
+      "magnet-wire",
+      "wire-cutter"
+    ],
+    "downstream_dependencies": 72,
+    "min_distance": 4,
+    "score": 1949.3776
+  },
+  {
+    "slug": "mining-companies",
+    "name": "Mining Companies",
+    "revenue": 32000000000,
+    "market_cap": 108480000000,
+    "industry": "Mining & Metals",
+    "product_count": 4,
+    "products": [
+      "cassiterite-ore-sno",
+      "fluorspar-ore-caf",
+      "mining-labor",
+      "quartzite-sand"
+    ],
+    "downstream_dependencies": 61,
+    "min_distance": 3,
+    "score": 1659.3392
+  },
+  {
+    "slug": "abp-induction",
+    "name": "ABP Induction",
+    "revenue": 8000000000,
+    "market_cap": 27360000000,
+    "industry": "Industrial Equipment",
+    "product_count": 2,
+    "products": [
+      "die-casting-machine",
+      "iron-casting"
+    ],
+    "downstream_dependencies": 61,
+    "min_distance": 4,
+    "score": 1596.0944
+  },
+  {
+    "slug": "hunter",
+    "name": "Hunter",
+    "revenue": 8000000000,
+    "market_cap": 27360000000,
+    "industry": "Industrial Equipment",
+    "product_count": 2,
+    "products": [
+      "die-casting-machine",
+      "iron-casting"
+    ],
+    "downstream_dependencies": 61,
+    "min_distance": 4,
+    "score": 1596.0944
+  },
+  {
+    "slug": "inductotherm",
+    "name": "Inductotherm",
+    "revenue": 8000000000,
+    "market_cap": 27360000000,
+    "industry": "Industrial Equipment",
+    "product_count": 2,
+    "products": [
+      "die-casting-machine",
+      "iron-casting"
+    ],
+    "downstream_dependencies": 61,
+    "min_distance": 4,
+    "score": 1596.0944
+  },
+  {
+    "slug": "clemco",
+    "name": "Clemco",
+    "revenue": 12000000000,
+    "market_cap": 41040000000,
+    "industry": "Industrial Equipment",
+    "product_count": 3,
+    "products": [
+      "quartzite-sand",
+      "sand-washing",
+      "silica-sand"
+    ],
+    "downstream_dependencies": 59,
+    "min_distance": 4,
+    "score": 1571.6416
+  },
+  {
+    "slug": "empire-abrasive",
+    "name": "Empire Abrasive",
+    "revenue": 12000000000,
+    "market_cap": 41040000000,
+    "industry": "Industrial Equipment",
+    "product_count": 3,
+    "products": [
+      "quartzite-sand",
+      "sand-washing",
+      "silica-sand"
+    ],
+    "downstream_dependencies": 59,
+    "min_distance": 4,
+    "score": 1571.6416
+  },
+  {
+    "slug": "wheelabrator",
+    "name": "Wheelabrator",
+    "revenue": 12000000000,
+    "market_cap": 41040000000,
+    "industry": "Industrial Equipment",
+    "product_count": 3,
+    "products": [
+      "quartzite-sand",
+      "sand-washing",
+      "silica-sand"
+    ],
+    "downstream_dependencies": 59,
+    "min_distance": 4,
+    "score": 1571.6416
+  },
+  {
+    "slug": "sap",
+    "name": "SAP",
+    "revenue": 27000000000,
+    "market_cap": 101250000000,
+    "industry": "Software & Services",
+    "product_count": 5,
+    "products": [
+      "inspection-software",
+      "metrology-software",
+      "open-source-software",
+      "operating-system-software",
+      "software-developers"
+    ],
+    "downstream_dependencies": 36,
+    "min_distance": 2,
+    "score": 1069.05
+  },
+  {
+    "slug": "allen-bradley",
+    "name": "Allen-Bradley",
+    "revenue": 24000000000,
+    "market_cap": 82080000000,
+    "industry": "Industrial Equipment",
+    "product_count": 5,
+    "products": [
+      "machine-controller",
+      "mass-flow-controllers",
+      "microcontroller",
+      "molding-control",
+      "motion-control"
+    ],
+    "downstream_dependencies": 35,
+    "min_distance": 4,
+    "score": 1023.2832
+  },
+  {
+    "slug": "emerson",
+    "name": "Emerson",
+    "revenue": 24000000000,
+    "market_cap": 82080000000,
+    "industry": "Industrial Equipment",
+    "product_count": 5,
+    "products": [
+      "machine-controller",
+      "mass-flow-controllers",
+      "microcontroller",
+      "molding-control",
+      "motion-control"
+    ],
+    "downstream_dependencies": 35,
+    "min_distance": 4,
+    "score": 1023.2832
+  },
+  {
+    "slug": "shell",
+    "name": "Shell",
+    "revenue": 42000000000,
+    "market_cap": 144900000000,
+    "industry": "Chemicals",
+    "product_count": 5,
+    "products": [
+      "crude-oil-petroleum",
+      "diesel-fuel",
+      "diesel-fuel",
+      "elemental-sulfur",
+      "natural-gas"
+    ],
+    "downstream_dependencies": 31,
+    "min_distance": 2,
+    "score": 945.796
+  },
+  {
+    "slug": "basf",
+    "name": "BASF",
+    "revenue": 30000000000,
+    "market_cap": 103500000000,
+    "industry": "Chemicals",
+    "product_count": 5,
+    "products": [
+      "ammonia-nh",
+      "chemical-etchants",
+      "chemical-extraction-process",
+      "hydrochloric-acid",
+      "thermoplastic-polyurethane"
+    ],
+    "downstream_dependencies": 31,
+    "min_distance": 3,
+    "score": 934.14
+  },
+  {
+    "slug": "exxonmobil",
+    "name": "ExxonMobil",
+    "revenue": 30000000000,
+    "market_cap": 103500000000,
+    "industry": "Chemicals",
+    "product_count": 5,
+    "products": [
+      "crude-oil-petroleum",
+      "diesel-fuel",
+      "diesel-fuel",
+      "natural-gas",
+      "transformer-insulating-oil"
+    ],
+    "downstream_dependencies": 30,
+    "min_distance": 2,
+    "score": 919.14
+  },
+  {
+    "slug": "tsmc",
+    "name": "TSMC (Taiwan Semiconductor Manufacturing Company)",
+    "revenue": 69298000000,
+    "market_cap": 935000000000,
+    "industry": "Semiconductor Manufacturing",
+    "product_count": 3,
+    "products": [
+      "silicon-wafer",
+      "chip-fabrication",
+      "logic-chip"
+    ],
+    "downstream_dependencies": 30,
+    "min_distance": 3,
+    "score": 892.4
+  },
+  {
+    "slug": "shin-etsu",
+    "name": "Shin-Etsu",
+    "revenue": 12000000000,
+    "market_cap": 41040000000,
+    "industry": "Industrial Equipment",
+    "product_count": 3,
+    "products": [
+      "single-crystal-silicon-ingot",
+      "silicon-wafer",
+      "thermal-interface-paste"
+    ],
+    "downstream_dependencies": 30,
+    "min_distance": 3,
+    "score": 856.6416
+  },
+  {
+    "slug": "sumco",
+    "name": "Sumco",
+    "revenue": 8000000000,
+    "market_cap": 27360000000,
+    "industry": "Industrial Equipment",
+    "product_count": 2,
+    "products": [
+      "single-crystal-silicon-ingot",
+      "silicon-wafer"
+    ],
+    "downstream_dependencies": 30,
+    "min_distance": 3,
+    "score": 831.0944
+  },
+  {
+    "slug": "ttm-technologies",
+    "name": "TTM Technologies",
+    "revenue": 30000000000,
+    "market_cap": 94950000000,
+    "industry": "Electronics Manufacturing",
+    "product_count": 3,
+    "products": [
+      "multilayer-pcb",
+      "pcb-board",
+      "rf-circuit-board"
+    ],
+    "downstream_dependencies": 25,
+    "min_distance": 3,
+    "score": 733.798
+  },
+  {
+    "slug": "aperam",
+    "name": "Aperam",
+    "revenue": 4000000000,
+    "market_cap": 13680000000,
+    "industry": "Industrial Equipment",
+    "product_count": 1,
+    "products": [
+      "stainless-steel-sheet"
+    ],
+    "downstream_dependencies": 26,
+    "min_distance": 3,
+    "score": 705.5472
+  },
+  {
+    "slug": "rio-tinto",
+    "name": "Rio Tinto",
+    "revenue": 48000000000,
+    "market_cap": 162719999999,
+    "industry": "Mining & Metals",
+    "product_count": 5,
+    "products": [
+      "aluminum-metal",
+      "aluminum-oxide-al-o",
+      "bauxite-ore",
+      "copper-concentrate",
+      "iron-ore"
+    ],
+    "downstream_dependencies": 20,
+    "min_distance": 3,
+    "score": 661.50879999996
+  },
+  {
+    "slug": "samsung-electronics",
+    "name": "Samsung Electronics",
+    "revenue": 234000000000,
+    "market_cap": 324000000000,
+    "industry": "Consumer Electronics & Semiconductors",
+    "product_count": 4,
+    "products": [
+      "dram-chip",
+      "nand-flash-memory",
+      "oled-display",
+      "smartphone"
+    ],
+    "downstream_dependencies": 19,
+    "min_distance": 3,
+    "score": 617.96
+  },
+  {
+    "slug": "olin",
+    "name": "Olin",
+    "revenue": 30000000000,
+    "market_cap": 103500000000,
+    "industry": "Chemicals",
+    "product_count": 5,
+    "products": [
+      "caustic-soda-naoh",
+      "chlorine-gas-cl",
+      "chlorine-production",
+      "epoxy-resin",
+      "hydrochloric-acid"
+    ],
+    "downstream_dependencies": 18,
+    "min_distance": 3,
+    "score": 609.14
+  },
+  {
+    "slug": "stella-chemifa",
+    "name": "Stella Chemifa",
+    "revenue": 12000000000,
+    "market_cap": 41399999999,
+    "industry": "Chemicals",
+    "product_count": 2,
+    "products": [
+      "chemical-etchants",
+      "hydrofluoric-acid-hf"
+    ],
+    "downstream_dependencies": 20,
+    "min_distance": 3,
+    "score": 581.65599999996
+  },
+  {
+    "slug": "vale",
+    "name": "Vale",
+    "revenue": 24000000000,
+    "market_cap": 81359999999,
+    "industry": "Mining & Metals",
+    "product_count": 3,
+    "products": [
+      "iron-ore",
+      "nickel-metal",
+      "pentlandite-ore-nickel-sulfide"
+    ],
+    "downstream_dependencies": 19,
+    "min_distance": 4,
+    "score": 573.25439999996
+  },
+  {
+    "slug": "abb",
+    "name": "ABB",
+    "revenue": 4000000000,
+    "market_cap": 13680000000,
+    "industry": "Industrial Equipment",
+    "product_count": 1,
+    "products": [
+      "power-transformer"
+    ],
+    "downstream_dependencies": 20,
+    "min_distance": 2,
+    "score": 565.5472
+  },
+  {
+    "slug": "kmg",
+    "name": "KMG",
+    "revenue": 6000000000,
+    "market_cap": 20699999999,
+    "industry": "Chemicals",
+    "product_count": 1,
+    "products": [
+      "chemical-etchants"
+    ],
+    "downstream_dependencies": 20,
+    "min_distance": 3,
+    "score": 555.82799999996
+  },
+  {
+    "slug": "alcoa",
+    "name": "Alcoa",
+    "revenue": 40000000000,
+    "market_cap": 135599999999,
+    "industry": "Mining & Metals",
+    "product_count": 5,
+    "products": [
+      "aluminum-billet",
+      "aluminum-foil",
+      "aluminum-metal",
+      "aluminum-oxide-al-o",
+      "bauxite-ore"
+    ],
+    "downstream_dependencies": 15,
+    "min_distance": 3,
+    "score": 535.42399999996
+  },
+  {
+    "slug": "infrastructure-provider",
+    "name": "Infrastructure Provider",
+    "revenue": 16000000000,
+    "market_cap": 54720000000,
+    "industry": "Industrial Equipment",
+    "product_count": 4,
+    "products": [
+      "building-rental",
+      "nginx-servers",
+      "pipeline-network",
+      "qa-infrastructure"
+    ],
+    "downstream_dependencies": 16,
+    "min_distance": 5,
+    "score": 512.1888
+  },
+  {
+    "slug": "unimicron-technology",
+    "name": "Unimicron Technology",
+    "revenue": 4000000000,
+    "market_cap": 13680000000,
+    "industry": "Industrial Equipment",
+    "product_count": 1,
+    "products": [
+      "printed-circuit-board"
+    ],
+    "downstream_dependencies": 18,
+    "min_distance": 3,
+    "score": 505.5472
+  },
+  {
+    "slug": "grundfos",
+    "name": "Grundfos",
+    "revenue": 20000000000,
+    "market_cap": 68400000000,
+    "industry": "Industrial Equipment",
+    "product_count": 5,
+    "products": [
+      "precision-pump",
+      "submersible-pump",
+      "turbomolecular-pump",
+      "vacuum-pumps",
+      "water-pump"
+    ],
+    "downstream_dependencies": 12,
+    "min_distance": 4,
+    "score": 447.736
+  },
+  {
+    "slug": "itt",
+    "name": "ITT",
+    "revenue": 20000000000,
+    "market_cap": 68400000000,
+    "industry": "Industrial Equipment",
+    "product_count": 5,
+    "products": [
+      "precision-pump",
+      "submersible-pump",
+      "turbomolecular-pump",
+      "vacuum-pumps",
+      "water-pump"
+    ],
+    "downstream_dependencies": 12,
+    "min_distance": 4,
+    "score": 447.736
+  },
+  {
+    "slug": "xylem",
+    "name": "Xylem",
+    "revenue": 20000000000,
+    "market_cap": 68400000000,
+    "industry": "Industrial Equipment",
+    "product_count": 5,
+    "products": [
+      "precision-pump",
+      "submersible-pump",
+      "turbomolecular-pump",
+      "vacuum-pumps",
+      "water-pump"
+    ],
+    "downstream_dependencies": 12,
+    "min_distance": 4,
+    "score": 447.736
+  },
+  {
+    "slug": "international-paper",
+    "name": "International Paper",
+    "revenue": 14000000000,
+    "market_cap": 46830000000,
+    "industry": "Materials & Plastics",
+    "product_count": 4,
+    "products": [
+      "cardboard-box",
+      "kraft-paper",
+      "packaging-materials",
+      "paper-pulp"
+    ],
+    "downstream_dependencies": 12,
+    "min_distance": 2,
+    "score": 441.8732
+  },
+  {
+    "slug": "cisco-juniper-arista-huawei",
+    "name": "Cisco, Juniper, Arista, Huawei",
+    "revenue": 4000000000,
+    "market_cap": 13680000000,
+    "industry": "Industrial Equipment",
+    "product_count": 1,
+    "products": [
+      "network-router"
+    ],
+    "downstream_dependencies": 15,
+    "min_distance": 2,
+    "score": 440.5472
+  },
+  {
+    "slug": "keysight-technologies",
+    "name": "Keysight Technologies",
+    "revenue": 20000000000,
+    "market_cap": 70200000000,
+    "industry": "Equipment Manufacturing",
+    "product_count": 4,
+    "products": [
+      "vector-network-analyzer",
+      "rf-testing-equipment",
+      "signal-integrity-tester",
+      "electronic-test-instruments"
+    ],
+    "downstream_dependencies": 12,
+    "min_distance": 3,
+    "score": 432.808
+  },
+  {
+    "slug": "corning",
+    "name": "Corning",
+    "revenue": 17500000000,
+    "market_cap": 58537500000,
+    "industry": "Materials & Plastics",
+    "product_count": 5,
+    "products": [
+      "display-glass-substrate",
+      "fiber-cable",
+      "fiber-optic-cable",
+      "fiber-optic-connector",
+      "optical-fiber"
+    ],
+    "downstream_dependencies": 10,
+    "min_distance": 2,
+    "score": 417.3415
+  },
+  {
+    "slug": "caterpillar",
+    "name": "Caterpillar",
+    "revenue": 45000000000,
+    "market_cap": 157950000000,
+    "industry": "Equipment Manufacturing",
+    "product_count": 5,
+    "products": [
+      "backup-generators",
+      "bulldozer",
+      "continuous-miner",
+      "dragline-excavation",
+      "mining-haul-truck"
+    ],
+    "downstream_dependencies": 10,
+    "min_distance": 3,
+    "score": 411.318
+  },
+  {
+    "slug": "bosch",
+    "name": "Bosch",
+    "revenue": 20000000000,
+    "market_cap": 68400000000,
+    "industry": "Industrial Equipment",
+    "product_count": 5,
+    "products": [
+      "hall-sensor",
+      "humidity-sensors",
+      "proximity-sensor",
+      "sensor-asic",
+      "sensor-package"
+    ],
+    "downstream_dependencies": 10,
+    "min_distance": 4,
+    "score": 397.736
+  },
+  {
+    "slug": "murata-manufacturing",
+    "name": "Murata Manufacturing",
+    "revenue": 30000000000,
+    "market_cap": 94950000000,
+    "industry": "Electronics Manufacturing",
+    "product_count": 3,
+    "products": [
+      "mlcc-capacitors",
+      "rf-passive-components",
+      "wifi-module-assembly"
+    ],
+    "downstream_dependencies": 11,
+    "min_distance": 3,
+    "score": 383.798
+  },
+  {
+    "slug": "sandvik-coromant",
+    "name": "Sandvik Coromant",
+    "revenue": 4000000000,
+    "market_cap": 13680000000,
+    "industry": "Industrial Equipment",
+    "product_count": 1,
+    "products": [
+      "carbide-cutting-tools"
+    ],
+    "downstream_dependencies": 13,
+    "min_distance": 3,
+    "score": 380.5472
+  },
+  {
+    "slug": "broadcom",
+    "name": "Broadcom",
+    "revenue": 90000000000,
+    "market_cap": 364500000000,
+    "industry": "Semiconductors",
+    "product_count": 5,
+    "products": [
+      "docsis-chip",
+      "ethernet-phy-chip",
+      "network-asic",
+      "network-interface-card",
+      "raid-controller"
+    ],
+    "downstream_dependencies": 8,
+    "min_distance": 3,
+    "score": 369.58000000000004
+  },
+  {
+    "slug": "hpe",
+    "name": "HPE",
+    "revenue": 8000000000,
+    "market_cap": 27360000000,
+    "industry": "Industrial Equipment",
+    "product_count": 2,
+    "products": [
+      "gpu-server",
+      "server-hardware"
+    ],
+    "downstream_dependencies": 11,
+    "min_distance": 2,
+    "score": 366.0944
+  },
+  {
+    "slug": "dow",
+    "name": "Dow",
+    "revenue": 24000000000,
+    "market_cap": 82799999999,
+    "industry": "Chemicals",
+    "product_count": 4,
+    "products": [
+      "caustic-soda-naoh",
+      "chlorine-gas-cl",
+      "hydrochloric-acid",
+      "structural-epoxy-adhesive"
+    ],
+    "downstream_dependencies": 10,
+    "min_distance": 5,
+    "score": 363.31199999996
+  },
+  {
+    "slug": "foxconn-technology",
+    "name": "Foxconn Technology",
+    "revenue": 40000000000,
+    "market_cap": 126600000000,
+    "industry": "Electronics Manufacturing",
+    "product_count": 4,
+    "products": [
+      "factory-production-workers",
+      "injection-molded-housing",
+      "manufacturing-overhead",
+      "industrial-worker-training"
+    ],
+    "downstream_dependencies": 9,
+    "min_distance": 3,
+    "score": 360.06399999999996
+  },
+  {
+    "slug": "clean-air-technology",
+    "name": "Clean Air Technology",
+    "revenue": 20000000000,
+    "market_cap": 68400000000,
+    "industry": "Industrial Equipment",
+    "product_count": 5,
+    "products": [
+      "cleanroom-facility",
+      "cleanroom-panels",
+      "cleanroom-training",
+      "dry-room-protocols",
+      "room-and-pillar-mining"
+    ],
+    "downstream_dependencies": 8,
+    "min_distance": 3,
+    "score": 357.736
+  },
+  {
+    "slug": "mecart",
+    "name": "Mecart",
+    "revenue": 20000000000,
+    "market_cap": 68400000000,
+    "industry": "Industrial Equipment",
+    "product_count": 5,
+    "products": [
+      "cleanroom-facility",
+      "cleanroom-panels",
+      "cleanroom-training",
+      "dry-room-protocols",
+      "room-and-pillar-mining"
+    ],
+    "downstream_dependencies": 8,
+    "min_distance": 3,
+    "score": 357.736
+  },
+  {
+    "slug": "terra-universal",
+    "name": "Terra Universal",
+    "revenue": 20000000000,
+    "market_cap": 68400000000,
+    "industry": "Industrial Equipment",
+    "product_count": 5,
+    "products": [
+      "cleanroom-facility",
+      "cleanroom-panels",
+      "cleanroom-training",
+      "dry-room-protocols",
+      "room-and-pillar-mining"
+    ],
+    "downstream_dependencies": 8,
+    "min_distance": 3,
+    "score": 357.736
+  },
+  {
+    "slug": "freeport-mcmoran",
+    "name": "Freeport-McMoRan",
+    "revenue": 22900000000,
+    "market_cap": 67000000000,
+    "industry": "Mining & Metals",
+    "product_count": 3,
+    "products": [
+      "copper-metal",
+      "copper-concentrate",
+      "gold-ore"
+    ],
+    "downstream_dependencies": 10,
+    "min_distance": 3,
+    "score": 357.68
+  },
+  {
+    "slug": "arburg",
+    "name": "Arburg",
+    "revenue": 4000000000,
+    "market_cap": 13680000000,
+    "industry": "Industrial Equipment",
+    "product_count": 1,
+    "products": [
+      "injection-molding-machine"
+    ],
+    "downstream_dependencies": 12,
+    "min_distance": 3,
+    "score": 355.5472
+  },
+  {
+    "slug": "norsk-hydro",
+    "name": "Norsk Hydro",
+    "revenue": 28000000000,
+    "market_cap": 95760000000,
+    "industry": "Industrial Equipment",
+    "product_count": 5,
+    "products": [
+      "aluminum-alloy-element",
+      "aluminum-chamber",
+      "aluminum-enclosure",
+      "aluminum-extrusion",
+      "aluminum-ingot"
+    ],
+    "downstream_dependencies": 8,
+    "min_distance": 4,
+    "score": 348.8304
+  },
+  {
+    "slug": "contract-labor",
+    "name": "Contract Labor",
+    "revenue": 12000000000,
+    "market_cap": 41399999999,
+    "industry": "Chemicals",
+    "product_count": 2,
+    "products": [
+      "chemical-workers",
+      "wafer-workers"
+    ],
+    "downstream_dependencies": 11,
+    "min_distance": 4,
+    "score": 346.65599999996
+  },
+  {
+    "slug": "staffing-agencies",
+    "name": "Staffing Agencies",
+    "revenue": 12000000000,
+    "market_cap": 41399999999,
+    "industry": "Chemicals",
+    "product_count": 2,
+    "products": [
+      "chemical-workers",
+      "wafer-workers"
+    ],
+    "downstream_dependencies": 11,
+    "min_distance": 4,
+    "score": 346.65599999996
+  },
+  {
+    "slug": "cisco",
+    "name": "Cisco",
+    "revenue": 24000000000,
+    "market_cap": 82080000000,
+    "industry": "Industrial Equipment",
+    "product_count": 5,
+    "products": [
+      "bgp-router",
+      "network-infrastructure",
+      "networking-lab-setup",
+      "professional-network-certifications",
+      "enterprise-router-hardware"
+    ],
+    "downstream_dependencies": 7,
+    "min_distance": 2,
+    "score": 343.28319999999997
+  },
+  {
+    "slug": "alfa-laval",
+    "name": "Alfa Laval",
+    "revenue": 136000000000,
+    "market_cap": 461040000000,
+    "industry": "Mining & Metals",
+    "product_count": 5,
+    "products": [
+      "air-separation-unit",
+      "bcd-process",
+      "bicmos-process",
+      "chemical-processing-facility",
+      "cil-process"
+    ],
+    "downstream_dependencies": 7,
+    "min_distance": 4,
+    "score": 338.4416
+  },
+  {
+    "slug": "gea",
+    "name": "GEA",
+    "revenue": 136000000000,
+    "market_cap": 461040000000,
+    "industry": "Mining & Metals",
+    "product_count": 5,
+    "products": [
+      "air-separation-unit",
+      "bcd-process",
+      "bicmos-process",
+      "chemical-processing-facility",
+      "cil-process"
+    ],
+    "downstream_dependencies": 7,
+    "min_distance": 4,
+    "score": 338.4416
+  },
+  {
+    "slug": "anthropic",
+    "name": "Anthropic",
+    "revenue": 21000000000,
+    "market_cap": 78750000000,
+    "industry": "Software & Services",
+    "product_count": 5,
+    "products": [
+      "ai-researchers",
+      "claude-ai-model",
+      "claude-code",
+      "cli-software-command-line-interface",
+      "security-infrastructure"
+    ],
+    "downstream_dependencies": 6,
+    "min_distance": 0,
+    "score": 338.15
+  },
+  {
+    "slug": "jabil",
+    "name": "Jabil",
+    "revenue": 30000000000,
+    "market_cap": 94950000000,
+    "industry": "Electronics Manufacturing",
+    "product_count": 3,
+    "products": [
+      "metal-brackets",
+      "pcb-assembly",
+      "thermoplastic-component-molding"
+    ],
+    "downstream_dependencies": 9,
+    "min_distance": 3,
+    "score": 333.798
+  },
+  {
+    "slug": "sabic",
+    "name": "SABIC",
+    "revenue": 3500000000,
+    "market_cap": 11707500000,
+    "industry": "Materials & Plastics",
+    "product_count": 1,
+    "products": [
+      "thermoplastic-resin"
+    ],
+    "downstream_dependencies": 11,
+    "min_distance": 3,
+    "score": 330.4683
+  },
+  {
+    "slug": "harwin",
+    "name": "Harwin",
+    "revenue": 40000000000,
+    "market_cap": 136800000000,
+    "industry": "Industrial Equipment",
+    "product_count": 5,
+    "products": [
+      "acoustic-damping",
+      "clamping-unit",
+      "contact-pins",
+      "crimping-press",
+      "lapping-machine"
+    ],
+    "downstream_dependencies": 7,
+    "min_distance": 4,
+    "score": 325.472
+  },
+  {
+    "slug": "mill-max",
+    "name": "Mill-Max",
+    "revenue": 40000000000,
+    "market_cap": 136800000000,
+    "industry": "Industrial Equipment",
+    "product_count": 5,
+    "products": [
+      "acoustic-damping",
+      "clamping-unit",
+      "contact-pins",
+      "crimping-press",
+      "lapping-machine"
+    ],
+    "downstream_dependencies": 7,
+    "min_distance": 4,
+    "score": 325.472
+  },
+  {
+    "slug": "samtec",
+    "name": "Samtec",
+    "revenue": 40000000000,
+    "market_cap": 136800000000,
+    "industry": "Industrial Equipment",
+    "product_count": 5,
+    "products": [
+      "acoustic-damping",
+      "clamping-unit",
+      "contact-pins",
+      "crimping-press",
+      "lapping-machine"
+    ],
+    "downstream_dependencies": 7,
+    "min_distance": 4,
+    "score": 325.472
+  },
+  {
+    "slug": "agc",
+    "name": "AGC",
+    "revenue": 24000000000,
+    "market_cap": 82080000000,
+    "industry": "Industrial Equipment",
+    "product_count": 5,
+    "products": [
+      "cover-glass",
+      "fiberglass-cloth",
+      "glass-cloth",
+      "glass-fiber",
+      "glass-lined-reactor"
+    ],
+    "downstream_dependencies": 7,
+    "min_distance": 4,
+    "score": 323.28319999999997
+  },
+  {
+    "slug": "schott",
+    "name": "Schott",
+    "revenue": 24000000000,
+    "market_cap": 82080000000,
+    "industry": "Industrial Equipment",
+    "product_count": 5,
+    "products": [
+      "cover-glass",
+      "fiberglass-cloth",
+      "glass-cloth",
+      "glass-fiber",
+      "glass-lined-reactor"
+    ],
+    "downstream_dependencies": 7,
+    "min_distance": 4,
+    "score": 323.28319999999997
+  },
+  {
+    "slug": "haas",
+    "name": "Haas",
+    "revenue": 20000000000,
+    "market_cap": 68400000000,
+    "industry": "Industrial Equipment",
+    "product_count": 5,
+    "products": [
+      "cnc-controller",
+      "cnc-machining",
+      "cnc-programming",
+      "grinding-mill",
+      "rolling-mill"
+    ],
+    "downstream_dependencies": 7,
+    "min_distance": 4,
+    "score": 322.736
+  },
+  {
+    "slug": "mazak",
+    "name": "Mazak",
+    "revenue": 20000000000,
+    "market_cap": 68400000000,
+    "industry": "Industrial Equipment",
+    "product_count": 5,
+    "products": [
+      "cnc-controller",
+      "cnc-machining",
+      "cnc-programming",
+      "grinding-mill",
+      "rolling-mill"
+    ],
+    "downstream_dependencies": 7,
+    "min_distance": 4,
+    "score": 322.736
+  },
+  {
+    "slug": "gardner-denver",
+    "name": "Gardner Denver",
+    "revenue": 8000000000,
+    "market_cap": 27360000000,
+    "industry": "Industrial Equipment",
+    "product_count": 2,
+    "products": [
+      "centrifugal-compressor",
+      "industrial-compressor"
+    ],
+    "downstream_dependencies": 10,
+    "min_distance": 4,
+    "score": 321.0944
+  },
+  {
+    "slug": "ingersoll-rand",
+    "name": "Ingersoll Rand",
+    "revenue": 8000000000,
+    "market_cap": 27360000000,
+    "industry": "Industrial Equipment",
+    "product_count": 2,
+    "products": [
+      "centrifugal-compressor",
+      "industrial-compressor"
+    ],
+    "downstream_dependencies": 10,
+    "min_distance": 4,
+    "score": 321.0944
+  },
+  {
+    "slug": "juniper",
+    "name": "Juniper",
+    "revenue": 16000000000,
+    "market_cap": 54720000000,
+    "industry": "Industrial Equipment",
+    "product_count": 4,
+    "products": [
+      "bgp-router",
+      "network-infrastructure",
+      "professional-network-certifications",
+      "enterprise-router-hardware"
+    ],
+    "downstream_dependencies": 7,
+    "min_distance": 2,
+    "score": 317.1888
+  },
+  {
+    "slug": "nifco",
+    "name": "Nifco",
+    "revenue": 4000000000,
+    "market_cap": 13680000000,
+    "industry": "Industrial Equipment",
+    "product_count": 1,
+    "products": [
+      "metal-fasteners"
+    ],
+    "downstream_dependencies": 10,
+    "min_distance": 2,
+    "score": 315.5472
+  },
+  {
+    "slug": "penn-engineering",
+    "name": "Penn Engineering",
+    "revenue": 4000000000,
+    "market_cap": 13680000000,
+    "industry": "Industrial Equipment",
+    "product_count": 1,
+    "products": [
+      "metal-fasteners"
+    ],
+    "downstream_dependencies": 10,
+    "min_distance": 2,
+    "score": 315.5472
+  },
+  {
+    "slug": "sfs-group",
+    "name": "SFS Group",
+    "revenue": 4000000000,
+    "market_cap": 13680000000,
+    "industry": "Industrial Equipment",
+    "product_count": 1,
+    "products": [
+      "metal-fasteners"
+    ],
+    "downstream_dependencies": 10,
+    "min_distance": 2,
+    "score": 315.5472
+  },
+  {
+    "slug": "dell-technologies",
+    "name": "Dell Technologies",
+    "revenue": 8000000000,
+    "market_cap": 27360000000,
+    "industry": "Industrial Equipment",
+    "product_count": 2,
+    "products": [
+      "rack-servers",
+      "server-computer"
+    ],
+    "downstream_dependencies": 9,
+    "min_distance": 3,
+    "score": 306.0944
+  },
+  {
+    "slug": "universities",
+    "name": "Universities",
+    "revenue": 8000000000,
+    "market_cap": 27360000000,
+    "industry": "Industrial Equipment",
+    "product_count": 2,
+    "products": [
+      "computer-science-education",
+      "university-degree-programs"
+    ],
+    "downstream_dependencies": 9,
+    "min_distance": 3,
+    "score": 306.0944
+  },
+  {
+    "slug": "crowdstrike",
+    "name": "CrowdStrike",
+    "revenue": 3000000000,
+    "market_cap": 11250000000,
+    "industry": "Software & Services",
+    "product_count": 1,
+    "products": [
+      "security-software"
+    ],
+    "downstream_dependencies": 10,
+    "min_distance": 3,
+    "score": 305.45
+  },
+  {
+    "slug": "ipsen",
+    "name": "Ipsen",
+    "revenue": 48000000000,
+    "market_cap": 164160000000,
+    "industry": "Industrial Equipment",
+    "product_count": 5,
+    "products": [
+      "annealing-furnace",
+      "arc-furnace",
+      "calcination-furnace",
+      "electric-arc-furnace",
+      "heat-treatment-furnace"
+    ],
+    "downstream_dependencies": 6,
+    "min_distance": 4,
+    "score": 301.5664
+  },
+  {
+    "slug": "lindberg",
+    "name": "Lindberg",
+    "revenue": 48000000000,
+    "market_cap": 164160000000,
+    "industry": "Industrial Equipment",
+    "product_count": 5,
+    "products": [
+      "annealing-furnace",
+      "arc-furnace",
+      "calcination-furnace",
+      "electric-arc-furnace",
+      "heat-treatment-furnace"
+    ],
+    "downstream_dependencies": 6,
+    "min_distance": 4,
+    "score": 301.5664
+  },
+  {
+    "slug": "mph",
+    "name": "MPH",
+    "revenue": 48000000000,
+    "market_cap": 164160000000,
+    "industry": "Industrial Equipment",
+    "product_count": 5,
+    "products": [
+      "annealing-furnace",
+      "arc-furnace",
+      "calcination-furnace",
+      "electric-arc-furnace",
+      "heat-treatment-furnace"
+    ],
+    "downstream_dependencies": 6,
+    "min_distance": 4,
+    "score": 301.5664
+  },
+  {
+    "slug": "surface-combustion",
+    "name": "Surface Combustion",
+    "revenue": 48000000000,
+    "market_cap": 164160000000,
+    "industry": "Industrial Equipment",
+    "product_count": 5,
+    "products": [
+      "annealing-furnace",
+      "arc-furnace",
+      "calcination-furnace",
+      "electric-arc-furnace",
+      "heat-treatment-furnace"
+    ],
+    "downstream_dependencies": 6,
+    "min_distance": 4,
+    "score": 301.5664
+  },
+  {
+    "slug": "posco",
+    "name": "POSCO",
+    "revenue": 36000000000,
+    "market_cap": 123120000000,
+    "industry": "Industrial Equipment",
+    "product_count": 5,
+    "products": [
+      "stainless-steel-body",
+      "stainless-steel-chamber",
+      "stainless-steel-coil",
+      "steel-die",
+      "steel-frame"
+    ],
+    "downstream_dependencies": 6,
+    "min_distance": 4,
+    "score": 299.9248
+  },
+  {
+    "slug": "edwards",
+    "name": "Edwards",
+    "revenue": 32000000000,
+    "market_cap": 109440000000,
+    "industry": "Industrial Equipment",
+    "product_count": 5,
+    "products": [
+      "ultra-high-vacuum",
+      "vacuum-chamber",
+      "vacuum-chuck",
+      "vacuum-evaporator",
+      "vacuum-laminator"
+    ],
+    "downstream_dependencies": 6,
+    "min_distance": 4,
+    "score": 299.37760000000003
+  },
+  {
+    "slug": "leybold",
+    "name": "Leybold",
+    "revenue": 32000000000,
+    "market_cap": 109440000000,
+    "industry": "Industrial Equipment",
+    "product_count": 5,
+    "products": [
+      "ultra-high-vacuum",
+      "vacuum-chamber",
+      "vacuum-chuck",
+      "vacuum-evaporator",
+      "vacuum-laminator"
+    ],
+    "downstream_dependencies": 6,
+    "min_distance": 4,
+    "score": 299.37760000000003
+  },
+  {
+    "slug": "pfeiffer",
+    "name": "Pfeiffer",
+    "revenue": 32000000000,
+    "market_cap": 109440000000,
+    "industry": "Industrial Equipment",
+    "product_count": 5,
+    "products": [
+      "ultra-high-vacuum",
+      "vacuum-chamber",
+      "vacuum-chuck",
+      "vacuum-evaporator",
+      "vacuum-laminator"
+    ],
+    "downstream_dependencies": 6,
+    "min_distance": 4,
+    "score": 299.37760000000003
+  },
+  {
+    "slug": "bhp",
+    "name": "BHP",
+    "revenue": 16000000000,
+    "market_cap": 54240000000,
+    "industry": "Mining & Metals",
+    "product_count": 2,
+    "products": [
+      "copper-concentrate",
+      "copper-ore"
+    ],
+    "downstream_dependencies": 9,
+    "min_distance": 4,
+    "score": 297.1696
+  },
+  {
+    "slug": "metallurgical-equipment-supplier",
+    "name": "Metallurgical Equipment Supplier",
+    "revenue": 72000000000,
+    "market_cap": 244079999999,
+    "industry": "Mining & Metals",
+    "product_count": 5,
+    "products": [
+      "arc-furnace",
+      "electric-arc-furnace",
+      "fluidized-bed-roaster",
+      "gold-smelter",
+      "lead-blast-furnace"
+    ],
+    "downstream_dependencies": 6,
+    "min_distance": 5,
+    "score": 294.76319999995997
+  },
+  {
+    "slug": "lumileds",
+    "name": "Lumileds",
+    "revenue": 150000000000,
+    "market_cap": 607500000000,
+    "industry": "Semiconductors",
+    "product_count": 5,
+    "products": [
+      "clean-led-lights",
+      "led-driver",
+      "led-lighting",
+      "led-pcb-strip",
+      "led-pcb"
+    ],
+    "downstream_dependencies": 5,
+    "min_distance": 4,
+    "score": 294.3
+  },
+  {
+    "slug": "nichia",
+    "name": "Nichia",
+    "revenue": 150000000000,
+    "market_cap": 607500000000,
+    "industry": "Semiconductors",
+    "product_count": 5,
+    "products": [
+      "clean-led-lights",
+      "led-driver",
+      "led-lighting",
+      "led-pcb-strip",
+      "led-pcb"
+    ],
+    "downstream_dependencies": 5,
+    "min_distance": 4,
+    "score": 294.3
+  },
+  {
+    "slug": "osram",
+    "name": "Osram",
+    "revenue": 150000000000,
+    "market_cap": 607500000000,
+    "industry": "Semiconductors",
+    "product_count": 5,
+    "products": [
+      "clean-led-lights",
+      "led-driver",
+      "led-lighting",
+      "led-pcb-strip",
+      "led-pcb"
+    ],
+    "downstream_dependencies": 5,
+    "min_distance": 4,
+    "score": 294.3
+  },
+  {
+    "slug": "delta-electronics",
+    "name": "Delta Electronics",
+    "revenue": 28000000000,
+    "market_cap": 93660000000,
+    "industry": "Materials & Plastics",
+    "product_count": 5,
+    "products": [
+      "ac-adapter",
+      "ac-dc-converter",
+      "cooling-fan",
+      "fan-housing",
+      "plastic-fan-impeller"
+    ],
+    "downstream_dependencies": 5,
+    "min_distance": 2,
+    "score": 293.7464
+  },
+  {
+    "slug": "github",
+    "name": "GitHub",
+    "revenue": 12000000000,
+    "market_cap": 45000000000,
+    "industry": "Software & Services",
+    "product_count": 4,
+    "products": [
+      "code-repositories",
+      "github-repository",
+      "npm-package-registry",
+      "open-source-software-communities"
+    ],
+    "downstream_dependencies": 6,
+    "min_distance": 2,
+    "score": 291.8
+  },
+  {
+    "slug": "equinix",
+    "name": "Equinix",
+    "revenue": 8000000000,
+    "market_cap": 27360000000,
+    "industry": "Industrial Equipment",
+    "product_count": 2,
+    "products": [
+      "data-center",
+      "datacenter-infrastructure"
+    ],
+    "downstream_dependencies": 8,
+    "min_distance": 2,
+    "score": 291.0944
+  },
+  {
+    "slug": "cloud-providers",
+    "name": "Cloud Providers",
+    "revenue": 4000000000,
+    "market_cap": 13680000000,
+    "industry": "Industrial Equipment",
+    "product_count": 1,
+    "products": [
+      "network-engineers"
+    ],
+    "downstream_dependencies": 9,
+    "min_distance": 2,
+    "score": 290.5472
+  },
+  {
+    "slug": "enterprises",
+    "name": "Enterprises",
+    "revenue": 4000000000,
+    "market_cap": 13680000000,
+    "industry": "Industrial Equipment",
+    "product_count": 1,
+    "products": [
+      "network-engineers"
+    ],
+    "downstream_dependencies": 9,
+    "min_distance": 2,
+    "score": 290.5472
+  }
+]
