@@ -1,6 +1,6 @@
 ---
 title: "Slurry Filtration"
-company: "Various Manufacturers"
+company: "Pall / Parker / Donaldson"
 country: "Global"
 selling_price: 8
 inputs:

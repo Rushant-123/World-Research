@@ -1,6 +1,6 @@
 ---
 title: "Coolant System"
-company: "Various Manufacturers"
+company: "Castrol / Quaker / Fuchs"
 country: "Global"
 selling_price: 45
 inputs:

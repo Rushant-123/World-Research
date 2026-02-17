@@ -1,6 +1,6 @@
 ---
 title: "Image Processing"
-company: "Various Manufacturers"
+company: "GEA / Alfa Laval / SPX Flow"
 country: "Global"
 selling_price: 0
 inputs:

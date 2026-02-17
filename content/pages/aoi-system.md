@@ -1,6 +1,6 @@
 ---
 title: "Aoi System"
-company: "Various Manufacturers"
+company: "Koh Young / Omron / Mirtec"
 country: "Global"
 selling_price: 45
 inputs:

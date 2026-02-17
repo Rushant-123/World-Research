@@ -1,6 +1,6 @@
 ---
 title: "Forming Die"
-company: "Various Manufacturers"
+company: "Schuler / Trumpf / Amada"
 country: "Global"
 selling_price: 8
 inputs:

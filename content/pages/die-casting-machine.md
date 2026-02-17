@@ -1,6 +1,6 @@
 ---
 title: "Die Casting Machine"
-company: "Various Manufacturers"
+company: "Hunter / Inductotherm / ABP Induction"
 country: "Global"
 selling_price: 45
 inputs:

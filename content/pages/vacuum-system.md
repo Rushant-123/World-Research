@@ -1,6 +1,6 @@
 ---
 title: "Vacuum System"
-company: "Industrial Equipment Manufacturer"
+company: "Edwards / Pfeiffer / Leybold"
 country: "Global"
 selling_price: 120
 inputs:

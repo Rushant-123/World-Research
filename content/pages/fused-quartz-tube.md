@@ -1,6 +1,6 @@
 ---
 title: "Fused Quartz Tube"
-company: "Various Manufacturers"
+company: "Tenaris / Vallourec / TMK"
 country: "Global"
 selling_price: 8
 inputs:

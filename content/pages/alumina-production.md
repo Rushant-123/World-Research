@@ -1,6 +1,6 @@
 ---
 title: "Alumina Production"
-company: "Various Manufacturers"
+company: "Lindab / Sheet Metal Connectors / Spiral Manufacturing"
 country: "Global"
 selling_price: 0
 inputs:

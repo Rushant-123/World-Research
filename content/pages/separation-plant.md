@@ -1,6 +1,6 @@
 ---
 title: "Separation Plant"
-company: "Industrial Manufacturer"
+company: "Alfa Laval / GEA / Andritz"
 country: "Global"
 selling_price: 35
 inputs:

@@ -1,6 +1,6 @@
 ---
 title: "Cleanroom Facility"
-company: "Construction Companies / Contractors"
+company: "Clean Air Technology / Terra Universal / Mecart"
 country: "Various"
 selling_price: 80
 inputs:

@@ -1,6 +1,6 @@
 ---
 title: "Wood Pulp"
-company: "Various Manufacturers"
+company: "Suzano / Fibria / ARAUCO"
 country: "Global"
 selling_price: 8
 inputs:

@@ -1,6 +1,6 @@
 ---
 title: "Pick Place Head"
-company: "Various Manufacturers"
+company: "Fuji / Yamaha / Juki"
 country: "Global"
 selling_price: 8
 inputs:

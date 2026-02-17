@@ -1,6 +1,6 @@
 ---
 title: "Sand Washing"
-company: "Industrial Manufacturer"
+company: "Empire Abrasive / Wheelabrator / Clemco"
 country: "Global"
 selling_price: 35
 inputs:

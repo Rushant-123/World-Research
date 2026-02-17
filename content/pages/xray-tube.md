@@ -1,6 +1,6 @@
 ---
 title: "Xray Tube"
-company: "Various Manufacturers"
+company: "Tenaris / Vallourec / TMK"
 country: "Global"
 selling_price: 8
 inputs:

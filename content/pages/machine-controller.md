@@ -1,6 +1,6 @@
 ---
 title: "Machine Controller"
-company: "Various Manufacturers"
+company: "Siemens / Allen-Bradley / Emerson"
 country: "Global"
 selling_price: 45
 inputs:

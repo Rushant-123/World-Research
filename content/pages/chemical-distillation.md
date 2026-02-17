@@ -1,6 +1,6 @@
 ---
 title: "Chemical Distillation"
-company: "Chemical Processing Company"
+company: "Sulzer / Koch-Glitsch / Montz"
 country: "Global"
 selling_price: 35
 inputs:

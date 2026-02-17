@@ -1,6 +1,6 @@
 ---
 title: "Plate Fin Exchanger"
-company: "Various Manufacturers"
+company: "ArcelorMittal / Nippon Steel / ThyssenKrupp"
 country: "Global"
 selling_price: 8
 inputs:

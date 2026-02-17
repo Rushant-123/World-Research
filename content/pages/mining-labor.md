@@ -1,6 +1,6 @@
 ---
 title: "Mining Labor"
-company: "Mining Companies"
+company: "ManpowerGroup / Randstad / Adecco"
 country: "Various"
 selling_price: 0.5
 inputs:

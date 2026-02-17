@@ -1,6 +1,6 @@
 ---
 title: "Photolithography Equipment"
-company: "Various Manufacturers"
+company: "ASML / Nikon / Canon"
 country: "Global"
 selling_price: 45
 inputs:

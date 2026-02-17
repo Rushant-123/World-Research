@@ -1,6 +1,6 @@
 ---
 title: "Process Engineers"
-company: "Various Engineering Firms / Consulting Companies / OEM Staff"
+company: "GEA / Alfa Laval / SPX Flow"
 country: "Global"
 selling_price: 0
 inputs:

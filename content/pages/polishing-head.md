@@ -1,6 +1,6 @@
 ---
 title: "Polishing Head"
-company: "Various Manufacturers"
+company: "Buehler / Struers / Lapmaster Wolters"
 country: "Global"
 selling_price: 8
 inputs:

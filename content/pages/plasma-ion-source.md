@@ -1,6 +1,6 @@
 ---
 title: "Plasma Ion Source"
-company: "Various Manufacturers"
+company: "Hypertherm / ESAB / Kjellberg"
 country: "Global"
 selling_price: 8
 inputs:

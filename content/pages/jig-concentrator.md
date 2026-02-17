@@ -1,6 +1,6 @@
 ---
 title: "Jig Concentrator"
-company: "Industrial Manufacturer"
+company: "Carr Lane / Jergens / TE-CO"
 country: "Global"
 selling_price: 35
 inputs:

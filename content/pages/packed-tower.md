@@ -1,6 +1,6 @@
 ---
 title: "Packed Tower"
-company: "Industrial Manufacturer"
+company: "SPX / Baltimore Aircoil / Evapco"
 country: "Global"
 selling_price: 35
 inputs:

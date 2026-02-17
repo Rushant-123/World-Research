@@ -1,6 +1,6 @@
 ---
 title: "Surface Profiler"
-company: "Various Manufacturers"
+company: "Atotech / MacDermid / Uyemura"
 country: "Global"
 selling_price: 8
 inputs:

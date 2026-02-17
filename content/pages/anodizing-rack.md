@@ -1,6 +1,6 @@
 ---
 title: "Anodizing Rack"
-company: "Various Manufacturers"
+company: "Technic / MacDermid / Coventya"
 country: "Global"
 selling_price: 8
 inputs:

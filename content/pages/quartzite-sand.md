@@ -1,6 +1,6 @@
 ---
 title: "Quartzite Sand"
-company: "Mining Companies"
+company: "Empire Abrasive / Wheelabrator / Clemco"
 country: "Various"
 selling_price: 1
 inputs:

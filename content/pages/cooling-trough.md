@@ -1,6 +1,6 @@
 ---
 title: "Cooling Trough"
-company: "Various Manufacturers"
+company: "SPX / Baltimore Aircoil / Evapco"
 country: "Global"
 selling_price: 8
 inputs:

@@ -1,6 +1,6 @@
 ---
 title: "Training Equipment"
-company: "Industrial Equipment Manufacturer"
+company: "Coursera / Udemy / LinkedIn Learning"
 country: "Global"
 selling_price: 120
 inputs:

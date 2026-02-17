@@ -1,6 +1,6 @@
 ---
 title: "Research Development"
-company: "Software Company"
+company: "Orbotech / Schmid / Chemcut"
 country: "United States"
 selling_price: 25
 inputs:

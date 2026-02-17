@@ -1,6 +1,6 @@
 ---
 title: "Electroplating Equipment"
-company: "Industrial Equipment Manufacturer"
+company: "Atotech / MacDermid / JCU"
 country: "Global"
 selling_price: 120
 inputs:

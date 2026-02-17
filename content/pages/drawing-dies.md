@@ -1,6 +1,6 @@
 ---
 title: "Drawing Dies"
-company: "Various Manufacturers"
+company: "Niehoff / Samp / Bartell"
 country: "Global"
 selling_price: 8
 inputs:

@@ -1,6 +1,6 @@
 ---
 title: "Sintering Process"
-company: "Various Manufacturers"
+company: "Cremer / Abbott / CM Furnaces"
 country: "Global"
 selling_price: 0
 inputs:

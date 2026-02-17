@@ -1,6 +1,6 @@
 ---
 title: "Safety Certification"
-company: "Various Manufacturers"
+company: "PMI / ASQ / ISA"
 country: "Global"
 selling_price: 8
 inputs:

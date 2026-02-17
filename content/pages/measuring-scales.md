@@ -1,6 +1,6 @@
 ---
 title: "Measuring Scales"
-company: "Various Manufacturers"
+company: "Zeiss / Mitutoyo / Hexagon"
 country: "Global"
 selling_price: 8
 inputs:

@@ -1,6 +1,6 @@
 ---
 title: "Test Handlers"
-company: "Various Manufacturers"
+company: "Keysight / National Instruments / Teradyne"
 country: "Global"
 selling_price: 8
 inputs:

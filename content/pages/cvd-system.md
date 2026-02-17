@@ -1,6 +1,6 @@
 ---
 title: "Cvd System"
-company: "Various Manufacturers"
+company: "Applied Materials / Lam Research / Tokyo Electron"
 country: "Global"
 selling_price: 45
 inputs:

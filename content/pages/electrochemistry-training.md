@@ -1,6 +1,6 @@
 ---
 title: "Electrochemistry Training"
-company: "Various Manufacturers"
+company: "Coursera / Udemy / LinkedIn Learning"
 country: "Global"
 selling_price: 0
 inputs:

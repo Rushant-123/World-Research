@@ -1,6 +1,6 @@
 ---
 title: "Butadiene Monomer"
-company: "Various Manufacturers"
+company: "Dayton Progress / Danly / Misumi"
 country: "Global"
 selling_price: 8
 inputs:

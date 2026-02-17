@@ -1,6 +1,6 @@
 ---
 title: "Vacuum Chuck"
-company: "Various Manufacturers"
+company: "Edwards / Pfeiffer / Leybold"
 country: "Global"
 selling_price: 8
 inputs:

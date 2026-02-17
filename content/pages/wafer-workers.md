@@ -1,6 +1,6 @@
 ---
 title: "Wafer Workers"
-company: "Various Employers / Contract Labor / Staffing Agencies"
+company: "Shin-Etsu / Sumco / GlobalWafers"
 country: "Global"
 selling_price: 0
 inputs:

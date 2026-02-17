@@ -1,6 +1,6 @@
 ---
 title: "Dwight Lloyd Sinter"
-company: "Industrial Manufacturer"
+company: "Cremer / Abbott / CM Furnaces"
 country: "Global"
 selling_price: 35
 inputs:

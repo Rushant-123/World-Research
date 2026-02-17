@@ -1,6 +1,6 @@
 ---
 title: "Bright Annealing"
-company: "Various Manufacturers"
+company: "Applied Materials / Screen / Tokyo Electron"
 country: "Global"
 selling_price: 8
 inputs:

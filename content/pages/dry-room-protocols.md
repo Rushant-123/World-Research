@@ -1,6 +1,6 @@
 ---
 title: "Dry Room Protocols"
-company: "Various Manufacturers"
+company: "Clean Air Technology / Terra Universal / Mecart"
 country: "Global"
 selling_price: 8
 inputs:

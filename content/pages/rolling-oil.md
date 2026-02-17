@@ -1,6 +1,6 @@
 ---
 title: "Rolling Oil"
-company: "Various Manufacturers"
+company: "SMS group / Primetals / Danieli"
 country: "Global"
 selling_price: 8
 inputs:

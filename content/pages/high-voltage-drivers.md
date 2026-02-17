@@ -1,6 +1,6 @@
 ---
 title: "High Voltage Drivers"
-company: "Various Manufacturers"
+company: "ABB / Siemens / Danfoss"
 country: "Global"
 selling_price: 8
 inputs:

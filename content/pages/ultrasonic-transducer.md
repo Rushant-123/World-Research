@@ -1,6 +1,6 @@
 ---
 title: "Ultrasonic Transducer"
-company: "Various Manufacturers"
+company: "Herrmann Ultrasonics / Branson / Rinco"
 country: "Global"
 selling_price: 8
 inputs:

@@ -1,6 +1,6 @@
 ---
 title: "Solder Flux"
-company: "Industrial Manufacturer"
+company: "Taiyo / Uyemura / Electra Polymers"
 country: "Global"
 selling_price: 35
 inputs:

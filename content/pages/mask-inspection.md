@@ -1,6 +1,6 @@
 ---
 title: "Mask Inspection"
-company: "Various Manufacturers"
+company: "KLA / Applied Materials / Hitachi"
 country: "Global"
 selling_price: 8
 inputs:

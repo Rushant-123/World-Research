@@ -1,6 +1,6 @@
 ---
 title: "Fusion Draw"
-company: "Various Manufacturers"
+company: "Tokyo Electron / Kokusai Electric / Centrotherm"
 country: "Global"
 selling_price: 8
 inputs:

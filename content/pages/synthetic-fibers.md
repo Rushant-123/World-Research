@@ -1,6 +1,6 @@
 ---
 title: "Synthetic Fibers"
-company: "Various Manufacturers"
+company: "DuPont / Toray / Teijin"
 country: "Global"
 selling_price: 8
 inputs:

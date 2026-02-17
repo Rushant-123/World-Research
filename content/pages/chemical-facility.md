@@ -1,6 +1,6 @@
 ---
 title: "Chemical Processing Facility"
-company: "Various Chemical Companies"
+company: "GEA / Alfa Laval / SPX Flow"
 country: "Global"
 selling_price: 850
 inputs:

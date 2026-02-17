@@ -1,6 +1,6 @@
 ---
 title: "Co2 Laser"
-company: "Various Manufacturers"
+company: "Trumpf / Bystronic / Mazak"
 country: "Global"
 selling_price: 8
 inputs:

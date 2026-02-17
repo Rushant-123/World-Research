@@ -1,6 +1,6 @@
 ---
 title: "Haptic Driver"
-company: "Semiconductor Manufacturer"
+company: "ABB / Siemens / Danfoss"
 country: "Taiwan"
 selling_price: 2.5
 inputs:

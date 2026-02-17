@@ -1,6 +1,6 @@
 ---
 title: "Crude Distillation Tower"
-company: "Various Manufacturers"
+company: "Sulzer / Koch-Glitsch / Montz"
 country: "Global"
 selling_price: 8
 inputs:

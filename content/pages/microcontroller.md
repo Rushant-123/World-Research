@@ -1,6 +1,6 @@
 ---
 title: "Microcontroller"
-company: "Various Manufacturers"
+company: "Siemens / Allen-Bradley / Emerson"
 country: "Global"
 selling_price: 8
 inputs:

@@ -1,6 +1,6 @@
 ---
 title: "Exposure System"
-company: "Various Manufacturers"
+company: "Orbotech / Miva / Adeon"
 country: "Global"
 selling_price: 45
 inputs:

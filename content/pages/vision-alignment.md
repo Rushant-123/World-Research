@@ -1,6 +1,6 @@
 ---
 title: "Vision Alignment"
-company: "Various Manufacturers"
+company: "Cognex / Keyence / Omron"
 country: "Global"
 selling_price: 8
 inputs:

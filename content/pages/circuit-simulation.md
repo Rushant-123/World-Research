@@ -1,6 +1,6 @@
 ---
 title: "Circuit Simulation"
-company: "Industrial Manufacturer"
+company: "ABB / Schneider Electric / Eaton"
 country: "Global"
 selling_price: 35
 inputs:

@@ -1,6 +1,6 @@
 ---
 title: "Quenching Medium"
-company: "Various Manufacturers"
+company: "Ipsen / AFC-Holcroft / ALD"
 country: "Global"
 selling_price: 8
 inputs:

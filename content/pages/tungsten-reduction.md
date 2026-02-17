@@ -1,6 +1,6 @@
 ---
 title: "Tungsten Reduction"
-company: "Various Manufacturers"
+company: "Lindab / Sheet Metal Connectors / Spiral Manufacturing"
 country: "Global"
 selling_price: 8
 inputs:

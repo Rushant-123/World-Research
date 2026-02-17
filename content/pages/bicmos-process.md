@@ -1,6 +1,6 @@
 ---
 title: "Bicmos Process"
-company: "Various Manufacturers"
+company: "GEA / Alfa Laval / SPX Flow"
 country: "Global"
 selling_price: 8
 inputs:

@@ -1,6 +1,6 @@
 ---
 title: "Acoustic Testing Training"
-company: "Various Manufacturers"
+company: "Coursera / Udemy / LinkedIn Learning"
 country: "Global"
 selling_price: 8
 inputs:

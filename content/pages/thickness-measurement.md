@@ -1,6 +1,6 @@
 ---
 title: "Thickness Measurement"
-company: "Various Manufacturers"
+company: "Fischer / Elcometer / DeFelsko"
 country: "Global"
 selling_price: 8
 inputs:

@@ -1,6 +1,6 @@
 ---
 title: "Cutting Equipment"
-company: "Industrial Equipment Manufacturer"
+company: "Trumpf / Bystronic / Mazak"
 country: "Global"
 selling_price: 120
 inputs:

@@ -1,6 +1,6 @@
 ---
 title: "Charging Coil"
-company: "Industrial Manufacturer"
+company: "ArcelorMittal / Nippon Steel / POSCO"
 country: "Global"
 selling_price: 35
 inputs:

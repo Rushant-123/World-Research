@@ -1,6 +1,6 @@
 ---
 title: "Lamination Equipment"
-company: "Various Manufacturers"
+company: "Burkle / Lauffer / Kitagawa"
 country: "Global"
 selling_price: 45
 inputs:

@@ -1,6 +1,6 @@
 ---
 title: "Tap Water"
-company: "Various Manufacturers"
+company: "Flow / OMAX / KMT"
 country: "Global"
 selling_price: 8
 inputs:

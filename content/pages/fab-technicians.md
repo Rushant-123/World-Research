@@ -1,6 +1,6 @@
 ---
 title: "Fab Technicians"
-company: "Various Service Companies / OEM Support / Third-party Services"
+company: "Applied Materials / Tokyo Electron / ASML"
 country: "Global"
 selling_price: 8
 inputs:

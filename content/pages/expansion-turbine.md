@@ -1,6 +1,6 @@
 ---
 title: "Expansion Turbine"
-company: "Various Manufacturers"
+company: "GE / Siemens / Mitsubishi Heavy Industries"
 country: "Global"
 selling_price: 8
 inputs:

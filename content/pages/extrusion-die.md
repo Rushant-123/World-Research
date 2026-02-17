@@ -1,6 +1,6 @@
 ---
 title: "Extrusion Die"
-company: "Various Manufacturers"
+company: "SMS group / Danieli / Presezzi"
 country: "Global"
 selling_price: 8
 inputs:

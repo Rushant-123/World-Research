@@ -1,6 +1,6 @@
 ---
 title: "Precision Mold"
-company: "Various Manufacturers"
+company: "DME / Hasco / Meusburger"
 country: "Global"
 selling_price: 8
 inputs:

@@ -1,6 +1,6 @@
 ---
 title: "Power Plant"
-company: "Utilities / Energy Companies"
+company: "Applied Materials / Axcelis / Ion Beam Applications"
 country: "Various"
 selling_price: 0.8
 inputs:

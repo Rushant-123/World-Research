@@ -1,6 +1,6 @@
 ---
 title: "Dimming Driver"
-company: "Industrial Manufacturer"
+company: "ABB / Siemens / Danfoss"
 country: "Global"
 selling_price: 35
 inputs:

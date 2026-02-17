@@ -1,6 +1,6 @@
 ---
 title: "Silica Sand"
-company: "Various Manufacturers"
+company: "Empire Abrasive / Wheelabrator / Clemco"
 country: "Global"
 selling_price: 8
 inputs:

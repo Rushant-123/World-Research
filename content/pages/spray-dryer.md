@@ -1,6 +1,6 @@
 ---
 title: "Spray Dryer"
-company: "Industrial Manufacturer"
+company: "Graco / Wagner / Kremlin Rexson"
 country: "Global"
 selling_price: 35
 inputs:

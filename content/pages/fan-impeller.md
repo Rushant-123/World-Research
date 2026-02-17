@@ -1,6 +1,6 @@
 ---
 title: "Fan Impeller"
-company: "Industrial Manufacturer"
+company: "Ziehl-Abegg / ebm-papst / Systemair"
 country: "Global"
 selling_price: 35
 inputs:

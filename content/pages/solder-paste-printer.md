@@ -1,6 +1,6 @@
 ---
 title: "Solder Paste Printer"
-company: "Various Manufacturers"
+company: "Taiyo / Uyemura / Electra Polymers"
 country: "Global"
 selling_price: 8
 inputs:

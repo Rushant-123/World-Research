@@ -1,6 +1,6 @@
 ---
 title: "Laser System"
-company: "Various Manufacturers"
+company: "Trumpf / Bystronic / Mazak"
 country: "Global"
 selling_price: 45
 inputs:

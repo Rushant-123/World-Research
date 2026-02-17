@@ -1,6 +1,6 @@
 ---
 title: "Film Extrusion"
-company: "Various Manufacturers"
+company: "SMS group / Danieli / Presezzi"
 country: "Global"
 selling_price: 4
 inputs:

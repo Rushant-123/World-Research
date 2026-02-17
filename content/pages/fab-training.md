@@ -1,6 +1,6 @@
 ---
 title: "Fab Training"
-company: "Various Manufacturers"
+company: "Applied Materials / Tokyo Electron / ASML"
 country: "Global"
 selling_price: 0
 inputs:

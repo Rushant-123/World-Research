@@ -1,6 +1,6 @@
 ---
 title: "Academic Papers"
-company: "Various Academic Publishers"
+company: "International Paper / UPM / Stora Enso"
 country: "Various"
 selling_price: 35.00
 inputs:

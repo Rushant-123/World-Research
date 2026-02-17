@@ -1,6 +1,6 @@
 ---
 title: "Dome Fabric"
-company: "Various Manufacturers"
+company: "Applied Materials / Tokyo Electron / ASML"
 country: "Global"
 selling_price: 8
 inputs:

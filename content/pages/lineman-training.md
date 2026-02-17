@@ -1,6 +1,6 @@
 ---
 title: "Lineman Training"
-company: "Various Employers"
+company: "Coursera / Udemy / LinkedIn Learning"
 country: "Global"
 selling_price: 45
 inputs:

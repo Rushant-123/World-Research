@@ -1,6 +1,6 @@
 ---
 title: "Mold Release"
-company: "Industrial Manufacturer"
+company: "DME / Hasco / Meusburger"
 country: "Global"
 selling_price: 35
 inputs:

@@ -1,6 +1,6 @@
 ---
 title: "Xray Tool"
-company: "Various Manufacturers"
+company: "Sandvik / Kennametal / Iscar"
 country: "Global"
 selling_price: 8
 inputs:

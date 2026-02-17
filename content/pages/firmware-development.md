@@ -1,6 +1,6 @@
 ---
 title: "Firmware Development"
-company: "Various Manufacturers"
+company: "Orbotech / Schmid / Chemcut"
 country: "Global"
 selling_price: 8
 inputs:

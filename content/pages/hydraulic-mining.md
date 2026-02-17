@@ -1,6 +1,6 @@
 ---
 title: "Hydraulic Mining"
-company: "Various Mining Companies"
+company: "Shell / Mobil / Castrol"
 country: "Global"
 selling_price: 15
 inputs:

@@ -1,6 +1,6 @@
 ---
 title: "Tool Grinding"
-company: "Various Manufacturers"
+company: "Buhler / Netzsch / Retsch"
 country: "Global"
 selling_price: 8
 inputs:

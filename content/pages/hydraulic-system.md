@@ -1,6 +1,6 @@
 ---
 title: "Hydraulic System"
-company: "Various Manufacturers"
+company: "Shell / Mobil / Castrol"
 country: "Global"
 selling_price: 45
 inputs:

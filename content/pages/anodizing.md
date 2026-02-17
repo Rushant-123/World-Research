@@ -1,6 +1,6 @@
 ---
 title: "Anodizing"
-company: "Industrial Manufacturer"
+company: "Technic / MacDermid / Coventya"
 country: "Global"
 selling_price: 35
 inputs:

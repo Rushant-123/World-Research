@@ -1,6 +1,6 @@
 ---
 title: "Chiller System"
-company: "Various Manufacturers"
+company: "Trane / Carrier / Johnson Controls"
 country: "Global"
 selling_price: 45
 inputs:

@@ -1,6 +1,6 @@
 ---
 title: "Carrier Grease"
-company: "Various Manufacturers"
+company: "ExxonMobil / Shell / Fuchs"
 country: "Global"
 selling_price: 8
 inputs:

@@ -1,6 +1,6 @@
 ---
 title: "Perlite Insulation"
-company: "Various Manufacturers"
+company: "Owens Corning / Rockwool / Saint-Gobain"
 country: "Global"
 selling_price: 8
 inputs:

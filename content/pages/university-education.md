@@ -1,6 +1,6 @@
 ---
 title: "University Education"
-company: "Various Universities"
+company: "Various Universities / Technical Schools / Online Platforms"
 country: "United States"
 selling_price: 50000.00
 inputs:

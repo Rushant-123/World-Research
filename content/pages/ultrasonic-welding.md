@@ -1,6 +1,6 @@
 ---
 title: "Ultrasonic Welding"
-company: "Various Manufacturers"
+company: "Lincoln Electric / Miller / ESAB"
 country: "Global"
 selling_price: 8
 inputs:

@@ -1,6 +1,6 @@
 ---
 title: "Electron Beam Lithography"
-company: "Various Manufacturers"
+company: "ASML / Nikon / Canon"
 country: "Global"
 selling_price: 8
 inputs:

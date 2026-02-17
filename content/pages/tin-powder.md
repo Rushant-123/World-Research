@@ -1,6 +1,6 @@
 ---
 title: "Tin Powder"
-company: "Various Manufacturers"
+company: "Gema / Wagner / Nordson"
 country: "Global"
 selling_price: 8
 inputs:

@@ -1,6 +1,6 @@
 ---
 title: "Electroplating Chemistry"
-company: "Various Manufacturers"
+company: "Atotech / MacDermid / JCU"
 country: "Global"
 selling_price: 8
 inputs:

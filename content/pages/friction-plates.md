@@ -1,6 +1,6 @@
 ---
 title: "Friction Plates"
-company: "Various Manufacturers"
+company: "Keysight / SPEA / Takaya"
 country: "Global"
 selling_price: 8
 inputs:

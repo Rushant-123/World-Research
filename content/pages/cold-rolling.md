@@ -1,6 +1,6 @@
 ---
 title: "Cold Rolling"
-company: "Various Manufacturers"
+company: "SMS group / Primetals / Danieli"
 country: "Global"
 selling_price: 8
 inputs:

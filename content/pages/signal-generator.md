@@ -1,6 +1,6 @@
 ---
 title: "Signal Generator"
-company: "Various Manufacturers"
+company: "Caterpillar / Cummins / Kohler"
 country: "Global"
 selling_price: 8
 inputs:

@@ -1,6 +1,6 @@
 ---
 title: "Test Fixtures"
-company: "Various Manufacturers"
+company: "Carr Lane / Jergens / TE-CO"
 country: "Global"
 selling_price: 8
 inputs:

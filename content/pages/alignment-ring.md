@@ -1,6 +1,6 @@
 ---
 title: "Alignment Ring"
-company: "Industrial Manufacturer"
+company: "TOS / Wotan / Union"
 country: "Global"
 selling_price: 35
 inputs:

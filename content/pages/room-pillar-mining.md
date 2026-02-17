@@ -1,6 +1,6 @@
 ---
 title: "Room and Pillar Mining"
-company: "Various Underground Mines"
+company: "Clean Air Technology / Terra Universal / Mecart"
 country: "Global"
 selling_price: 18
 inputs:

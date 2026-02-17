@@ -1,6 +1,6 @@
 ---
 title: "Wafer Cassettes"
-company: "Various Manufacturers"
+company: "Shin-Etsu / Sumco / GlobalWafers"
 country: "Global"
 selling_price: 8
 inputs:

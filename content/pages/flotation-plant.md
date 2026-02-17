@@ -1,6 +1,6 @@
 ---
 title: "Flotation Plant"
-company: "Industrial Manufacturer"
+company: "Applied Materials / Axcelis / Ion Beam Applications"
 country: "Global"
 selling_price: 35
 inputs:

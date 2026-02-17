@@ -1,6 +1,6 @@
 ---
 title: "Vacuum Evaporator"
-company: "Industrial Manufacturer"
+company: "Edwards / Pfeiffer / Leybold"
 country: "Global"
 selling_price: 35
 inputs:

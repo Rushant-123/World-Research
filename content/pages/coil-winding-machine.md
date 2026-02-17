@@ -1,6 +1,6 @@
 ---
 title: "Coil Winding Machine"
-company: "Various Manufacturers"
+company: "ArcelorMittal / Nippon Steel / POSCO"
 country: "Global"
 selling_price: 45
 inputs:

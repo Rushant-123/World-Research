@@ -1,6 +1,6 @@
 ---
 title: "Sulfur Polishing"
-company: "Industrial Manufacturer"
+company: "Buehler / Struers / Lapmaster Wolters"
 country: "Global"
 selling_price: 35
 inputs:

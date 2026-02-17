@@ -1,6 +1,6 @@
 ---
 title: "Electrical Engineering Degree"
-company: "Various Engineering Firms / Consulting Companies / OEM Staff"
+company: "Various Universities / Technical Institutes / Colleges"
 country: "Taiwan"
 selling_price: 2.5
 inputs:

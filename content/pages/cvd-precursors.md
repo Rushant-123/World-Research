@@ -1,6 +1,6 @@
 ---
 title: "Cvd Precursors"
-company: "Various Manufacturers"
+company: "Applied Materials / Lam Research / Tokyo Electron"
 country: "Global"
 selling_price: 8
 inputs:

@@ -1,6 +1,6 @@
 ---
 title: "Microstructure Tooling"
-company: "Semiconductor Manufacturer"
+company: "Sandvik / Kennametal / Iscar"
 country: "Taiwan"
 selling_price: 2.5
 inputs:

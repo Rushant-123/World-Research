@@ -1,6 +1,6 @@
 ---
 title: "Air Separation Unit"
-company: "Various Manufacturers"
+company: "Alfa Laval / GEA / Andritz"
 country: "Global"
 selling_price: 8
 inputs:

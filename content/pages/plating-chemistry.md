@@ -1,6 +1,6 @@
 ---
 title: "Plating Chemistry"
-company: "Industrial Manufacturer"
+company: "Atotech / MacDermid / JCU"
 country: "Global"
 selling_price: 35
 inputs:

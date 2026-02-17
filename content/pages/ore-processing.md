@@ -1,6 +1,6 @@
 ---
 title: "Ore Processing"
-company: "Chemical Processing Company"
+company: "GEA / Alfa Laval / SPX Flow"
 country: "Global"
 selling_price: 35
 inputs:

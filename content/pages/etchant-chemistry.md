@@ -1,6 +1,6 @@
 ---
 title: "Etchant Chemistry"
-company: "Various Manufacturers"
+company: "Chemcut / Schmid / PST"
 country: "Global"
 selling_price: 8
 inputs:

@@ -1,6 +1,6 @@
 ---
 title: "Iron Casting"
-company: "Industrial Manufacturer"
+company: "Hunter / Inductotherm / ABP Induction"
 country: "Global"
 selling_price: 35
 inputs:
