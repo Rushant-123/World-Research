@@ -23,6 +23,16 @@ inputs:
     cost: 0.2
     link: "precision-assembly-labor"
 value_created: 0.4
+lead_time_days: 60
+minimum_order_quantity: 5000
+transportation_method: "ocean"
+geopolitical_risk: "low"
+price_volatility: "medium"
+
+certifications:
+  - "ISO9001"
+  - "ISO14001"
+data_quality: "estimated"
 ---
 
 Voice coil motor (VCM) actuators provide precise linear motion control for autofocus mechanisms in smartphone and tablet camera modules. These electromagnetic actuators move the lens assembly along the optical axis with response times under 50 milliseconds and positioning accuracy within 2 micrometers. Manufacturing requires precision coil winding, magnet magnetization, spring suspension fabrication, and careful calibration of the electromagnetic force characteristics.

@@ -12,6 +12,16 @@ inputs:
     link: "chemical-facility"
 value_created: 25.000
 distance: 6
+lead_time_days: 44
+minimum_order_quantity: 100
+transportation_method: "ocean"
+geopolitical_risk: "low"
+price_volatility: "medium"
+
+certifications:
+  - "ISO9001"
+  - "ISO14001"
+data_quality: "estimated"
 ---
 
 1. Air separation is primary application

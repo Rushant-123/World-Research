@@ -14,6 +14,16 @@ inputs:
     cost: 0.5
     link: "security-software"
 value_created: 0.5
+lead_time_days: 44
+minimum_order_quantity: 5000
+transportation_method: "ocean"
+geopolitical_risk: "medium"
+price_volatility: "medium"
+
+certifications:
+  - "ISO9001"
+  - "ISO14001"
+data_quality: "estimated"
 ---
 
 WHOIS database services provide critical domain name registration information lookup capabilities for the global internet infrastructure. This distributed system enables users to query ownership and administrative details about domain names and IP address allocations.

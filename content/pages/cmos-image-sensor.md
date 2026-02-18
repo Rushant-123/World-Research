@@ -23,6 +23,16 @@ inputs:
     cost: 0.5
     link: "package-substrate"
 value_created: 3.5
+lead_time_days: 60
+minimum_order_quantity: 5000
+transportation_method: "ocean"
+geopolitical_risk: "low"
+price_volatility: "medium"
+
+certifications:
+  - "ISO9001"
+  - "ISO14001"
+data_quality: "estimated"
 ---
 
 A CMOS image sensor is a semiconductor device that converts photons into electrical signals for digital imaging. Modern CMOS sensors use backside illumination (BSI) technology with pixel pitches as small as 0.7 micrometers, achieving quantum efficiency above 80% and readout noise below 1.5 electrons RMS. These sensors integrate photodiode arrays, pixel transistors, analog-to-digital converters, and image signal processors on a single silicon die manufactured using advanced 45nm to 90nm process nodes.

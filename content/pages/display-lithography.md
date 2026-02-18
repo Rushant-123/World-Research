@@ -17,6 +17,16 @@ inputs:
     cost: 2.5
     link: "uv-light-source"
 value_created: 0.5
+lead_time_days: 60
+minimum_order_quantity: 1000
+transportation_method: "ocean"
+geopolitical_risk: "low"
+price_volatility: "medium"
+
+certifications:
+  - "ISO9001"
+  - "ISO14001"
+data_quality: "estimated"
 ---
 
 # Display Photolithography Equipment Manufacturing Process

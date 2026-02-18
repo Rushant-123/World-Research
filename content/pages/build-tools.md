@@ -14,6 +14,16 @@ inputs:
     cost: 0.0
     link: "open-source"
 value_created: 0.0
+lead_time_days: 74
+minimum_order_quantity: 10000
+transportation_method: "ocean"
+geopolitical_risk: "medium"
+price_volatility: "low"
+
+certifications:
+  - "ISO9001"
+  - "ISO14001"
+data_quality: "estimated"
 ---
 
 1. Study fundamental concepts of software compilation and linking processes

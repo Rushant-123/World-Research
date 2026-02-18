@@ -17,6 +17,16 @@ inputs:
     cost: 35
     link: "glass-lined-reactor"
 value_created: 30
+lead_time_days: 33
+minimum_order_quantity: 100
+transportation_method: "truck"
+geopolitical_risk: "low"
+price_volatility: "high"
+
+certifications:
+  - "ISO9001"
+  - "ISO14001"
+data_quality: "estimated"
 ---
 
 1. Receive high-purity silver metal shot or granules (99.9% Ag minimum)

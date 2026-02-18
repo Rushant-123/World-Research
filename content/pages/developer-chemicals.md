@@ -17,6 +17,16 @@ inputs:
     cost: 0.005
     link: "ph-adjusters"
 value_created: 0.01
+lead_time_days: 37
+minimum_order_quantity: 10000
+transportation_method: "ocean"
+geopolitical_risk: "low"
+price_volatility: "medium"
+
+certifications:
+  - "ISO9001"
+  - "ISO14001"
+data_quality: "estimated"
 ---
 
 # Photoresist Developer Manufacturing Process

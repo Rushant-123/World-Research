@@ -17,6 +17,16 @@ inputs:
     cost: 0.005
     link: "process-water"
 value_created: 0.03
+lead_time_days: 44
+minimum_order_quantity: 10000
+transportation_method: "ocean"
+geopolitical_risk: "medium"
+price_volatility: "medium"
+
+certifications:
+  - "ISO9001"
+  - "ISO14001"
+data_quality: "estimated"
 ---
 
 1. Receive natural gas supply through high-pressure pipeline at 500-800 psi inlet pressure

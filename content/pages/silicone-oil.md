@@ -23,6 +23,16 @@ inputs:
     cost: 0.15
     link: "measurement-tools"
 value_created: 2.15
+lead_time_days: 37
+minimum_order_quantity: 5000
+transportation_method: "ocean"
+geopolitical_risk: "low"
+price_volatility: "high"
+
+certifications:
+  - "ISO9001"
+  - "ISO14001"
+data_quality: "estimated"
 ---
 
 Silicone oil (polydimethylsiloxane, PDMS) is manufactured through hydrolysis and polymerization of dimethyldichlorosilane, producing fluids with viscosities ranging from 1 to 100,000 centistokes. These thermally stable, dielectrically excellent fluids serve as thermal interface materials, damping fluids in haptic engines, lubricants for precision mechanisms, and diffusion pump fluids. Shin-Etsu Chemical produces pharmaceutical and electronic-grade silicone oils with controlled molecular weight distributions and ultra-low volatility specifications.

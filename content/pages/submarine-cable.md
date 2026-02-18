@@ -29,6 +29,16 @@ inputs:
     cost: 13500000
     link: "marine-survey"
 value_created: 0
+lead_time_days: 43
+minimum_order_quantity: 1
+transportation_method: "air"
+geopolitical_risk: "low"
+price_volatility: "medium"
+
+certifications:
+  - "ISO9001"
+  - "ISO14001"
+data_quality: "estimated"
 ---
 
 # How to Make a Submarine Cable

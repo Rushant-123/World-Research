@@ -23,6 +23,16 @@ inputs:
     cost: 2.0
     link: "machinist-labor"
 value_created: 10.5
+lead_time_days: 60
+minimum_order_quantity: 1000
+transportation_method: "ocean"
+geopolitical_risk: "low"
+price_volatility: "medium"
+
+certifications:
+  - "ISO9001"
+  - "ISO14001"
+data_quality: "estimated"
 ---
 
 Environmental test chambers simulate extreme temperature, humidity, altitude, and other environmental conditions to validate product reliability and compliance with international standards. ESPEC Corporation manufactures precision chambers capable of -70°C to +180°C with controlled humidity, altitude simulation, and thermal shock capabilities.

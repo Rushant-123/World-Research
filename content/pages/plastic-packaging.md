@@ -14,6 +14,16 @@ inputs:
     cost: 0.02
     link: "esd-additives"
 value_created: 0.03
+lead_time_days: 33
+minimum_order_quantity: 10000
+transportation_method: "truck"
+geopolitical_risk: "medium"
+price_volatility: "medium"
+
+certifications:
+  - "ISO9001"
+  - "ISO14001"
+data_quality: "estimated"
 ---
 
 # Plastic Packaging Manufacturing Process

@@ -26,6 +26,16 @@ inputs:
     cost: 8000.0
     link: "assembly-labor"
 value_created: 2000.0
+lead_time_days: 96
+minimum_order_quantity: 1
+transportation_method: "air"
+geopolitical_risk: "medium"
+price_volatility: "low"
+
+certifications:
+  - "ISO9001"
+  - "ISO14001"
+data_quality: "estimated"
 ---
 
 ## Heat Load Calculation and Design Specification

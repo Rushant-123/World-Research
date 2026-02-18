@@ -23,6 +23,16 @@ inputs:
     cost: 18.0
     link: "machinist-labor"
 value_created: 60.0
+lead_time_days: 44
+minimum_order_quantity: 100
+transportation_method: "ocean"
+geopolitical_risk: "low"
+price_volatility: "medium"
+
+certifications:
+  - "ISO9001"
+  - "ISO14001"
+data_quality: "estimated"
 ---
 
 1. Design press frame structure for 500-ton capacity with C-frame or H-frame configuration based on application requirements and workspace constraints.

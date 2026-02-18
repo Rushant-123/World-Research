@@ -17,6 +17,16 @@ inputs:
     cost: 2.00
     link: "manufacturing-labor"
 value_created: 7.50
+lead_time_days: 33
+minimum_order_quantity: 1000
+transportation_method: "truck"
+geopolitical_risk: "medium"
+price_volatility: "medium"
+
+certifications:
+  - "ISO9001"
+  - "ISO14001"
+data_quality: "estimated"
 ---
 
 RF cable manufacturing involves precision engineering of coaxial cable structures designed for high-frequency signal transmission with minimal loss. This process creates cables capable of transmitting radio frequency signals from base station equipment to cell tower antennas with consistent 50-ohm impedance and low attenuation across cellular frequency bands.

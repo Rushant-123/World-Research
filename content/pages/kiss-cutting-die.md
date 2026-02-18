@@ -23,6 +23,16 @@ inputs:
     cost: 0.5
     link: "machinist-labor"
 value_created: 1.7
+lead_time_days: 44
+minimum_order_quantity: 5000
+transportation_method: "ocean"
+geopolitical_risk: "low"
+price_volatility: "medium"
+
+certifications:
+  - "ISO9001"
+  - "ISO14001"
+data_quality: "estimated"
 ---
 
 1. Receive customer specifications for kiss-cutting application including substrate material, liner thickness, cutting pattern, production speed requirements, and expected die life (typically 500,000-5,000,000 cuts).

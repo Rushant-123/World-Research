@@ -20,6 +20,16 @@ inputs:
     cost: 0.02
     link: "signal-integrity-tester"
 value_created: 0.09
+lead_time_days: 33
+minimum_order_quantity: 10000
+transportation_method: "truck"
+geopolitical_risk: "medium"
+price_volatility: "medium"
+
+certifications:
+  - "ISO9001"
+  - "ISO14001"
+data_quality: "estimated"
 ---
 
 RF shield cans are precision-stamped metal enclosures designed to isolate radio frequency circuits from electromagnetic interference (EMI). These components, typically measuring 5-30mm per side, are soldered directly onto printed circuit boards to create Faraday cage enclosures around sensitive RF components such as WiFi modules, Bluetooth transceivers, GPS receivers, and cellular modems. Manufacturing involves progressive die stamping of tin-plated steel, precision forming to create frames and lids with specific retention mechanisms, surface treatment for optimal solderability, and rigorous testing to verify shielding effectiveness across the frequency spectrum from 100 MHz to 10 GHz, where attenuation values of 30-60 dB are required.

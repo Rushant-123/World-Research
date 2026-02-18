@@ -14,6 +14,16 @@ inputs:
     cost: 3.0
     link: "optical-coatings"
 value_created: 3.0
+lead_time_days: 33
+minimum_order_quantity: 1000
+transportation_method: "truck"
+geopolitical_risk: "medium"
+price_volatility: "medium"
+
+certifications:
+  - "ISO9001"
+  - "ISO14001"
+data_quality: "estimated"
 ---
 
 # Optical Enhancement Films Manufacturing Process

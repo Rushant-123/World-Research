@@ -23,6 +23,16 @@ inputs:
     cost: 0.1
     link: "software-developers"
 value_created: 2.2
+lead_time_days: 10
+minimum_order_quantity: 5000
+transportation_method: "truck"
+geopolitical_risk: "medium"
+price_volatility: "low"
+
+certifications:
+  - "ISO9001"
+  - "ISO14001"
+data_quality: "estimated"
 ---
 
 Programming software suite is comprehensive firmware programming software that controls device programmers and enables production-scale device programming. The software manages device algorithms, file formats, gang programming, and production tracking for programming flash memory, microcontrollers, and other programmable devices.

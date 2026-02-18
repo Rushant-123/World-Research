@@ -23,6 +23,16 @@ inputs:
     cost: 2.4
     link: "water-source"
 value_created: 26.8
+lead_time_days: 21
+minimum_order_quantity: 1000
+transportation_method: "ocean"
+geopolitical_risk: "medium"
+price_volatility: "medium"
+
+certifications:
+  - "ISO9001"
+  - "ISO14001"
+data_quality: "estimated"
 ---
 
 1. Design Chemical Reactor system based on customer specifications and process requirements

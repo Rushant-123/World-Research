@@ -23,6 +23,16 @@ inputs:
     cost: 0.15
     link: "measurement-tools"
 value_created: 1.7
+lead_time_days: 33
+minimum_order_quantity: 5000
+transportation_method: "truck"
+geopolitical_risk: "medium"
+price_volatility: "medium"
+
+certifications:
+  - "ISO9001"
+  - "ISO14001"
+data_quality: "estimated"
 ---
 
 1. Source 2-ethylhexyl acrylate (2-EHA) monomer at 99.5% purity for soft segment formation in PSA backbone providing flexibility and tack.

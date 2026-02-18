@@ -23,6 +23,16 @@ inputs:
     cost: 0.1
     link: "measurement-tools"
 value_created: 1.15
+lead_time_days: 44
+minimum_order_quantity: 5000
+transportation_method: "ocean"
+geopolitical_risk: "medium"
+price_volatility: "medium"
+
+certifications:
+  - "ISO9001"
+  - "ISO14001"
+data_quality: "estimated"
 ---
 
 ## Water Intake and Initial Screening

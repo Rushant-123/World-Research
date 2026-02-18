@@ -20,6 +20,16 @@ inputs:
     cost: 10000.00
     link: "hvac-cooling"
 value_created: 32000.00
+lead_time_days: 38
+minimum_order_quantity: 1
+transportation_method: "air"
+geopolitical_risk: "medium"
+price_volatility: "medium"
+
+certifications:
+  - "ISO9001"
+  - "ISO14001"
+data_quality: "estimated"
 ---
 
 1. Select data center location based on latency requirements, power availability (20-50 MW capacity), and regulatory compliance needs.

@@ -13,6 +13,15 @@ products:
 financials:
   profit_margin: 14.0
   operating_margin: 18.2
+employees: 20000
+rd_spending_pct: 5
+public_private: "public"
+founded_year: 1990
+
+factory_locations:
+  - "USA"
+  - "China"
+data_quality: "estimated"
 ---
 
 # Rusal

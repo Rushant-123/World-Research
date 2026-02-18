@@ -23,6 +23,16 @@ inputs:
     cost: 0.03
     link: "signal-integrity-tester"
 value_created: 0.2
+lead_time_days: 60
+minimum_order_quantity: 10000
+transportation_method: "ocean"
+geopolitical_risk: "low"
+price_volatility: "medium"
+
+certifications:
+  - "ISO9001"
+  - "ISO14001"
+data_quality: "estimated"
 ---
 
 U.FL connectors are ultra-miniature coaxial RF connectors developed by Hirose Electric for high-frequency signal transmission in compact electronic devices. With dimensions of only 2.6mm x 2.3mm x 1.0mm, these snap-on connectors are widely used for internal antenna connections in laptops, smartphones, tablets, and wireless modules. They provide reliable 50-ohm impedance matching up to 6 GHz while maintaining low insertion loss and excellent VSWR characteristics.

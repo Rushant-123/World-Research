@@ -20,6 +20,16 @@ inputs:
     cost: 8000.00
     link: "software-engineers"
 value_created: 30500.00
+lead_time_days: 51
+minimum_order_quantity: 1
+transportation_method: "air"
+geopolitical_risk: "medium"
+price_volatility: "medium"
+
+certifications:
+  - "ISO9001"
+  - "ISO14001"
+data_quality: "estimated"
 ---
 
 1. Receive multilayer PCBs designed for base station radio units with impedance-controlled RF traces

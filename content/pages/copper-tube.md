@@ -23,6 +23,16 @@ inputs:
     cost: 0.1
     link: "carbide-cutting-tools"
 value_created: 2.0
+lead_time_days: 33
+minimum_order_quantity: 5000
+transportation_method: "truck"
+geopolitical_risk: "medium"
+price_volatility: "high"
+
+certifications:
+  - "ISO9001"
+  - "ISO14001"
+data_quality: "estimated"
 ---
 
 Copper tube manufacturing transforms refined copper metal into precision-engineered tubular products used in heat pipes, HVAC systems, plumbing, and thermal management applications. Mueller Industries operates state-of-the-art tube mills producing seamless copper tubes ranging from 6mm to 150mm outer diameter with wall thicknesses from 0.5mm to 5mm. The manufacturing process combines hot extrusion, cold pilgering, progressive drawing, and thermal treatment to achieve specific mechanical properties, dimensional tolerances within ±0.05mm, and temper designations from annealed (O60) to hard drawn (H80). Production facilities process 500-2000 kg copper billets through multi-stage reduction sequences, achieving total area reductions exceeding 95% while maintaining concentricity within 0.1mm and surface finish below 1.6 Ra micrometers.

@@ -20,6 +20,16 @@ inputs:
     cost: 500.00
     link: "manufacturing-labor"
 value_created: 1320.00
+lead_time_days: 44
+minimum_order_quantity: 10
+transportation_method: "ocean"
+geopolitical_risk: "low"
+price_volatility: "medium"
+
+certifications:
+  - "ISO9001"
+  - "ISO14001"
+data_quality: "estimated"
 ---
 
 1. Receive stainless steel sheets in 2.0mm thickness with AISI 304 grade specification from warehouse storage.

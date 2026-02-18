@@ -23,6 +23,16 @@ inputs:
     cost: 1.5
     link: "software-licenses"
 value_created: 7.0
+lead_time_days: 21
+minimum_order_quantity: 1000
+transportation_method: "ocean"
+geopolitical_risk: "low"
+price_volatility: "low"
+
+certifications:
+  - "ISO9001"
+  - "ISO14001"
+data_quality: "estimated"
 ---
 
 Factory automation software integrates programmable logic controllers (PLCs), supervisory control and data acquisition (SCADA) systems, manufacturing execution systems (MES), and human-machine interfaces (HMIs) to orchestrate modern industrial production. Engineers develop control logic in ladder logic, structured text, and function block diagrams, implementing real-time sequencing, recipe management, alarm handling, and data historian functions across distributed control architectures communicating via OPC-UA, Profinet, and EtherNet/IP protocols with scan cycles of 10-100 milliseconds and data throughput exceeding 10,000 tags per second.

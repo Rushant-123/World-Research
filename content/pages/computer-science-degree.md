@@ -23,6 +23,16 @@ inputs:
     cost: 3000.0
     link: "academic-papers"
 value_created: 80000.0
+lead_time_days: 43
+minimum_order_quantity: 1
+transportation_method: "air"
+geopolitical_risk: "low"
+price_volatility: "medium"
+
+certifications:
+  - "ISO9001"
+  - "ISO14001"
+data_quality: "estimated"
 ---
 
 ## Course Enrollment and Prerequisites

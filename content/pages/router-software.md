@@ -17,6 +17,16 @@ inputs:
     cost: 150.00
     link: "software-licenses"
 value_created: 2350.00
+lead_time_days: 10
+minimum_order_quantity: 10
+transportation_method: "truck"
+geopolitical_risk: "medium"
+price_volatility: "low"
+
+certifications:
+  - "ISO9001"
+  - "ISO14001"
+data_quality: "estimated"
 ---
 
 1. Initialize software development environment with Git version control system and establish main development branch structure with develop, staging, and production branches for router operating system codebase.

@@ -23,6 +23,16 @@ inputs:
     cost: 700000.0
     link: "assembly-labor"
 value_created: 500000.0
+lead_time_days: 43
+minimum_order_quantity: 1
+transportation_method: "air"
+geopolitical_risk: "low"
+price_volatility: "medium"
+
+certifications:
+  - "ISO9001"
+  - "ISO14001"
+data_quality: "estimated"
 ---
 
 An ore washing and processing plant is an industrial facility designed to separate valuable minerals from waste material through water-based separation processes. These plants are essential in mining operations for sand, gravel, gold, industrial minerals, and coal, using screening, classification, dewatering, and density separation to produce clean, sized products.

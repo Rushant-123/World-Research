@@ -17,6 +17,16 @@ inputs:
     cost: 2500.0
     link: "software-engineers"
 value_created: 1000.0
+lead_time_days: 10
+minimum_order_quantity: 10
+transportation_method: "truck"
+geopolitical_risk: "low"
+price_volatility: "low"
+
+certifications:
+  - "ISO9001"
+  - "ISO14001"
+data_quality: "estimated"
 ---
 
 # Software Development Tools Manufacturing Process

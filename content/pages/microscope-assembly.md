@@ -23,6 +23,16 @@ inputs:
     cost: 0.4
     link: "precision-assembly-labor"
 value_created: 3.9
+lead_time_days: 60
+minimum_order_quantity: 5000
+transportation_method: "ocean"
+geopolitical_risk: "low"
+price_volatility: "medium"
+
+certifications:
+  - "ISO9001"
+  - "ISO14001"
+data_quality: "estimated"
 ---
 
 Inspection microscopes are specialized optical instruments designed for electronics manufacturing quality control, PCB inspection, semiconductor examination, and precision assembly verification. These industrial microscopes feature high-resolution optics (0.5-2.0μm resolution), extended working distances (20-100mm), wide field of view (up to 50mm), and integrated digital imaging systems. Manufacturing involves precision grinding of objective lenses to achieve numerical apertures of 0.1-0.5, assembly of complex illumination systems with coaxial and oblique lighting options, construction of vibration-resistant mechanical stages with 0.01mm positioning accuracy, and integration of trinocular heads with high-resolution camera systems for real-time inspection and documentation.

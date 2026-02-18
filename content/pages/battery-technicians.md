@@ -14,6 +14,16 @@ inputs:
     cost: 0.4
     link: "safety-certification"
 value_created: 0.2
+lead_time_days: 60
+minimum_order_quantity: 5000
+transportation_method: "ocean"
+geopolitical_risk: "medium"
+price_volatility: "medium"
+
+certifications:
+  - "ISO9001"
+  - "ISO14001"
+data_quality: "estimated"
 ---
 
 # Battery Manufacturing Technicians Training Program

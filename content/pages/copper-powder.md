@@ -23,6 +23,16 @@ inputs:
     cost: 0.3
     link: "measurement-tools"
 value_created: 4.5
+lead_time_days: 44
+minimum_order_quantity: 1000
+transportation_method: "ocean"
+geopolitical_risk: "low"
+price_volatility: "high"
+
+certifications:
+  - "ISO9001"
+  - "ISO14001"
+data_quality: "estimated"
 ---
 
 Manufacturing copper powder begins with raw material preparation. High-purity copper metal ingots (99.9% Cu minimum) arrive at the facility for processing. Ingots are inspected for surface defects, oxidation, and contamination. Chemical analysis confirms copper purity, trace element content, and oxygen levels. Each batch receives unique identification for traceability throughout production. Ingots are cleaned using mechanical brushing to remove surface oxides. Ultrasonic cleaning in alkaline solution removes organic contaminants. Acid pickling in dilute sulfuric acid (5-10% concentration) removes remaining oxides. Ingots are rinsed thoroughly with deionized water. Final drying occurs in heated air cabinets at 80-100°C. Clean ingots are staged near melting furnaces for immediate processing.

@@ -3,6 +3,15 @@ title: "Various Plastic Molding Companies"
 type: "companies"
 industry: "Manufacturing"
 country: "Global"
+employees: 50
+rd_spending_pct: 5
+public_private: "private"
+founded_year: 1993
+
+factory_locations:
+  - "USA"
+  - "China"
+data_quality: "estimated"
 ---
 
 # Various Plastic Molding Companies

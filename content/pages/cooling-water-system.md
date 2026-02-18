@@ -20,6 +20,16 @@ inputs:
     cost: 50000.0
     link: "chemical-mixer"
 value_created: 30000.0
+lead_time_days: 82
+minimum_order_quantity: 1
+transportation_method: "air"
+geopolitical_risk: "low"
+price_volatility: "low"
+
+certifications:
+  - "ISO9001"
+  - "ISO14001"
+data_quality: "estimated"
 ---
 
 ## System Design Phase

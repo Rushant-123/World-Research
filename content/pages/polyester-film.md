@@ -23,6 +23,16 @@ inputs:
     cost: 0.1
     link: "measurement-tools"
 value_created: 1.5
+lead_time_days: 60
+minimum_order_quantity: 5000
+transportation_method: "ocean"
+geopolitical_risk: "low"
+price_volatility: "medium"
+
+certifications:
+  - "ISO9001"
+  - "ISO14001"
+data_quality: "estimated"
 ---
 
 Polyester (PET) film is a biaxially oriented thermoplastic film with exceptional mechanical strength, dimensional stability, chemical resistance, and optical clarity. Widely used as a substrate for flexible printed circuits, capacitor dielectrics, insulating tapes, labels, and packaging, PET film combines tensile strengths exceeding 200 MPa with thermal stability up to 150°C. Manufacturing involves melt extrusion followed by sequential biaxial stretching that aligns polymer chains, creating a film with balanced properties in both directions. Available in thicknesses from 2 to 350 micrometers, PET films can be surface-treated or coated for specific applications including adhesion promotion, release properties, or anti-static performance.

@@ -14,6 +14,16 @@ inputs:
     cost: 0.8
     link: "gps-antenna"
 value_created: 0.7
+lead_time_days: 28
+minimum_order_quantity: 5000
+transportation_method: "ocean"
+geopolitical_risk: "medium"
+price_volatility: "medium"
+
+certifications:
+  - "ISO9001"
+  - "ISO14001"
+data_quality: "estimated"
 ---
 
 # GPS/GNSS Module Manufacturing Process

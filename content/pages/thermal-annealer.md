@@ -20,6 +20,16 @@ inputs:
     cost: 0.3
     link: "vacuum-pumps"
 value_created: 0.6
+lead_time_days: 33
+minimum_order_quantity: 5000
+transportation_method: "truck"
+geopolitical_risk: "medium"
+price_volatility: "medium"
+
+certifications:
+  - "ISO9001"
+  - "ISO14001"
+data_quality: "estimated"
 ---
 
 ## Process Overview

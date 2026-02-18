@@ -20,6 +20,16 @@ inputs:
     cost: 0.6
     link: "fpc-stiffener"
 value_created: 0.9
+lead_time_days: 60
+minimum_order_quantity: 5000
+transportation_method: "ocean"
+geopolitical_risk: "low"
+price_volatility: "medium"
+
+certifications:
+  - "ISO9001"
+  - "ISO14001"
+data_quality: "estimated"
 ---
 
 # Flexible Printed Circuit Manufacturing Process

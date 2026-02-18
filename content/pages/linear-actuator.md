@@ -23,6 +23,16 @@ inputs:
     cost: 0.2
     link: "precision-assembly-labor"
 value_created: 0.75
+lead_time_days: 60
+minimum_order_quantity: 5000
+transportation_method: "ocean"
+geopolitical_risk: "low"
+price_volatility: "medium"
+
+certifications:
+  - "ISO9001"
+  - "ISO14001"
+data_quality: "estimated"
 ---
 
 Linear actuators convert electrical energy into precise linear motion using electromagnetic or piezoelectric principles. Voice coil motor (VCM) designs dominate consumer electronics applications due to their fast response times (1-3 ms), controllable force output (0.5-2.5 N), and compact form factors. These actuators enable haptic feedback in trackpads, camera autofocus, and vibration alerts in smartphones. Manufacturing requires precision coil winding, magnet assembly with field strengths of 1.2-1.4 Tesla, spring suspension tuning to resonant frequencies of 150-180 Hz, and calibration systems that measure stroke length (0.3-1.5 mm) and force linearity across the operating range.

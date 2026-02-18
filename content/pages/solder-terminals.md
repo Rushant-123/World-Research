@@ -14,6 +14,16 @@ inputs:
     cost: 0.012
     link: "tin-plating"
 value_created: 0.023
+lead_time_days: 33
+minimum_order_quantity: 10000
+transportation_method: "truck"
+geopolitical_risk: "medium"
+price_volatility: "medium"
+
+certifications:
+  - "ISO9001"
+  - "ISO14001"
+data_quality: "estimated"
 ---
 
 # Speaker Solder Terminals Manufacturing Process

@@ -20,6 +20,16 @@ inputs:
     cost: 8.0
     link: "skilled-labor"
 value_created: 24.0
+lead_time_days: 74
+minimum_order_quantity: 1000
+transportation_method: "ocean"
+geopolitical_risk: "medium"
+price_volatility: "low"
+
+certifications:
+  - "ISO9001"
+  - "ISO14001"
+data_quality: "estimated"
 ---
 
 1. Design Crystal Furnace system based on customer specifications and process requirements

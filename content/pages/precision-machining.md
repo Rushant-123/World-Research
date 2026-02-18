@@ -20,6 +20,16 @@ inputs:
     cost: 2500.0
     link: "machinist-labor"
 value_created: 500.0
+lead_time_days: 69
+minimum_order_quantity: 1
+transportation_method: "air"
+geopolitical_risk: "low"
+price_volatility: "medium"
+
+certifications:
+  - "ISO9001"
+  - "ISO14001"
+data_quality: "estimated"
 ---
 
 ## Engineering and Design Phase

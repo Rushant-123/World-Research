@@ -20,6 +20,16 @@ inputs:
     cost: 0.008
     link: "rheology-modifiers"
 value_created: 0.01
+lead_time_days: 60
+minimum_order_quantity: 10000
+transportation_method: "ocean"
+geopolitical_risk: "low"
+price_volatility: "medium"
+
+certifications:
+  - "ISO9001"
+  - "ISO14001"
+data_quality: "estimated"
 ---
 
 # Solder Paste Manufacturing Process

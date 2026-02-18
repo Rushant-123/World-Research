@@ -20,6 +20,16 @@ inputs:
     cost: 20000.00
     link: "assembly-conveyor"
 value_created: 70000.00
+lead_time_days: 78
+minimum_order_quantity: 1
+transportation_method: "air"
+geopolitical_risk: "medium"
+price_volatility: "medium"
+
+certifications:
+  - "ISO9001"
+  - "ISO14001"
+data_quality: "estimated"
 ---
 
 1. Conduct site survey of production facility measuring 2000 square meters for automated cable assembly line installation

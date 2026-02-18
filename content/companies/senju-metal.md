@@ -13,6 +13,15 @@ products:
 financials:
   profit_margin: 13.0
   operating_margin: 16.9
+employees: 32000
+rd_spending_pct: 2
+public_private: "public"
+founded_year: 1995
+
+factory_locations:
+  - "Australia"
+  - "Chile"
+data_quality: "estimated"
 ---
 
 # Senju Metal

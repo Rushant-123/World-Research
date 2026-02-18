@@ -23,6 +23,16 @@ inputs:
     cost: 0.5
     link: "software-engineers"
 value_created: 3.4
+lead_time_days: 33
+minimum_order_quantity: 5000
+transportation_method: "truck"
+geopolitical_risk: "medium"
+price_volatility: "medium"
+
+certifications:
+  - "ISO9001"
+  - "ISO14001"
+data_quality: "estimated"
 ---
 
 ## Server Provisioning and Infrastructure Setup

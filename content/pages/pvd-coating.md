@@ -17,6 +17,16 @@ inputs:
     cost: 0.64
     link: "chemical-additives"
 value_created: 3.2
+lead_time_days: 44
+minimum_order_quantity: 5000
+transportation_method: "ocean"
+geopolitical_risk: "medium"
+price_volatility: "medium"
+
+certifications:
+  - "ISO9001"
+  - "ISO14001"
+data_quality: "estimated"
 ---
 
 1. Design Pvd Coating component based on application requirements and interface specifications

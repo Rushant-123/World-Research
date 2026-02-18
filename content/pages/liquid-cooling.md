@@ -20,6 +20,16 @@ inputs:
     cost: 600.00
     link: "manufacturing-labor"
 value_created: 2700.00
+lead_time_days: 33
+minimum_order_quantity: 10
+transportation_method: "truck"
+geopolitical_risk: "medium"
+price_volatility: "medium"
+
+certifications:
+  - "ISO9001"
+  - "ISO14001"
+data_quality: "estimated"
 ---
 
 1. Receive copper tube stock in 6-meter lengths with 12mm outer diameter and 1mm wall thickness for primary coolant distribution lines.

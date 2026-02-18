@@ -12,6 +12,16 @@ inputs:
     link: "chemical-facility"
 value_created: 1.500
 distance: 5
+lead_time_days: 21
+minimum_order_quantity: 5000
+transportation_method: "ocean"
+geopolitical_risk: "medium"
+price_volatility: "high"
+
+certifications:
+  - "ISO9001"
+  - "ISO14001"
+data_quality: "estimated"
 ---
 
 1. Metal Shell raw material procurement

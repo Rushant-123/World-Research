@@ -17,6 +17,16 @@ inputs:
     cost: 2.5
     link: "adapter-enclosure"
 value_created: 7.5
+lead_time_days: 44
+minimum_order_quantity: 1000
+transportation_method: "ocean"
+geopolitical_risk: "low"
+price_volatility: "medium"
+
+certifications:
+  - "ISO9001"
+  - "ISO14001"
+data_quality: "estimated"
 ---
 
 # How to Make a USB-C Power Adapter

@@ -17,6 +17,16 @@ inputs:
     cost: 0.0002
     link: "software-engineers"
 value_created: 0.0003
+lead_time_days: 33
+minimum_order_quantity: 10000
+transportation_method: "truck"
+geopolitical_risk: "medium"
+price_volatility: "medium"
+
+certifications:
+  - "ISO9001"
+  - "ISO14001"
+data_quality: "estimated"
 ---
 
 1. Initialize web crawling infrastructure with distributed crawler architecture supporting 1000+ concurrent connections per node

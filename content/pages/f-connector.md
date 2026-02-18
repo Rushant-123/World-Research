@@ -17,6 +17,16 @@ inputs:
     cost: 0.08
     link: "manufacturing-labor"
 value_created: 0.26
+lead_time_days: 33
+minimum_order_quantity: 10000
+transportation_method: "truck"
+geopolitical_risk: "medium"
+price_volatility: "medium"
+
+certifications:
+  - "ISO9001"
+  - "ISO14001"
+data_quality: "estimated"
 ---
 
 1. Source brass alloy rod stock containing 65% copper and 35% zinc in C26000 cartridge brass specification for optimal machinability and conductivity.

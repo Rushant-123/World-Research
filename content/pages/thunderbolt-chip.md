@@ -20,6 +20,16 @@ inputs:
     cost: 0.6
     link: "usb-pd-controller"
 value_created: 1.9
+lead_time_days: 93
+minimum_order_quantity: 5000
+transportation_method: "truck"
+geopolitical_risk: "medium"
+price_volatility: "medium"
+
+certifications:
+  - "ISO9001"
+  - "ISO14001"
+data_quality: "estimated"
 ---
 
 # Thunderbolt Controller Chip Manufacturing Process

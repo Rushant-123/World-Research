@@ -23,6 +23,16 @@ inputs:
     cost: 0.1
     link: "worker-training"
 value_created: 1.25
+lead_time_days: 60
+minimum_order_quantity: 5000
+transportation_method: "ocean"
+geopolitical_risk: "medium"
+price_volatility: "medium"
+
+certifications:
+  - "ISO9001"
+  - "ISO14001"
+data_quality: "estimated"
 ---
 
 ## INSPECTOR RECRUITMENT AND QUALIFICATION

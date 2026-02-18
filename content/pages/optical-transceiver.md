@@ -26,6 +26,16 @@ inputs:
     cost: 40.0
     link: "precision-assembly-labor"
 value_created: 35.0
+lead_time_days: 33
+minimum_order_quantity: 100
+transportation_method: "truck"
+geopolitical_risk: "low"
+price_volatility: "medium"
+
+certifications:
+  - "ISO9001"
+  - "ISO14001"
+data_quality: "estimated"
 ---
 
 # Manufacturing Process: 100G QSFP28 Optical Transceiver Module

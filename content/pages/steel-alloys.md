@@ -20,6 +20,16 @@ inputs:
     cost: 150.0
     link: "tungsten-reduction"
 value_created: 50.0
+lead_time_days: 33
+minimum_order_quantity: 10
+transportation_method: "truck"
+geopolitical_risk: "low"
+price_volatility: "high"
+
+certifications:
+  - "ISO9001"
+  - "ISO14001"
+data_quality: "estimated"
 ---
 
 # Specialty Steel Alloys Manufacturing Process

@@ -23,6 +23,16 @@ inputs:
     cost: 60.0
     link: "machinist-labor"
 value_created: 220.0
+lead_time_days: 33
+minimum_order_quantity: 100
+transportation_method: "truck"
+geopolitical_risk: "medium"
+price_volatility: "medium"
+
+certifications:
+  - "ISO9001"
+  - "ISO14001"
+data_quality: "estimated"
 ---
 
 This industrial manufacturing facility is a 150,000 square foot electronics production building designed for high-tech assembly operations. The facility includes Class 10,000 cleanroom areas, ESD-protected workspaces, precision HVAC systems, and comprehensive utility infrastructure to support advanced manufacturing processes.

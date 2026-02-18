@@ -15,6 +15,15 @@ products:
 financials:
   profit_margin: 17.0
   operating_margin: 22.1
+employees: 50000
+rd_spending_pct: 5
+public_private: "public"
+founded_year: 2005
+
+factory_locations:
+  - "China"
+  - "USA"
+data_quality: "estimated"
 ---
 
 # Lincoln Electric

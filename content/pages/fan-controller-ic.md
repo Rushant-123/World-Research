@@ -23,6 +23,16 @@ inputs:
     cost: 0.07
     link: "software-developers"
 value_created: 0.45
+lead_time_days: 33
+minimum_order_quantity: 5000
+transportation_method: "truck"
+geopolitical_risk: "medium"
+price_volatility: "medium"
+
+certifications:
+  - "ISO9001"
+  - "ISO14001"
+data_quality: "estimated"
 ---
 
 Fan controller ICs are specialized mixed-signal integrated circuits designed to intelligently regulate cooling fan speed based on temperature measurements, optimizing thermal management while minimizing acoustic noise and power consumption in electronic systems.

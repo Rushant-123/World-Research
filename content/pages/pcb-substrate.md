@@ -14,6 +14,16 @@ inputs:
     cost: 0.45
     link: "copper-ore"
 value_created: 1.3
+lead_time_days: 33
+minimum_order_quantity: 5000
+transportation_method: "truck"
+geopolitical_risk: "medium"
+price_volatility: "medium"
+
+certifications:
+  - "ISO9001"
+  - "ISO14001"
+data_quality: "estimated"
 ---
 
 # PCB FR-4 Substrate Manufacturing

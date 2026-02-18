@@ -13,6 +13,15 @@ products:
 financials:
   profit_margin: 11.5
   operating_margin: 15.0
+employees: 17500
+rd_spending_pct: 5
+public_private: "public"
+founded_year: 1998
+
+factory_locations:
+  - "China"
+  - "USA"
+data_quality: "estimated"
 ---
 
 # Pactiv Evergreen

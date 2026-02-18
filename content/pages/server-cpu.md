@@ -20,6 +20,16 @@ inputs:
     cost: 30.00
     link: "molding-compound"
 value_created: 1420.00
+lead_time_days: 33
+minimum_order_quantity: 10
+transportation_method: "truck"
+geopolitical_risk: "medium"
+price_volatility: "medium"
+
+certifications:
+  - "ISO9001"
+  - "ISO14001"
+data_quality: "estimated"
 ---
 
 1. Receive 300mm diameter silicon wafer with <100> crystal orientation and 725μm thickness from wafer supplier.

@@ -17,6 +17,16 @@ inputs:
     cost: 0.006
     link: "flexibilizer"
 value_created: 0.006
+lead_time_days: 44
+minimum_order_quantity: 10000
+transportation_method: "ocean"
+geopolitical_risk: "low"
+price_volatility: "medium"
+
+certifications:
+  - "ISO9001"
+  - "ISO14001"
+data_quality: "estimated"
 ---
 
 # Speaker Assembly Adhesive Manufacturing Process

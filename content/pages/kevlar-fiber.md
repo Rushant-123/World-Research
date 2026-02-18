@@ -20,6 +20,16 @@ inputs:
     cost: 2.00
     link: "heat-treatment"
 value_created: 13.00
+lead_time_days: 33
+minimum_order_quantity: 1000
+transportation_method: "truck"
+geopolitical_risk: "medium"
+price_volatility: "medium"
+
+certifications:
+  - "ISO9001"
+  - "ISO14001"
+data_quality: "estimated"
 ---
 
 1. Receive para-phenylenediamine (PPD) organic feedstock in temperature-controlled storage tanks at 18-22°C to prevent oxidation and crystallization.

@@ -15,6 +15,16 @@ inputs:
     link: "mining-operations"
 value_created: 15.000
 distance: 6
+lead_time_days: 74
+minimum_order_quantity: 1000
+transportation_method: "ocean"
+geopolitical_risk: "low"
+price_volatility: "low"
+
+certifications:
+  - "ISO9001"
+  - "ISO14001"
+data_quality: "estimated"
 ---
 
 1. Conveyor belt design for material and tonnage

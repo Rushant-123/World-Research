@@ -17,6 +17,16 @@ inputs:
     cost: 20000.00
     link: "concrete-base"
 value_created: 70000.00
+lead_time_days: 43
+minimum_order_quantity: 1
+transportation_method: "air"
+geopolitical_risk: "medium"
+price_volatility: "high"
+
+certifications:
+  - "ISO9001"
+  - "ISO14001"
+data_quality: "estimated"
 ---
 
 1. Structural engineers receive specifications for cellular tower height, typically 150-250 feet for rural installations.

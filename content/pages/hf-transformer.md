@@ -20,6 +20,16 @@ inputs:
     cost: 0.10
     link: "solder-terminals"
 value_created: 2.05
+lead_time_days: 60
+minimum_order_quantity: 5000
+transportation_method: "ocean"
+geopolitical_risk: "low"
+price_volatility: "medium"
+
+certifications:
+  - "ISO9001"
+  - "ISO14001"
+data_quality: "estimated"
 ---
 
 1. Receive ferrite core halves in EE or ETD configuration with permeability of 2300-2500 at 100 kHz operating frequency

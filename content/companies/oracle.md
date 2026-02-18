@@ -15,6 +15,15 @@ products:
 financials:
   profit_margin: 25.0
   operating_margin: 32.5
+employees: 12000
+rd_spending_pct: 20
+public_private: "public"
+founded_year: 2001
+
+factory_locations:
+  - "China"
+  - "USA"
+data_quality: "estimated"
 ---
 
 # Oracle

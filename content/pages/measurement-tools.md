@@ -17,6 +17,16 @@ inputs:
     cost: 0.4
     link: "calibration-standards"
 value_created: 0.7
+lead_time_days: 90
+minimum_order_quantity: 5000
+transportation_method: "ocean"
+geopolitical_risk: "low"
+price_volatility: "low"
+
+certifications:
+  - "ISO9001"
+  - "ISO14001"
+data_quality: "estimated"
 ---
 
 # Precision Measurement Tools Manufacturing Process

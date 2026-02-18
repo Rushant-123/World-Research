@@ -12,6 +12,16 @@ inputs:
     link: "crusher"
 value_created: 1.050
 distance: 5
+lead_time_days: 33
+minimum_order_quantity: 5000
+transportation_method: "truck"
+geopolitical_risk: "medium"
+price_volatility: "medium"
+
+certifications:
+  - "ISO9001"
+  - "ISO14001"
+data_quality: "estimated"
 ---
 
 1. Bastnäsite is a fluoro-carbonate mineral of rare earths

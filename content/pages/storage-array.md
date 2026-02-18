@@ -20,6 +20,16 @@ inputs:
     cost: 8000.00
     link: "software-engineers"
 value_created: 22000.00
+lead_time_days: 38
+minimum_order_quantity: 1
+transportation_method: "air"
+geopolitical_risk: "medium"
+price_volatility: "medium"
+
+certifications:
+  - "ISO9001"
+  - "ISO14001"
+data_quality: "estimated"
 ---
 
 1. Receive enterprise server chassis (3U rack-mountable) with 24-bay drive configuration and inspect for shipping damage or structural defects.

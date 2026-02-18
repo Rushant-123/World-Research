@@ -17,6 +17,16 @@ inputs:
     cost: 0.0
     link: "cpp-development"
 value_created: 0.0
+lead_time_days: 33
+minimum_order_quantity: 10000
+transportation_method: "truck"
+geopolitical_risk: "low"
+price_volatility: "medium"
+
+certifications:
+  - "ISO9001"
+  - "ISO14001"
+data_quality: "estimated"
 ---
 
 1. Node.js begins with V8 engine integration, embedding Google's JavaScript runtime to execute JavaScript code outside the browser with high performance and JIT compilation.

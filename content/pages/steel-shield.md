@@ -20,6 +20,16 @@ inputs:
     cost: 0.03
     link: "signal-integrity-tester"
 value_created: 0.14
+lead_time_days: 33
+minimum_order_quantity: 10000
+transportation_method: "truck"
+geopolitical_risk: "medium"
+price_volatility: "high"
+
+certifications:
+  - "ISO9001"
+  - "ISO14001"
+data_quality: "estimated"
 ---
 
 Steel EMI (Electromagnetic Interference) shield cans are precision-stamped metal enclosures that protect sensitive electronic components from electromagnetic interference and radio frequency interference (RFI). These shields are critical components in smartphones, tablets, laptops, and other electronics where proper signal isolation prevents malfunctions. Manufacturing involves progressive die stamping of thin stainless steel followed by plating and rigorous testing to ensure 20-60 dB of shielding effectiveness across specific frequency ranges.

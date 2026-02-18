@@ -17,6 +17,16 @@ inputs:
     cost: 0.15
     link: "stamping-press"
 value_created: 0.10
+lead_time_days: 33
+minimum_order_quantity: 5000
+transportation_method: "truck"
+geopolitical_risk: "low"
+price_volatility: "high"
+
+certifications:
+  - "ISO9001"
+  - "ISO14001"
+data_quality: "estimated"
 ---
 
 ## Silicon Steel Production

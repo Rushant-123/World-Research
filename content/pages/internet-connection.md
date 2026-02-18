@@ -38,6 +38,16 @@ inputs:
     cost: 0.1
     link: "network-engineers"
 value_created: 0
+lead_time_days: 33
+minimum_order_quantity: 5000
+transportation_method: "truck"
+geopolitical_risk: "medium"
+price_volatility: "medium"
+
+certifications:
+  - "ISO9001"
+  - "ISO14001"
+data_quality: "estimated"
 ---
 
 # How to Make an Internet Connection

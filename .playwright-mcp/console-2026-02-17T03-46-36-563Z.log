@@ -1,0 +1,6 @@
+[    1944ms] [WARNING] Scripts "build/three.js" and "build/three.min.js" are deprecated with r150+, and will be removed with r160. Please use ES Modules or alternatives: https://threejs.org/docs/index.html#manual/en/introduction/Installation @ https://cdn.jsdelivr.net/npm/three@0.160.0/build/three.min.js:0
+[    4635ms] TypeError: Cannot read properties of undefined (reading '0')
+    at HeroGraph.addStage (http://localhost:8080/js/hero-graph.js:213:32)
+    at HeroGraph.stageReveal (http://localhost:8080/js/hero-graph.js:173:10)
+    at HeroGraph.start (http://localhost:8080/js/hero-graph.js:164:10)
+    at startHeroGraph (http://localhost:8080/js/main-v2.js:64:22)

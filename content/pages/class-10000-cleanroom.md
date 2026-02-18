@@ -23,6 +23,16 @@ inputs:
     cost: 4.0
     link: "measurement-tools"
 value_created: 38.0
+lead_time_days: 44
+minimum_order_quantity: 1000
+transportation_method: "ocean"
+geopolitical_risk: "medium"
+price_volatility: "medium"
+
+certifications:
+  - "ISO9001"
+  - "ISO14001"
+data_quality: "estimated"
 ---
 
 A Class 10000 (ISO 7) cleanroom is a controlled environment facility designed to maintain particle contamination below 10,000 particles (0.5 micron and larger) per cubic foot of air. These cleanrooms are critical for electronics assembly, MEMS fabrication, pharmaceutical packaging, and precision manufacturing operations requiring stringent contamination control.

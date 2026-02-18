@@ -23,6 +23,16 @@ inputs:
     cost: 10.0
     link: "machinist-labor"
 value_created: 28.0
+lead_time_days: 33
+minimum_order_quantity: 1000
+transportation_method: "truck"
+geopolitical_risk: "medium"
+price_volatility: "medium"
+
+certifications:
+  - "ISO9001"
+  - "ISO14001"
+data_quality: "estimated"
 ---
 
 Thread rolling machines form threads on fasteners through cold forming between hardened dies, displacing metal rather than cutting it. This process creates stronger threads with superior surface finish and fatigue resistance compared to cut threads. Reed Machinery manufactures precision thread rolling equipment capable of producing Class 2A and Class 3A external threads on bolts, screws, and studs with pitch diameter tolerances to +/- 0.0005 inches and surface finishes to 16 Ra microinches.

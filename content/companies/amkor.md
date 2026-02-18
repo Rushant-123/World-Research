@@ -13,6 +13,15 @@ products:
 financials:
   profit_margin: 35.0
   operating_margin: 45.5
+employees: 50000
+rd_spending_pct: 15
+public_private: "public"
+founded_year: 1999
+
+factory_locations:
+  - "Taiwan"
+  - "China"
+data_quality: "estimated"
 ---
 
 # Amkor

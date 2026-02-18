@@ -23,6 +23,16 @@ inputs:
     cost: 0.3
     link: "measurement-tools"
 value_created: 3.5
+lead_time_days: 60
+minimum_order_quantity: 5000
+transportation_method: "ocean"
+geopolitical_risk: "low"
+price_volatility: "medium"
+
+certifications:
+  - "ISO9001"
+  - "ISO14001"
+data_quality: "estimated"
 ---
 
 1. Receive bauxite ore containing 50-60% aluminum oxide as raw material for alumina production

@@ -23,6 +23,16 @@ inputs:
     cost: 0.1
     link: "electroplating-gold"
 value_created: 0.9
+lead_time_days: 60
+minimum_order_quantity: 5000
+transportation_method: "ocean"
+geopolitical_risk: "low"
+price_volatility: "medium"
+
+certifications:
+  - "ISO9001"
+  - "ISO14001"
+data_quality: "estimated"
 ---
 
 Manufacturing motor permanent magnets for BLDC applications requires specialized processing of neodymium-iron-boron (NdFeB) materials to achieve high magnetic performance, precise dimensions, and reliable multi-pole magnetization patterns.

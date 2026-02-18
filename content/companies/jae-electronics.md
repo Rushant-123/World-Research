@@ -17,6 +17,15 @@ products:
 financials:
   profit_margin: 5.5
   operating_margin: 7.2
+employees: 150000
+rd_spending_pct: 5
+public_private: "public"
+founded_year: 2005
+
+factory_locations:
+  - "Taiwan"
+  - "China"
+data_quality: "estimated"
 ---
 
 # JAE Electronics

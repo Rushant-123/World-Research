@@ -23,6 +23,16 @@ inputs:
     cost: 1.0
     link: "machinist-labor"
 value_created: 6.0
+lead_time_days: 74
+minimum_order_quantity: 1000
+transportation_method: "ocean"
+geopolitical_risk: "medium"
+price_volatility: "low"
+
+certifications:
+  - "ISO9001"
+  - "ISO14001"
+data_quality: "estimated"
 ---
 
 1. Receive cast iron housing castings from foundry, inspect for sand inclusion defects and dimensional accuracy within +/- 0.5mm.

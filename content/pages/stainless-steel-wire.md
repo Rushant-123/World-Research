@@ -23,6 +23,16 @@ inputs:
     cost: 0.15
     link: "measurement-tools"
 value_created: 2.65
+lead_time_days: 44
+minimum_order_quantity: 5000
+transportation_method: "ocean"
+geopolitical_risk: "medium"
+price_volatility: "high"
+
+certifications:
+  - "ISO9001"
+  - "ISO14001"
+data_quality: "estimated"
 ---
 
 1. Receive stainless steel rod coils in grades 304, 316, or 302 with diameters from 5.5mm to 19mm from the rod mill.

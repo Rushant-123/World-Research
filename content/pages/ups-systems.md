@@ -20,6 +20,16 @@ inputs:
     cost: 1500.00
     link: "voltage-regulator"
 value_created: 61500.00
+lead_time_days: 72
+minimum_order_quantity: 1
+transportation_method: "air"
+geopolitical_risk: "medium"
+price_volatility: "low"
+
+certifications:
+  - "ISO9001"
+  - "ISO14001"
+data_quality: "estimated"
 ---
 
 1. Review UPS system specifications for 500 kVA three-phase online double-conversion architecture serving critical data center loads.

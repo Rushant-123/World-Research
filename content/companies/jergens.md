@@ -15,6 +15,15 @@ products:
 financials:
   profit_margin: 14.0
   operating_margin: 18.2
+employees: 40000
+rd_spending_pct: 5
+public_private: "public"
+founded_year: 1992
+
+factory_locations:
+  - "China"
+  - "USA"
+data_quality: "estimated"
 ---
 
 # Jergens

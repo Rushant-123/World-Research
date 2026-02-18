@@ -17,6 +17,16 @@ inputs:
     cost: 1500.00
     link: "precision-assembly-labor"
 value_created: 8000.00
+lead_time_days: 38
+minimum_order_quantity: 1
+transportation_method: "air"
+geopolitical_risk: "medium"
+price_volatility: "medium"
+
+certifications:
+  - "ISO9001"
+  - "ISO14001"
+data_quality: "estimated"
 ---
 
 1. Source multilayer PCB assemblies with 8-layer stackup designed for high-speed signal processing and low-noise analog circuits required for OTDR measurements.

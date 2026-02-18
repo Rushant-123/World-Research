@@ -29,6 +29,16 @@ inputs:
     cost: 0.40
     link: "assembly-labor"
 value_created: 0
+lead_time_days: 60
+minimum_order_quantity: 5000
+transportation_method: "ocean"
+geopolitical_risk: "low"
+price_volatility: "medium"
+
+certifications:
+  - "ISO9001"
+  - "ISO14001"
+data_quality: "estimated"
 ---
 
 # How to Make Heat Pipes

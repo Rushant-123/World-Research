@@ -20,6 +20,16 @@ inputs:
     cost: 1.5
     link: "firmware-development"
 value_created: 1.0
+lead_time_days: 63
+minimum_order_quantity: 1000
+transportation_method: "truck"
+geopolitical_risk: "medium"
+price_volatility: "low"
+
+certifications:
+  - "ISO9001"
+  - "ISO14001"
+data_quality: "estimated"
 ---
 
 # Battery Management System for Mac Batteries

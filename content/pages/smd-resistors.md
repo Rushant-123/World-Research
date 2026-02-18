@@ -17,6 +17,16 @@ inputs:
     cost: 0.0005
     link: "protective-coating"
 value_created: 0.0017
+lead_time_days: 60
+minimum_order_quantity: 10000
+transportation_method: "ocean"
+geopolitical_risk: "low"
+price_volatility: "medium"
+
+certifications:
+  - "ISO9001"
+  - "ISO14001"
+data_quality: "estimated"
 ---
 
 # SMD Resistors Manufacturing Process

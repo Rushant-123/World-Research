@@ -29,6 +29,16 @@ inputs:
     cost: 2000
     link: "authentication-service"
 value_created: 0
+lead_time_days: 24
+minimum_order_quantity: 1
+transportation_method: "air"
+geopolitical_risk: "medium"
+price_volatility: "low"
+
+certifications:
+  - "ISO9001"
+  - "ISO14001"
+data_quality: "estimated"
 ---
 
 # How to Make API Gateway Service

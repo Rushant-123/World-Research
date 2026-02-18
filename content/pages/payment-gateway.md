@@ -17,6 +17,16 @@ inputs:
     cost: 0.002
     link: "database-systems"
 value_created: 0.001
+lead_time_days: 33
+minimum_order_quantity: 10000
+transportation_method: "truck"
+geopolitical_risk: "low"
+price_volatility: "medium"
+
+certifications:
+  - "ISO9001"
+  - "ISO14001"
+data_quality: "estimated"
 ---
 
 # Payment Gateway Service Manufacturing Process

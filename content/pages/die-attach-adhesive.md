@@ -20,6 +20,16 @@ inputs:
     cost: 0.07
     link: "amine-hardener"
 value_created: 0.2
+lead_time_days: 44
+minimum_order_quantity: 10000
+transportation_method: "ocean"
+geopolitical_risk: "low"
+price_volatility: "medium"
+
+certifications:
+  - "ISO9001"
+  - "ISO14001"
+data_quality: "estimated"
 ---
 
 1. Receive incoming epoxy resin shipment in 200 kg drums at materials receiving dock

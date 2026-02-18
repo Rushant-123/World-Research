@@ -23,6 +23,16 @@ inputs:
     cost: 0.07
     link: "board-tester"
 value_created: 0.3
+lead_time_days: 60
+minimum_order_quantity: 10000
+transportation_method: "ocean"
+geopolitical_risk: "low"
+price_volatility: "medium"
+
+certifications:
+  - "ISO9001"
+  - "ISO14001"
+data_quality: "estimated"
 ---
 
 Camera module PCBs are specialized flexible printed circuit boards that connect image sensors to device motherboards. These compact, high-density boards require precision manufacturing to maintain signal integrity for high-speed image data transmission while fitting within the tight confines of camera modules.

@@ -23,6 +23,16 @@ inputs:
     cost: 0.2
     link: "measurement-tools"
 value_created: 5.4
+lead_time_days: 33
+minimum_order_quantity: 5000
+transportation_method: "truck"
+geopolitical_risk: "medium"
+price_volatility: "medium"
+
+certifications:
+  - "ISO9001"
+  - "ISO14001"
+data_quality: "estimated"
 ---
 
 Polytetrafluoroethylene (PTFE) is manufactured through controlled polymerization of tetrafluoroethylene monomer, producing a fluoropolymer with exceptional chemical resistance, low dielectric constant, and thermal stability. The process creates granular resin for molding applications and fine powder for paste extrusion, serving RF cable insulation, gaskets, seals, and non-stick coatings.

@@ -23,6 +23,16 @@ inputs:
     cost: 8.0
     link: "machinist-labor"
 value_created: 15.0
+lead_time_days: 60
+minimum_order_quantity: 1000
+transportation_method: "ocean"
+geopolitical_risk: "low"
+price_volatility: "medium"
+
+certifications:
+  - "ISO9001"
+  - "ISO14001"
+data_quality: "estimated"
 ---
 
 1. Review part design specifications including geometry, tolerances, material type, and production volume requirements

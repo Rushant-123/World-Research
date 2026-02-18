@@ -20,6 +20,16 @@ inputs:
     cost: 0.5
     link: "pcb-substrate"
 value_created: 0.5
+lead_time_days: 44
+minimum_order_quantity: 5000
+transportation_method: "ocean"
+geopolitical_risk: "low"
+price_volatility: "medium"
+
+certifications:
+  - "ISO9001"
+  - "ISO14001"
+data_quality: "estimated"
 ---
 
 # Voltage Regulator Module Manufacturing

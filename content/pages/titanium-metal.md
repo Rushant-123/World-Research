@@ -17,6 +17,16 @@ inputs:
     cost: 5000
     link: "electrical-energy"
 value_created: 8500
+lead_time_days: 24
+minimum_order_quantity: 1
+transportation_method: "air"
+geopolitical_risk: "high"
+price_volatility: "high"
+
+certifications:
+  - "ISO9001"
+  - "ISO14001"
+data_quality: "estimated"
 ---
 
 # Titanium Metal Production Supply Chain

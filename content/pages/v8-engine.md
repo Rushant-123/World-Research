@@ -14,6 +14,16 @@ inputs:
     cost: 0.0
     link: "open-source"
 value_created: 0.0
+lead_time_days: 33
+minimum_order_quantity: 10000
+transportation_method: "truck"
+geopolitical_risk: "low"
+price_volatility: "medium"
+
+certifications:
+  - "ISO9001"
+  - "ISO14001"
+data_quality: "estimated"
 ---
 
 V8 is Google's open-source JavaScript and WebAssembly engine, written in C++. It powers Chrome, Node.js, and numerous other applications, providing high-performance execution through just-in-time compilation, advanced optimization techniques, and sophisticated memory management.

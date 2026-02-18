@@ -23,6 +23,16 @@ inputs:
     cost: 0.2
     link: "measurement-tools"
 value_created: 5.0
+lead_time_days: 60
+minimum_order_quantity: 5000
+transportation_method: "ocean"
+geopolitical_risk: "low"
+price_volatility: "medium"
+
+certifications:
+  - "ISO9001"
+  - "ISO14001"
+data_quality: "estimated"
 ---
 
 Rubber toughening modifiers are specialized additives used to dramatically improve the fracture toughness and impact resistance of epoxy adhesives and composites. These materials include CTBN (carboxyl-terminated butadiene-acrylonitrile) liquid rubbers and core-shell particles (MBS, acrylic-based) that create a dispersed rubber phase within the brittle epoxy matrix. The manufacturing process involves controlled polymerization, functionalization, emulsion processing, and spray drying to produce particles with precise size distributions (100-300 nm) and optimized rubber content. Kaneka Corporation produces advanced rubber modifiers that increase fracture toughness (K1c) by 150-300%, improve peel strength by 400-600%, and enhance impact resistance through crack deflection and cavitation mechanisms.

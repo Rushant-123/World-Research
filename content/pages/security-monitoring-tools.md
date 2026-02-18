@@ -20,6 +20,16 @@ inputs:
     cost: 1000.00
     link: "web-server"
 value_created: 9500.00
+lead_time_days: 72
+minimum_order_quantity: 1
+transportation_method: "air"
+geopolitical_risk: "medium"
+price_volatility: "low"
+
+certifications:
+  - "ISO9001"
+  - "ISO14001"
+data_quality: "estimated"
 ---
 
 1. Conduct security operations market research analyzing SIEM requirements across 500+ enterprise customers with diverse threat landscapes and compliance needs.

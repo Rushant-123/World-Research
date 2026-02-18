@@ -17,6 +17,16 @@ inputs:
     cost: 300.00
     link: "web-server"
 value_created: 42200.00
+lead_time_days: 12
+minimum_order_quantity: 1
+transportation_method: "air"
+geopolitical_risk: "medium"
+price_volatility: "low"
+
+certifications:
+  - "ISO9001"
+  - "ISO14001"
+data_quality: "estimated"
 ---
 
 1. Establish university computer science department with accreditation from ABET (Accreditation Board for Engineering and Technology).

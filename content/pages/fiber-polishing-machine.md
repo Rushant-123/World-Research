@@ -17,6 +17,16 @@ inputs:
     cost: 3000.00
     link: "measurement-tools"
 value_created: 24000.00
+lead_time_days: 103
+minimum_order_quantity: 1
+transportation_method: "air"
+geopolitical_risk: "low"
+price_volatility: "low"
+
+certifications:
+  - "ISO9001"
+  - "ISO14001"
+data_quality: "estimated"
 ---
 
 1. Design precision fiber polishing machine architecture for sub-micron surface finish control on fiber optic connector end faces.

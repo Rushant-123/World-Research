@@ -23,6 +23,16 @@ inputs:
     cost: 2.0
     link: "electrical-safety-tester"
 value_created: 12.5
+lead_time_days: 44
+minimum_order_quantity: 1000
+transportation_method: "ocean"
+geopolitical_risk: "medium"
+price_volatility: "medium"
+
+certifications:
+  - "ISO9001"
+  - "ISO14001"
+data_quality: "estimated"
 ---
 
 Solvent reclamation systems recover and recycle solvents from coating, cleaning, and chemical processing operations. These systems capture solvent-laden air streams, extract pure solvents through distillation, and return them to production, reducing raw material costs and environmental emissions. Modern reclamation systems achieve 95-98% solvent recovery with purity levels exceeding 99.5%, meeting strict VOC emission limits while providing rapid payback through material savings.

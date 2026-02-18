@@ -20,6 +20,16 @@ inputs:
     cost: 5000.0
     link: "datacenter-infrastructure"
 value_created: 4000.0
+lead_time_days: 38
+minimum_order_quantity: 1
+transportation_method: "air"
+geopolitical_risk: "low"
+price_volatility: "medium"
+
+certifications:
+  - "ISO9001"
+  - "ISO14001"
+data_quality: "estimated"
 ---
 
 # Traffic Analysis Algorithm Development

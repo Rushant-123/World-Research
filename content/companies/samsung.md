@@ -21,6 +21,15 @@ products:
 financials:
   profit_margin: 35.0
   operating_margin: 45.5
+employees: 300000
+rd_spending_pct: 15
+public_private: "public"
+founded_year: 1987
+
+factory_locations:
+  - "South Korea"
+  - "USA"
+data_quality: "estimated"
 ---
 
 # Samsung

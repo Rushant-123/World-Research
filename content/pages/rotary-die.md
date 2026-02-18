@@ -20,6 +20,16 @@ inputs:
     cost: 200.00
     link: "measurement-tools"
 value_created: 1800.00
+lead_time_days: 33
+minimum_order_quantity: 10
+transportation_method: "truck"
+geopolitical_risk: "medium"
+price_volatility: "medium"
+
+certifications:
+  - "ISO9001"
+  - "ISO14001"
+data_quality: "estimated"
 ---
 
 1. Receive customer specifications for rotary die design including label dimensions, cutting pattern, and substrate type.

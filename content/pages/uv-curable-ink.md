@@ -20,6 +20,16 @@ inputs:
     cost: 1.00
     link: "chemical-tanks"
 value_created: 12.50
+lead_time_days: 44
+minimum_order_quantity: 1000
+transportation_method: "ocean"
+geopolitical_risk: "low"
+price_volatility: "medium"
+
+certifications:
+  - "ISO9001"
+  - "ISO14001"
+data_quality: "estimated"
 ---
 
 1. Receive organic feedstock shipment containing acrylate monomers and oligomers in temperature-controlled storage.

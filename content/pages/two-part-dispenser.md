@@ -23,6 +23,16 @@ inputs:
     cost: 1.0
     link: "machinist-labor"
 value_created: 5.2
+lead_time_days: 17
+minimum_order_quantity: 1000
+transportation_method: "truck"
+geopolitical_risk: "medium"
+price_volatility: "medium"
+
+certifications:
+  - "ISO9001"
+  - "ISO14001"
+data_quality: "estimated"
 ---
 
 Two-part dispensing systems provide precision metering, mixing, and application of multi-component reactive materials including epoxies, urethanes, silicones, and acrylics. These automated systems ensure accurate ratio control, consistent mixing, and repeatable dispensing for industrial assembly applications.

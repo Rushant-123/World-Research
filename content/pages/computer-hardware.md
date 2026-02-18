@@ -20,6 +20,16 @@ inputs:
     cost: 100.0
     link: "metal-chassis"
 value_created: 50.0
+lead_time_days: 33
+minimum_order_quantity: 10
+transportation_method: "truck"
+geopolitical_risk: "low"
+price_volatility: "medium"
+
+certifications:
+  - "ISO9001"
+  - "ISO14001"
+data_quality: "estimated"
 ---
 
 1. Receive incoming components at receiving dock and scan barcodes into inventory management system

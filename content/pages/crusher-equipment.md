@@ -12,6 +12,16 @@ inputs:
     link: "steel-raw"
 value_created: 70.000
 distance: 6
+lead_time_days: 74
+minimum_order_quantity: 100
+transportation_method: "ocean"
+geopolitical_risk: "medium"
+price_volatility: "low"
+
+certifications:
+  - "ISO9001"
+  - "ISO14001"
+data_quality: "estimated"
 ---
 
 1. Crusher type selection: primary, secondary, tertiary

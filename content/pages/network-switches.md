@@ -23,6 +23,16 @@ inputs:
     cost: 600.00
     link: "smt-equipment"
 value_created: 6300.00
+lead_time_days: 38
+minimum_order_quantity: 1
+transportation_method: "air"
+geopolitical_risk: "medium"
+price_volatility: "medium"
+
+certifications:
+  - "ISO9001"
+  - "ISO14001"
+data_quality: "estimated"
 ---
 
 1. Receive multilayer PCB substrates with 12-16 copper layers optimized for high-speed differential signaling and power distribution

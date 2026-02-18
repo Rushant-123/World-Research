@@ -20,6 +20,16 @@ inputs:
     cost: 50.00
     link: "network-router"
 value_created: 1400.00
+lead_time_days: 33
+minimum_order_quantity: 10
+transportation_method: "truck"
+geopolitical_risk: "medium"
+price_volatility: "medium"
+
+certifications:
+  - "ISO9001"
+  - "ISO14001"
+data_quality: "estimated"
 ---
 
 1. Initialize Grafana frontend project using TypeScript 5.2.2 with React 18.2 and ES2022 target configuration for modern browser support.

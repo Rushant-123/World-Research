@@ -23,6 +23,16 @@ inputs:
     cost: 0.1
     link: "wire-bonder"
 value_created: 1.05
+lead_time_days: 33
+minimum_order_quantity: 5000
+transportation_method: "truck"
+geopolitical_risk: "medium"
+price_volatility: "medium"
+
+certifications:
+  - "ISO9001"
+  - "ISO14001"
+data_quality: "estimated"
 ---
 
 Manufacturing a touch controller IC requires designing sophisticated analog front-end circuits, implementing capacitance sensing with sub-femtofarad resolution, developing multi-touch tracking algorithms, and fabricating using advanced CMOS processes. The controller must scan at rates exceeding 120Hz, achieve signal-to-noise ratios above 50dB, reject electromagnetic interference, and consume less than 10mW during active scanning while tracking up to 10 simultaneous touch points with sub-millimeter accuracy.

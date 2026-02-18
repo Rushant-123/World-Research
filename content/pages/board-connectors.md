@@ -17,6 +17,16 @@ inputs:
     cost: 0.06
     link: "injection-molding"
 value_created: 0.06
+lead_time_days: 33
+minimum_order_quantity: 10000
+transportation_method: "truck"
+geopolitical_risk: "medium"
+price_volatility: "medium"
+
+certifications:
+  - "ISO9001"
+  - "ISO14001"
+data_quality: "estimated"
 ---
 
 # PCB Board Connectors Manufacturing Process

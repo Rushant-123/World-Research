@@ -12,6 +12,16 @@ inputs:
     link: "raw-materials"
 value_created: 25.000
 distance: 6
+lead_time_days: 74
+minimum_order_quantity: 1000
+transportation_method: "ocean"
+geopolitical_risk: "low"
+price_volatility: "low"
+
+certifications:
+  - "ISO9001"
+  - "ISO14001"
+data_quality: "estimated"
 ---
 
 1. Screen type selection: vibrating, trommel, flip-flop

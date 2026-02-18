@@ -17,6 +17,16 @@ inputs:
     cost: 0.00
     link: "ci-cd-systems"
 value_created: 0.00
+lead_time_days: 33
+minimum_order_quantity: 10000
+transportation_method: "truck"
+geopolitical_risk: "medium"
+price_volatility: "medium"
+
+certifications:
+  - "ISO9001"
+  - "ISO14001"
+data_quality: "estimated"
 ---
 
 1. Establish CUDA architecture team with 45 compiler engineers for NVCC development and PTX intermediate representation design.

@@ -20,6 +20,16 @@ inputs:
     cost: 1.2
     link: "dram-buffer"
 value_created: 3.0
+lead_time_days: 60
+minimum_order_quantity: 1000
+transportation_method: "ocean"
+geopolitical_risk: "low"
+price_volatility: "medium"
+
+certifications:
+  - "ISO9001"
+  - "ISO14001"
+data_quality: "estimated"
 ---
 
 # SSD Controller Chip Manufacturing Process

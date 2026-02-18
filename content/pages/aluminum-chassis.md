@@ -38,6 +38,16 @@ inputs:
     cost: 13
     link: "machinist-labor"
 value_created: 0
+lead_time_days: 60
+minimum_order_quantity: 1000
+transportation_method: "ocean"
+geopolitical_risk: "low"
+price_volatility: "high"
+
+certifications:
+  - "ISO9001"
+  - "ISO14001"
+data_quality: "estimated"
 ---
 
 # How to Make an Aluminum Chassis

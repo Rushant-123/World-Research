@@ -17,6 +17,16 @@ inputs:
     cost: 0.08
     link: "sensor-package"
 value_created: 0.02
+lead_time_days: 44
+minimum_order_quantity: 10000
+transportation_method: "ocean"
+geopolitical_risk: "medium"
+price_volatility: "medium"
+
+certifications:
+  - "ISO9001"
+  - "ISO14001"
+data_quality: "estimated"
 ---
 
 # Ambient Light Sensor Manufacturing Process

@@ -23,6 +23,16 @@ inputs:
     cost: 0.1
     link: "measurement-tools"
 value_created: 2.35
+lead_time_days: 44
+minimum_order_quantity: 5000
+transportation_method: "ocean"
+geopolitical_risk: "medium"
+price_volatility: "medium"
+
+certifications:
+  - "ISO9001"
+  - "ISO14001"
+data_quality: "estimated"
 ---
 
 Acrylic polymers (polyacrylates) are versatile synthetic polymers produced from acrylic acid and its ester derivatives through free radical polymerization. These polymers exhibit excellent clarity, weatherability, UV resistance, and adhesion properties. Arkema's production encompasses solution polymerization for coatings, emulsion polymerization for adhesives, and specialty grades for sealants. The manufacturing process controls molecular weight (10,000-500,000 g/mol), glass transition temperature (-50°C to +100°C), solids content (25-65%), and rheological properties to meet diverse application requirements in automotive coatings, pressure-sensitive adhesives, architectural paints, and industrial sealants.

@@ -23,6 +23,16 @@ inputs:
     cost: 0.5
     link: "precision-assembly-labor"
 value_created: 1.1
+lead_time_days: 60
+minimum_order_quantity: 5000
+transportation_method: "ocean"
+geopolitical_risk: "low"
+price_volatility: "medium"
+
+certifications:
+  - "ISO9001"
+  - "ISO14001"
+data_quality: "estimated"
 ---
 
 1. Receive optical design specifications from imaging system engineers including focal length, f-number, field of view, and MTF targets for smartphone camera module.

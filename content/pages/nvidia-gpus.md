@@ -14,6 +14,16 @@ inputs:
     cost: 1000.00
     link: "server-hardware"
 value_created: 2000.00
+lead_time_days: 38
+minimum_order_quantity: 1
+transportation_method: "air"
+geopolitical_risk: "medium"
+price_volatility: "medium"
+
+certifications:
+  - "ISO9001"
+  - "ISO14001"
+data_quality: "estimated"
 ---
 
 1. Initiate bulk procurement process with NVIDIA enterprise sales division for data center GPU orders targeting AI training cluster deployment with minimum order quantities of 100+ units per purchase order.

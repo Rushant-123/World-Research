@@ -20,6 +20,16 @@ inputs:
     cost: 0.01
     link: "winding-machine"
 value_created: 0
+lead_time_days: 33
+minimum_order_quantity: 10000
+transportation_method: "truck"
+geopolitical_risk: "low"
+price_volatility: "high"
+
+certifications:
+  - "ISO9001"
+  - "ISO14001"
+data_quality: "estimated"
 ---
 
 # How to Make Gold Bond Wire

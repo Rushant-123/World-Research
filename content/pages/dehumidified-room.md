@@ -20,6 +20,16 @@ inputs:
     cost: 0.8
     link: "air-locks"
 value_created: 0.2
+lead_time_days: 44
+minimum_order_quantity: 5000
+transportation_method: "ocean"
+geopolitical_risk: "medium"
+price_volatility: "medium"
+
+certifications:
+  - "ISO9001"
+  - "ISO14001"
+data_quality: "estimated"
 ---
 
 # Dehumidified Dry Room Construction for Battery Manufacturing

@@ -23,6 +23,16 @@ inputs:
     cost: 0.3
     link: "measurement-tools"
 value_created: 8.2
+lead_time_days: 33
+minimum_order_quantity: 1000
+transportation_method: "truck"
+geopolitical_risk: "medium"
+price_volatility: "high"
+
+certifications:
+  - "ISO9001"
+  - "ISO14001"
+data_quality: "estimated"
 ---
 
 1. Receive high-purity silver metal ingots (99.9% minimum purity) from refinery

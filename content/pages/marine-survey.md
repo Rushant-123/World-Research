@@ -17,6 +17,16 @@ inputs:
     cost: 2000000.00
     link: "manufacturing-labor"
 value_created: 3500000.00
+lead_time_days: 57
+minimum_order_quantity: 1
+transportation_method: "air"
+geopolitical_risk: "medium"
+price_volatility: "medium"
+
+certifications:
+  - "ISO9001"
+  - "ISO14001"
+data_quality: "estimated"
 ---
 
 1. Establish project scope with cable system owner to define survey corridor width and route requirements.

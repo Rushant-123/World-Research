@@ -20,6 +20,16 @@ inputs:
     cost: 2000
     link: "aluminum-powder"
 value_created: 8600
+lead_time_days: 24
+minimum_order_quantity: 1
+transportation_method: "air"
+geopolitical_risk: "medium"
+price_volatility: "high"
+
+certifications:
+  - "ISO9001"
+  - "ISO14001"
+data_quality: "estimated"
 ---
 
 # Chromium Metal Production Supply Chain

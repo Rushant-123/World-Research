@@ -20,6 +20,16 @@ inputs:
     cost: 800.00
     link: "ci-cd-systems"
 value_created: 4700.00
+lead_time_days: 72
+minimum_order_quantity: 1
+transportation_method: "air"
+geopolitical_risk: "medium"
+price_volatility: "low"
+
+certifications:
+  - "ISO9001"
+  - "ISO14001"
+data_quality: "estimated"
 ---
 
 1. Initialize backup system project repository with version control and collaborative development infrastructure.

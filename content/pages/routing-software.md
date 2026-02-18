@@ -20,6 +20,16 @@ inputs:
     cost: 800.0
     link: "ci-cd-systems"
 value_created: 500.0
+lead_time_days: 12
+minimum_order_quantity: 1
+transportation_method: "air"
+geopolitical_risk: "low"
+price_volatility: "low"
+
+certifications:
+  - "ISO9001"
+  - "ISO14001"
+data_quality: "estimated"
 ---
 
 Router operating system software forms the foundation of enterprise network infrastructure, managing packet forwarding, routing protocols, and network services at wire speed. This specialized operating system must handle millions of packets per second while maintaining sub-millisecond latency and providing advanced features like quality of service, traffic engineering, and network security. The development process spans kernel optimization, protocol implementation, hardware abstraction, and extensive testing to ensure carrier-grade reliability across diverse network topologies.

@@ -23,6 +23,16 @@ inputs:
     cost: 0.05
     link: "signal-integrity-tester"
 value_created: 0.3
+lead_time_days: 60
+minimum_order_quantity: 10000
+transportation_method: "ocean"
+geopolitical_risk: "low"
+price_volatility: "medium"
+
+certifications:
+  - "ISO9001"
+  - "ISO14001"
+data_quality: "estimated"
 ---
 
 Micro-coaxial connectors are ultra-miniature RF connectors used in mobile devices, laptops, and wireless modules to connect antenna cables to mainboards. These precision components maintain 50-ohm impedance across frequencies up to 6 GHz while fitting in spaces under 2mm. Manufacturing requires sub-micron tolerances, specialized tooling, and rigorous RF testing to ensure signal integrity in compact consumer electronics.

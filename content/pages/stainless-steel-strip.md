@@ -23,6 +23,16 @@ inputs:
     cost: 0.15
     link: "chemical-etchants"
 value_created: 2.2
+lead_time_days: 33
+minimum_order_quantity: 5000
+transportation_method: "truck"
+geopolitical_risk: "medium"
+price_volatility: "high"
+
+certifications:
+  - "ISO9001"
+  - "ISO14001"
+data_quality: "estimated"
 ---
 
 Precision stainless steel strip is produced through multi-stage cold rolling operations that reduce hot-rolled coils to thin gauges between 0.05mm and 0.5mm. These high-precision strips are essential for manufacturing springs, electrical connectors, shielding cans, battery contacts, and precision stampings in electronics, automotive, and medical device industries. The manufacturing process requires tight control of thickness tolerance (±0.005mm), surface finish (Ra 0.1-0.4μm), mechanical properties (tensile strength 800-2000 MPa), and flatness specifications to ensure consistent performance in demanding applications.

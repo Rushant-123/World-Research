@@ -17,6 +17,16 @@ inputs:
     cost: 0.35
     link: "precision-assembly-labor"
 value_created: 0.80
+lead_time_days: 60
+minimum_order_quantity: 5000
+transportation_method: "ocean"
+geopolitical_risk: "medium"
+price_volatility: "medium"
+
+certifications:
+  - "ISO9001"
+  - "ISO14001"
+data_quality: "estimated"
 ---
 
 1. Receive polycarbonate resin pellets in 25kg moisture-barrier bags from supplier warehouse

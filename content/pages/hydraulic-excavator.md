@@ -15,6 +15,16 @@ inputs:
     link: "diesel"
 value_created: 200.000
 distance: 6
+lead_time_days: 60
+minimum_order_quantity: 10
+transportation_method: "ocean"
+geopolitical_risk: "low"
+price_volatility: "medium"
+
+certifications:
+  - "ISO9001"
+  - "ISO14001"
+data_quality: "estimated"
 ---
 
 1. Ultra-class excavator for 300-400 ton trucks

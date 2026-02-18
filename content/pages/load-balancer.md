@@ -29,6 +29,16 @@ inputs:
     cost: 4000
     link: "server-psu"
 value_created: 0
+lead_time_days: 51
+minimum_order_quantity: 1
+transportation_method: "air"
+geopolitical_risk: "medium"
+price_volatility: "medium"
+
+certifications:
+  - "ISO9001"
+  - "ISO14001"
+data_quality: "estimated"
 ---
 
 # How to Make Load Balancer

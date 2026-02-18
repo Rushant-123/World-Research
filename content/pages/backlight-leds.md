@@ -23,6 +23,16 @@ inputs:
     cost: 0.05
     link: "board-tester"
 value_created: 0.25
+lead_time_days: 60
+minimum_order_quantity: 10000
+transportation_method: "ocean"
+geopolitical_risk: "low"
+price_volatility: "medium"
+
+certifications:
+  - "ISO9001"
+  - "ISO14001"
+data_quality: "estimated"
 ---
 
 1. Source high-purity sapphire wafers (2-inch diameter, c-plane orientation, 430 μm thickness) from Crystal Systems as substrate material for InGaN LED epitaxy

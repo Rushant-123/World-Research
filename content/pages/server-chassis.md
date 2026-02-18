@@ -20,6 +20,16 @@ inputs:
     cost: 80.00
     link: "manufacturing-labor"
 value_created: 175.00
+lead_time_days: 60
+minimum_order_quantity: 100
+transportation_method: "ocean"
+geopolitical_risk: "low"
+price_volatility: "medium"
+
+certifications:
+  - "ISO9001"
+  - "ISO14001"
+data_quality: "estimated"
 ---
 
 1. Receive stainless steel sheets (SPCC-SD cold-rolled steel or 304 stainless steel) in 1.2mm to 2.0mm thickness for structural components

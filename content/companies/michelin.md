@@ -15,6 +15,15 @@ products:
 financials:
   profit_margin: 15.0
   operating_margin: 19.5
+employees: 60000
+rd_spending_pct: 5
+public_private: "public"
+founded_year: 1989
+
+factory_locations:
+  - "USA"
+  - "Germany"
+data_quality: "estimated"
 ---
 
 # Michelin

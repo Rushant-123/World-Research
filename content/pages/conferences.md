@@ -17,6 +17,16 @@ inputs:
     cost: 200.0
     link: "printed-manual"
 value_created: 500.0
+lead_time_days: 44
+minimum_order_quantity: 10
+transportation_method: "ocean"
+geopolitical_risk: "medium"
+price_volatility: "medium"
+
+certifications:
+  - "ISO9001"
+  - "ISO14001"
+data_quality: "estimated"
 ---
 
 # Technical Conferences and Events Supply Chain

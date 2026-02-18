@@ -23,6 +23,16 @@ inputs:
     cost: 0.05
     link: "device-programmer"
 value_created: 0.82
+lead_time_days: 60
+minimum_order_quantity: 5000
+transportation_method: "ocean"
+geopolitical_risk: "low"
+price_volatility: "medium"
+
+certifications:
+  - "ISO9001"
+  - "ISO14001"
+data_quality: "estimated"
 ---
 
 Flash memory manufacturing combines advanced CMOS processing with specialized floating gate structures to create non-volatile memory cells capable of storing data for 20+ years while enduring 100,000+ program/erase cycles.

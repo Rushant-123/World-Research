@@ -1,31 +1,67 @@
 {
   "companyFrequency": {
-    "Various Manufacturers": 493,
+    "Sony": 1,
+    "Samsung": 7,
+    "OmniVision": 1,
+    "Saint-Gobain": 2,
+    "3M": 15,
+    "Carborundum": 1,
+    "SABIC": 7,
+    "LG Chem": 2,
+    "INEOS Styrolution": 1,
     "Delta Electronics": 8,
-    "Various Academic Publishers": 1,
-    "STMicroelectronics": 2,
-    "Various Mining Operations": 2,
-    "3M Company": 1,
+    "International Paper": 6,
+    "UPM": 1,
+    "Stora Enso": 1,
+    "STMicroelectronics": 3,
+    "Dow": 18,
+    "BASF": 27,
+    "Solvay": 7,
+    "Mill-Max": 10,
+    "Harwin": 10,
+    "Samtec": 10,
+    "Coursera": 9,
+    "Udemy": 8,
+    "LinkedIn Learning": 8,
+    "Arkema": 2,
+    "Mitsubishi Chemical": 1,
+    "Sumitomo Chemical": 1,
     "Arkema Group": 1,
     "Various Plastic Molding Companies": 1,
-    "Semiconductor Manufacturer": 32,
-    "3M": 5,
-    "Nitto Denko": 4,
+    "Semiconductor Manufacturer": 18,
+    "Various Manufacturers": 166,
+    "Henkel": 12,
+    "H.B. Fuller": 7,
+    "Nitto Denko": 5,
     "Tesa": 1,
     "Anthropic": 7,
-    "Industrial Manufacturer": 135,
-    "Donaldson": 1,
-    "Parker Hannifin": 1,
-    "Pall Corporation": 1,
+    "Industrial Manufacturer": 66,
+    "Donaldson": 6,
+    "Parker Hannifin": 5,
+    "Pall Corporation": 5,
     "Carrier Global": 1,
+    "Alfa Laval": 17,
+    "GEA": 17,
+    "Andritz": 3,
     "PagerDuty": 1,
-    "Materials Producer": 12,
-    "Alcoa": 5,
+    "TOS": 1,
+    "Wotan": 1,
+    "Union": 1,
+    "Johnson Matthey": 10,
+    "Clariant": 11,
+    "Lindab": 3,
+    "Sheet Metal Connectors": 3,
+    "Spiral Manufacturing": 3,
+    "Ibiden": 8,
+    "Shinko": 2,
+    "AT&S": 3,
+    "Alcoa": 12,
+    "Rio Tinto": 13,
+    "Norsk Hydro": 7,
     "Catcher Technology": 1,
-    "Foxconn": 12,
-    "Southwire": 1,
-    "Nexans": 2,
-    "Rio Tinto": 6,
+    "Foxconn": 13,
+    "Southwire": 9,
+    "Nexans": 4,
     "Rusal": 1,
     "Chalco": 1,
     "Showa Denko": 1,
@@ -34,33 +70,43 @@
     "Yara": 3,
     "CF Industries": 3,
     "Nutrien": 3,
-    "BASF": 5,
     "Orica": 4,
     "Dyno Nobel": 3,
-    "Analog Devices": 1,
+    "Analog Devices": 4,
     "AEL": 1,
-    "Clariant": 1,
+    "Ipsen": 13,
+    "Surface Combustion": 12,
+    "Lindberg": 12,
+    "MPH": 12,
+    "Technic": 2,
+    "MacDermid": 9,
+    "Coventya": 2,
     "Anomatic": 1,
-    "Amphenol": 4,
-    "Molex": 4,
-    "Murata": 1,
-    "Multiple Vendors": 6,
-    "Metallurgical Equipment Supplier": 9,
-    "Air Products": 9,
-    "Linde": 7,
-    "Air Liquide": 5,
+    "Amphenol": 7,
+    "Molex": 7,
+    "Murata": 3,
+    "Koh Young": 1,
+    "Omron": 2,
+    "Mirtec": 1,
+    "Multiple Vendors": 4,
+    "Air Products": 25,
+    "Linde": 23,
+    "Air Liquide": 20,
     "FANUC Corporation": 2,
     "Bosch Rexroth": 1,
     "Flex Ltd.": 2,
     "ASM": 1,
-    "Juki": 1,
-    "Yamaha": 1,
-    "Fuji": 1,
+    "Juki": 3,
+    "Yamaha": 3,
+    "Fuji": 3,
+    "Jabil": 4,
+    "Flex": 2,
     "Teradyne Inc.": 1,
     "Cirrus Logic": 2,
     "Okta": 1,
-    "Microsoft": 4,
-    "Various Cable Assembly Companies": 1,
+    "Microsoft": 22,
+    "Prysmian": 11,
+    "Sumitomo Electric": 5,
     "Bosch Packaging Technology": 1,
     "DEPRAG": 1,
     "Siemens Digital Industries": 1,
@@ -68,19 +114,23 @@
     "Radiant Opto-Electronics": 1,
     "Nichia Corporation": 1,
     "Generac": 1,
-    "Caterpillar": 9,
+    "Caterpillar": 11,
     "Veeam Software": 1,
     "NSK Ltd.": 1,
     "Metso Outotec": 2,
     "FLSmidth": 2,
+    "Olin": 19,
+    "Westlake Chemical": 7,
+    "Formosa Plastics": 11,
     "Ericsson": 1,
     "MP Materials": 2,
     "Lynas": 2,
     "Hirata Corporation": 1,
     "Guangzhou Tinci": 1,
-    "Texas Instruments": 2,
+    "Texas Instruments": 5,
     "Asahi Kasei": 1,
     "CATL": 3,
+    "SPX Flow": 15,
     "Continental Conveyor": 1,
     "Rigol Technologies": 1,
     "Senju Metal": 1,
@@ -88,17 +138,29 @@
     "Kester": 1,
     "Cloudflare": 2,
     "Akamai": 2,
-    "Cisco": 6,
-    "Juniper": 4,
+    "Cisco": 7,
+    "Juniper": 5,
     "Huawei": 1,
     "Various Binding Suppliers": 1,
+    "JetBrains": 9,
+    "Eclipse": 7,
     "Synaptics": 3,
     "Nidec Corporation": 3,
-    "Teradyne": 3,
+    "Teradyne": 8,
+    "General Cable": 8,
+    "Permabond": 1,
     "Voltaix": 2,
+    "Gema": 3,
+    "Wagner": 4,
+    "Nordson": 3,
     "Wieland Group": 1,
-    "Wieland": 1,
+    "Mueller Industries": 3,
+    "KME": 2,
+    "Wieland": 3,
     "Lotes Co.": 1,
+    "Applied Materials": 19,
+    "Screen": 1,
+    "Tokyo Electron": 12,
     "SQM": 2,
     "Albemarle": 2,
     "Chromium": 1,
@@ -106,12 +168,15 @@
     "IHC Mining": 1,
     "Terex": 3,
     "Altec": 1,
-    "GNU": 2,
+    "GNU": 4,
     "CMake": 1,
     "Ninja": 1,
     "Infrastructure Provider": 4,
-    "Komatsu": 8,
+    "Komatsu": 12,
     "Aehr Test Systems": 1,
+    "Dayton Progress": 5,
+    "Danly": 5,
+    "Misumi": 5,
     "Apple Inc.": 2,
     "Bell Labs": 1,
     "ISO": 2,
@@ -125,28 +190,46 @@
     "Synaptics Inc.": 1,
     "Sandvik Coromant": 1,
     "Cabot Corporation": 1,
-    "International Paper": 4,
-    "WestRock": 1,
-    "Smurfit Kappa": 2,
-    "Mining Companies": 4,
-    "Olin": 5,
-    "Dow": 4,
-    "Formosa Plastics": 3,
+    "PPG Industries": 8,
+    "Sherwin-Williams": 8,
+    "AkzoNobel": 8,
+    "WestRock": 2,
+    "Smurfit Kappa": 3,
+    "ExxonMobil": 14,
+    "Shell": 16,
+    "Fuchs": 2,
+    "Mining Companies": 2,
     "CommScope": 1,
     "ARM": 1,
     "Synopsys": 3,
     "Cadence": 3,
     "TSMC": 3,
     "American Tower, Crown Castle, SBA Communications": 1,
+    "Atlas Copco": 4,
+    "Ingersoll Rand": 2,
+    "Gardner Denver": 2,
+    "Kyocera": 3,
+    "CoorsTek": 3,
+    "Morgan Advanced Materials": 3,
     "Denka Company": 1,
     "NGK": 1,
     "Lapp Insulator": 1,
-    "Chemical Processing Company": 8,
+    "ArcelorMittal": 16,
+    "Nippon Steel": 16,
+    "POSCO": 14,
+    "Sulzer": 3,
+    "Koch-Glitsch": 3,
+    "Montz": 2,
     "KMG": 1,
     "Stella Chemifa": 2,
     "Dow Chemical": 2,
-    "Various Chemical Companies": 1,
+    "Various Employers": 3,
+    "Contract Labor": 1,
+    "Staffing Agencies": 1,
     "Corning Incorporated": 2,
+    "Trane": 1,
+    "Carrier": 1,
+    "Johnson Controls": 1,
     "Apple (Internal Design Team)": 1,
     "Apple": 7,
     "Qualcomm": 2,
@@ -159,122 +242,178 @@
     "Merafe": 1,
     "Glencore Alloys": 1,
     "GitHub Inc.": 1,
+    "ABB": 11,
+    "Schneider Electric": 5,
+    "Eaton": 1,
     "Ardmac Group": 1,
-    "Construction Companies": 1,
-    "Contractors": 1,
+    "Nichia": 10,
+    "Lumileds": 10,
+    "Osram": 10,
+    "Clean Air Technology": 5,
+    "Terra Universal": 5,
+    "Mecart": 5,
     "Sony Semiconductor Solutions": 1,
-    "Applied Materials": 8,
     "Ebara": 1,
+    "Haas": 5,
+    "DMG Mori": 6,
+    "Mazak": 8,
     "DMG MORI": 1,
+    "Trumpf": 5,
+    "Bystronic": 3,
     "China Shenhua": 2,
     "Peabody": 3,
-    "Glencore": 10,
+    "Glencore": 19,
     "China Molybdenum": 3,
     "Sherritt": 1,
     "GitHub": 4,
     "GitLab": 2,
     "Individual Developers": 1,
+    "Amcor": 1,
+    "Sealed Air": 2,
+    "Berry Global": 1,
     "National Machinery": 1,
-    "Tech Companies": 2,
+    "SMS group": 4,
+    "Primetals": 2,
+    "Danieli": 4,
+    "Various Engineering Firms": 3,
+    "Consulting Companies": 3,
+    "OEM Staff": 3,
     "GCC": 1,
     "LLVM Projects": 1,
-    "Software Company": 6,
-    "Atlas Copco": 2,
-    "Dell": 1,
+    "LLVM": 2,
+    "Intel": 7,
+    "Lesjöfors": 2,
+    "Lee Spring": 2,
+    "Associated Spring": 2,
+    "Dell": 3,
     "HP": 1,
-    "Lenovo": 1,
+    "Lenovo": 3,
     "Stanford": 1,
     "MIT": 1,
     "CMU": 1,
     "Universities": 2,
-    "Online Platforms": 1,
-    "Keysight": 2,
-    "National Instruments": 3,
-    "Industrial Equipment Manufacturer": 10,
-    "Various Construction Companies": 2,
+    "Online Platforms": 2,
+    "Keysight": 12,
+    "National Instruments": 4,
+    "Industrial Equipment Manufacturer": 5,
     "IEEE": 1,
     "ACM": 1,
-    "Various": 7,
+    "Various": 3,
     "JAE Electronics": 3,
     "Foxlink Group": 1,
+    "TE Connectivity": 11,
     "Unitech Printed Circuit Board": 1,
     "Joy Global": 2,
     "Continental": 1,
     "Fenner Dunlop": 1,
+    "Castrol": 3,
+    "Quaker": 1,
     "Nidec": 3,
     "Sunon": 1,
-    "Schneider Electric": 3,
-    "Evapco": 1,
+    "SPX": 2,
+    "Baltimore Aircoil": 2,
+    "Evapco": 3,
     "SPX Cooling": 1,
-    "Freeport-McMoRan": 3,
-    "BHP": 2,
+    "Freeport-McMoRan": 8,
+    "BHP": 7,
     "Mitsui Mining & Smelting": 1,
     "Codelco": 1,
-    "Sumitomo Electric": 3,
     "GGP Metalpowder": 1,
-    "Mueller Industries": 1,
     "Foster Electric": 1,
     "WestRock Company": 1,
+    "ASML": 9,
+    "Corning": 11,
+    "Schott": 6,
+    "AGC": 6,
     "LLVM Project": 1,
     "ISO C++ Committee": 1,
     "Saudi Aramco": 2,
-    "ExxonMobil": 5,
-    "Shell": 7,
-    "Sandvik": 4,
+    "Sandvik": 8,
+    "Seiko Epson": 6,
+    "TXC Corporation": 5,
+    "Abracon": 5,
     "W3C": 4,
     "Quaker Houghton": 1,
     "National Steel Rule": 1,
-    "Tokyo Electron": 3,
+    "Lam Research": 3,
+    "Makita": 3,
+    "DeWalt": 3,
+    "Bosch": 8,
     "Equinix": 2,
     "Digital Realty": 1,
     "AWS": 2,
     "NetApp": 2,
     "Dell EMC": 1,
-    "Oracle": 2,
+    "Oracle": 12,
     "PostgreSQL Global Development Group": 1,
     "PostgreSQL": 1,
+    "Vishay": 3,
+    "Infineon": 3,
     "Samsung Electronics": 5,
     "Munters": 1,
     "Veolia Water Technologies": 2,
     "Siemens (Mentor)": 1,
     "Tokyo Ohka Kogyo": 2,
-    "JetBrains": 2,
+    "Orbotech": 4,
+    "Schmid": 4,
+    "Chemcut": 4,
     "BPM Microsystems": 3,
     "Disco Corporation": 1,
     "Henkel AG": 1,
     "ASM Pacific Technology": 2,
+    "Hunter": 2,
+    "Inductotherm": 2,
+    "ABP Induction": 2,
     "Bobst Group": 1,
     "BP": 2,
     "Various Publishers": 1,
+    "Fluke": 4,
+    "Tektronix": 4,
+    "Siemens": 16,
+    "Danfoss": 3,
     "Luxshare": 2,
     "JAE": 2,
     "Novatek": 1,
-    "Corning": 5,
-    "Canon": 1,
+    "Canon": 4,
     "Samsung Display": 1,
     "LG Display": 3,
     "BOE": 1,
-    "Sulzer": 1,
-    "Koch-Glitsch": 1,
     "Cloudflare, Google, AWS Route 53, ISPs": 1,
     "Broadcom": 6,
     "GoDaddy": 1,
     "Namecheap": 1,
     "Registrars (Namecheap, GoDaddy, Google Domains)": 1,
     "Eminence": 1,
-    "Various Mining Companies": 10,
+    "Various Mining Companies": 9,
     "SK Hynix": 4,
-    "Samsung": 6,
+    "Niehoff": 2,
+    "Samp": 2,
+    "Bartell": 2,
+    "Despatch": 1,
+    "Wisconsin Oven": 1,
+    "Grieve": 1,
     "Sulzer Mixpac": 1,
     "Liebherr": 1,
+    "Cremer": 2,
+    "Abbott": 2,
+    "CM Furnaces": 2,
     "Duke Energy": 2,
     "Exelon": 2,
+    "Various Universities": 3,
+    "Technical Institutes": 1,
+    "Colleges": 1,
     "Chroma ATE": 1,
     "AK Steel": 1,
-    "Nippon Steel": 1,
     "Engie": 1,
+    "Chemical Processing Company": 2,
+    "Nikon": 4,
+    "SEW-Eurodrive": 1,
+    "Bonfiglioli": 1,
+    "Nord Drivesystems": 1,
     "Pegatron": 2,
     "Wistron": 1,
+    "Atotech": 7,
+    "JCU": 5,
     "Umicore": 1,
     "Gazprom": 2,
     "Thales Group": 1,
@@ -282,24 +421,34 @@
     "Bechtel": 1,
     "Orano": 2,
     "Juniper Networks": 1,
+    "Huntsman": 12,
+    "Hexion": 10,
     "Sumitomo Bakelite": 2,
     "Hitachi Chemical": 1,
-    "Henkel": 4,
-    "Hexion": 1,
-    "Huntsman": 1,
+    "PST": 1,
     "Cisco, Juniper, Arista, HP": 1,
     "Aruba": 1,
-    "ASML": 1,
-    "Hitachi": 3,
+    "Hitachi": 4,
+    "GE": 2,
+    "Mitsubishi Heavy Industries": 1,
+    "Miva": 1,
+    "Adeon": 1,
+    "Presezzi": 2,
+    "Schuler": 7,
+    "Aida": 4,
     "PPC Broadband": 1,
     "Precision Acoustics": 1,
     "Foxconn Technology": 4,
     "Microchip Technology": 1,
+    "Ziehl-Abegg": 1,
+    "ebm-papst": 1,
+    "Systemair": 1,
     "Instron Corporation": 1,
-    "Prysmian": 1,
+    "Fastenal": 2,
+    "Würth": 2,
+    "ITW": 2,
     "Sumitomo": 1,
     "Seikoh Giken": 1,
-    "Andritz": 1,
     "Kidde Fire Systems": 1,
     "Palo Alto Networks": 1,
     "Fortinet": 1,
@@ -307,27 +456,42 @@
     "Data I": 1,
     "O": 1,
     "Winbond Electronics": 1,
+    "Flexible Circuit": 1,
+    "Career Technology": 1,
+    "Flexcom": 1,
     "Flexium": 1,
     "Sun Chemical": 2,
     "Outotec": 1,
-    "Solvay": 3,
-    "Honeywell": 2,
-    "Various Mold Manufacturers": 1,
-    "Sealed Air": 1,
+    "Axcelis": 3,
+    "Ion Beam Applications": 2,
+    "Metallurgical Equipment Supplier": 3,
+    "Honeywell": 10,
+    "Covestro": 4,
+    "Futek": 1,
+    "Interface": 1,
+    "Amada": 2,
     "Jarllytec": 2,
-    "Energy Companies": 2,
+    "SPEA": 1,
+    "Takaya": 1,
+    "Tenaris": 2,
+    "Vallourec": 2,
+    "TMK": 2,
     "Sibelco": 2,
     "Quartz Corp": 1,
     "US Silica": 2,
-    "Nyrstar": 3,
+    "Kokusai Electric": 2,
+    "Centrotherm": 1,
+    "Nyrstar": 5,
     "Volcan Compania": 1,
     "Urenco": 1,
-    "Siemens": 3,
-    "GE": 1,
     "TransCanada": 1,
     "Enbridge": 1,
+    "Bridgestone": 2,
+    "Michelin": 2,
+    "Goodyear": 2,
     "Linux Foundation": 2,
     "GitHub (Microsoft)": 2,
+    "Software Company": 1,
     "Technic Inc.": 1,
     "Barrick": 2,
     "Newmont": 3,
@@ -338,12 +502,17 @@
     "Heraeus": 1,
     "MK Electron": 1,
     "u-blox": 1,
+    "HPE": 2,
     "Grafana Labs": 1,
     "BTR New Energy": 1,
+    "SGL Carbon": 6,
+    "Tokai Carbon": 6,
+    "GrafTech": 6,
+    "Advantest": 5,
     "Bosch Sensortec": 1,
     "Evonik": 1,
-    "Arkema": 1,
     "Kyocera AVX": 1,
+    "Various Mining Operations": 1,
     "Various Energy Providers": 1,
     "Auras Technology": 1,
     "Cooler Master": 1,
@@ -351,35 +520,49 @@
     "Aavid Thermalloy": 1,
     "Bodycote": 1,
     "TDK Corporation": 2,
+    "Southco": 2,
+    "Sugatsune": 2,
+    "Hettich": 2,
     "WHATWG": 1,
     "IETF": 2,
     "Open Source Community": 1,
+    "Mobil": 2,
     "Schuler Group": 1,
+    "Praxair": 1,
     "ICANN": 2,
     "Verisign": 1,
     "Babcock & Wilcox": 1,
     "Cleaver-Brooks": 1,
     "Turner Construction": 1,
     "Makino Milling Machine": 1,
-    "Arburg": 1,
+    "Arburg": 2,
+    "Engel": 1,
+    "Haitian": 1,
+    "SAP": 10,
     "Cognex Corporation": 3,
-    "Various Employers": 5,
     "ISPs (Comcast, AT&T, Verizon, etc.)": 1,
-    "Axcelis": 1,
-    "Vale": 3,
+    "Vale": 5,
     "ECMA International": 1,
+    "Carr Lane": 2,
+    "Jergens": 2,
+    "TE-CO": 2,
     "SEGGER Microcontroller": 1,
-    "DuPont": 3,
+    "DuPont": 11,
     "Nippon Mektron": 1,
     "Tai-Hao Enterprise": 1,
     "Marbach Group": 1,
-    "Various Label Printing Companies": 1,
+    "Avery Dennison": 6,
+    "CCL Industries": 3,
+    "Multi-Color Corporation": 2,
+    "Burkle": 1,
+    "Lauffer": 1,
+    "Kitagawa": 1,
     "Various Telecom Operators": 1,
     "Academia": 1,
     "Research Labs": 1,
     "Coherent": 1,
     "TRUMPF": 1,
-    "Teck Resources": 2,
+    "Teck Resources": 4,
     "Boliden": 1,
     "Doe Run": 1,
     "Korea Zinc": 1,
@@ -390,7 +573,11 @@
     "HeidelbergCement": 1,
     "Quanta Services": 1,
     "MYR Group": 1,
-    "Various Distributions": 1,
+    "THK": 1,
+    "IAI": 1,
+    "Festo": 1,
+    "Red Hat": 1,
+    "Canonical": 1,
     "CoolIT Systems": 1,
     "Merck": 1,
     "LG Energy": 1,
@@ -400,13 +587,25 @@
     "Quanta": 1,
     "Komatsu Mining": 1,
     "Foxconn Interconnect": 1,
+    "Allen-Bradley": 6,
+    "Emerson": 6,
     "Haas Factory Outlet": 1,
+    "US Magnesium": 1,
+    "Dead Sea Magnesium": 1,
+    "Ma Steel": 1,
     "Asahi Kasei Microdevices": 1,
     "Pegatron Corporation": 1,
     "Alcatel Submarine Networks": 1,
-    "Mitutoyo": 1,
-    "Jabil": 3,
-    "Flex": 1,
+    "KLA": 3,
+    "Taiyo": 4,
+    "Uyemura": 6,
+    "Electra Polymers": 4,
+    "Mitutoyo": 2,
+    "Zeiss": 2,
+    "Hexagon": 1,
+    "Daifuku": 1,
+    "Dematic": 1,
+    "Intelligrated": 1,
     "Various Sheet Metal Fabricators": 1,
     "SFS Group": 1,
     "Nifco": 1,
@@ -414,7 +613,7 @@
     "KH Vatec": 1,
     "Shin Zu Shing": 1,
     "Material Suppliers": 1,
-    "KLA": 2,
+    "Materials Producer": 4,
     "Onto Innovation": 1,
     "Bruker": 1,
     "I-PEX Inc.": 1,
@@ -422,58 +621,67 @@
     "AAC Technologies": 2,
     "Goertek": 1,
     "Olympus Corporation": 1,
+    "Kennametal": 4,
+    "Iscar": 4,
+    "Samsung Electro-Mechanics": 1,
+    "TDK": 3,
     "Epistar": 1,
+    "ManpowerGroup": 1,
+    "Randstad": 1,
+    "Adecco": 1,
     "Various Mining Services": 1,
     "Murata Manufacturing": 3,
+    "Edmund Optics": 3,
+    "Thorlabs": 3,
+    "Newport": 3,
+    "DME": 2,
+    "Hasco": 2,
+    "Meusburger": 2,
     "Datadog": 1,
+    "Arista": 2,
+    "WEG": 2,
     "Hitachi Metals": 2,
-    "TTM Technologies": 3,
+    "TTM Technologies": 7,
     "Kioxia": 1,
     "Cameco": 2,
     "Kazatomprom": 2,
     "Keysight Technologies": 4,
-    "Intel": 5,
     "ISPs": 1,
     "Enterprises": 1,
     "Cloud Providers": 1,
     "Arista Networks": 3,
-    "Arista": 1,
     "Mellanox Technologies": 1,
     "Cisco, Juniper, Arista, Huawei": 1,
     "Cisco Systems": 3,
-    "Fluke": 1,
     "NetScout": 1,
     "II-VI Incorporated": 1,
     "GNS3": 1,
     "EVE-NG": 1,
     "NXP Semiconductors": 1,
     "Norilsk Nickel": 2,
+    "Nornickel": 2,
     "OpenJS Foundation": 2,
     "npm, Inc. (GitHub": 1,
     "Microsoft)": 1,
     "npm Inc": 1,
-    "Various Textile Manufacturers": 1,
+    "Ube Industries": 3,
     "McDermott": 1,
     "Technip": 1,
     "Halliburton": 1,
     "Schlumberger": 1,
     "Universal Display Corporation": 1,
-    "Coursera": 1,
     "edX": 1,
     "Udacity": 1,
     "YouTube": 1,
     "Khan Academy": 1,
-    "Various Open Source Projects": 1,
     "OpenSSL Project": 1,
     "Nextrom": 1,
     "Koh Young Technology": 1,
     "Finisar": 2,
     "Lumentum": 1,
-    "Ibiden": 2,
-    "Unimicron": 1,
-    "AT&S": 1,
+    "Unimicron": 5,
+    "Rohde & Schwarz": 1,
     "EXFO": 1,
-    "Kokusai Electric": 1,
     "DS Smith": 1,
     "Panasonic": 1,
     "Loparex LLC": 1,
@@ -483,34 +691,47 @@
     "Square": 1,
     "Isola Group": 1,
     "Cypress Semiconductor": 2,
-    "Various Universities": 2,
+    "Owens Corning": 1,
+    "Rockwool": 1,
     "OCP Group": 2,
     "Mosaic": 4,
     "PhosAgro": 2,
     "Materion Corporation": 1,
     "OCP": 1,
+    "ON Semiconductor": 2,
+    "Rohm": 1,
     "Photronics": 1,
     "Toppan": 1,
     "DNP": 1,
     "JSR": 1,
     "Charles Ross & Son": 1,
-    "Lam Research": 1,
+    "Hypertherm": 1,
+    "ESAB": 3,
+    "Kjellberg": 1,
     "Pactiv Evergreen": 1,
-    "Buehler": 1,
+    "ThyssenKrupp": 1,
+    "Buehler": 5,
+    "Struers": 4,
+    "Lapmaster Wolters": 4,
     "Cabot Microelectronics": 1,
     "Fujimi": 1,
+    "Mitsubishi Engineering-Plastics": 2,
     "Toray Industries": 1,
-    "LyondellBasell": 1,
+    "Kaneka": 1,
+    "LyondellBasell": 3,
     "BASF SE": 1,
     "Flextronics": 1,
     "Volex": 1,
     "Shenzhen Deren": 1,
     "Honglin": 1,
     "Dialog Semiconductor": 1,
-    "Utilities": 2,
-    "ABB": 1,
+    "Taiyo Yuden": 1,
+    "Toshiba": 1,
     "Makino": 1,
-    "DMG Mori": 1,
+    "Grundfos": 5,
+    "Xylem": 5,
+    "ITT": 5,
+    "Sensata": 2,
     "Unimicron Technology": 1,
     "Jabil Inc.": 2,
     "Keithley Instruments": 1,
@@ -519,10 +740,15 @@
     "Chemours Company": 1,
     "Wacker Chemie": 1,
     "Hemlock Semiconductor": 1,
+    "Shin-Etsu": 10,
     "Python Software Foundation": 1,
     "Meta (Facebook)": 1,
     "Nanosys": 1,
-    "Seiko Epson": 1,
+    "Empire Abrasive": 3,
+    "Wheelabrator": 3,
+    "Clemco": 3,
+    "AFC-Holcroft": 1,
+    "ALD": 1,
     "APC": 1,
     "Tripp Lite": 1,
     "Dell Technologies": 2,
@@ -530,10 +756,13 @@
     "Various Suppliers": 1,
     "BTU International": 1,
     "Andrew Corporation": 1,
+    "Cummins": 2,
+    "Kohler": 2,
     "Laird Connectivity": 2,
     "MaxLinear": 1,
     "Toppan Printing": 1,
-    "Various Underground Mines": 1,
+    "Fanuc": 3,
+    "Kuka": 3,
     "RotoMetrics": 1,
     "Cisco IOS": 1,
     "Junos": 1,
@@ -544,20 +773,22 @@
     "Ruby Core Team": 1,
     "Basecamp (37signals)": 1,
     "Iluka Resources": 1,
+    "PMI": 1,
+    "ASQ": 1,
+    "ISA": 1,
     "Compass Minerals": 1,
     "K+S": 1,
     "Cargill": 1,
     "Quarzwerke": 1,
+    "Olympus": 1,
     "Haver & Boecker": 1,
     "Splunk": 1,
     "CrowdStrike": 1,
-    "Various Server OEMs": 1,
     "Supermicro": 1,
     "Rittal": 1,
     "Evonik Industries": 1,
-    "Shin-Etsu": 3,
-    "Sumco": 2,
-    "GlobalWafers": 1,
+    "Sumco": 7,
+    "GlobalWafers": 6,
     "Ferroglobe": 1,
     "Elkem": 1,
     "Dow Silicones": 1,
@@ -571,16 +802,19 @@
     "American Elements": 1,
     "Alfa Aesar": 1,
     "Ames Goldsmith": 1,
+    "Various Construction Companies": 1,
     "Hirano Tecseed": 1,
-    "TDK": 1,
-    "Yageo": 1,
+    "Pall": 1,
+    "Parker": 1,
+    "Yageo": 2,
     "Celestica Inc.": 1,
     "Microsoft Corporation": 1,
     "Senju Metal Industry": 1,
-    "TE Connectivity": 1,
     "Heller Industries": 1,
     "Sulzer Chemtech": 1,
     "GoerTek": 3,
+    "Graco": 1,
+    "Kremlin Rexson": 1,
     "Western Digital": 2,
     "Advantest Corporation": 1,
     "DigiCert": 1,
@@ -590,10 +824,8 @@
     "Aperam": 1,
     "Allegheny Technologies": 1,
     "Sandvik Materials Technology": 1,
-    "Schuler": 1,
     "Cargill Inc.": 1,
     "General Electric": 1,
-    "ArcelorMittal": 1,
     "Nucor": 2,
     "AISC Members": 1,
     "Leader Tech": 1,
@@ -601,9 +833,7 @@
     "KEC International": 1,
     "Valmont": 1,
     "Bridon-Bekaert": 1,
-    "Avery Dennison": 3,
     "UPM Raflatac": 1,
-    "CCL Industries": 1,
     "Vishay Precision Group": 1,
     "Arch Resources": 1,
     "SubCom, Alcatel Submarine Networks, NEC": 1,
@@ -611,12 +841,17 @@
     "Chemtrade": 1,
     "PVS": 1,
     "Marvell Technology": 1,
+    "Toray": 1,
+    "Teijin": 1,
     "JSR Corporation": 1,
+    "Flow": 3,
+    "OMAX": 3,
+    "KMT": 3,
     "Nordmeccanica Group": 1,
     "CompTIA": 1,
+    "NXP": 3,
     "Everett Charles Technologies": 1,
     "Agilent Technologies": 1,
-    "Advantest": 1,
     "Vim": 1,
     "Emacs": 1,
     "VSCode": 1,
@@ -625,19 +860,28 @@
     "ESPEC Corporation": 1,
     "Thermotron Industries": 1,
     "Kraton Polymers": 1,
-    "SABIC": 1,
+    "Fischer": 2,
+    "Elcometer": 2,
+    "DeFelsko": 2,
+    "KOA Speer": 1,
     "Rushant": 1,
     "Reed Machinery": 1,
     "InfluxData": 1,
     "Yunnan Tin": 1,
     "MSC": 1,
     "PT Timah": 1,
-    "VSMPO-AVISMA": 1,
+    "VSMPO-AVISMA": 3,
+    "Timet": 2,
+    "ATI": 2,
+    "Buhler": 1,
+    "Netzsch": 1,
+    "Retsch": 1,
     "Broadcom Inc.": 2,
     "TPK Holding": 1,
     "Cirque": 1,
     "TPK": 1,
     "Various Translation Agencies": 1,
+    "Utilities": 1,
     "H.C. Starck": 1,
     "GE Aviation": 1,
     "Rolls-Royce": 1,
@@ -645,7 +889,16 @@
     "Nordson EFD": 1,
     "Academic Research": 1,
     "Hirose Electric": 1,
+    "Edwards": 8,
+    "Pfeiffer": 8,
+    "Leybold": 8,
     "Water Treatment Facilities": 1,
+    "Herrmann Ultrasonics": 1,
+    "Branson": 1,
+    "Rinco": 1,
+    "Lincoln Electric": 2,
+    "Miller": 2,
+    "Technical Schools": 1,
     "Eaton Corporation": 1,
     "Foxconn Interconnect Technology": 1,
     "Various Test Labs": 1,
@@ -656,7 +909,11 @@
     "Despatch Industries": 1,
     "Edwards Vacuum": 1,
     "Synopsys Inc.": 1,
-    "Infineon": 1,
+    "Afag": 1,
+    "RNA": 1,
+    "Vibratory Solutions": 1,
+    "Cognex": 1,
+    "Keyence": 1,
     "Brooks Automation": 1,
     "Rorze": 1,
     "Yaskawa": 1,
@@ -669,6 +926,9 @@
     "Kulicke & Soffa": 1,
     "Maillefer": 1,
     "IDT": 1,
+    "Suzano": 1,
+    "Fibria": 1,
+    "ARAUCO": 1,
     "Nordson DAGE": 1,
     "Dynacast": 1,
     "Vedanta": 1
@@ -679,7 +939,9 @@
         "file": "3d-camera.md",
         "title": "3d Camera",
         "companies": [
-          "Various Manufacturers"
+          "Sony",
+          "Samsung",
+          "OmniVision"
         ]
       },
       {
@@ -721,14 +983,18 @@
         "file": "hall-sensor.md",
         "title": "Hall Sensor",
         "companies": [
-          "Semiconductor Manufacturer"
+          "TE Connectivity",
+          "Honeywell",
+          "Bosch"
         ]
       },
       {
         "file": "humidity-sensors.md",
         "title": "Humidity Sensors",
         "companies": [
-          "Various Manufacturers"
+          "TE Connectivity",
+          "Honeywell",
+          "Bosch"
         ]
       },
       {
@@ -742,21 +1008,27 @@
         "file": "proximity-sensor.md",
         "title": "Proximity Sensor",
         "companies": [
-          "Various Manufacturers"
+          "TE Connectivity",
+          "Honeywell",
+          "Bosch"
         ]
       },
       {
         "file": "sensor-asic.md",
         "title": "Sensor Asic",
         "companies": [
-          "Semiconductor Manufacturer"
+          "TE Connectivity",
+          "Honeywell",
+          "Bosch"
         ]
       },
       {
         "file": "sensor-package.md",
         "title": "Sensor Package",
         "companies": [
-          "Semiconductor Manufacturer"
+          "TE Connectivity",
+          "Honeywell",
+          "Bosch"
         ]
       },
       {
@@ -772,7 +1044,9 @@
         "file": "abrasive-particles.md",
         "title": "Abrasive Particles",
         "companies": [
-          "Various Manufacturers"
+          "Saint-Gobain",
+          "3M",
+          "Carborundum"
         ]
       },
       {
@@ -793,7 +1067,9 @@
         "file": "academic-papers.md",
         "title": "Academic Papers",
         "companies": [
-          "Various Academic Publishers"
+          "International Paper",
+          "UPM",
+          "Stora Enso"
         ]
       },
       {
@@ -807,21 +1083,27 @@
         "file": "acoustic-damping.md",
         "title": "Acoustic Damping",
         "companies": [
-          "Various Manufacturers"
+          "Mill-Max",
+          "Harwin",
+          "Samtec"
         ]
       },
       {
         "file": "acoustic-testing-training.md",
         "title": "Acoustic Testing Training",
         "companies": [
-          "Various Manufacturers"
+          "Coursera",
+          "Udemy",
+          "LinkedIn Learning"
         ]
       },
       {
         "file": "acrylic-adhesive.md",
         "title": "Acrylic Pressure-Sensitive Adhesive",
         "companies": [
-          "3M Company"
+          "Arkema",
+          "Mitsubishi Chemical",
+          "Sumitomo Chemical"
         ]
       },
       {
@@ -842,21 +1124,27 @@
         "file": "adhesive-dispenser.md",
         "title": "Adhesive Dispenser",
         "companies": [
-          "Various Manufacturers"
+          "Henkel",
+          "3M",
+          "H.B. Fuller"
         ]
       },
       {
         "file": "adhesive-filler.md",
         "title": "Adhesive Filler",
         "companies": [
-          "Various Manufacturers"
+          "Henkel",
+          "3M",
+          "H.B. Fuller"
         ]
       },
       {
         "file": "adhesive-layer.md",
         "title": "Adhesive Layer",
         "companies": [
-          "Various Manufacturers"
+          "Henkel",
+          "3M",
+          "H.B. Fuller"
         ]
       },
       {
@@ -872,7 +1160,9 @@
         "file": "adhesive-training.md",
         "title": "Adhesive Training",
         "companies": [
-          "Various Manufacturers"
+          "Henkel",
+          "3M",
+          "H.B. Fuller"
         ]
       },
       {
@@ -923,7 +1213,9 @@
         "file": "air-separation-unit.md",
         "title": "Air Separation Unit",
         "companies": [
-          "Various Manufacturers"
+          "Alfa Laval",
+          "GEA",
+          "Andritz"
         ]
       },
       {
@@ -944,7 +1236,9 @@
         "file": "alignment-ring.md",
         "title": "Alignment Ring",
         "companies": [
-          "Industrial Manufacturer"
+          "TOS",
+          "Wotan",
+          "Union"
         ]
       },
       {
@@ -958,21 +1252,27 @@
         "file": "alumina-catalyst.md",
         "title": "Alumina Catalyst",
         "companies": [
-          "Materials Producer"
+          "BASF",
+          "Johnson Matthey",
+          "Clariant"
         ]
       },
       {
         "file": "alumina-production.md",
         "title": "Alumina Production",
         "companies": [
-          "Various Manufacturers"
+          "Lindab",
+          "Sheet Metal Connectors",
+          "Spiral Manufacturing"
         ]
       },
       {
         "file": "alumina-substrate.md",
         "title": "Alumina Substrate",
         "companies": [
-          "Various Manufacturers"
+          "Ibiden",
+          "Shinko",
+          "AT&S"
         ]
       },
       {
@@ -1027,7 +1327,10 @@
         "file": "annealing-furnace.md",
         "title": "Annealing Furnace",
         "companies": [
-          "Various Manufacturers"
+          "Ipsen",
+          "Surface Combustion",
+          "Lindberg",
+          "MPH"
         ]
       },
       {
@@ -1041,7 +1344,9 @@
         "file": "anodizing-rack.md",
         "title": "Anodizing Rack",
         "companies": [
-          "Various Manufacturers"
+          "Technic",
+          "MacDermid",
+          "Coventya"
         ]
       },
       {
@@ -1055,7 +1360,9 @@
         "file": "anodizing.md",
         "title": "Anodizing",
         "companies": [
-          "Industrial Manufacturer"
+          "Technic",
+          "MacDermid",
+          "Coventya"
         ]
       },
       {
@@ -1069,7 +1376,9 @@
         "file": "aoi-system.md",
         "title": "Aoi System",
         "companies": [
-          "Various Manufacturers"
+          "Koh Young",
+          "Omron",
+          "Mirtec"
         ]
       },
       {
@@ -1083,14 +1392,19 @@
         "file": "apt-production.md",
         "title": "Apt Production",
         "companies": [
-          "Various Manufacturers"
+          "Lindab",
+          "Sheet Metal Connectors",
+          "Spiral Manufacturing"
         ]
       },
       {
         "file": "arc-furnace.md",
         "title": "Arc Furnace",
         "companies": [
-          "Metallurgical Equipment Supplier"
+          "Ipsen",
+          "Surface Combustion",
+          "Lindberg",
+          "MPH"
         ]
       },
       {
@@ -1132,7 +1446,9 @@
         "file": "assembly-training.md",
         "title": "Assembly Training",
         "companies": [
-          "Various Manufacturers"
+          "Foxconn",
+          "Jabil",
+          "Flex"
         ]
       },
       {
@@ -1238,7 +1554,9 @@
         "file": "base-oil.md",
         "title": "Base Oil",
         "companies": [
-          "Various Manufacturers"
+          "Olin",
+          "Westlake Chemical",
+          "Formosa Plastics"
         ]
       },
       {
@@ -1252,7 +1570,9 @@
         "file": "bcd-process.md",
         "title": "Bcd Process",
         "companies": [
-          "Various Manufacturers"
+          "GEA",
+          "Alfa Laval",
+          "SPX Flow"
         ]
       },
       {
@@ -1299,7 +1619,9 @@
         "file": "bicmos-process.md",
         "title": "Bicmos Process",
         "companies": [
-          "Various Manufacturers"
+          "GEA",
+          "Alfa Laval",
+          "SPX Flow"
         ]
       },
       {
@@ -1313,7 +1635,9 @@
         "file": "biocides.md",
         "title": "Biocides",
         "companies": [
-          "Various Manufacturers"
+          "Microsoft",
+          "JetBrains",
+          "Eclipse"
         ]
       },
       {
@@ -1334,7 +1658,9 @@
         "file": "bonding-capillary.md",
         "title": "Bonding Capillary",
         "companies": [
-          "Various Manufacturers"
+          "Henkel",
+          "3M",
+          "Permabond"
         ]
       },
       {
@@ -1349,7 +1675,9 @@
         "file": "boron-powder.md",
         "title": "Boron Powder",
         "companies": [
-          "Various Manufacturers"
+          "Gema",
+          "Wagner",
+          "Nordson"
         ]
       },
       {
@@ -1363,7 +1691,9 @@
         "file": "brass-billet.md",
         "title": "Brass Billet",
         "companies": [
-          "Various Manufacturers"
+          "Mueller Industries",
+          "KME",
+          "Wieland"
         ]
       },
       {
@@ -1377,14 +1707,18 @@
         "file": "brass-strip.md",
         "title": "Brass Strip",
         "companies": [
-          "Various Manufacturers"
+          "Mueller Industries",
+          "KME",
+          "Wieland"
         ]
       },
       {
         "file": "bright-annealing.md",
         "title": "Bright Annealing",
         "companies": [
-          "Various Manufacturers"
+          "Applied Materials",
+          "Screen",
+          "Tokyo Electron"
         ]
       },
       {
@@ -1443,7 +1777,9 @@
         "file": "butadiene-monomer.md",
         "title": "Butadiene Monomer",
         "companies": [
-          "Various Manufacturers"
+          "Dayton Progress",
+          "Danly",
+          "Misumi"
         ]
       },
       {
@@ -1465,7 +1801,10 @@
         "file": "calcination-furnace.md",
         "title": "Calcination Furnace",
         "companies": [
-          "Various Manufacturers"
+          "Ipsen",
+          "Surface Combustion",
+          "Lindberg",
+          "MPH"
         ]
       },
       {
@@ -1515,21 +1854,27 @@
         "file": "carbon-coating.md",
         "title": "Carbon Coating",
         "companies": [
-          "Various Manufacturers"
+          "PPG Industries",
+          "Sherwin-Williams",
+          "AkzoNobel"
         ]
       },
       {
         "file": "carbon-filter.md",
         "title": "Carbon Filter",
         "companies": [
-          "Various Manufacturers"
+          "Pall Corporation",
+          "Donaldson",
+          "Parker Hannifin"
         ]
       },
       {
         "file": "carrier-grease.md",
         "title": "Carrier Grease",
         "companies": [
-          "Various Manufacturers"
+          "ExxonMobil",
+          "Shell",
+          "Fuchs"
         ]
       },
       {
@@ -1545,14 +1890,18 @@
         "file": "centrifugal-compressor.md",
         "title": "Centrifugal Compressor",
         "companies": [
-          "Various Manufacturers"
+          "Atlas Copco",
+          "Ingersoll Rand",
+          "Gardner Denver"
         ]
       },
       {
         "file": "ceramic-coating.md",
         "title": "Ceramic Coating",
         "companies": [
-          "Various Manufacturers"
+          "Kyocera",
+          "CoorsTek",
+          "Morgan Advanced Materials"
         ]
       },
       {
@@ -1574,28 +1923,36 @@
         "file": "ceramic-package.md",
         "title": "Ceramic Package",
         "companies": [
-          "Various Manufacturers"
+          "Kyocera",
+          "CoorsTek",
+          "Morgan Advanced Materials"
         ]
       },
       {
         "file": "ceramic-slurry.md",
         "title": "Ceramic Slurry",
         "companies": [
-          "Various Manufacturers"
+          "Kyocera",
+          "CoorsTek",
+          "Morgan Advanced Materials"
         ]
       },
       {
         "file": "charging-coil.md",
         "title": "Charging Coil",
         "companies": [
-          "Industrial Manufacturer"
+          "ArcelorMittal",
+          "Nippon Steel",
+          "POSCO"
         ]
       },
       {
         "file": "chiller-system.md",
         "title": "Chiller System",
         "companies": [
-          "Various Manufacturers"
+          "Trane",
+          "Carrier",
+          "Johnson Controls"
         ]
       },
       {
@@ -1624,14 +1981,18 @@
         "file": "cil-process.md",
         "title": "Cil Process",
         "companies": [
-          "Chemical Processing Company"
+          "GEA",
+          "Alfa Laval",
+          "SPX Flow"
         ]
       },
       {
         "file": "clamping-unit.md",
         "title": "Clamping Unit",
         "companies": [
-          "Various Manufacturers"
+          "Mill-Max",
+          "Harwin",
+          "Samtec"
         ]
       },
       {
@@ -1659,29 +2020,36 @@
         "file": "clean-led-lights.md",
         "title": "Clean Led Lights",
         "companies": [
-          "Various Manufacturers"
+          "Nichia",
+          "Lumileds",
+          "Osram"
         ]
       },
       {
         "file": "cleanroom-facility.md",
         "title": "Cleanroom Facility",
         "companies": [
-          "Construction Companies",
-          "Contractors"
+          "Clean Air Technology",
+          "Terra Universal",
+          "Mecart"
         ]
       },
       {
         "file": "cleanroom-panels.md",
         "title": "Cleanroom Panels",
         "companies": [
-          "Various Manufacturers"
+          "Clean Air Technology",
+          "Terra Universal",
+          "Mecart"
         ]
       },
       {
         "file": "cleanroom-training.md",
         "title": "Cleanroom Training",
         "companies": [
-          "Various Manufacturers"
+          "Clean Air Technology",
+          "Terra Universal",
+          "Mecart"
         ]
       },
       {
@@ -1695,7 +2063,9 @@
         "file": "cnc-controller.md",
         "title": "Cnc Controller",
         "companies": [
-          "Various Manufacturers"
+          "Haas",
+          "DMG Mori",
+          "Mazak"
         ]
       },
       {
@@ -1709,21 +2079,27 @@
         "file": "cnc-machining.md",
         "title": "Cnc Machining",
         "companies": [
-          "Industrial Manufacturer"
+          "Haas",
+          "DMG Mori",
+          "Mazak"
         ]
       },
       {
         "file": "cnc-programming.md",
         "title": "Cnc Programming",
         "companies": [
-          "Various Manufacturers"
+          "Haas",
+          "DMG Mori",
+          "Mazak"
         ]
       },
       {
         "file": "co2-laser.md",
         "title": "Co2 Laser",
         "companies": [
-          "Various Manufacturers"
+          "Trumpf",
+          "Bystronic",
+          "Mazak"
         ]
       },
       {
@@ -1739,14 +2115,18 @@
         "file": "coating-head.md",
         "title": "Coating Head",
         "companies": [
-          "Various Manufacturers"
+          "PPG Industries",
+          "Sherwin-Williams",
+          "AkzoNobel"
         ]
       },
       {
         "file": "coating.md",
         "title": "Coating",
         "companies": [
-          "Various Manufacturers"
+          "PPG Industries",
+          "Sherwin-Williams",
+          "AkzoNobel"
         ]
       },
       {
@@ -1767,14 +2147,18 @@
         "file": "coil-adhesive.md",
         "title": "Coil Adhesive",
         "companies": [
-          "Various Manufacturers"
+          "Henkel",
+          "3M",
+          "H.B. Fuller"
         ]
       },
       {
         "file": "coil-former.md",
         "title": "Coil Former",
         "companies": [
-          "Various Manufacturers"
+          "ArcelorMittal",
+          "Nippon Steel",
+          "POSCO"
         ]
       },
       {
@@ -1788,7 +2172,9 @@
         "file": "cold-rolling.md",
         "title": "Cold Rolling",
         "companies": [
-          "Various Manufacturers"
+          "SMS group",
+          "Primetals",
+          "Danieli"
         ]
       },
       {
@@ -1817,7 +2203,9 @@
         "file": "compiler-development.md",
         "title": "Compiler Development",
         "companies": [
-          "Software Company"
+          "GNU",
+          "LLVM",
+          "Intel"
         ]
       },
       {
@@ -1831,7 +2219,9 @@
         "file": "compression-springs.md",
         "title": "Compression Springs",
         "companies": [
-          "Various Manufacturers"
+          "Lesjöfors",
+          "Lee Spring",
+          "Associated Spring"
         ]
       },
       {
@@ -1871,7 +2261,9 @@
         "file": "concrete-base.md",
         "title": "Concrete Base",
         "companies": [
-          "Various Construction Companies"
+          "Olin",
+          "Westlake Chemical",
+          "Formosa Plastics"
         ]
       },
       {
@@ -1887,7 +2279,9 @@
         "file": "contact-pins.md",
         "title": "Contact Pins",
         "companies": [
-          "Various Manufacturers"
+          "Mill-Max",
+          "Harwin",
+          "Samtec"
         ]
       },
       {
@@ -1910,7 +2304,9 @@
         "file": "coolant-system.md",
         "title": "Coolant System",
         "companies": [
-          "Various Manufacturers"
+          "Castrol",
+          "Quaker",
+          "Fuchs"
         ]
       },
       {
@@ -1933,7 +2329,9 @@
         "file": "cooling-trough.md",
         "title": "Cooling Trough",
         "companies": [
-          "Various Manufacturers"
+          "SPX",
+          "Baltimore Aircoil",
+          "Evapco"
         ]
       },
       {
@@ -1969,7 +2367,9 @@
         "file": "cotton-fabric.md",
         "title": "Cotton Fabric",
         "companies": [
-          "Various Manufacturers"
+          "Applied Materials",
+          "Tokyo Electron",
+          "ASML"
         ]
       },
       {
@@ -1998,21 +2398,27 @@
         "file": "crimping-press.md",
         "title": "Crimping Press",
         "companies": [
-          "Various Manufacturers"
+          "Mill-Max",
+          "Harwin",
+          "Samtec"
         ]
       },
       {
         "file": "crosshead-die.md",
         "title": "Crosshead Die",
         "companies": [
-          "Various Manufacturers"
+          "Dayton Progress",
+          "Danly",
+          "Misumi"
         ]
       },
       {
         "file": "crude-distillation-tower.md",
         "title": "Crude Distillation Tower",
         "companies": [
-          "Various Manufacturers"
+          "Sulzer",
+          "Koch-Glitsch",
+          "Montz"
         ]
       },
       {
@@ -2058,21 +2464,27 @@
         "file": "crystal-furnace.md",
         "title": "Crystal Furnace",
         "companies": [
-          "Various Manufacturers"
+          "Seiko Epson",
+          "TXC Corporation",
+          "Abracon"
         ]
       },
       {
         "file": "crystal-grower.md",
         "title": "Crystal Grower",
         "companies": [
-          "Industrial Manufacturer"
+          "Seiko Epson",
+          "TXC Corporation",
+          "Abracon"
         ]
       },
       {
         "file": "crystal-oscillator.md",
         "title": "Crystal Oscillator",
         "companies": [
-          "Industrial Manufacturer"
+          "Seiko Epson",
+          "TXC Corporation",
+          "Abracon"
         ]
       },
       {
@@ -2100,14 +2512,18 @@
         "file": "cvd-precursors.md",
         "title": "Cvd Precursors",
         "companies": [
-          "Various Manufacturers"
+          "Applied Materials",
+          "Lam Research",
+          "Tokyo Electron"
         ]
       },
       {
         "file": "cvd-system.md",
         "title": "Cvd System",
         "companies": [
-          "Various Manufacturers"
+          "Applied Materials",
+          "Lam Research",
+          "Tokyo Electron"
         ]
       },
       {
@@ -2121,7 +2537,9 @@
         "file": "cylindrical-grinder.md",
         "title": "Cylindrical Grinder",
         "companies": [
-          "Various Manufacturers"
+          "Makita",
+          "DeWalt",
+          "Bosch"
         ]
       },
       {
@@ -2144,7 +2562,9 @@
         "file": "database-server.md",
         "title": "Database Server",
         "companies": [
-          "Multiple Vendors"
+          "Olin",
+          "Westlake Chemical",
+          "Formosa Plastics"
         ]
       },
       {
@@ -2166,7 +2586,9 @@
         "file": "dc-rectifier.md",
         "title": "Dc Rectifier",
         "companies": [
-          "Various Manufacturers"
+          "Vishay",
+          "Infineon",
+          "STMicroelectronics"
         ]
       },
       {
@@ -2209,7 +2631,9 @@
         "file": "development-computer.md",
         "title": "Development Computer",
         "companies": [
-          "Software Company"
+          "Orbotech",
+          "Schmid",
+          "Chemcut"
         ]
       },
       {
@@ -2230,7 +2654,9 @@
         "file": "diamond-die.md",
         "title": "Diamond Die",
         "companies": [
-          "Various Manufacturers"
+          "Dayton Progress",
+          "Danly",
+          "Misumi"
         ]
       },
       {
@@ -2251,7 +2677,9 @@
         "file": "die-ejector.md",
         "title": "Die Ejector",
         "companies": [
-          "Various Manufacturers"
+          "Dayton Progress",
+          "Danly",
+          "Misumi"
         ]
       },
       {
@@ -2304,7 +2732,9 @@
         "file": "digital-multimeter.md",
         "title": "Digital Multimeter",
         "companies": [
-          "Various Manufacturers"
+          "Fluke",
+          "Keysight",
+          "Tektronix"
         ]
       },
       {
@@ -2325,14 +2755,18 @@
         "file": "dimming-driver.md",
         "title": "Dimming Driver",
         "companies": [
-          "Industrial Manufacturer"
+          "ABB",
+          "Siemens",
+          "Danfoss"
         ]
       },
       {
         "file": "directional-drilling.md",
         "title": "Directional Drilling",
         "companies": [
-          "Industrial Manufacturer"
+          "Makita",
+          "DeWalt",
+          "Bosch"
         ]
       },
       {
@@ -2375,14 +2809,18 @@
         "file": "dome-die.md",
         "title": "Dome Die",
         "companies": [
-          "Various Manufacturers"
+          "Dayton Progress",
+          "Danly",
+          "Misumi"
         ]
       },
       {
         "file": "dome-fabric.md",
         "title": "Dome Fabric",
         "companies": [
-          "Various Manufacturers"
+          "Applied Materials",
+          "Tokyo Electron",
+          "ASML"
         ]
       },
       {
@@ -2397,14 +2835,18 @@
         "file": "drawing-dies.md",
         "title": "Drawing Dies",
         "companies": [
-          "Various Manufacturers"
+          "Niehoff",
+          "Samp",
+          "Bartell"
         ]
       },
       {
         "file": "drawing-lubricant.md",
         "title": "Drawing Lubricant",
         "companies": [
-          "Various Manufacturers"
+          "Niehoff",
+          "Samp",
+          "Bartell"
         ]
       },
       {
@@ -2426,28 +2868,36 @@
         "file": "dry-room-protocols.md",
         "title": "Dry Room Protocols",
         "companies": [
-          "Various Manufacturers"
+          "Clean Air Technology",
+          "Terra Universal",
+          "Mecart"
         ]
       },
       {
         "file": "drying-oven.md",
         "title": "Drying Oven",
         "companies": [
-          "Various Manufacturers"
+          "Despatch",
+          "Wisconsin Oven",
+          "Grieve"
         ]
       },
       {
         "file": "dwight-lloyd-sinter.md",
         "title": "Dwight Lloyd Sinter",
         "companies": [
-          "Industrial Manufacturer"
+          "Cremer",
+          "Abbott",
+          "CM Furnaces"
         ]
       },
       {
         "file": "dye-solvent.md",
         "title": "Dye Solvent",
         "companies": [
-          "Various Manufacturers"
+          "ExxonMobil",
+          "Shell",
+          "Dow"
         ]
       },
       {
@@ -2461,7 +2911,10 @@
         "file": "electric-arc-furnace.md",
         "title": "Electric Arc Furnace",
         "companies": [
-          "Metallurgical Equipment Supplier"
+          "Ipsen",
+          "Surface Combustion",
+          "Lindberg",
+          "MPH"
         ]
       },
       {
@@ -2514,7 +2967,9 @@
         "file": "electrochemistry-training.md",
         "title": "Electrochemistry Training",
         "companies": [
-          "Various Manufacturers"
+          "Coursera",
+          "Udemy",
+          "LinkedIn Learning"
         ]
       },
       {
@@ -2563,14 +3018,18 @@
         "file": "electron-beam-lithography.md",
         "title": "Electron Beam Lithography",
         "companies": [
-          "Various Manufacturers"
+          "ASML",
+          "Nikon",
+          "Canon"
         ]
       },
       {
         "file": "electronic-test-gear.md",
         "title": "Electronic Test Gear",
         "companies": [
-          "Various Manufacturers"
+          "SEW-Eurodrive",
+          "Bonfiglioli",
+          "Nord Drivesystems"
         ]
       },
       {
@@ -2586,7 +3045,9 @@
         "file": "electroplating-chemistry.md",
         "title": "Electroplating Chemistry",
         "companies": [
-          "Various Manufacturers"
+          "Atotech",
+          "MacDermid",
+          "JCU"
         ]
       },
       {
@@ -2658,7 +3119,9 @@
         "file": "epoxy-hardener.md",
         "title": "Epoxy Hardener",
         "companies": [
-          "Various Manufacturers"
+          "Huntsman",
+          "Hexion",
+          "Olin"
         ]
       },
       {
@@ -2674,7 +3137,9 @@
         "file": "epoxy-molding.md",
         "title": "Epoxy Molding",
         "companies": [
-          "Various Manufacturers"
+          "Huntsman",
+          "Hexion",
+          "Olin"
         ]
       },
       {
@@ -2688,7 +3153,9 @@
         "file": "etchant-chemistry.md",
         "title": "Etchant Chemistry",
         "companies": [
-          "Various Manufacturers"
+          "Chemcut",
+          "Schmid",
+          "PST"
         ]
       },
       {
@@ -2740,49 +3207,63 @@
         "file": "expansion-turbine.md",
         "title": "Expansion Turbine",
         "companies": [
-          "Various Manufacturers"
+          "GE",
+          "Siemens",
+          "Mitsubishi Heavy Industries"
         ]
       },
       {
         "file": "exposure-system.md",
         "title": "Exposure System",
         "companies": [
-          "Various Manufacturers"
+          "Orbotech",
+          "Miva",
+          "Adeon"
         ]
       },
       {
         "file": "extrusion-die.md",
         "title": "Extrusion Die",
         "companies": [
-          "Various Manufacturers"
+          "SMS group",
+          "Danieli",
+          "Presezzi"
         ]
       },
       {
         "file": "extrusion-press.md",
         "title": "Extrusion Press",
         "companies": [
-          "Various Manufacturers"
+          "Schuler",
+          "Aida",
+          "Komatsu"
         ]
       },
       {
         "file": "fab-automation.md",
         "title": "Fab Automation",
         "companies": [
-          "Various Manufacturers"
+          "Applied Materials",
+          "Tokyo Electron",
+          "ASML"
         ]
       },
       {
         "file": "fab-technicians.md",
         "title": "Fab Technicians",
         "companies": [
-          "Various Manufacturers"
+          "Applied Materials",
+          "Tokyo Electron",
+          "ASML"
         ]
       },
       {
         "file": "fab-training.md",
         "title": "Fab Training",
         "companies": [
-          "Various Manufacturers"
+          "Applied Materials",
+          "Tokyo Electron",
+          "ASML"
         ]
       },
       {
@@ -2817,7 +3298,9 @@
         "file": "fan-impeller.md",
         "title": "Fan Impeller",
         "companies": [
-          "Industrial Manufacturer"
+          "Ziehl-Abegg",
+          "ebm-papst",
+          "Systemair"
         ]
       },
       {
@@ -2831,7 +3314,9 @@
         "file": "fasteners.md",
         "title": "Fasteners",
         "companies": [
-          "Various Manufacturers"
+          "Fastenal",
+          "Würth",
+          "ITW"
         ]
       },
       {
@@ -2852,14 +3337,18 @@
         "file": "ffc-adhesive.md",
         "title": "Ffc Adhesive",
         "companies": [
-          "Industrial Manufacturer"
+          "Henkel",
+          "3M",
+          "H.B. Fuller"
         ]
       },
       {
         "file": "film-extrusion.md",
         "title": "Film Extrusion",
         "companies": [
-          "Various Manufacturers"
+          "SMS group",
+          "Danieli",
+          "Presezzi"
         ]
       },
       {
@@ -2895,7 +3384,9 @@
         "file": "firmware-development.md",
         "title": "Firmware Development",
         "companies": [
-          "Various Manufacturers"
+          "Orbotech",
+          "Schmid",
+          "Chemcut"
         ]
       },
       {
@@ -2919,7 +3410,9 @@
         "file": "flexibilizer.md",
         "title": "Flexibilizer",
         "companies": [
-          "Various Manufacturers"
+          "Flexible Circuit",
+          "Career Technology",
+          "Flexcom"
         ]
       },
       {
@@ -2933,7 +3426,9 @@
         "file": "flotation-plant.md",
         "title": "Flotation Plant",
         "companies": [
-          "Industrial Manufacturer"
+          "Applied Materials",
+          "Axcelis",
+          "Ion Beam Applications"
         ]
       },
       {
@@ -2975,28 +3470,36 @@
         "file": "foam-molds.md",
         "title": "Foam Molds",
         "companies": [
-          "Various Mold Manufacturers"
+          "BASF",
+          "Covestro",
+          "Huntsman"
         ]
       },
       {
         "file": "foam-rubber.md",
         "title": "Foam Rubber",
         "companies": [
-          "Various Manufacturers"
+          "BASF",
+          "Covestro",
+          "Huntsman"
         ]
       },
       {
         "file": "force-control.md",
         "title": "Force Control",
         "companies": [
-          "Various Manufacturers"
+          "Honeywell",
+          "Futek",
+          "Interface"
         ]
       },
       {
         "file": "forming-die.md",
         "title": "Forming Die",
         "companies": [
-          "Various Manufacturers"
+          "Schuler",
+          "Trumpf",
+          "Amada"
         ]
       },
       {
@@ -3010,7 +3513,9 @@
         "file": "fpc-adhesive.md",
         "title": "Fpc Adhesive",
         "companies": [
-          "Various Manufacturers"
+          "Henkel",
+          "3M",
+          "H.B. Fuller"
         ]
       },
       {
@@ -3038,7 +3543,9 @@
         "file": "friction-plates.md",
         "title": "Friction Plates",
         "companies": [
-          "Various Manufacturers"
+          "Keysight",
+          "SPEA",
+          "Takaya"
         ]
       },
       {
@@ -3059,7 +3566,9 @@
         "file": "fused-quartz-tube.md",
         "title": "Fused Quartz Tube",
         "companies": [
-          "Various Manufacturers"
+          "Tenaris",
+          "Vallourec",
+          "TMK"
         ]
       },
       {
@@ -3075,7 +3584,9 @@
         "file": "fusion-draw.md",
         "title": "Fusion Draw",
         "companies": [
-          "Various Manufacturers"
+          "Tokyo Electron",
+          "Kokusai Electric",
+          "Centrotherm"
         ]
       },
       {
@@ -3138,7 +3649,9 @@
         "file": "gold-plating.md",
         "title": "Gold Plating",
         "companies": [
-          "Various Manufacturers"
+          "Atotech",
+          "MacDermid",
+          "JCU"
         ]
       },
       {
@@ -3173,42 +3686,54 @@
         "file": "graphite-components.md",
         "title": "Graphite Components",
         "companies": [
-          "Industrial Manufacturer"
+          "SGL Carbon",
+          "Tokai Carbon",
+          "GrafTech"
         ]
       },
       {
         "file": "graphite-electrodes.md",
         "title": "Graphite Electrodes",
         "companies": [
-          "Industrial Manufacturer"
+          "SGL Carbon",
+          "Tokai Carbon",
+          "GrafTech"
         ]
       },
       {
         "file": "graphite-purification.md",
         "title": "Graphite Purification",
         "companies": [
-          "Various Manufacturers"
+          "SGL Carbon",
+          "Tokai Carbon",
+          "GrafTech"
         ]
       },
       {
         "file": "graphite-susceptor.md",
         "title": "Graphite Susceptor",
         "companies": [
-          "Various Manufacturers"
+          "SGL Carbon",
+          "Tokai Carbon",
+          "GrafTech"
         ]
       },
       {
         "file": "grinding-mill.md",
         "title": "Grinding Mill",
         "companies": [
-          "Various Manufacturers"
+          "Haas",
+          "DMG Mori",
+          "Mazak"
         ]
       },
       {
         "file": "ground-tester.md",
         "title": "Ground Tester",
         "companies": [
-          "Various Manufacturers"
+          "Teradyne",
+          "Advantest",
+          "Keysight"
         ]
       },
       {
@@ -3231,7 +3756,9 @@
         "file": "haptic-driver.md",
         "title": "Haptic Driver",
         "companies": [
-          "Semiconductor Manufacturer"
+          "ABB",
+          "Siemens",
+          "Danfoss"
         ]
       },
       {
@@ -3312,7 +3839,10 @@
         "file": "heat-treatment-furnace.md",
         "title": "Heat Treatment Furnace",
         "companies": [
-          "Various Manufacturers"
+          "Ipsen",
+          "Surface Combustion",
+          "Lindberg",
+          "MPH"
         ]
       },
       {
@@ -3361,7 +3891,9 @@
         "file": "hepa-filters.md",
         "title": "Hepa Filters",
         "companies": [
-          "Various Manufacturers"
+          "Pall Corporation",
+          "Donaldson",
+          "Parker Hannifin"
         ]
       },
       {
@@ -3396,28 +3928,37 @@
         "file": "high-voltage-drivers.md",
         "title": "High Voltage Drivers",
         "companies": [
-          "Various Manufacturers"
+          "ABB",
+          "Siemens",
+          "Danfoss"
         ]
       },
       {
         "file": "hinge-grease.md",
         "title": "Hinge Grease",
         "companies": [
-          "Various Manufacturers"
+          "Southco",
+          "Sugatsune",
+          "Hettich"
         ]
       },
       {
         "file": "hinge-housing.md",
         "title": "Hinge Housing",
         "companies": [
-          "Various Manufacturers"
+          "Southco",
+          "Sugatsune",
+          "Hettich"
         ]
       },
       {
         "file": "homogenization-furnace.md",
         "title": "Homogenization Furnace",
         "companies": [
-          "Various Manufacturers"
+          "Ipsen",
+          "Surface Combustion",
+          "Lindberg",
+          "MPH"
         ]
       },
       {
@@ -3454,7 +3995,9 @@
         "file": "hv-transformer.md",
         "title": "Hv Transformer",
         "companies": [
-          "Various Manufacturers"
+          "ABB",
+          "Siemens",
+          "Schneider Electric"
         ]
       },
       {
@@ -3482,21 +4025,27 @@
         "file": "hydraulic-system.md",
         "title": "Hydraulic System",
         "companies": [
-          "Various Manufacturers"
+          "Shell",
+          "Mobil",
+          "Castrol"
         ]
       },
       {
         "file": "hydrogen-flame.md",
         "title": "Hydrogen Flame",
         "companies": [
-          "Industrial Manufacturer"
+          "Air Products",
+          "Linde",
+          "Praxair"
         ]
       },
       {
         "file": "hydroprocessing-catalyst.md",
         "title": "Hydroprocessing Catalyst",
         "companies": [
-          "Various Manufacturers"
+          "BASF",
+          "Johnson Matthey",
+          "Clariant"
         ]
       },
       {
@@ -3532,7 +4081,9 @@
         "file": "image-processing.md",
         "title": "Image Processing",
         "companies": [
-          "Various Manufacturers"
+          "GEA",
+          "Alfa Laval",
+          "SPX Flow"
         ]
       },
       {
@@ -3554,7 +4105,9 @@
         "file": "industrial-compressor.md",
         "title": "Industrial Compressor",
         "companies": [
-          "Various Manufacturers"
+          "Atlas Copco",
+          "Ingersoll Rand",
+          "Gardner Denver"
         ]
       },
       {
@@ -3568,7 +4121,9 @@
         "file": "industrial-solvent.md",
         "title": "Industrial Solvent",
         "companies": [
-          "Various Manufacturers"
+          "ExxonMobil",
+          "Shell",
+          "Dow"
         ]
       },
       {
@@ -3589,7 +4144,9 @@
         "file": "injection-molding.md",
         "title": "Injection Molding",
         "companies": [
-          "Various Manufacturers"
+          "Engel",
+          "Arburg",
+          "Haitian"
         ]
       },
       {
@@ -3631,7 +4188,9 @@
         "file": "insulation-tester.md",
         "title": "Insulation Tester",
         "companies": [
-          "Various Manufacturers"
+          "Teradyne",
+          "Advantest",
+          "Keysight"
         ]
       },
       {
@@ -3660,14 +4219,18 @@
         "file": "ir-filter.md",
         "title": "Ir Filter",
         "companies": [
-          "Industrial Manufacturer"
+          "Pall Corporation",
+          "Donaldson",
+          "Parker Hannifin"
         ]
       },
       {
         "file": "ito-coating.md",
         "title": "Ito Coating",
         "companies": [
-          "Various Manufacturers"
+          "PPG Industries",
+          "Sherwin-Williams",
+          "AkzoNobel"
         ]
       },
       {
@@ -3696,7 +4259,9 @@
         "file": "jig-concentrator.md",
         "title": "Jig Concentrator",
         "companies": [
-          "Industrial Manufacturer"
+          "Carr Lane",
+          "Jergens",
+          "TE-CO"
         ]
       },
       {
@@ -3767,7 +4332,9 @@
         "file": "laser-system.md",
         "title": "Laser System",
         "companies": [
-          "Various Manufacturers"
+          "Trumpf",
+          "Bystronic",
+          "Mazak"
         ]
       },
       {
@@ -3788,7 +4355,10 @@
         "file": "lead-blast-furnace.md",
         "title": "Lead Blast Furnace",
         "companies": [
-          "Metallurgical Equipment Supplier"
+          "Ipsen",
+          "Surface Combustion",
+          "Lindberg",
+          "MPH"
         ]
       },
       {
@@ -3811,7 +4381,9 @@
         "file": "leakage-tester.md",
         "title": "Leakage Tester",
         "companies": [
-          "Various Manufacturers"
+          "Teradyne",
+          "Advantest",
+          "Keysight"
         ]
       },
       {
@@ -3825,14 +4397,18 @@
         "file": "led-driver.md",
         "title": "Led Driver",
         "companies": [
-          "Industrial Manufacturer"
+          "Nichia",
+          "Lumileds",
+          "Osram"
         ]
       },
       {
         "file": "led-lighting.md",
         "title": "Led Lighting",
         "companies": [
-          "Various Manufacturers"
+          "Nichia",
+          "Lumileds",
+          "Osram"
         ]
       },
       {
@@ -3860,7 +4436,9 @@
         "file": "light-guide-plate.md",
         "title": "Light Guide Plate",
         "companies": [
-          "Industrial Manufacturer"
+          "Microsoft",
+          "JetBrains",
+          "Eclipse"
         ]
       },
       {
@@ -3891,28 +4469,36 @@
         "file": "linear-actuators.md",
         "title": "Linear Actuators",
         "companies": [
-          "Industrial Manufacturer"
+          "THK",
+          "IAI",
+          "Festo"
         ]
       },
       {
         "file": "linear-guides.md",
         "title": "Linear Guides",
         "companies": [
-          "Various Manufacturers"
+          "Microsoft",
+          "JetBrains",
+          "Eclipse"
         ]
       },
       {
         "file": "lineman-training.md",
         "title": "Lineman Training",
         "companies": [
-          "Various Employers"
+          "Coursera",
+          "Udemy",
+          "LinkedIn Learning"
         ]
       },
       {
         "file": "linux-os.md",
         "title": "Linux Operating System",
         "companies": [
-          "Various Distributions"
+          "Microsoft",
+          "Red Hat",
+          "Canonical"
         ]
       },
       {
@@ -3961,7 +4547,9 @@
         "file": "magnetite-catalyst.md",
         "title": "Magnetite Catalyst",
         "companies": [
-          "Materials Producer"
+          "BASF",
+          "Johnson Matthey",
+          "Clariant"
         ]
       },
       {
@@ -4010,28 +4598,36 @@
         "file": "mask-inspection.md",
         "title": "Mask Inspection",
         "companies": [
-          "Various Manufacturers"
+          "KLA",
+          "Applied Materials",
+          "Hitachi"
         ]
       },
       {
         "file": "mask-stage.md",
         "title": "Mask Stage",
         "companies": [
-          "Various Manufacturers"
+          "Taiyo",
+          "Uyemura",
+          "Electra Polymers"
         ]
       },
       {
         "file": "mass-flow-controllers.md",
         "title": "Mass Flow Controllers",
         "companies": [
-          "Various Manufacturers"
+          "Siemens",
+          "Allen-Bradley",
+          "Emerson"
         ]
       },
       {
         "file": "mass-spectrometer-magnet.md",
         "title": "Mass Spectrometer Magnet",
         "companies": [
-          "Various Manufacturers"
+          "Fluke",
+          "Keysight",
+          "Tektronix"
         ]
       },
       {
@@ -4052,14 +4648,18 @@
         "file": "measurement-training.md",
         "title": "Measurement Training",
         "companies": [
-          "Various Manufacturers"
+          "Coursera",
+          "Udemy",
+          "LinkedIn Learning"
         ]
       },
       {
         "file": "measuring-scales.md",
         "title": "Measuring Scales",
         "companies": [
-          "Various Manufacturers"
+          "Zeiss",
+          "Mitutoyo",
+          "Hexagon"
         ]
       },
       {
@@ -4073,14 +4673,18 @@
         "file": "mems-process.md",
         "title": "Mems Process",
         "companies": [
-          "Chemical Processing Company"
+          "GEA",
+          "Alfa Laval",
+          "SPX Flow"
         ]
       },
       {
         "file": "mesh-conveyor.md",
         "title": "Mesh Conveyor",
         "companies": [
-          "Various Manufacturers"
+          "Daifuku",
+          "Dematic",
+          "Intelligrated"
         ]
       },
       {
@@ -4094,14 +4698,18 @@
         "file": "micro-drill.md",
         "title": "Micro Drill",
         "companies": [
-          "Semiconductor Manufacturer"
+          "Makita",
+          "DeWalt",
+          "Bosch"
         ]
       },
       {
         "file": "microcontroller.md",
         "title": "Microcontroller",
         "companies": [
-          "Various Manufacturers"
+          "Siemens",
+          "Allen-Bradley",
+          "Emerson"
         ]
       },
       {
@@ -4124,14 +4732,18 @@
         "file": "mim-capacitors.md",
         "title": "Mim Capacitors",
         "companies": [
-          "Various Manufacturers"
+          "Murata",
+          "Samsung Electro-Mechanics",
+          "TDK"
         ]
       },
       {
         "file": "mineral-processing.md",
         "title": "Mineral Processing",
         "companies": [
-          "Chemical Processing Company"
+          "GEA",
+          "Alfa Laval",
+          "SPX Flow"
         ]
       },
       {
@@ -4152,7 +4764,9 @@
         "file": "mixed-signal-process.md",
         "title": "Mixed Signal Process",
         "companies": [
-          "Various Manufacturers"
+          "GEA",
+          "Alfa Laval",
+          "SPX Flow"
         ]
       },
       {
@@ -4166,7 +4780,9 @@
         "file": "mo-si-mirrors.md",
         "title": "Mo Si Mirrors",
         "companies": [
-          "Various Manufacturers"
+          "Edmund Optics",
+          "Thorlabs",
+          "Newport"
         ]
       },
       {
@@ -4180,7 +4796,9 @@
         "file": "mold-release.md",
         "title": "Mold Release",
         "companies": [
-          "Industrial Manufacturer"
+          "DME",
+          "Hasco",
+          "Meusburger"
         ]
       },
       {
@@ -4194,7 +4812,9 @@
         "file": "molding-control.md",
         "title": "Molding Control",
         "companies": [
-          "Various Manufacturers"
+          "Siemens",
+          "Allen-Bradley",
+          "Emerson"
         ]
       },
       {
@@ -4208,14 +4828,18 @@
         "file": "mosfet-switches.md",
         "title": "Mosfet Switches",
         "companies": [
-          "Various Manufacturers"
+          "Cisco",
+          "Arista",
+          "Juniper"
         ]
       },
       {
         "file": "motion-control.md",
         "title": "Motion Control",
         "companies": [
-          "Various Manufacturers"
+          "Siemens",
+          "Allen-Bradley",
+          "Emerson"
         ]
       },
       {
@@ -4229,7 +4853,9 @@
         "file": "motor-driver.md",
         "title": "Motor Driver",
         "companies": [
-          "Industrial Manufacturer"
+          "ABB",
+          "Siemens",
+          "WEG"
         ]
       },
       {
@@ -4264,14 +4890,18 @@
         "file": "natural-graphite.md",
         "title": "Natural Graphite",
         "companies": [
-          "Various Manufacturers"
+          "SGL Carbon",
+          "Tokai Carbon",
+          "GrafTech"
         ]
       },
       {
         "file": "nbr-rubber.md",
         "title": "Nbr Rubber",
         "companies": [
-          "Various Manufacturers"
+          "Bridgestone",
+          "Michelin",
+          "Goodyear"
         ]
       },
       {
@@ -4292,7 +4922,9 @@
         "file": "neodymium-oxide.md",
         "title": "Neodymium Oxide",
         "companies": [
-          "Various Manufacturers"
+          "Microsoft",
+          "JetBrains",
+          "Eclipse"
         ]
       },
       {
@@ -4374,7 +5006,9 @@
         "file": "nfc-coil.md",
         "title": "Nfc Coil",
         "companies": [
-          "Industrial Manufacturer"
+          "ArcelorMittal",
+          "Nippon Steel",
+          "POSCO"
         ]
       },
       {
@@ -4397,28 +5031,36 @@
         "file": "nickel-catalyst.md",
         "title": "Nickel Catalyst",
         "companies": [
-          "Materials Producer"
+          "BASF",
+          "Johnson Matthey",
+          "Clariant"
         ]
       },
       {
         "file": "nickel-paste.md",
         "title": "Nickel Paste",
         "companies": [
-          "Various Manufacturers"
+          "Vale",
+          "Nornickel",
+          "Glencore"
         ]
       },
       {
         "file": "nickel-sulfate.md",
         "title": "Nickel Sulfate",
         "companies": [
-          "Various Manufacturers"
+          "Vale",
+          "Nornickel",
+          "Glencore"
         ]
       },
       {
         "file": "nitrogen-generator.md",
         "title": "Nitrogen Generator",
         "companies": [
-          "Various Manufacturers"
+          "Air Products",
+          "Linde",
+          "Air Liquide"
         ]
       },
       {
@@ -4455,14 +5097,18 @@
         "file": "nylon-braiding.md",
         "title": "Nylon Braiding",
         "companies": [
-          "Various Textile Manufacturers"
+          "BASF",
+          "DuPont",
+          "Ube Industries"
         ]
       },
       {
         "file": "nylon-film.md",
         "title": "Nylon Film",
         "companies": [
-          "Various Manufacturers"
+          "BASF",
+          "DuPont",
+          "Ube Industries"
         ]
       },
       {
@@ -4528,7 +5174,9 @@
         "file": "organic-solvent.md",
         "title": "Organic Solvent",
         "companies": [
-          "Semiconductor Manufacturer"
+          "ExxonMobil",
+          "Shell",
+          "Dow"
         ]
       },
       {
@@ -4558,7 +5206,9 @@
         "file": "oscilloscope.md",
         "title": "Oscilloscope",
         "companies": [
-          "Various Manufacturers"
+          "Keysight",
+          "Tektronix",
+          "Rohde & Schwarz"
         ]
       },
       {
@@ -4594,14 +5244,18 @@
         "file": "oxygen-delivery.md",
         "title": "Oxygen Delivery",
         "companies": [
-          "Various Manufacturers"
+          "Air Products",
+          "Linde",
+          "Air Liquide"
         ]
       },
       {
         "file": "oxygen-removal-catalyst.md",
         "title": "Oxygen Removal Catalyst",
         "companies": [
-          "Materials Producer"
+          "BASF",
+          "Johnson Matthey",
+          "Clariant"
         ]
       },
       {
@@ -4622,7 +5276,9 @@
         "file": "packed-tower.md",
         "title": "Packed Tower",
         "companies": [
-          "Industrial Manufacturer"
+          "SPX",
+          "Baltimore Aircoil",
+          "Evapco"
         ]
       },
       {
@@ -4693,7 +5349,9 @@
         "file": "perlite-insulation.md",
         "title": "Perlite Insulation",
         "companies": [
-          "Various Manufacturers"
+          "Owens Corning",
+          "Rockwool",
+          "Saint-Gobain"
         ]
       },
       {
@@ -4707,7 +5365,9 @@
         "file": "pgmea-solvent.md",
         "title": "Pgmea Solvent",
         "companies": [
-          "Various Manufacturers"
+          "ExxonMobil",
+          "Shell",
+          "Dow"
         ]
       },
       {
@@ -4721,7 +5381,9 @@
         "file": "phase-transfer-catalyst.md",
         "title": "Phase Transfer Catalyst",
         "companies": [
-          "Various Manufacturers"
+          "BASF",
+          "Johnson Matthey",
+          "Clariant"
         ]
       },
       {
@@ -4768,7 +5430,9 @@
         "file": "photodiode.md",
         "title": "Photodiode",
         "companies": [
-          "Industrial Manufacturer"
+          "Vishay",
+          "ON Semiconductor",
+          "Rohm"
         ]
       },
       {
@@ -4798,7 +5462,9 @@
         "file": "pick-place-head.md",
         "title": "Pick Place Head",
         "companies": [
-          "Various Manufacturers"
+          "Fuji",
+          "Yamaha",
+          "Juki"
         ]
       },
       {
@@ -4833,28 +5499,36 @@
         "file": "plasma-ion-source.md",
         "title": "Plasma Ion Source",
         "companies": [
-          "Various Manufacturers"
+          "Hypertherm",
+          "ESAB",
+          "Kjellberg"
         ]
       },
       {
         "file": "plate-fin-exchanger.md",
         "title": "Plate Fin Exchanger",
         "companies": [
-          "Various Manufacturers"
+          "ArcelorMittal",
+          "Nippon Steel",
+          "ThyssenKrupp"
         ]
       },
       {
         "file": "plating-chemistry.md",
         "title": "Plating Chemistry",
         "companies": [
-          "Industrial Manufacturer"
+          "Atotech",
+          "MacDermid",
+          "JCU"
         ]
       },
       {
         "file": "platinum-catalyst.md",
         "title": "Platinum Catalyst",
         "companies": [
-          "Materials Producer"
+          "BASF",
+          "Johnson Matthey",
+          "Clariant"
         ]
       },
       {
@@ -4868,7 +5542,9 @@
         "file": "pogo-pins.md",
         "title": "Pogo Pins",
         "companies": [
-          "Industrial Manufacturer"
+          "Mill-Max",
+          "Harwin",
+          "Samtec"
         ]
       },
       {
@@ -4882,14 +5558,18 @@
         "file": "polishing-additives.md",
         "title": "Polishing Additives",
         "companies": [
-          "Various Manufacturers"
+          "Buehler",
+          "Struers",
+          "Lapmaster Wolters"
         ]
       },
       {
         "file": "polishing-head.md",
         "title": "Polishing Head",
         "companies": [
-          "Various Manufacturers"
+          "Buehler",
+          "Struers",
+          "Lapmaster Wolters"
         ]
       },
       {
@@ -4905,14 +5585,18 @@
         "file": "polishing-wheels.md",
         "title": "Polishing Wheels",
         "companies": [
-          "Various Manufacturers"
+          "Buehler",
+          "Struers",
+          "Lapmaster Wolters"
         ]
       },
       {
         "file": "polycarbonate.md",
         "title": "Polycarbonate",
         "companies": [
-          "Various Manufacturers"
+          "Covestro",
+          "SABIC",
+          "Mitsubishi Engineering-Plastics"
         ]
       },
       {
@@ -4933,14 +5617,18 @@
         "file": "polyimide-film.md",
         "title": "Polyimide Film",
         "companies": [
-          "Various Manufacturers"
+          "DuPont",
+          "Ube Industries",
+          "Kaneka"
         ]
       },
       {
         "file": "polypropylene-tank.md",
         "title": "Polypropylene Tank",
         "companies": [
-          "Various Manufacturers"
+          "LyondellBasell",
+          "SABIC",
+          "ExxonMobil"
         ]
       },
       {
@@ -4975,7 +5663,9 @@
         "file": "power-inductors.md",
         "title": "Power Inductors",
         "companies": [
-          "Various Manufacturers"
+          "Murata",
+          "TDK",
+          "Taiyo Yuden"
         ]
       },
       {
@@ -4989,8 +5679,9 @@
         "file": "power-plant.md",
         "title": "Power Plant",
         "companies": [
-          "Utilities",
-          "Energy Companies"
+          "Applied Materials",
+          "Axcelis",
+          "Ion Beam Applications"
         ]
       },
       {
@@ -5011,7 +5702,9 @@
         "file": "power-transistors.md",
         "title": "Power Transistors",
         "companies": [
-          "Various Manufacturers"
+          "Infineon",
+          "ON Semiconductor",
+          "Toshiba"
         ]
       },
       {
@@ -5040,21 +5733,27 @@
         "file": "precision-mold.md",
         "title": "Precision Mold",
         "companies": [
-          "Various Manufacturers"
+          "DME",
+          "Hasco",
+          "Meusburger"
         ]
       },
       {
         "file": "precision-pump.md",
         "title": "Precision Pump",
         "companies": [
-          "Various Manufacturers"
+          "Grundfos",
+          "Xylem",
+          "ITT"
         ]
       },
       {
         "file": "precision-spindle.md",
         "title": "Precision Spindle",
         "companies": [
-          "Various Manufacturers"
+          "Mill-Max",
+          "Harwin",
+          "Samtec"
         ]
       },
       {
@@ -5075,28 +5774,36 @@
         "file": "press-brake.md",
         "title": "Press Brake",
         "companies": [
-          "Various Manufacturers"
+          "Schuler",
+          "Aida",
+          "Komatsu"
         ]
       },
       {
         "file": "press-control.md",
         "title": "Press Control",
         "companies": [
-          "Various Manufacturers"
+          "Schuler",
+          "Aida",
+          "Komatsu"
         ]
       },
       {
         "file": "press-frame.md",
         "title": "Press Frame",
         "companies": [
-          "Various Manufacturers"
+          "Schuler",
+          "Aida",
+          "Komatsu"
         ]
       },
       {
         "file": "pressure-swing-adsorption.md",
         "title": "Pressure Swing Adsorption",
         "companies": [
-          "Industrial Manufacturer"
+          "Honeywell",
+          "TE Connectivity",
+          "Sensata"
         ]
       },
       {
@@ -5117,28 +5824,36 @@
         "file": "process-steam.md",
         "title": "Process Steam",
         "companies": [
-          "Various Manufacturers"
+          "GEA",
+          "Alfa Laval",
+          "SPX Flow"
         ]
       },
       {
         "file": "process-utilities.md",
         "title": "Process Utilities",
         "companies": [
-          "Various Manufacturers"
+          "GEA",
+          "Alfa Laval",
+          "SPX Flow"
         ]
       },
       {
         "file": "process-water.md",
         "title": "Process Water",
         "companies": [
-          "Various Manufacturers"
+          "GEA",
+          "Alfa Laval",
+          "SPX Flow"
         ]
       },
       {
         "file": "product-labels.md",
         "title": "Product Labels",
         "companies": [
-          "Various Manufacturers"
+          "Avery Dennison",
+          "CCL Industries",
+          "Multi-Color Corporation"
         ]
       },
       {
@@ -5175,7 +5890,9 @@
         "file": "protective-coating.md",
         "title": "Protective Coating",
         "companies": [
-          "Various Manufacturers"
+          "PPG Industries",
+          "Sherwin-Williams",
+          "AkzoNobel"
         ]
       },
       {
@@ -5232,28 +5949,36 @@
         "file": "pvc-additives.md",
         "title": "Pvc Additives",
         "companies": [
-          "Various Manufacturers"
+          "Shin-Etsu",
+          "Formosa Plastics",
+          "Westlake Chemical"
         ]
       },
       {
         "file": "pvc-piping.md",
         "title": "Pvc Piping",
         "companies": [
-          "Various Manufacturers"
+          "Shin-Etsu",
+          "Formosa Plastics",
+          "Westlake Chemical"
         ]
       },
       {
         "file": "pvd-coating.md",
         "title": "Pvd Coating",
         "companies": [
-          "Various Manufacturers"
+          "PPG Industries",
+          "Sherwin-Williams",
+          "AkzoNobel"
         ]
       },
       {
         "file": "pwm-controller.md",
         "title": "Pwm Controller",
         "companies": [
-          "Various Manufacturers"
+          "Siemens",
+          "Allen-Bradley",
+          "Emerson"
         ]
       },
       {
@@ -5323,7 +6048,9 @@
         "file": "quartz-crystal-blank.md",
         "title": "Quartz Crystal Blank",
         "companies": [
-          "Various Manufacturers"
+          "Seiko Epson",
+          "TXC Corporation",
+          "Abracon"
         ]
       },
       {
@@ -5337,14 +6064,18 @@
         "file": "quartzite-sand.md",
         "title": "Quartzite Sand",
         "companies": [
-          "Mining Companies"
+          "Empire Abrasive",
+          "Wheelabrator",
+          "Clemco"
         ]
       },
       {
         "file": "quenching-medium.md",
         "title": "Quenching Medium",
         "companies": [
-          "Various Manufacturers"
+          "Ipsen",
+          "AFC-Holcroft",
+          "ALD"
         ]
       },
       {
@@ -5403,14 +6134,19 @@
         "file": "reduction-furnace.md",
         "title": "Reduction Furnace",
         "companies": [
-          "Metallurgical Equipment Supplier"
+          "Ipsen",
+          "Surface Combustion",
+          "Lindberg",
+          "MPH"
         ]
       },
       {
         "file": "reflector-sheet.md",
         "title": "Reflector Sheet",
         "companies": [
-          "Various Manufacturers"
+          "ArcelorMittal",
+          "Nippon Steel",
+          "POSCO"
         ]
       },
       {
@@ -5431,7 +6167,10 @@
         "file": "reformer-furnace.md",
         "title": "Reformer Furnace",
         "companies": [
-          "Metallurgical Equipment Supplier"
+          "Ipsen",
+          "Surface Combustion",
+          "Lindberg",
+          "MPH"
         ]
       },
       {
@@ -5459,7 +6198,9 @@
         "file": "research-development.md",
         "title": "Research Development",
         "companies": [
-          "Software Company"
+          "Orbotech",
+          "Schmid",
+          "Chemcut"
         ]
       },
       {
@@ -5480,7 +6221,10 @@
         "file": "reverberatory-furnace.md",
         "title": "Reverberatory Furnace",
         "companies": [
-          "Metallurgical Equipment Supplier"
+          "Ipsen",
+          "Surface Combustion",
+          "Lindberg",
+          "MPH"
         ]
       },
       {
@@ -5501,7 +6245,9 @@
         "file": "rf-generator.md",
         "title": "Rf Generator",
         "companies": [
-          "Various Manufacturers"
+          "Caterpillar",
+          "Cummins",
+          "Kohler"
         ]
       },
       {
@@ -5543,21 +6289,27 @@
         "file": "robotic-arm.md",
         "title": "Robotic Arm",
         "companies": [
-          "Various Manufacturers"
+          "ABB",
+          "Fanuc",
+          "Kuka"
         ]
       },
       {
         "file": "rolling-mill.md",
         "title": "Rolling Mill",
         "companies": [
-          "Various Manufacturers"
+          "Haas",
+          "DMG Mori",
+          "Mazak"
         ]
       },
       {
         "file": "rolling-oil.md",
         "title": "Rolling Oil",
         "companies": [
-          "Various Manufacturers"
+          "SMS group",
+          "Primetals",
+          "Danieli"
         ]
       },
       {
@@ -5659,14 +6411,18 @@
         "file": "safety-certification.md",
         "title": "Safety Certification",
         "companies": [
-          "Various Manufacturers"
+          "PMI",
+          "ASQ",
+          "ISA"
         ]
       },
       {
         "file": "safety-training.md",
         "title": "Safety Training",
         "companies": [
-          "Various Manufacturers"
+          "Coursera",
+          "Udemy",
+          "LinkedIn Learning"
         ]
       },
       {
@@ -5689,7 +6445,9 @@
         "file": "sand-filter.md",
         "title": "Sand Filter",
         "companies": [
-          "Various Manufacturers"
+          "Pall Corporation",
+          "Donaldson",
+          "Parker Hannifin"
         ]
       },
       {
@@ -5705,7 +6463,9 @@
         "file": "sand-washing.md",
         "title": "Sand Washing",
         "companies": [
-          "Industrial Manufacturer"
+          "Empire Abrasive",
+          "Wheelabrator",
+          "Clemco"
         ]
       },
       {
@@ -5719,7 +6479,9 @@
         "file": "scanning-electron-microscope.md",
         "title": "Scanning Electron Microscope",
         "companies": [
-          "Various Manufacturers"
+          "Olympus",
+          "Zeiss",
+          "Nikon"
         ]
       },
       {
@@ -5747,7 +6509,9 @@
         "file": "separation-plant.md",
         "title": "Separation Plant",
         "companies": [
-          "Industrial Manufacturer"
+          "Alfa Laval",
+          "GEA",
+          "Andritz"
         ]
       },
       {
@@ -5768,7 +6532,9 @@
         "file": "server-hardware.md",
         "title": "Server Hardware",
         "companies": [
-          "Various Server OEMs"
+          "Dell",
+          "HPE",
+          "Lenovo"
         ]
       },
       {
@@ -5810,7 +6576,9 @@
         "file": "signal-generator.md",
         "title": "Signal Generator",
         "companies": [
-          "Various Manufacturers"
+          "Caterpillar",
+          "Cummins",
+          "Kohler"
         ]
       },
       {
@@ -5831,7 +6599,9 @@
         "file": "silica-sand.md",
         "title": "Silica Sand",
         "companies": [
-          "Various Manufacturers"
+          "Empire Abrasive",
+          "Wheelabrator",
+          "Clemco"
         ]
       },
       {
@@ -5847,7 +6617,9 @@
         "file": "silicon-seed-crystal.md",
         "title": "Silicon Seed Crystal",
         "companies": [
-          "Various Manufacturers"
+          "Seiko Epson",
+          "TXC Corporation",
+          "Abracon"
         ]
       },
       {
@@ -5913,14 +6685,19 @@
         "file": "sintering-furnace.md",
         "title": "Sintering Furnace",
         "companies": [
-          "Various Manufacturers"
+          "Ipsen",
+          "Surface Combustion",
+          "Lindberg",
+          "MPH"
         ]
       },
       {
         "file": "sintering-process.md",
         "title": "Sintering Process",
         "companies": [
-          "Various Manufacturers"
+          "Cremer",
+          "Abbott",
+          "CM Furnaces"
         ]
       },
       {
@@ -5934,7 +6711,9 @@
         "file": "slurry-filtration.md",
         "title": "Slurry Filtration",
         "companies": [
-          "Various Manufacturers"
+          "Pall",
+          "Parker",
+          "Donaldson"
         ]
       },
       {
@@ -5997,28 +6776,36 @@
         "file": "solar-evaporation.md",
         "title": "Solar Evaporation",
         "companies": [
-          "Industrial Manufacturer"
+          "GEA",
+          "Alfa Laval",
+          "SPX Flow"
         ]
       },
       {
         "file": "solder-flux.md",
         "title": "Solder Flux",
         "companies": [
-          "Industrial Manufacturer"
+          "Taiyo",
+          "Uyemura",
+          "Electra Polymers"
         ]
       },
       {
         "file": "solder-mask.md",
         "title": "Solder Mask",
         "companies": [
-          "Various Manufacturers"
+          "Taiyo",
+          "Uyemura",
+          "Electra Polymers"
         ]
       },
       {
         "file": "solder-paste-printer.md",
         "title": "Solder Paste Printer",
         "companies": [
-          "Various Manufacturers"
+          "Taiyo",
+          "Uyemura",
+          "Electra Polymers"
         ]
       },
       {
@@ -6046,7 +6833,9 @@
         "file": "solvent-purification.md",
         "title": "Solvent Purification",
         "companies": [
-          "Various Manufacturers"
+          "ExxonMobil",
+          "Shell",
+          "Dow"
         ]
       },
       {
@@ -6060,7 +6849,9 @@
         "file": "spark-tester.md",
         "title": "Spark Tester",
         "companies": [
-          "Various Manufacturers"
+          "Teradyne",
+          "Advantest",
+          "Keysight"
         ]
       },
       {
@@ -6097,7 +6888,9 @@
         "file": "spectrometer.md",
         "title": "Spectrometer",
         "companies": [
-          "Industrial Manufacturer"
+          "Fluke",
+          "Keysight",
+          "Tektronix"
         ]
       },
       {
@@ -6111,21 +6904,27 @@
         "file": "spider-die.md",
         "title": "Spider Die",
         "companies": [
-          "Various Manufacturers"
+          "Microsoft",
+          "JetBrains",
+          "Eclipse"
         ]
       },
       {
         "file": "spindle-motors.md",
         "title": "Spindle Motors",
         "companies": [
-          "Various Manufacturers"
+          "ABB",
+          "Siemens",
+          "WEG"
         ]
       },
       {
         "file": "spindle-system.md",
         "title": "Spindle System",
         "companies": [
-          "Various Manufacturers"
+          "Mill-Max",
+          "Harwin",
+          "Samtec"
         ]
       },
       {
@@ -6139,14 +6938,18 @@
         "file": "spray-dryer.md",
         "title": "Spray Dryer",
         "companies": [
-          "Industrial Manufacturer"
+          "Graco",
+          "Wagner",
+          "Kremlin Rexson"
         ]
       },
       {
         "file": "spring-system.md",
         "title": "Spring System",
         "companies": [
-          "Industrial Equipment Manufacturer"
+          "Lesjöfors",
+          "Lee Spring",
+          "Associated Spring"
         ]
       },
       {
@@ -6203,21 +7006,27 @@
         "file": "stainless-steel-body.md",
         "title": "Stainless Steel Body",
         "companies": [
-          "Various Manufacturers"
+          "ArcelorMittal",
+          "Nippon Steel",
+          "POSCO"
         ]
       },
       {
         "file": "stainless-steel-chamber.md",
         "title": "Stainless Steel Chamber",
         "companies": [
-          "Various Manufacturers"
+          "ArcelorMittal",
+          "Nippon Steel",
+          "POSCO"
         ]
       },
       {
         "file": "stainless-steel-coil.md",
         "title": "Stainless Steel Coil",
         "companies": [
-          "Various Manufacturers"
+          "ArcelorMittal",
+          "Nippon Steel",
+          "POSCO"
         ]
       },
       {
@@ -6245,7 +7054,9 @@
         "file": "stamping-die.md",
         "title": "Stamping Die",
         "companies": [
-          "Various Manufacturers"
+          "Mill-Max",
+          "Harwin",
+          "Samtec"
         ]
       },
       {
@@ -6297,7 +7108,9 @@
         "file": "steel-die.md",
         "title": "Steel Die",
         "companies": [
-          "Industrial Manufacturer"
+          "ArcelorMittal",
+          "Nippon Steel",
+          "POSCO"
         ]
       },
       {
@@ -6312,28 +7125,36 @@
         "file": "steel-frame.md",
         "title": "Steel Frame",
         "companies": [
-          "Various Manufacturers"
+          "ArcelorMittal",
+          "Nippon Steel",
+          "POSCO"
         ]
       },
       {
         "file": "steel-raw.md",
         "title": "Steel Raw",
         "companies": [
-          "Industrial Manufacturer"
+          "ArcelorMittal",
+          "Nippon Steel",
+          "POSCO"
         ]
       },
       {
         "file": "steel-shaft.md",
         "title": "Steel Shaft",
         "companies": [
-          "Various Manufacturers"
+          "ArcelorMittal",
+          "Nippon Steel",
+          "POSCO"
         ]
       },
       {
         "file": "steel-sheet.md",
         "title": "Steel Sheet",
         "companies": [
-          "Various Manufacturers"
+          "ArcelorMittal",
+          "Nippon Steel",
+          "POSCO"
         ]
       },
       {
@@ -6362,7 +7183,9 @@
         "file": "steel-vessel.md",
         "title": "Steel Vessel",
         "companies": [
-          "Industrial Manufacturer"
+          "ArcelorMittal",
+          "Nippon Steel",
+          "POSCO"
         ]
       },
       {
@@ -6385,7 +7208,9 @@
         "file": "stripping-blades.md",
         "title": "Stripping Blades",
         "companies": [
-          "Various Manufacturers"
+          "Mill-Max",
+          "Harwin",
+          "Samtec"
         ]
       },
       {
@@ -6422,21 +7247,27 @@
         "file": "submersible-pump.md",
         "title": "Submersible Pump",
         "companies": [
-          "Industrial Manufacturer"
+          "Grundfos",
+          "Xylem",
+          "ITT"
         ]
       },
       {
         "file": "substrate-handling.md",
         "title": "Substrate Handling",
         "companies": [
-          "Various Manufacturers"
+          "Ibiden",
+          "Shinko",
+          "AT&S"
         ]
       },
       {
         "file": "sulfur-polishing.md",
         "title": "Sulfur Polishing",
         "companies": [
-          "Industrial Manufacturer"
+          "Buehler",
+          "Struers",
+          "Lapmaster Wolters"
         ]
       },
       {
@@ -6451,14 +7282,18 @@
         "file": "surface-finishing.md",
         "title": "Surface Finishing",
         "companies": [
-          "Various Manufacturers"
+          "Atotech",
+          "MacDermid",
+          "Uyemura"
         ]
       },
       {
         "file": "surface-profiler.md",
         "title": "Surface Profiler",
         "companies": [
-          "Various Manufacturers"
+          "Atotech",
+          "MacDermid",
+          "Uyemura"
         ]
       },
       {
@@ -6514,14 +7349,18 @@
         "file": "synthetic-fibers.md",
         "title": "Synthetic Fibers",
         "companies": [
-          "Various Manufacturers"
+          "DuPont",
+          "Toray",
+          "Teijin"
         ]
       },
       {
         "file": "synthetic-graphite.md",
         "title": "Synthetic Graphite",
         "companies": [
-          "Various Manufacturers"
+          "SGL Carbon",
+          "Tokai Carbon",
+          "GrafTech"
         ]
       },
       {
@@ -6549,7 +7388,9 @@
         "file": "tap-water.md",
         "title": "Tap Water",
         "companies": [
-          "Various Manufacturers"
+          "Flow",
+          "OMAX",
+          "KMT"
         ]
       },
       {
@@ -6586,28 +7427,36 @@
         "file": "teflon-coating.md",
         "title": "Teflon Coating",
         "companies": [
-          "Industrial Manufacturer"
+          "PPG Industries",
+          "Sherwin-Williams",
+          "AkzoNobel"
         ]
       },
       {
         "file": "temperature-control.md",
         "title": "Temperature Control",
         "companies": [
-          "Various Manufacturers"
+          "Texas Instruments",
+          "Analog Devices",
+          "NXP"
         ]
       },
       {
         "file": "temperature-controller.md",
         "title": "Temperature Controller",
         "companies": [
-          "Various Manufacturers"
+          "Texas Instruments",
+          "Analog Devices",
+          "NXP"
         ]
       },
       {
         "file": "temperature-controllers.md",
         "title": "Temperature Controllers",
         "companies": [
-          "Various Manufacturers"
+          "Texas Instruments",
+          "Analog Devices",
+          "NXP"
         ]
       },
       {
@@ -6635,14 +7484,18 @@
         "file": "test-fixtures.md",
         "title": "Test Fixtures",
         "companies": [
-          "Various Manufacturers"
+          "Carr Lane",
+          "Jergens",
+          "TE-CO"
         ]
       },
       {
         "file": "test-handlers.md",
         "title": "Test Handlers",
         "companies": [
-          "Various Manufacturers"
+          "Keysight",
+          "National Instruments",
+          "Teradyne"
         ]
       },
       {
@@ -6677,7 +7530,9 @@
         "file": "tft-lithography.md",
         "title": "Tft Lithography",
         "companies": [
-          "Various Manufacturers"
+          "ASML",
+          "Nikon",
+          "Canon"
         ]
       },
       {
@@ -6707,28 +7562,36 @@
         "file": "thermoforming.md",
         "title": "Thermoforming",
         "companies": [
-          "Various Manufacturers"
+          "Schuler",
+          "Trumpf",
+          "Amada"
         ]
       },
       {
         "file": "thickness-gauge.md",
         "title": "Thickness Gauge",
         "companies": [
-          "Various Manufacturers"
+          "Fischer",
+          "Elcometer",
+          "DeFelsko"
         ]
       },
       {
         "file": "thickness-measurement.md",
         "title": "Thickness Measurement",
         "companies": [
-          "Various Manufacturers"
+          "Fischer",
+          "Elcometer",
+          "DeFelsko"
         ]
       },
       {
         "file": "thin-film-resistors.md",
         "title": "Thin Film Resistors",
         "companies": [
-          "Various Manufacturers"
+          "Yageo",
+          "Vishay",
+          "KOA Speer"
         ]
       },
       {
@@ -6749,42 +7612,54 @@
         "file": "tin-plating.md",
         "title": "Tin Plating",
         "companies": [
-          "Various Manufacturers"
+          "Atotech",
+          "MacDermid",
+          "JCU"
         ]
       },
       {
         "file": "tin-powder.md",
         "title": "Tin Powder",
         "companies": [
-          "Various Manufacturers"
+          "Gema",
+          "Wagner",
+          "Nordson"
         ]
       },
       {
         "file": "titanium-drum.md",
         "title": "Titanium Drum",
         "companies": [
-          "Various Manufacturers"
+          "VSMPO-AVISMA",
+          "Timet",
+          "ATI"
         ]
       },
       {
         "file": "titanium-getter.md",
         "title": "Titanium Getter",
         "companies": [
-          "Industrial Manufacturer"
+          "VSMPO-AVISMA",
+          "Timet",
+          "ATI"
         ]
       },
       {
         "file": "tmah-base.md",
         "title": "Tmah Base",
         "companies": [
-          "Various Manufacturers"
+          "Olin",
+          "Westlake Chemical",
+          "Formosa Plastics"
         ]
       },
       {
         "file": "toluene-solvent.md",
         "title": "Toluene Solvent",
         "companies": [
-          "Various Manufacturers"
+          "ExxonMobil",
+          "Shell",
+          "Dow"
         ]
       },
       {
@@ -6828,7 +7703,9 @@
         "file": "training-materials.md",
         "title": "Training Materials",
         "companies": [
-          "Various Employers"
+          "Coursera",
+          "Udemy",
+          "LinkedIn Learning"
         ]
       },
       {
@@ -6864,14 +7741,19 @@
         "file": "tube-furnace.md",
         "title": "Tube Furnace",
         "companies": [
-          "Various Manufacturers"
+          "Ipsen",
+          "Surface Combustion",
+          "Lindberg",
+          "MPH"
         ]
       },
       {
         "file": "tungsten-carbide-powder.md",
         "title": "Tungsten Carbide Powder",
         "companies": [
-          "Various Manufacturers"
+          "Microsoft",
+          "JetBrains",
+          "Eclipse"
         ]
       },
       {
@@ -6885,7 +7767,9 @@
         "file": "tungsten-reduction.md",
         "title": "Tungsten Reduction",
         "companies": [
-          "Various Manufacturers"
+          "Lindab",
+          "Sheet Metal Connectors",
+          "Spiral Manufacturing"
         ]
       },
       {
@@ -6900,14 +7784,18 @@
         "file": "turbomolecular-pump.md",
         "title": "Turbomolecular Pump",
         "companies": [
-          "Various Manufacturers"
+          "Grundfos",
+          "Xylem",
+          "ITT"
         ]
       },
       {
         "file": "twin-screw-extruder.md",
         "title": "Twin Screw Extruder",
         "companies": [
-          "Industrial Manufacturer"
+          "Fastenal",
+          "Würth",
+          "ITW"
         ]
       },
       {
@@ -6942,7 +7830,9 @@
         "file": "ultra-high-vacuum.md",
         "title": "Ultra High Vacuum",
         "companies": [
-          "Various Manufacturers"
+          "Edwards",
+          "Pfeiffer",
+          "Leybold"
         ]
       },
       {
@@ -6956,28 +7846,36 @@
         "file": "ultrapure-water.md",
         "title": "Ultrapure Water",
         "companies": [
-          "Various Manufacturers"
+          "Flow",
+          "OMAX",
+          "KMT"
         ]
       },
       {
         "file": "ultrasonic-transducer.md",
         "title": "Ultrasonic Transducer",
         "companies": [
-          "Various Manufacturers"
+          "Herrmann Ultrasonics",
+          "Branson",
+          "Rinco"
         ]
       },
       {
         "file": "ultrasonic-welding.md",
         "title": "Ultrasonic Welding",
         "companies": [
-          "Various Manufacturers"
+          "Lincoln Electric",
+          "Miller",
+          "ESAB"
         ]
       },
       {
         "file": "university-education.md",
         "title": "University Education",
         "companies": [
-          "Various Universities"
+          "Various Universities",
+          "Technical Schools",
+          "Online Platforms"
         ]
       },
       {
@@ -7056,28 +7954,36 @@
         "file": "vacuum-chamber.md",
         "title": "Vacuum Chamber",
         "companies": [
-          "Various Manufacturers"
+          "Edwards",
+          "Pfeiffer",
+          "Leybold"
         ]
       },
       {
         "file": "vacuum-chuck.md",
         "title": "Vacuum Chuck",
         "companies": [
-          "Various Manufacturers"
+          "Edwards",
+          "Pfeiffer",
+          "Leybold"
         ]
       },
       {
         "file": "vacuum-evaporator.md",
         "title": "Vacuum Evaporator",
         "companies": [
-          "Industrial Manufacturer"
+          "Edwards",
+          "Pfeiffer",
+          "Leybold"
         ]
       },
       {
         "file": "vacuum-laminator.md",
         "title": "Vacuum Laminator",
         "companies": [
-          "Industrial Manufacturer"
+          "Edwards",
+          "Pfeiffer",
+          "Leybold"
         ]
       },
       {
@@ -7091,14 +7997,18 @@
         "file": "vacuum-package.md",
         "title": "Vacuum Package",
         "companies": [
-          "Industrial Manufacturer"
+          "Edwards",
+          "Pfeiffer",
+          "Leybold"
         ]
       },
       {
         "file": "vacuum-pan.md",
         "title": "Vacuum Pan",
         "companies": [
-          "Industrial Manufacturer"
+          "Edwards",
+          "Pfeiffer",
+          "Leybold"
         ]
       },
       {
@@ -7112,35 +8022,45 @@
         "file": "vacuum-pumps.md",
         "title": "Vacuum Pumps",
         "companies": [
-          "Various Manufacturers"
+          "Grundfos",
+          "Xylem",
+          "ITT"
         ]
       },
       {
         "file": "vacuum-robot.md",
         "title": "Vacuum Robot",
         "companies": [
-          "Various Manufacturers"
+          "ABB",
+          "Fanuc",
+          "Kuka"
         ]
       },
       {
         "file": "vacuum-system.md",
         "title": "Vacuum System",
         "companies": [
-          "Industrial Equipment Manufacturer"
+          "Edwards",
+          "Pfeiffer",
+          "Leybold"
         ]
       },
       {
         "file": "vanadium-catalyst.md",
         "title": "Vanadium Catalyst",
         "companies": [
-          "Various Manufacturers"
+          "BASF",
+          "Johnson Matthey",
+          "Clariant"
         ]
       },
       {
         "file": "vapor-barrier.md",
         "title": "Vapor Barrier",
         "companies": [
-          "Various Manufacturers"
+          "GEA",
+          "Alfa Laval",
+          "SPX Flow"
         ]
       },
       {
@@ -7161,14 +8081,18 @@
         "file": "vibratory-feeder.md",
         "title": "Vibratory Feeder",
         "companies": [
-          "Various Manufacturers"
+          "Afag",
+          "RNA",
+          "Vibratory Solutions"
         ]
       },
       {
         "file": "vinyl-chloride.md",
         "title": "Vinyl Chloride",
         "companies": [
-          "Various Manufacturers"
+          "Microsoft",
+          "JetBrains",
+          "Eclipse"
         ]
       },
       {
@@ -7182,7 +8106,9 @@
         "file": "vision-alignment.md",
         "title": "Vision Alignment",
         "companies": [
-          "Various Manufacturers"
+          "Cognex",
+          "Keyence",
+          "Omron"
         ]
       },
       {
@@ -7203,7 +8129,9 @@
         "file": "vocational-training.md",
         "title": "Vocational Training",
         "companies": [
-          "Various Manufacturers"
+          "Coursera",
+          "Udemy",
+          "LinkedIn Learning"
         ]
       },
       {
@@ -7224,21 +8152,27 @@
         "file": "wafer-carriers.md",
         "title": "Wafer Carriers",
         "companies": [
-          "Various Manufacturers"
+          "Shin-Etsu",
+          "Sumco",
+          "GlobalWafers"
         ]
       },
       {
         "file": "wafer-cassettes.md",
         "title": "Wafer Cassettes",
         "companies": [
-          "Various Manufacturers"
+          "Shin-Etsu",
+          "Sumco",
+          "GlobalWafers"
         ]
       },
       {
         "file": "wafer-etchant.md",
         "title": "Wafer Etchant",
         "companies": [
-          "Various Manufacturers"
+          "Shin-Etsu",
+          "Sumco",
+          "GlobalWafers"
         ]
       },
       {
@@ -7263,21 +8197,27 @@
         "file": "wafer-probe-card.md",
         "title": "Wafer Probe Card",
         "companies": [
-          "Various Manufacturers"
+          "Shin-Etsu",
+          "Sumco",
+          "GlobalWafers"
         ]
       },
       {
         "file": "wafer-transfer-robots.md",
         "title": "Wafer Transfer Robots",
         "companies": [
-          "Various Manufacturers"
+          "ABB",
+          "Fanuc",
+          "Kuka"
         ]
       },
       {
         "file": "water-pump.md",
         "title": "Water Pump",
         "companies": [
-          "Various Manufacturers"
+          "Grundfos",
+          "Xylem",
+          "ITT"
         ]
       },
       {
@@ -7291,7 +8231,9 @@
         "file": "water-supply.md",
         "title": "Water Supply",
         "companies": [
-          "Various Manufacturers"
+          "Flow",
+          "OMAX",
+          "KMT"
         ]
       },
       {
@@ -7321,7 +8263,9 @@
         "file": "white-leds.md",
         "title": "White Leds",
         "companies": [
-          "Industrial Manufacturer"
+          "Nichia",
+          "Lumileds",
+          "Osram"
         ]
       },
       {
@@ -7352,7 +8296,9 @@
         "file": "wood-pulp.md",
         "title": "Wood Pulp",
         "companies": [
-          "Various Manufacturers"
+          "Suzano",
+          "Fibria",
+          "ARAUCO"
         ]
       },
       {
@@ -7373,7 +8319,9 @@
         "file": "xray-tube.md",
         "title": "Xray Tube",
         "companies": [
-          "Various Manufacturers"
+          "Tenaris",
+          "Vallourec",
+          "TMK"
         ]
       },
       {
@@ -7401,7 +8349,9 @@
         "file": "ziegler-natta-catalyst.md",
         "title": "Ziegler Natta Catalyst",
         "companies": [
-          "Various Manufacturers"
+          "BASF",
+          "Johnson Matthey",
+          "Clariant"
         ]
       },
       {
@@ -7415,14 +8365,18 @@
         "file": "zinc-electrowinning.md",
         "title": "Zinc Electrowinning",
         "companies": [
-          "Industrial Manufacturer"
+          "Glencore",
+          "Nyrstar",
+          "Teck Resources"
         ]
       },
       {
         "file": "zinc-ingot.md",
         "title": "Zinc Ingot",
         "companies": [
-          "Various Manufacturers"
+          "Glencore",
+          "Nyrstar",
+          "Teck Resources"
         ]
       }
     ],
@@ -7431,7 +8385,9 @@
         "file": "abs-resin.md",
         "title": "Abs Resin",
         "companies": [
-          "Various Manufacturers"
+          "SABIC",
+          "LG Chem",
+          "INEOS Styrolution"
         ]
       },
       {
@@ -7454,28 +8410,36 @@
         "file": "ion-exchange-resin.md",
         "title": "Ion Exchange Resin",
         "companies": [
-          "Various Manufacturers"
+          "Huntsman",
+          "Hexion",
+          "Olin"
         ]
       },
       {
         "file": "novolac-resin.md",
         "title": "Novolac Resin",
         "companies": [
-          "Various Manufacturers"
+          "Huntsman",
+          "Hexion",
+          "Olin"
         ]
       },
       {
         "file": "pet-resin.md",
         "title": "Pet Resin",
         "companies": [
-          "Various Manufacturers"
+          "Huntsman",
+          "Hexion",
+          "Olin"
         ]
       },
       {
         "file": "phenolic-resin.md",
         "title": "Phenolic Resin",
         "companies": [
-          "Various Manufacturers"
+          "Huntsman",
+          "Hexion",
+          "Olin"
         ]
       },
       {
@@ -7503,56 +8467,72 @@
         "file": "plastic-tanks.md",
         "title": "Plastic Tanks",
         "companies": [
-          "Semiconductor Manufacturer"
+          "SABIC",
+          "LG Chem",
+          "Formosa Plastics"
         ]
       },
       {
         "file": "polycarbonate-resin.md",
         "title": "Polycarbonate Resin",
         "companies": [
-          "Various Manufacturers"
+          "Covestro",
+          "SABIC",
+          "Mitsubishi Engineering-Plastics"
         ]
       },
       {
         "file": "polymer-additives.md",
         "title": "Polymer Additives",
         "companies": [
-          "Various Manufacturers"
+          "Dow",
+          "BASF",
+          "DuPont"
         ]
       },
       {
         "file": "polymer-capacitors.md",
         "title": "Polymer Capacitors",
         "companies": [
-          "Various Manufacturers"
+          "Dow",
+          "BASF",
+          "DuPont"
         ]
       },
       {
         "file": "polymer-resin.md",
         "title": "Polymer Resin",
         "companies": [
-          "Industrial Manufacturer"
+          "Huntsman",
+          "Hexion",
+          "Olin"
         ]
       },
       {
         "file": "polymerization-catalyst.md",
         "title": "Polymerization Catalyst",
         "companies": [
-          "Various Manufacturers"
+          "Dow",
+          "BASF",
+          "DuPont"
         ]
       },
       {
         "file": "polymerization-initiator.md",
         "title": "Polymerization Initiator",
         "companies": [
-          "Various Manufacturers"
+          "Dow",
+          "BASF",
+          "DuPont"
         ]
       },
       {
         "file": "polypropylene-resin.md",
         "title": "Polypropylene Resin",
         "companies": [
-          "Various Manufacturers"
+          "LyondellBasell",
+          "SABIC",
+          "ExxonMobil"
         ]
       },
       {
@@ -7573,7 +8553,9 @@
         "file": "resin-treatment.md",
         "title": "Resin Treatment",
         "companies": [
-          "Various Manufacturers"
+          "Huntsman",
+          "Hexion",
+          "Olin"
         ]
       },
       {
@@ -7608,7 +8590,9 @@
         "file": "uhmwpe-resin.md",
         "title": "Uhmwpe Resin",
         "companies": [
-          "Various Manufacturers"
+          "Huntsman",
+          "Hexion",
+          "Olin"
         ]
       }
     ],
@@ -7617,14 +8601,18 @@
         "file": "acid-leach.md",
         "title": "Acid Leaching Process",
         "companies": [
-          "Various Mining Operations"
+          "Dow",
+          "BASF",
+          "Solvay"
         ]
       },
       {
         "file": "acid-resistant-tank.md",
         "title": "Acid Resistant Tank",
         "companies": [
-          "Various Manufacturers"
+          "Dow",
+          "BASF",
+          "Solvay"
         ]
       },
       {
@@ -7640,28 +8628,36 @@
         "file": "ash3-gas.md",
         "title": "Ash3 Gas",
         "companies": [
-          "Various Manufacturers"
+          "Air Products",
+          "Linde",
+          "Air Liquide"
         ]
       },
       {
         "file": "atmosphere-gas.md",
         "title": "Atmosphere Gas",
         "companies": [
-          "Various Manufacturers"
+          "Air Products",
+          "Linde",
+          "Air Liquide"
         ]
       },
       {
         "file": "b2h6-gas.md",
         "title": "B2h6 Gas",
         "companies": [
-          "Various Manufacturers"
+          "Air Products",
+          "Linde",
+          "Air Liquide"
         ]
       },
       {
         "file": "bf3-gas.md",
         "title": "Bf3 Gas",
         "companies": [
-          "Various Manufacturers"
+          "Air Products",
+          "Linde",
+          "Air Liquide"
         ]
       },
       {
@@ -7682,7 +8678,9 @@
         "file": "chemical-distillation.md",
         "title": "Chemical Distillation",
         "companies": [
-          "Chemical Processing Company"
+          "Sulzer",
+          "Koch-Glitsch",
+          "Montz"
         ]
       },
       {
@@ -7706,7 +8704,9 @@
         "file": "chemical-facility.md",
         "title": "Chemical Processing Facility",
         "companies": [
-          "Various Chemical Companies"
+          "GEA",
+          "Alfa Laval",
+          "SPX Flow"
         ]
       },
       {
@@ -7741,7 +8741,9 @@
         "file": "chemical-workers.md",
         "title": "Chemical Workers",
         "companies": [
-          "Various Manufacturers"
+          "Various Employers",
+          "Contract Labor",
+          "Staffing Agencies"
         ]
       },
       {
@@ -7773,7 +8775,9 @@
         "file": "ethylene-gas.md",
         "title": "Ethylene Gas",
         "companies": [
-          "Various Manufacturers"
+          "Air Products",
+          "Linde",
+          "Air Liquide"
         ]
       },
       {
@@ -7795,14 +8799,18 @@
         "file": "fluosilicic-acid.md",
         "title": "Fluosilicic Acid",
         "companies": [
-          "Semiconductor Manufacturer"
+          "Dow",
+          "BASF",
+          "Solvay"
         ]
       },
       {
         "file": "fuel-source.md",
         "title": "Fuel Source (Coal/Natural Gas)",
         "companies": [
-          "Energy Companies"
+          "Air Products",
+          "Linde",
+          "Air Liquide"
         ]
       },
       {
@@ -7825,14 +8833,18 @@
         "file": "gas-extraction.md",
         "title": "Gas Extraction",
         "companies": [
-          "Various Manufacturers"
+          "Air Products",
+          "Linde",
+          "Air Liquide"
         ]
       },
       {
         "file": "gas-flow-systems.md",
         "title": "Gas Flow Systems",
         "companies": [
-          "Various Manufacturers"
+          "Air Products",
+          "Linde",
+          "Air Liquide"
         ]
       },
       {
@@ -7855,21 +8867,27 @@
         "file": "gas-purification.md",
         "title": "Gas Purification",
         "companies": [
-          "Various Manufacturers"
+          "Air Products",
+          "Linde",
+          "Air Liquide"
         ]
       },
       {
         "file": "gas-scrubber.md",
         "title": "Gas Scrubber",
         "companies": [
-          "Industrial Manufacturer"
+          "Bridgestone",
+          "Michelin",
+          "Goodyear"
         ]
       },
       {
         "file": "gas-sweetening.md",
         "title": "Gas Sweetening",
         "companies": [
-          "Industrial Manufacturer"
+          "Air Products",
+          "Linde",
+          "Air Liquide"
         ]
       },
       {
@@ -7938,7 +8956,9 @@
         "file": "oil-gas-separator.md",
         "title": "Oil Gas Separator",
         "companies": [
-          "Industrial Manufacturer"
+          "Air Products",
+          "Linde",
+          "Air Liquide"
         ]
       },
       {
@@ -7968,7 +8988,9 @@
         "file": "ph3-gas.md",
         "title": "Ph3 Gas",
         "companies": [
-          "Various Manufacturers"
+          "Air Products",
+          "Linde",
+          "Air Liquide"
         ]
       },
       {
@@ -7991,14 +9013,18 @@
         "file": "pressure-acid-leach.md",
         "title": "Pressure Acid Leach",
         "companies": [
-          "Chemical Processing Company"
+          "Honeywell",
+          "TE Connectivity",
+          "Sensata"
         ]
       },
       {
         "file": "propylene-gas.md",
         "title": "Propylene Gas",
         "companies": [
-          "Industrial Manufacturer"
+          "Air Products",
+          "Linde",
+          "Air Liquide"
         ]
       },
       {
@@ -8012,7 +9038,9 @@
         "file": "sulfuric-acid-plant.md",
         "title": "Sulfuric Acid Plant",
         "companies": [
-          "Various Manufacturers"
+          "Dow",
+          "BASF",
+          "Solvay"
         ]
       },
       {
@@ -8089,7 +9117,9 @@
         "file": "circuit-simulation.md",
         "title": "Circuit Simulation",
         "companies": [
-          "Industrial Manufacturer"
+          "ABB",
+          "Schneider Electric",
+          "Eaton"
         ]
       },
       {
@@ -8138,14 +9168,18 @@
         "file": "led-pcb-strip.md",
         "title": "Led Pcb Strip",
         "companies": [
-          "Various Manufacturers"
+          "Nichia",
+          "Lumileds",
+          "Osram"
         ]
       },
       {
         "file": "led-pcb.md",
         "title": "Led Pcb",
         "companies": [
-          "Industrial Manufacturer"
+          "Nichia",
+          "Lumileds",
+          "Osram"
         ]
       },
       {
@@ -8168,7 +9202,9 @@
         "file": "pcb-antenna.md",
         "title": "Pcb Antenna",
         "companies": [
-          "Industrial Manufacturer"
+          "TTM Technologies",
+          "Unimicron",
+          "Ibiden"
         ]
       },
       {
@@ -8189,21 +9225,27 @@
         "file": "pcb-conveyors.md",
         "title": "Pcb Conveyors",
         "companies": [
-          "Various Manufacturers"
+          "TTM Technologies",
+          "Unimicron",
+          "Ibiden"
         ]
       },
       {
         "file": "pcb-drilling.md",
         "title": "Pcb Drilling",
         "companies": [
-          "Various Manufacturers"
+          "TTM Technologies",
+          "Unimicron",
+          "Ibiden"
         ]
       },
       {
         "file": "pcb-mounting.md",
         "title": "Pcb Mounting",
         "companies": [
-          "Industrial Manufacturer"
+          "TTM Technologies",
+          "Unimicron",
+          "Ibiden"
         ]
       },
       {
@@ -8247,7 +9289,9 @@
         "file": "aluminum-alloy-element.md",
         "title": "Aluminum Alloy Element",
         "companies": [
-          "Various Manufacturers"
+          "Alcoa",
+          "Rio Tinto",
+          "Norsk Hydro"
         ]
       },
       {
@@ -8261,7 +9305,9 @@
         "file": "aluminum-chamber.md",
         "title": "Aluminum Chamber",
         "companies": [
-          "Various Manufacturers"
+          "Alcoa",
+          "Rio Tinto",
+          "Norsk Hydro"
         ]
       },
       {
@@ -8284,14 +9330,18 @@
         "file": "aluminum-enclosure.md",
         "title": "Aluminum Enclosure",
         "companies": [
-          "Various Manufacturers"
+          "Alcoa",
+          "Rio Tinto",
+          "Norsk Hydro"
         ]
       },
       {
         "file": "aluminum-extrusion.md",
         "title": "Aluminum Extrusion",
         "companies": [
-          "Industrial Manufacturer"
+          "Alcoa",
+          "Rio Tinto",
+          "Norsk Hydro"
         ]
       },
       {
@@ -8305,7 +9355,9 @@
         "file": "aluminum-ingot.md",
         "title": "Aluminum Ingot",
         "companies": [
-          "Various Manufacturers"
+          "Alcoa",
+          "Rio Tinto",
+          "Norsk Hydro"
         ]
       },
       {
@@ -8337,14 +9389,18 @@
         "file": "aluminum-powder.md",
         "title": "Aluminum Powder",
         "companies": [
-          "Materials Producer"
+          "Alcoa",
+          "Rio Tinto",
+          "Norsk Hydro"
         ]
       },
       {
         "file": "aluminum-sheet.md",
         "title": "Aluminum Sheet",
         "companies": [
-          "Various Manufacturers"
+          "Alcoa",
+          "Rio Tinto",
+          "Norsk Hydro"
         ]
       },
       {
@@ -8421,14 +9477,18 @@
         "file": "copper-catalyst.md",
         "title": "Copper Catalyst",
         "companies": [
-          "Materials Producer"
+          "BASF",
+          "Johnson Matthey",
+          "Clariant"
         ]
       },
       {
         "file": "copper-clad-laminate.md",
         "title": "Copper Clad Laminate",
         "companies": [
-          "Various Manufacturers"
+          "Freeport-McMoRan",
+          "BHP",
+          "Glencore"
         ]
       },
       {
@@ -8459,7 +9519,9 @@
         "file": "copper-conductors.md",
         "title": "Copper Conductors",
         "companies": [
-          "Industrial Manufacturer"
+          "Freeport-McMoRan",
+          "BHP",
+          "Glencore"
         ]
       },
       {
@@ -8504,14 +9566,18 @@
         "file": "copper-rod.md",
         "title": "Copper Rod",
         "companies": [
-          "Various Manufacturers"
+          "Freeport-McMoRan",
+          "BHP",
+          "Glencore"
         ]
       },
       {
         "file": "copper-sulfate.md",
         "title": "Copper Sulfate",
         "companies": [
-          "Various Manufacturers"
+          "Freeport-McMoRan",
+          "BHP",
+          "Glencore"
         ]
       },
       {
@@ -8525,7 +9591,9 @@
         "file": "copper-wire-raw.md",
         "title": "Copper Wire Raw",
         "companies": [
-          "Industrial Manufacturer"
+          "Prysmian",
+          "Southwire",
+          "General Cable"
         ]
       },
       {
@@ -8669,14 +9737,18 @@
         "file": "hydraulic-mining.md",
         "title": "Hydraulic Mining",
         "companies": [
-          "Various Mining Companies"
+          "Shell",
+          "Mobil",
+          "Castrol"
         ]
       },
       {
         "file": "iron-casting.md",
         "title": "Iron Casting",
         "companies": [
-          "Industrial Manufacturer"
+          "Hunter",
+          "Inductotherm",
+          "ABP Induction"
         ]
       },
       {
@@ -8691,7 +9763,9 @@
         "file": "iron-powder.md",
         "title": "Iron Powder",
         "companies": [
-          "Various Manufacturers"
+          "Gema",
+          "Wagner",
+          "Nordson"
         ]
       },
       {
@@ -8723,7 +9797,9 @@
         "file": "magnesium-metal.md",
         "title": "Magnesium Metal",
         "companies": [
-          "Materials Producer"
+          "US Magnesium",
+          "Dead Sea Magnesium",
+          "Ma Steel"
         ]
       },
       {
@@ -8813,7 +9889,9 @@
         "file": "mining-labor.md",
         "title": "Mining Labor",
         "companies": [
-          "Mining Companies"
+          "ManpowerGroup",
+          "Randstad",
+          "Adecco"
         ]
       },
       {
@@ -8888,7 +9966,9 @@
         "file": "ore-processing.md",
         "title": "Ore Processing",
         "companies": [
-          "Chemical Processing Company"
+          "GEA",
+          "Alfa Laval",
+          "SPX Flow"
         ]
       },
       {
@@ -8940,14 +10020,18 @@
         "file": "rolled-copper.md",
         "title": "Rolled Copper",
         "companies": [
-          "Various Manufacturers"
+          "Freeport-McMoRan",
+          "BHP",
+          "Glencore"
         ]
       },
       {
         "file": "room-pillar-mining.md",
         "title": "Room and Pillar Mining",
         "companies": [
-          "Various Underground Mines"
+          "Clean Air Technology",
+          "Terra Universal",
+          "Mecart"
         ]
       },
       {
@@ -9091,14 +10175,18 @@
         "file": "automated-cable-assembly.md",
         "title": "Automated Cable Assembly",
         "companies": [
-          "Various Cable Assembly Companies"
+          "Prysmian",
+          "Nexans",
+          "Sumitomo Electric"
         ]
       },
       {
         "file": "bond-wire.md",
         "title": "Bond Wire",
         "companies": [
-          "Various Manufacturers"
+          "Prysmian",
+          "Southwire",
+          "General Cable"
         ]
       },
       {
@@ -9112,7 +10200,9 @@
         "file": "cable-assembly.md",
         "title": "Cable Assembly",
         "companies": [
-          "Industrial Manufacturer"
+          "Prysmian",
+          "Nexans",
+          "Sumitomo Electric"
         ]
       },
       {
@@ -9140,21 +10230,27 @@
         "file": "connector-housing.md",
         "title": "Connector Housing",
         "companies": [
-          "Various Manufacturers"
+          "TE Connectivity",
+          "Amphenol",
+          "Molex"
         ]
       },
       {
         "file": "connector-insulator.md",
         "title": "Connector Insulator",
         "companies": [
-          "Industrial Manufacturer"
+          "TE Connectivity",
+          "Amphenol",
+          "Molex"
         ]
       },
       {
         "file": "diamond-wire.md",
         "title": "Diamond Wire",
         "companies": [
-          "Various Manufacturers"
+          "Prysmian",
+          "Southwire",
+          "General Cable"
         ]
       },
       {
@@ -9168,7 +10264,9 @@
         "file": "ffc-connectors.md",
         "title": "Ffc Connectors",
         "companies": [
-          "Industrial Manufacturer"
+          "TE Connectivity",
+          "Amphenol",
+          "Molex"
         ]
       },
       {
@@ -9228,7 +10326,9 @@
         "file": "magnet-wire.md",
         "title": "Magnet Wire",
         "companies": [
-          "Various Manufacturers"
+          "Prysmian",
+          "Southwire",
+          "General Cable"
         ]
       },
       {
@@ -9323,14 +10423,18 @@
         "file": "wire-cutter.md",
         "title": "Wire Cutter",
         "companies": [
-          "Various Manufacturers"
+          "Prysmian",
+          "Southwire",
+          "General Cable"
         ]
       },
       {
         "file": "wire-extruder.md",
         "title": "Wire Extruder",
         "companies": [
-          "Various Manufacturers"
+          "Prysmian",
+          "Southwire",
+          "General Cable"
         ]
       },
       {
@@ -9344,7 +10448,9 @@
         "file": "wire-insulation.md",
         "title": "Wire Insulation",
         "companies": [
-          "Various Manufacturers"
+          "Prysmian",
+          "Southwire",
+          "General Cable"
         ]
       },
       {
@@ -9358,7 +10464,9 @@
         "file": "wireless-power-ic.md",
         "title": "Wireless Power Ic",
         "companies": [
-          "Semiconductor Manufacturer"
+          "Prysmian",
+          "Southwire",
+          "General Cable"
         ]
       }
     ],
@@ -9441,7 +10549,9 @@
         "file": "gpu-server.md",
         "title": "GPU Server",
         "companies": [
-          "Multiple Vendors"
+          "Dell",
+          "HPE",
+          "Lenovo"
         ]
       },
       {
@@ -9455,7 +10565,9 @@
         "file": "mini-led-chips.md",
         "title": "Mini Led Chips",
         "companies": [
-          "Semiconductor Manufacturer"
+          "Nichia",
+          "Lumileds",
+          "Osram"
         ]
       },
       {
@@ -9511,7 +10623,9 @@
         "file": "white-led-chips.md",
         "title": "White Led Chips",
         "companies": [
-          "Various Manufacturers"
+          "Nichia",
+          "Lumileds",
+          "Osram"
         ]
       },
       {
@@ -9548,7 +10662,9 @@
         "file": "compensation.md",
         "title": "Engineer Compensation Package",
         "companies": [
-          "Tech Companies"
+          "Various Engineering Firms",
+          "Consulting Companies",
+          "OEM Staff"
         ]
       },
       {
@@ -9562,7 +10678,9 @@
         "file": "electrical-engineering-degree.md",
         "title": "Electrical Engineering Degree",
         "companies": [
-          "Semiconductor Manufacturer"
+          "Various Universities",
+          "Technical Institutes",
+          "Colleges"
         ]
       },
       {
@@ -9586,7 +10704,9 @@
         "file": "engineering-workstation.md",
         "title": "Engineering Workstation",
         "companies": [
-          "Industrial Manufacturer"
+          "Various Engineering Firms",
+          "Consulting Companies",
+          "OEM Staff"
         ]
       },
       {
@@ -9600,14 +10720,18 @@
         "file": "internships.md",
         "title": "Engineering Internship Programs",
         "companies": [
-          "Tech Companies"
+          "Various Engineering Firms",
+          "Consulting Companies",
+          "OEM Staff"
         ]
       },
       {
         "file": "label-printing-labor.md",
         "title": "Label Printing Labor",
         "companies": [
-          "Various Label Printing Companies"
+          "Avery Dennison",
+          "CCL Industries",
+          "Multi-Color Corporation"
         ]
       },
       {
@@ -9630,7 +10754,9 @@
         "file": "process-engineers.md",
         "title": "Process Engineers",
         "companies": [
-          "Various Manufacturers"
+          "GEA",
+          "Alfa Laval",
+          "SPX Flow"
         ]
       },
       {
@@ -9646,7 +10772,9 @@
         "file": "skilled-labor.md",
         "title": "Skilled Labor",
         "companies": [
-          "Various Employers"
+          "Nichia",
+          "Lumileds",
+          "Osram"
         ]
       },
       {
@@ -9667,7 +10795,9 @@
         "file": "wafer-workers.md",
         "title": "Wafer Workers",
         "companies": [
-          "Various Manufacturers"
+          "Shin-Etsu",
+          "Sumco",
+          "GlobalWafers"
         ]
       },
       {
@@ -9731,14 +10861,18 @@
         "file": "coil-winding-machine.md",
         "title": "Coil Winding Machine",
         "companies": [
-          "Various Manufacturers"
+          "ArcelorMittal",
+          "Nippon Steel",
+          "POSCO"
         ]
       },
       {
         "file": "compiler-tools.md",
         "title": "Compiler Tools",
         "companies": [
-          "Software Company"
+          "GNU",
+          "LLVM",
+          "Intel"
         ]
       },
       {
@@ -9769,7 +10903,9 @@
         "file": "cutting-equipment.md",
         "title": "Cutting Equipment",
         "companies": [
-          "Industrial Equipment Manufacturer"
+          "Trumpf",
+          "Bystronic",
+          "Mazak"
         ]
       },
       {
@@ -9791,7 +10927,9 @@
         "file": "die-casting-machine.md",
         "title": "Die Casting Machine",
         "companies": [
-          "Various Manufacturers"
+          "Hunter",
+          "Inductotherm",
+          "ABP Induction"
         ]
       },
       {
@@ -9813,7 +10951,9 @@
         "file": "electroplating-equipment.md",
         "title": "Electroplating Equipment",
         "companies": [
-          "Industrial Equipment Manufacturer"
+          "Atotech",
+          "MacDermid",
+          "JCU"
         ]
       },
       {
@@ -9876,14 +11016,18 @@
         "file": "lamination-equipment.md",
         "title": "Lamination Equipment",
         "companies": [
-          "Various Manufacturers"
+          "Burkle",
+          "Lauffer",
+          "Kitagawa"
         ]
       },
       {
         "file": "lapping-machine.md",
         "title": "Lapping Machine",
         "companies": [
-          "Various Manufacturers"
+          "Mill-Max",
+          "Harwin",
+          "Samtec"
         ]
       },
       {
@@ -9897,14 +11041,18 @@
         "file": "machine-base.md",
         "title": "Machine Base",
         "companies": [
-          "Various Manufacturers"
+          "Olin",
+          "Westlake Chemical",
+          "Formosa Plastics"
         ]
       },
       {
         "file": "machine-controller.md",
         "title": "Machine Controller",
         "companies": [
-          "Various Manufacturers"
+          "Siemens",
+          "Allen-Bradley",
+          "Emerson"
         ]
       },
       {
@@ -9934,14 +11082,18 @@
         "file": "microstructure-tooling.md",
         "title": "Microstructure Tooling",
         "companies": [
-          "Semiconductor Manufacturer"
+          "Sandvik",
+          "Kennametal",
+          "Iscar"
         ]
       },
       {
         "file": "mold-tooling.md",
         "title": "Mold Tooling",
         "companies": [
-          "Various Manufacturers"
+          "Sandvik",
+          "Kennametal",
+          "Iscar"
         ]
       },
       {
@@ -9977,14 +11129,18 @@
         "file": "photolithography-equipment.md",
         "title": "Photolithography Equipment",
         "companies": [
-          "Various Manufacturers"
+          "ASML",
+          "Nikon",
+          "Canon"
         ]
       },
       {
         "file": "pick-place-machine.md",
         "title": "Pick Place Machine",
         "companies": [
-          "Various Manufacturers"
+          "Fuji",
+          "Yamaha",
+          "Juki"
         ]
       },
       {
@@ -10094,21 +11250,27 @@
         "file": "tool-changer.md",
         "title": "Tool Changer",
         "companies": [
-          "Various Manufacturers"
+          "Sandvik",
+          "Kennametal",
+          "Iscar"
         ]
       },
       {
         "file": "tool-grinding.md",
         "title": "Tool Grinding",
         "companies": [
-          "Various Manufacturers"
+          "Buhler",
+          "Netzsch",
+          "Retsch"
         ]
       },
       {
         "file": "training-equipment.md",
         "title": "Training Equipment",
         "companies": [
-          "Industrial Equipment Manufacturer"
+          "Coursera",
+          "Udemy",
+          "LinkedIn Learning"
         ]
       },
       {
@@ -10138,7 +11300,9 @@
         "file": "welding-equipment.md",
         "title": "Welding Equipment",
         "companies": [
-          "Various Manufacturers"
+          "Lincoln Electric",
+          "Miller",
+          "ESAB"
         ]
       },
       {
@@ -10166,7 +11330,9 @@
         "file": "xray-tool.md",
         "title": "Xray Tool",
         "companies": [
-          "Various Manufacturers"
+          "Sandvik",
+          "Kennametal",
+          "Iscar"
         ]
       }
     ],
@@ -10182,7 +11348,9 @@
         "file": "cof-packaging.md",
         "title": "Cof Packaging",
         "companies": [
-          "Various Manufacturers"
+          "Amcor",
+          "Sealed Air",
+          "Berry Global"
         ]
       },
       {
@@ -10210,7 +11378,9 @@
         "file": "packaging-tape.md",
         "title": "Packaging Tape",
         "companies": [
-          "Various Manufacturers"
+          "3M",
+          "Nitto Denko",
+          "Avery Dennison"
         ]
       },
       {
@@ -10226,7 +11396,9 @@
         "file": "pass-box.md",
         "title": "Pass Box",
         "companies": [
-          "Various Manufacturers"
+          "International Paper",
+          "WestRock",
+          "Smurfit Kappa"
         ]
       }
     ],
@@ -10295,7 +11467,9 @@
         "file": "inspection-software.md",
         "title": "Inspection Software",
         "companies": [
-          "Various Manufacturers"
+          "Microsoft",
+          "Oracle",
+          "SAP"
         ]
       },
       {
@@ -10316,7 +11490,9 @@
         "file": "metrology-software.md",
         "title": "Metrology Software",
         "companies": [
-          "Various Manufacturers"
+          "Microsoft",
+          "Oracle",
+          "SAP"
         ]
       },
       {
@@ -10330,7 +11506,9 @@
         "file": "open-source-software.md",
         "title": "Open Source Software",
         "companies": [
-          "Various Open Source Projects"
+          "Microsoft",
+          "Oracle",
+          "SAP"
         ]
       },
       {
@@ -10345,7 +11523,9 @@
         "file": "operating-system.md",
         "title": "Operating System Software",
         "companies": [
-          "Various"
+          "Microsoft",
+          "Oracle",
+          "SAP"
         ]
       },
       {
@@ -10373,21 +11553,27 @@
         "file": "software-developers.md",
         "title": "Software Developers",
         "companies": [
-          "Various"
+          "Microsoft",
+          "Oracle",
+          "SAP"
         ]
       },
       {
         "file": "software-engineering.md",
         "title": "Software Engineering",
         "companies": [
-          "Software Company"
+          "Microsoft",
+          "Oracle",
+          "SAP"
         ]
       },
       {
         "file": "software-engineers.md",
         "title": "Software Engineer Education",
         "companies": [
-          "Various"
+          "Microsoft",
+          "Oracle",
+          "SAP"
         ]
       },
       {
@@ -10415,7 +11601,9 @@
         "file": "test-software.md",
         "title": "Test Software",
         "companies": [
-          "Various Manufacturers"
+          "Microsoft",
+          "Oracle",
+          "SAP"
         ]
       },
       {
@@ -10439,14 +11627,18 @@
         "file": "web-server.md",
         "title": "Web Server Software",
         "companies": [
-          "Various"
+          "Microsoft",
+          "Oracle",
+          "SAP"
         ]
       },
       {
         "file": "xray-software.md",
         "title": "Xray Software",
         "companies": [
-          "Various Manufacturers"
+          "Microsoft",
+          "Oracle",
+          "SAP"
         ]
       }
     ],
@@ -10627,35 +11819,45 @@
         "file": "cover-glass.md",
         "title": "Cover Glass",
         "companies": [
-          "Industrial Manufacturer"
+          "Corning",
+          "Schott",
+          "AGC"
         ]
       },
       {
         "file": "fiberglass-cloth.md",
         "title": "Fiberglass Cloth",
         "companies": [
-          "Industrial Manufacturer"
+          "Corning",
+          "Schott",
+          "AGC"
         ]
       },
       {
         "file": "glass-cloth.md",
         "title": "Glass Cloth",
         "companies": [
-          "Industrial Manufacturer"
+          "Corning",
+          "Schott",
+          "AGC"
         ]
       },
       {
         "file": "glass-fiber.md",
         "title": "Glass Fiber",
         "companies": [
-          "Various Manufacturers"
+          "Corning",
+          "Schott",
+          "AGC"
         ]
       },
       {
         "file": "glass-lined-reactor.md",
         "title": "Glass Lined Reactor",
         "companies": [
-          "Various Manufacturers"
+          "Corning",
+          "Schott",
+          "AGC"
         ]
       },
       {
@@ -10669,14 +11871,18 @@
         "file": "optical-coatings.md",
         "title": "Optical Coatings",
         "companies": [
-          "Semiconductor Manufacturer"
+          "PPG Industries",
+          "Sherwin-Williams",
+          "AkzoNobel"
         ]
       },
       {
         "file": "optical-ellipsometry.md",
         "title": "Optical Ellipsometry",
         "companies": [
-          "Various Manufacturers"
+          "Edmund Optics",
+          "Thorlabs",
+          "Newport"
         ]
       },
       {
@@ -10711,7 +11917,9 @@
         "file": "optical-testing-training.md",
         "title": "Optical Testing Training",
         "companies": [
-          "Various Manufacturers"
+          "Edmund Optics",
+          "Thorlabs",
+          "Newport"
         ]
       },
       {
@@ -10733,7 +11941,9 @@
         "file": "trackpad-glass.md",
         "title": "Trackpad Glass",
         "companies": [
-          "Industrial Manufacturer"
+          "Corning",
+          "Schott",
+          "AGC"
         ]
       }
     ],
@@ -10906,7 +12116,9 @@
         "file": "microled-dies.md",
         "title": "Microled Dies",
         "companies": [
-          "Semiconductor Manufacturer"
+          "Nichia",
+          "Lumileds",
+          "Osram"
         ]
       },
       {
@@ -10951,46 +12163,242 @@
   "topCompanies": [
     [
       "Various Manufacturers",
-      493
+      166
     ],
     [
       "Industrial Manufacturer",
-      135
+      66
     ],
     [
-      "Semiconductor Manufacturer",
-      32
-    ],
-    [
-      "Materials Producer",
-      12
-    ],
-    [
-      "Foxconn",
-      12
-    ],
-    [
-      "Glencore",
-      10
-    ],
-    [
-      "Industrial Equipment Manufacturer",
-      10
-    ],
-    [
-      "Various Mining Companies",
-      10
-    ],
-    [
-      "Metallurgical Equipment Supplier",
-      9
+      "BASF",
+      27
     ],
     [
       "Air Products",
-      9
+      25
+    ],
+    [
+      "Linde",
+      23
+    ],
+    [
+      "Microsoft",
+      22
+    ],
+    [
+      "Air Liquide",
+      20
+    ],
+    [
+      "Olin",
+      19
+    ],
+    [
+      "Applied Materials",
+      19
+    ],
+    [
+      "Glencore",
+      19
+    ],
+    [
+      "Dow",
+      18
+    ],
+    [
+      "Semiconductor Manufacturer",
+      18
+    ],
+    [
+      "Alfa Laval",
+      17
+    ],
+    [
+      "GEA",
+      17
+    ],
+    [
+      "Shell",
+      16
+    ],
+    [
+      "ArcelorMittal",
+      16
+    ],
+    [
+      "Nippon Steel",
+      16
+    ],
+    [
+      "Siemens",
+      16
+    ],
+    [
+      "3M",
+      15
+    ],
+    [
+      "SPX Flow",
+      15
+    ],
+    [
+      "ExxonMobil",
+      14
+    ],
+    [
+      "POSCO",
+      14
+    ],
+    [
+      "Rio Tinto",
+      13
+    ],
+    [
+      "Foxconn",
+      13
+    ],
+    [
+      "Ipsen",
+      13
+    ],
+    [
+      "Henkel",
+      12
+    ],
+    [
+      "Alcoa",
+      12
+    ],
+    [
+      "Surface Combustion",
+      12
+    ],
+    [
+      "Lindberg",
+      12
+    ],
+    [
+      "MPH",
+      12
+    ],
+    [
+      "Tokyo Electron",
+      12
+    ],
+    [
+      "Komatsu",
+      12
+    ],
+    [
+      "Keysight",
+      12
+    ],
+    [
+      "Oracle",
+      12
+    ],
+    [
+      "Huntsman",
+      12
+    ],
+    [
+      "Clariant",
+      11
+    ],
+    [
+      "Prysmian",
+      11
     ],
     [
       "Caterpillar",
+      11
+    ],
+    [
+      "Formosa Plastics",
+      11
+    ],
+    [
+      "ABB",
+      11
+    ],
+    [
+      "TE Connectivity",
+      11
+    ],
+    [
+      "Corning",
+      11
+    ],
+    [
+      "DuPont",
+      11
+    ],
+    [
+      "Mill-Max",
+      10
+    ],
+    [
+      "Harwin",
+      10
+    ],
+    [
+      "Samtec",
+      10
+    ],
+    [
+      "Johnson Matthey",
+      10
+    ],
+    [
+      "Nichia",
+      10
+    ],
+    [
+      "Lumileds",
+      10
+    ],
+    [
+      "Osram",
+      10
+    ],
+    [
+      "Hexion",
+      10
+    ],
+    [
+      "Honeywell",
+      10
+    ],
+    [
+      "SAP",
+      10
+    ],
+    [
+      "Shin-Etsu",
+      10
+    ],
+    [
+      "Coursera",
+      9
+    ],
+    [
+      "Southwire",
+      9
+    ],
+    [
+      "MacDermid",
+      9
+    ],
+    [
+      "JetBrains",
+      9
+    ],
+    [
+      "ASML",
+      9
+    ],
+    [
+      "Various Mining Companies",
       9
     ],
     [
@@ -10998,23 +12406,107 @@
       8
     ],
     [
-      "Komatsu",
+      "Udemy",
       8
     ],
     [
-      "Chemical Processing Company",
+      "LinkedIn Learning",
       8
     ],
     [
-      "Applied Materials",
+      "Ibiden",
       8
+    ],
+    [
+      "Teradyne",
+      8
+    ],
+    [
+      "General Cable",
+      8
+    ],
+    [
+      "PPG Industries",
+      8
+    ],
+    [
+      "Sherwin-Williams",
+      8
+    ],
+    [
+      "AkzoNobel",
+      8
+    ],
+    [
+      "Mazak",
+      8
+    ],
+    [
+      "Freeport-McMoRan",
+      8
+    ],
+    [
+      "Sandvik",
+      8
+    ],
+    [
+      "Bosch",
+      8
+    ],
+    [
+      "Edwards",
+      8
+    ],
+    [
+      "Pfeiffer",
+      8
+    ],
+    [
+      "Leybold",
+      8
+    ],
+    [
+      "Samsung",
+      7
+    ],
+    [
+      "SABIC",
+      7
+    ],
+    [
+      "Solvay",
+      7
+    ],
+    [
+      "H.B. Fuller",
+      7
     ],
     [
       "Anthropic",
       7
     ],
     [
-      "Linde",
+      "Norsk Hydro",
+      7
+    ],
+    [
+      "Amphenol",
+      7
+    ],
+    [
+      "Molex",
+      7
+    ],
+    [
+      "Westlake Chemical",
+      7
+    ],
+    [
+      "Cisco",
+      7
+    ],
+    [
+      "Eclipse",
       7
     ],
     [
@@ -11022,332 +12514,52 @@
       7
     ],
     [
-      "Various",
-      7
-    ],
-    [
-      "Shell",
-      7
-    ],
-    [
-      "Rio Tinto",
-      6
-    ],
-    [
-      "Multiple Vendors",
-      6
-    ],
-    [
-      "Cisco",
-      6
-    ],
-    [
-      "Software Company",
-      6
-    ],
-    [
-      "Broadcom",
-      6
-    ],
-    [
-      "Samsung",
-      6
-    ],
-    [
-      "3M",
-      5
-    ],
-    [
-      "Alcoa",
-      5
-    ],
-    [
-      "BASF",
-      5
-    ],
-    [
-      "Air Liquide",
-      5
-    ],
-    [
-      "Metso",
-      5
-    ],
-    [
-      "Olin",
-      5
-    ],
-    [
-      "ExxonMobil",
-      5
-    ],
-    [
-      "Samsung Electronics",
-      5
-    ],
-    [
-      "Corning",
-      5
-    ],
-    [
-      "Various Employers",
-      5
-    ],
-    [
       "Intel",
-      5
+      7
     ],
     [
-      "Nitto Denko",
-      4
+      "BHP",
+      7
     ],
     [
-      "Orica",
-      4
+      "Atotech",
+      7
     ],
     [
-      "Amphenol",
-      4
-    ],
-    [
-      "Molex",
-      4
-    ],
-    [
-      "Microsoft",
-      4
-    ],
-    [
-      "Juniper",
-      4
-    ],
-    [
-      "Infrastructure Provider",
-      4
-    ],
-    [
-      "International Paper",
-      4
-    ],
-    [
-      "Mining Companies",
-      4
-    ],
-    [
-      "Dow",
-      4
-    ],
-    [
-      "NVIDIA",
-      4
-    ],
-    [
-      "GitHub",
-      4
-    ],
-    [
-      "Sandvik",
-      4
-    ],
-    [
-      "W3C",
-      4
-    ],
-    [
-      "SK Hynix",
-      4
-    ],
-    [
-      "Henkel",
-      4
-    ],
-    [
-      "Foxconn Technology",
-      4
-    ],
-    [
-      "Keysight Technologies",
-      4
-    ],
-    [
-      "Mosaic",
-      4
-    ],
-    [
-      "Yara",
-      3
-    ],
-    [
-      "CF Industries",
-      3
-    ],
-    [
-      "Nutrien",
-      3
-    ],
-    [
-      "Dyno Nobel",
-      3
-    ],
-    [
-      "Amazon Web Services",
-      3
-    ],
-    [
-      "CATL",
-      3
-    ],
-    [
-      "Synaptics",
-      3
-    ],
-    [
-      "Nidec Corporation",
-      3
-    ],
-    [
-      "Teradyne",
-      3
-    ],
-    [
-      "Terex",
-      3
-    ],
-    [
-      "Formosa Plastics",
-      3
-    ],
-    [
-      "Synopsys",
-      3
-    ],
-    [
-      "Cadence",
-      3
-    ],
-    [
-      "TSMC",
-      3
-    ],
-    [
-      "Peabody",
-      3
-    ],
-    [
-      "China Molybdenum",
-      3
-    ],
-    [
-      "National Instruments",
-      3
-    ],
-    [
-      "JAE Electronics",
-      3
-    ],
-    [
-      "Nidec",
-      3
-    ],
-    [
-      "Schneider Electric",
-      3
-    ],
-    [
-      "Freeport-McMoRan",
-      3
-    ],
-    [
-      "Sumitomo Electric",
-      3
-    ],
-    [
-      "Tokyo Electron",
-      3
-    ],
-    [
-      "BPM Microsystems",
-      3
-    ],
-    [
-      "LG Display",
-      3
-    ],
-    [
-      "Hitachi",
-      3
-    ],
-    [
-      "Solvay",
-      3
-    ],
-    [
-      "Nyrstar",
-      3
-    ],
-    [
-      "Siemens",
-      3
-    ],
-    [
-      "Newmont",
-      3
-    ],
-    [
-      "Cognex Corporation",
-      3
-    ],
-    [
-      "Vale",
-      3
-    ],
-    [
-      "DuPont",
-      3
-    ],
-    [
-      "Jabil",
-      3
-    ],
-    [
-      "Murata Manufacturing",
-      3
+      "Schuler",
+      7
     ],
     [
       "TTM Technologies",
-      3
+      7
     ],
     [
-      "Arista Networks",
-      3
+      "Sumco",
+      7
     ],
     [
-      "Cisco Systems",
-      3
+      "International Paper",
+      6
     ],
     [
-      "Shin-Etsu",
-      3
+      "Donaldson",
+      6
     ],
     [
-      "GoerTek",
-      3
+      "DMG Mori",
+      6
     ],
     [
-      "Avery Dennison",
-      3
+      "Schott",
+      6
     ],
     [
-      "STMicroelectronics",
-      2
+      "AGC",
+      6
     ],
     [
-      "Various Mining Operations",
-      2
-    ],
-    [
-      "Nexans",
-      2
+      "Seiko Epson",
+      6
     ]
   ]
 }

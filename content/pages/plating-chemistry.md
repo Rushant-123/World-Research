@@ -12,6 +12,16 @@ inputs:
     link: "mining-operations"
 value_created: 13.000
 distance: 6
+lead_time_days: 44
+minimum_order_quantity: 1000
+transportation_method: "ocean"
+geopolitical_risk: "medium"
+price_volatility: "medium"
+
+certifications:
+  - "ISO9001"
+  - "ISO14001"
+data_quality: "estimated"
 ---
 
 1. Plating Chemistry product specification

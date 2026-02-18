@@ -20,6 +20,16 @@ inputs:
     cost: 0.60
     link: "chemical-workers"
 value_created: 1.20
+lead_time_days: 33
+minimum_order_quantity: 5000
+transportation_method: "truck"
+geopolitical_risk: "medium"
+price_volatility: "medium"
+
+certifications:
+  - "ISO9001"
+  - "ISO14001"
+data_quality: "estimated"
 ---
 
 1. Receive styrene monomer delivery in ISO tank containers at 99.7% purity minimum specification

@@ -20,6 +20,16 @@ inputs:
     cost: 0.35
     link: "acrylic-adhesive"
 value_created: 1.15
+lead_time_days: 33
+minimum_order_quantity: 5000
+transportation_method: "truck"
+geopolitical_risk: "medium"
+price_volatility: "medium"
+
+certifications:
+  - "ISO9001"
+  - "ISO14001"
+data_quality: "estimated"
 ---
 
 1. Receive PVC resin shipment in 25kg bags from vinyl chloride polymerization facility

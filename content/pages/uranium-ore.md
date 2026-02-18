@@ -12,6 +12,16 @@ inputs:
     link: "submersible-pump"
 value_created: 0.055
 distance: 5
+lead_time_days: 21
+minimum_order_quantity: 10000
+transportation_method: "ocean"
+geopolitical_risk: "medium"
+price_volatility: "high"
+
+certifications:
+  - "ISO9001"
+  - "ISO14001"
+data_quality: "estimated"
 ---
 
 1. Roll-front uranium deposits in sandstone aquifers

@@ -20,6 +20,16 @@ inputs:
     cost: 8000.00
     link: "software-engineers"
 value_created: 10000.00
+lead_time_days: 38
+minimum_order_quantity: 1
+transportation_method: "air"
+geopolitical_risk: "medium"
+price_volatility: "medium"
+
+certifications:
+  - "ISO9001"
+  - "ISO14001"
+data_quality: "estimated"
 ---
 
 1. Receive machine vision camera system with 5-megapixel resolution sensor and GigE Vision interface for high-speed image acquisition and processing.

@@ -23,6 +23,16 @@ inputs:
     cost: 0.1
     link: "wire-extrusion-line"
 value_created: 2.15
+lead_time_days: 60
+minimum_order_quantity: 5000
+transportation_method: "ocean"
+geopolitical_risk: "low"
+price_volatility: "high"
+
+certifications:
+  - "ISO9001"
+  - "ISO14001"
+data_quality: "estimated"
 ---
 
 Enameled copper motor wire, also known as magnet wire or winding wire, is a specialized conductor used in electric motor coils, transformers, inductors, and electromagnetic devices. The wire consists of high-purity copper drawn to precise diameters and coated with thin, electrically insulating enamel layers. This manufacturing process produces wire ranging from AWG 10 (2.588mm) to AWG 44 (0.051mm) with thermal ratings from 155°C to 240°C.

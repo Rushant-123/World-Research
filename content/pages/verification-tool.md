@@ -23,6 +23,16 @@ inputs:
     cost: 0.5
     link: "software-developers"
 value_created: 5.2
+lead_time_days: 63
+minimum_order_quantity: 1000
+transportation_method: "truck"
+geopolitical_risk: "medium"
+price_volatility: "low"
+
+certifications:
+  - "ISO9001"
+  - "ISO14001"
+data_quality: "estimated"
 ---
 
 # Hardware Verification Tool Manufacturing Process

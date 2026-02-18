@@ -14,6 +14,16 @@ inputs:
     cost: 2
     link: "tungsten-metal"
 value_created: 0
+lead_time_days: 21
+minimum_order_quantity: 1000
+transportation_method: "ocean"
+geopolitical_risk: "medium"
+price_volatility: "high"
+
+certifications:
+  - "ISO9001"
+  - "ISO14001"
+data_quality: "estimated"
 ---
 
 # How to Make Metal Interconnect Layers

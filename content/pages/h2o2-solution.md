@@ -32,6 +32,16 @@ inputs:
     cost: 0.05
     link: "ultra-pure-water"
 value_created: 0.09
+lead_time_days: 44
+minimum_order_quantity: 5000
+transportation_method: "ocean"
+geopolitical_risk: "low"
+price_volatility: "medium"
+
+certifications:
+  - "ISO9001"
+  - "ISO14001"
+data_quality: "estimated"
 ---
 
 # How to Make Hydrogen Peroxide (H₂O₂)

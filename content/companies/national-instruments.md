@@ -17,6 +17,15 @@ products:
 financials:
   profit_margin: 17.0
   operating_margin: 22.1
+employees: 75000
+rd_spending_pct: 5
+public_private: "public"
+founded_year: 2004
+
+factory_locations:
+  - "China"
+  - "USA"
+data_quality: "estimated"
 ---
 
 # National Instruments

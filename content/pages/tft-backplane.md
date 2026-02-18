@@ -20,6 +20,16 @@ inputs:
     cost: 4.0
     link: "passivation"
 value_created: 5.0
+lead_time_days: 60
+minimum_order_quantity: 1000
+transportation_method: "ocean"
+geopolitical_risk: "low"
+price_volatility: "medium"
+
+certifications:
+  - "ISO9001"
+  - "ISO14001"
+data_quality: "estimated"
 ---
 
 # TFT Backplane Fabrication for Mac LCD Displays

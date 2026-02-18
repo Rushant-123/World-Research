@@ -23,6 +23,16 @@ inputs:
     cost: 0.1
     link: "board-tester"
 value_created: 0.6
+lead_time_days: 60
+minimum_order_quantity: 5000
+transportation_method: "ocean"
+geopolitical_risk: "low"
+price_volatility: "medium"
+
+certifications:
+  - "ISO9001"
+  - "ISO14001"
+data_quality: "estimated"
 ---
 
 A keyboard flex cable is a flexible printed circuit (FPC) that connects the keyboard matrix to the main logic board in laptops and portable electronics. These ultra-thin, flexible circuits must withstand thousands of opening and closing cycles while maintaining reliable electrical connections for all keyboard signals. The flex cable routes row and column traces from the keyboard matrix, includes ESD protection components, and terminates in a zero-insertion-force (ZIF) connector. Manufacturing requires precise control of trace geometry, bend radius specifications, and material layer thickness to ensure durability and signal integrity across the product lifetime.

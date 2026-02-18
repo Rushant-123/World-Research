@@ -17,6 +17,16 @@ inputs:
     cost: 0.8
     link: "power-mosfets"
 value_created: 1.3
+lead_time_days: 44
+minimum_order_quantity: 5000
+transportation_method: "ocean"
+geopolitical_risk: "medium"
+price_volatility: "medium"
+
+certifications:
+  - "ISO9001"
+  - "ISO14001"
+data_quality: "estimated"
 ---
 
 # Power Management IC Manufacturing Process

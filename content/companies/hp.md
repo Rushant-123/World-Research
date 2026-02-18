@@ -3,6 +3,15 @@ title: "HP"
 type: "companies"
 industry: "Manufacturing"
 country: "Global"
+employees: 50
+rd_spending_pct: 5
+public_private: "private"
+founded_year: 1996
+
+factory_locations:
+  - "China"
+  - "USA"
+data_quality: "estimated"
 ---
 
 # HP

@@ -20,6 +20,16 @@ inputs:
     cost: 250.00
     link: "smt-equipment"
 value_created: 3600.00
+lead_time_days: 33
+minimum_order_quantity: 10
+transportation_method: "truck"
+geopolitical_risk: "medium"
+price_volatility: "medium"
+
+certifications:
+  - "ISO9001"
+  - "ISO14001"
+data_quality: "estimated"
 ---
 
 1. Receive multilayer PCB with 12-16 layers designed for high-speed differential signaling at impedances of 85-100 ohms for Ethernet pairs.

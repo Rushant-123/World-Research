@@ -23,6 +23,16 @@ inputs:
     cost: 0.4
     link: "worker-training"
 value_created: 2.0
+lead_time_days: 37
+minimum_order_quantity: 5000
+transportation_method: "ocean"
+geopolitical_risk: "low"
+price_volatility: "low"
+
+certifications:
+  - "ISO9001"
+  - "ISO14001"
+data_quality: "estimated"
 ---
 
 ## Workforce Planning and Analysis

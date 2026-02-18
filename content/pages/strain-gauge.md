@@ -23,6 +23,16 @@ inputs:
     cost: 0.1
     link: "measurement-tools"
 value_created: 0.6
+lead_time_days: 33
+minimum_order_quantity: 5000
+transportation_method: "truck"
+geopolitical_risk: "medium"
+price_volatility: "medium"
+
+certifications:
+  - "ISO9001"
+  - "ISO14001"
+data_quality: "estimated"
 ---
 
 Strain gauge sensors are precision resistive devices that measure mechanical strain through changes in electrical resistance. When bonded to a structure, the gauge's resistance changes proportionally to the applied strain, enabling force, pressure, torque, and displacement measurements. Modern foil strain gauges achieve gauge factors of 2.0-2.1, meaning a 0.1% strain produces a 0.2% resistance change. These sensors are critical components in force-sensing trackpads, load cells, pressure transducers, and structural health monitoring systems.

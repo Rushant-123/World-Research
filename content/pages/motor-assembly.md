@@ -23,6 +23,16 @@ inputs:
     cost: 0.3
     link: "precision-assembly-labor"
 value_created: 1.2
+lead_time_days: 60
+minimum_order_quantity: 5000
+transportation_method: "ocean"
+geopolitical_risk: "low"
+price_volatility: "medium"
+
+certifications:
+  - "ISO9001"
+  - "ISO14001"
+data_quality: "estimated"
 ---
 
 Motor assembly combines precision electromechanical components into a complete electric motor unit. This process integrates the electromagnetic stator, permanent magnet rotor, precision bearings, structural housing, and electronic control systems into a balanced, efficient rotating machine. Manufacturing requires exact tolerances for mechanical alignment, careful handling of magnetized components, precise torque application, and comprehensive electrical and dynamic testing to ensure performance specifications are met.

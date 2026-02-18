@@ -23,6 +23,16 @@ inputs:
     cost: 0.1
     link: "plastic-packaging"
 value_created: 2.95
+lead_time_days: 33
+minimum_order_quantity: 5000
+transportation_method: "truck"
+geopolitical_risk: "medium"
+price_volatility: "medium"
+
+certifications:
+  - "ISO9001"
+  - "ISO14001"
+data_quality: "estimated"
 ---
 
 Manufacturing amine curing agents for epoxy resin systems through multi-stage chemical synthesis and formulation.

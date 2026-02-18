@@ -17,6 +17,16 @@ inputs:
     cost: 0.10
     link: "bond-wire"
 value_created: 3.00
+lead_time_days: 33
+minimum_order_quantity: 5000
+transportation_method: "truck"
+geopolitical_risk: "medium"
+price_volatility: "medium"
+
+certifications:
+  - "ISO9001"
+  - "ISO14001"
+data_quality: "estimated"
 ---
 
 1. Receive 200mm silicon wafers with <100> crystal orientation and 10-20 ohm-cm resistivity for SiGe BiCMOS RF tuner fabrication.

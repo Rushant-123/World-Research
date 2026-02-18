@@ -17,6 +17,16 @@ inputs:
     cost: 8000000.0
     link: "site-work"
 value_created: 2000000.0
+lead_time_days: 13
+minimum_order_quantity: 1
+transportation_method: "air"
+geopolitical_risk: "low"
+price_volatility: "high"
+
+certifications:
+  - "ISO9001"
+  - "ISO14001"
+data_quality: "estimated"
 ---
 
 # Manufacturing Process: Natural Gas Pipeline

@@ -23,6 +23,16 @@ inputs:
     cost: 0.1
     link: "measurement-tools"
 value_created: 0.9
+lead_time_days: 33
+minimum_order_quantity: 5000
+transportation_method: "truck"
+geopolitical_risk: "medium"
+price_volatility: "medium"
+
+certifications:
+  - "ISO9001"
+  - "ISO14001"
+data_quality: "estimated"
 ---
 
 Carbon black is a fine particulate form of elemental carbon produced by incomplete combustion or thermal decomposition of hydrocarbon feedstocks. With particle sizes ranging from 10 to 500 nanometers and surface areas from 20 to 1500 m²/g, carbon black serves as a critical material in rubber reinforcement, pigmentation, UV stabilization, and conductive applications. The manufacturing process involves carefully controlled pyrolysis in specialized reactors, followed by collection, pelletizing, and extensive quality testing to ensure consistent particle size, surface area, structure, and performance characteristics.

@@ -17,6 +17,16 @@ inputs:
     cost: 0.96
     link: "coal"
 value_created: 3.6
+lead_time_days: 44
+minimum_order_quantity: 1000
+transportation_method: "ocean"
+geopolitical_risk: "medium"
+price_volatility: "medium"
+
+certifications:
+  - "ISO9001"
+  - "ISO14001"
+data_quality: "estimated"
 ---
 
 1. Mine metal ore from geological deposits containing economically extractable concentrations of Brass Billet base metal

@@ -23,6 +23,16 @@ inputs:
     cost: 0.03
     link: "signal-integrity-tester"
 value_created: 0.24
+lead_time_days: 60
+minimum_order_quantity: 10000
+transportation_method: "ocean"
+geopolitical_risk: "low"
+price_volatility: "medium"
+
+certifications:
+  - "ISO9001"
+  - "ISO14001"
+data_quality: "estimated"
 ---
 
 M.2 connectors are high-speed edge card connectors used in laptops, desktops, and servers to interface NVMe SSDs and other expansion devices. These connectors support PCIe Gen3/Gen4/Gen5 protocols with data rates up to 128 GT/s, requiring precise manufacturing tolerances and impedance control.

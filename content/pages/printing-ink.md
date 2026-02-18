@@ -20,6 +20,16 @@ inputs:
     cost: 0.80
     link: "chemical-tanks"
 value_created: 4.20
+lead_time_days: 33
+minimum_order_quantity: 1000
+transportation_method: "truck"
+geopolitical_risk: "medium"
+price_volatility: "medium"
+
+certifications:
+  - "ISO9001"
+  - "ISO14001"
+data_quality: "estimated"
 ---
 
 1. Receive raw organic feedstock materials including petroleum-derived resins and natural oils

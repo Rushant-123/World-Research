@@ -20,6 +20,16 @@ inputs:
     cost: 400.00
     link: "smt-equipment"
 value_created: 6200.00
+lead_time_days: 33
+minimum_order_quantity: 10
+transportation_method: "truck"
+geopolitical_risk: "medium"
+price_volatility: "medium"
+
+certifications:
+  - "ISO9001"
+  - "ISO14001"
+data_quality: "estimated"
 ---
 
 1. Receive multilayer PCB with 16 copper layers designed for high-speed signal routing with controlled impedance of 50 ohms.

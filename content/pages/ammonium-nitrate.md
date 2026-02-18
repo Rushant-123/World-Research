@@ -17,6 +17,16 @@ inputs:
     cost: 100.0
     link: "diesel-fuel"
 value_created: 50.0
+lead_time_days: 33
+minimum_order_quantity: 100
+transportation_method: "truck"
+geopolitical_risk: "low"
+price_volatility: "medium"
+
+certifications:
+  - "ISO9001"
+  - "ISO14001"
+data_quality: "estimated"
 ---
 
 # Ammonium Nitrate Explosive Production

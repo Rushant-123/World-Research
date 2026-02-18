@@ -20,6 +20,16 @@ inputs:
     cost: 2.0
     link: "overcoat-layer"
 value_created: 2.0
+lead_time_days: 60
+minimum_order_quantity: 1000
+transportation_method: "ocean"
+geopolitical_risk: "low"
+price_volatility: "medium"
+
+certifications:
+  - "ISO9001"
+  - "ISO14001"
+data_quality: "estimated"
 ---
 
 # RGB Color Filter Array Manufacturing Process

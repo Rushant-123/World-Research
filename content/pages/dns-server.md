@@ -29,6 +29,16 @@ inputs:
     cost: 800
     link: "bgp-anycast"
 value_created: 0
+lead_time_days: 33
+minimum_order_quantity: 10
+transportation_method: "truck"
+geopolitical_risk: "medium"
+price_volatility: "medium"
+
+certifications:
+  - "ISO9001"
+  - "ISO14001"
+data_quality: "estimated"
 ---
 
 # How to Make a DNS Server

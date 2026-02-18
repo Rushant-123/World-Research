@@ -26,6 +26,16 @@ inputs:
     cost: 5.0
     link: "assembly-labor"
 value_created: 10.0
+lead_time_days: 33
+minimum_order_quantity: 1000
+transportation_method: "truck"
+geopolitical_risk: "low"
+price_volatility: "medium"
+
+certifications:
+  - "ISO9001"
+  - "ISO14001"
+data_quality: "estimated"
 ---
 
 1. Receive FR-4 multilayer PCB substrate with 8-layer stackup and immersion gold surface finish from board fabricator, inspect for dimensional accuracy within 0.1mm tolerance.

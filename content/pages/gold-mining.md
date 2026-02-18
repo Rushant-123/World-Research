@@ -12,6 +12,16 @@ inputs:
     link: "ore-processing"
 value_created: 0.380
 distance: 5
+lead_time_days: 33
+minimum_order_quantity: 10000
+transportation_method: "truck"
+geopolitical_risk: "low"
+price_volatility: "high"
+
+certifications:
+  - "ISO9001"
+  - "ISO14001"
+data_quality: "estimated"
 ---
 
 1. Gold ore grades: 0.5-5 grams per ton

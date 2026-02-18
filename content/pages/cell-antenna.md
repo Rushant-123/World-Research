@@ -17,6 +17,16 @@ inputs:
     cost: 400.00
     link: "manufacturing-labor"
 value_created: 2150.00
+lead_time_days: 33
+minimum_order_quantity: 10
+transportation_method: "truck"
+geopolitical_risk: "medium"
+price_volatility: "medium"
+
+certifications:
+  - "ISO9001"
+  - "ISO14001"
+data_quality: "estimated"
 ---
 
 1. Review cellular frequency specifications for target bands (700 MHz, 850 MHz, 1900 MHz, 2100 MHz, 2600 MHz).

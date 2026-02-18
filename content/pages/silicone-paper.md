@@ -23,6 +23,16 @@ inputs:
     cost: 0.05
     link: "measurement-tools"
 value_created: 0.72
+lead_time_days: 44
+minimum_order_quantity: 5000
+transportation_method: "ocean"
+geopolitical_risk: "medium"
+price_volatility: "medium"
+
+certifications:
+  - "ISO9001"
+  - "ISO14001"
+data_quality: "estimated"
 ---
 
 Silicone-coated paper (also called release paper or release liner) is a specialty substrate with a controlled silicone release coating applied to one or both sides. This product serves as a protective backing for pressure-sensitive adhesives in labels, tapes, medical products, and graphics applications, as well as a non-stick surface for baking and industrial processes. The silicone coating provides precise release characteristics while the paper base offers dimensional stability, printability, and cost-effectiveness compared to film alternatives.

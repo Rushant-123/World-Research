@@ -15,6 +15,15 @@ products:
 financials:
   profit_margin: 11.5
   operating_margin: 15.0
+employees: 35000
+rd_spending_pct: 5
+public_private: "public"
+founded_year: 1988
+
+factory_locations:
+  - "China"
+  - "USA"
+data_quality: "estimated"
 ---
 
 # Smurfit Kappa

@@ -20,6 +20,16 @@ inputs:
     cost: 1500.00
     link: "security-software"
 value_created: 11000.00
+lead_time_days: 12
+minimum_order_quantity: 1
+transportation_method: "air"
+geopolitical_risk: "medium"
+price_volatility: "low"
+
+certifications:
+  - "ISO9001"
+  - "ISO14001"
+data_quality: "estimated"
 ---
 
 1. Conduct market research to identify load balancing requirements across enterprise, cloud, and edge deployments.

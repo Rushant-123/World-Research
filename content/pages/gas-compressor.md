@@ -20,6 +20,16 @@ inputs:
     cost: 1200000.0
     link: "assembly-labor"
 value_created: 300000.0
+lead_time_days: 13
+minimum_order_quantity: 1
+transportation_method: "air"
+geopolitical_risk: "low"
+price_volatility: "high"
+
+certifications:
+  - "ISO9001"
+  - "ISO14001"
+data_quality: "estimated"
 ---
 
 # Natural Gas Compressor Station Manufacturing Process

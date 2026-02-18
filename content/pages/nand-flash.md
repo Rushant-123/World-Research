@@ -17,6 +17,16 @@ inputs:
     cost: 0.50
     link: "bond-wire"
 value_created: 15.50
+lead_time_days: 60
+minimum_order_quantity: 1000
+transportation_method: "ocean"
+geopolitical_risk: "low"
+price_volatility: "medium"
+
+certifications:
+  - "ISO9001"
+  - "ISO14001"
+data_quality: "estimated"
 ---
 
 1. Receive 300mm silicon wafers from wafer fabrication facility with mirror-polished surface finish and crystallographic orientation of <100>.

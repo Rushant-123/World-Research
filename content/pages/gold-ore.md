@@ -17,6 +17,16 @@ inputs:
     cost: 6
     link: "diesel"
 value_created: 15.5
+lead_time_days: 10
+minimum_order_quantity: 1000
+transportation_method: "truck"
+geopolitical_risk: "low"
+price_volatility: "high"
+
+certifications:
+  - "ISO9001"
+  - "ISO14001"
+data_quality: "estimated"
 ---
 
 1. Conduct geological exploration identifying gold-bearing ore bodies using drilling and assays

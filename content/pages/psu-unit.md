@@ -17,6 +17,16 @@ inputs:
     cost: 4.00
     link: "mlcc-capacitors"
 value_created: 50.00
+lead_time_days: 60
+minimum_order_quantity: 1000
+transportation_method: "ocean"
+geopolitical_risk: "low"
+price_volatility: "medium"
+
+certifications:
+  - "ISO9001"
+  - "ISO14001"
+data_quality: "estimated"
 ---
 
 1. Receive multilayer PCB with 4-layer stackup from board fabrication facility

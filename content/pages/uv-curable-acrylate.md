@@ -20,6 +20,16 @@ inputs:
     cost: 2.00
     link: "planetary-mixer"
 value_created: 20.00
+lead_time_days: 44
+minimum_order_quantity: 1000
+transportation_method: "ocean"
+geopolitical_risk: "medium"
+price_volatility: "medium"
+
+certifications:
+  - "ISO9001"
+  - "ISO14001"
+data_quality: "estimated"
 ---
 
 1. Receive organic feedstock delivery containing acrylic acid, methacrylic acid, and hydroxyl-terminated polyester polyols in 200-liter drums

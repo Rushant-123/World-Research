@@ -23,6 +23,16 @@ inputs:
     cost: 0.03
     link: "measurement-tools"
 value_created: 0.59
+lead_time_days: 33
+minimum_order_quantity: 5000
+transportation_method: "truck"
+geopolitical_risk: "medium"
+price_volatility: "medium"
+
+certifications:
+  - "ISO9001"
+  - "ISO14001"
+data_quality: "estimated"
 ---
 
 Corrugating medium is the wavy, fluted paper layer that forms the core structure of corrugated cardboard. This manufacturing process transforms recycled paper fibers into strong, lightweight board suitable for shipping containers and packaging. The production combines pulping, papermaking, and corrugating technologies to create various flute profiles (A, B, C, E) with specific edge crush test (ECT) values and basis weights ranging from 23-42 lbs per 1000 square feet.

@@ -14,6 +14,16 @@ inputs:
     cost: 0.0
     link: "software-engineers"
 value_created: 0.0
+lead_time_days: 33
+minimum_order_quantity: 10000
+transportation_method: "truck"
+geopolitical_risk: "low"
+price_volatility: "medium"
+
+certifications:
+  - "ISO9001"
+  - "ISO14001"
+data_quality: "estimated"
 ---
 
 Online learning resources represent the democratization of education through digital platforms. These platforms combine video tutorials, interactive exercises, and community support to provide accessible education worldwide. The production involves content creation, platform engineering, and continuous improvement based on learner feedback.

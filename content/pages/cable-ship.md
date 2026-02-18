@@ -17,6 +17,16 @@ inputs:
     cost: 2000000.00
     link: "networking-equipment"
 value_created: 113000000.00
+lead_time_days: 43
+minimum_order_quantity: 1
+transportation_method: "air"
+geopolitical_risk: "medium"
+price_volatility: "medium"
+
+certifications:
+  - "ISO9001"
+  - "ISO14001"
+data_quality: "estimated"
 ---
 
 Cable ships are specialized vessels designed to lay, repair, and maintain submarine telecommunications cables across ocean floors. These engineering marvels combine shipbuilding expertise with advanced cable handling systems, dynamic positioning technology, and precision navigation equipment to install critical infrastructure connecting continents.

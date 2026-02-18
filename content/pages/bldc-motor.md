@@ -23,6 +23,16 @@ inputs:
     cost: 0.3
     link: "machinist-labor"
 value_created: 2.15
+lead_time_days: 60
+minimum_order_quantity: 5000
+transportation_method: "ocean"
+geopolitical_risk: "low"
+price_volatility: "medium"
+
+certifications:
+  - "ISO9001"
+  - "ISO14001"
+data_quality: "estimated"
 ---
 
 Brushless DC (BLDC) motors represent a significant advancement over traditional brushed motors, eliminating mechanical commutators and carbon brushes in favor of electronic commutation. These motors offer superior efficiency (85-95%), longer lifespan (10,000-50,000 hours), reduced electromagnetic interference, and precise speed control. BLDC motors are ubiquitous in modern electronics, powering computer fans, hard disk drives, electric vehicles, drones, industrial automation, and HVAC systems. Their construction features permanent magnet rotors (typically neodymium-iron-boron magnets) and copper-wound stators with electronic controllers managing phase switching.

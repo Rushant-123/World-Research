@@ -20,6 +20,16 @@ inputs:
     cost: 0.5
     link: "tool-changer"
 value_created: 0.3
+lead_time_days: 90
+minimum_order_quantity: 5000
+transportation_method: "ocean"
+geopolitical_risk: "low"
+price_volatility: "low"
+
+certifications:
+  - "ISO9001"
+  - "ISO14001"
+data_quality: "estimated"
 ---
 
 # CNC Machining Center Manufacturing Process

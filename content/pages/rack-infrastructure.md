@@ -23,6 +23,16 @@ inputs:
     cost: 250.0
     link: "assembly-labor"
 value_created: 200.0
+lead_time_days: 33
+minimum_order_quantity: 10
+transportation_method: "truck"
+geopolitical_risk: "low"
+price_volatility: "medium"
+
+certifications:
+  - "ISO9001"
+  - "ISO14001"
+data_quality: "estimated"
 ---
 
 # Server Rack Infrastructure Manufacturing Process

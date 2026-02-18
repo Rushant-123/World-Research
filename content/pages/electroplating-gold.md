@@ -23,6 +23,16 @@ inputs:
     cost: 0.12
     link: "industrial-water"
 value_created: 0.65
+lead_time_days: 44
+minimum_order_quantity: 5000
+transportation_method: "ocean"
+geopolitical_risk: "medium"
+price_volatility: "high"
+
+certifications:
+  - "ISO9001"
+  - "ISO14001"
+data_quality: "estimated"
 ---
 
 1. Receive incoming substrates (connectors, PCB pads, wire bonding surfaces) in cleanroom facility

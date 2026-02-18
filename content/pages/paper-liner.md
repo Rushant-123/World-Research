@@ -23,6 +23,16 @@ inputs:
     cost: 0.05
     link: "carbide-cutting-tools"
 value_created: 0.4
+lead_time_days: 33
+minimum_order_quantity: 5000
+transportation_method: "truck"
+geopolitical_risk: "medium"
+price_volatility: "medium"
+
+certifications:
+  - "ISO9001"
+  - "ISO14001"
+data_quality: "estimated"
 ---
 
 Silicone release liner is a specialized paper substrate coated with a thin layer of silicone that provides controlled release properties for pressure-sensitive adhesives. These liners serve as temporary carriers and protectors for adhesive tapes, labels, medical patches, and graphic films. The manufacturing process combines precision paper handling, chemical coating technology, and controlled curing to produce liners with specific release characteristics measured in grams per inch or Newtons per meter.

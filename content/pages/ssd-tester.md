@@ -23,6 +23,16 @@ inputs:
     cost: 5.0
     link: "steel-fabrication"
 value_created: 25.0
+lead_time_days: 60
+minimum_order_quantity: 1000
+transportation_method: "ocean"
+geopolitical_risk: "low"
+price_volatility: "medium"
+
+certifications:
+  - "ISO9001"
+  - "ISO14001"
+data_quality: "estimated"
 ---
 
 **SSD test systems** are automated equipment platforms that perform comprehensive qualification testing of solid-state drives, validating performance, endurance, reliability, and compliance with industry standards before drives reach production deployment or customer shipment.

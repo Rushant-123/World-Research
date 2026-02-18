@@ -65,6 +65,16 @@ inputs:
     cost: 0.5
     link: "chemical-workers"
 value_created: -8.4
+lead_time_days: 33
+minimum_order_quantity: 1000
+transportation_method: "truck"
+geopolitical_risk: "low"
+price_volatility: "medium"
+
+certifications:
+  - "ISO9001"
+  - "ISO14001"
+data_quality: "estimated"
 ---
 
 # How to Make Purified Silicon

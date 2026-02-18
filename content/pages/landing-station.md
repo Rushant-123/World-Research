@@ -20,6 +20,16 @@ inputs:
     cost: 500000.00
     link: "network-engineers"
 value_created: 3350000.00
+lead_time_days: 57
+minimum_order_quantity: 1
+transportation_method: "air"
+geopolitical_risk: "medium"
+price_volatility: "medium"
+
+certifications:
+  - "ISO9001"
+  - "ISO14001"
+data_quality: "estimated"
 ---
 
 A submarine cable landing station is a critical telecommunications facility where undersea fiber optic cables come ashore and connect to terrestrial networks. These facilities house Submarine Line Terminal Equipment (SLTE), power feeding equipment, network management systems, and interconnection infrastructure. Landing stations provide the essential interface between international submarine cable systems and domestic telecommunications infrastructure, serving as hubs for intercontinental data transmission.

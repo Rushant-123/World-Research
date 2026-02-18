@@ -14,6 +14,16 @@ inputs:
     cost: 0.0
     link: "open-source"
 value_created: 0.0
+lead_time_days: 33
+minimum_order_quantity: 10000
+transportation_method: "truck"
+geopolitical_risk: "low"
+price_volatility: "medium"
+
+certifications:
+  - "ISO9001"
+  - "ISO14001"
+data_quality: "estimated"
 ---
 
 1. Software engineers design the overall browser architecture, defining core components including rendering engine, JavaScript engine, networking stack, and user interface layers.

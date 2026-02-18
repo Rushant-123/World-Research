@@ -26,6 +26,16 @@ inputs:
     cost: 1
     link: "electricity"
 value_created: 0
+lead_time_days: 33
+minimum_order_quantity: 1000
+transportation_method: "truck"
+geopolitical_risk: "low"
+price_volatility: "medium"
+
+certifications:
+  - "ISO9001"
+  - "ISO14001"
+data_quality: "estimated"
 ---
 
 # How to Make Rare Earth Elements

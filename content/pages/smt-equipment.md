@@ -23,6 +23,16 @@ inputs:
     cost: 15.0
     link: "steel-fabrication"
 value_created: 95.0
+lead_time_days: 74
+minimum_order_quantity: 100
+transportation_method: "ocean"
+geopolitical_risk: "low"
+price_volatility: "low"
+
+certifications:
+  - "ISO9001"
+  - "ISO14001"
+data_quality: "estimated"
 ---
 
 1. Design gantry system architecture with dual-beam configuration for independent X-Y motion control and maximum placement flexibility across 510mm × 460mm working area

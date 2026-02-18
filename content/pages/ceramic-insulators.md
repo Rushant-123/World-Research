@@ -20,6 +20,16 @@ inputs:
     cost: 180.0
     link: "sintering-furnace"
 value_created: 70.0
+lead_time_days: 33
+minimum_order_quantity: 100
+transportation_method: "truck"
+geopolitical_risk: "low"
+price_volatility: "medium"
+
+certifications:
+  - "ISO9001"
+  - "ISO14001"
+data_quality: "estimated"
 ---
 
 # Manufacturing Process: High Voltage Ceramic Insulators

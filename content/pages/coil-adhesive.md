@@ -23,6 +23,16 @@ inputs:
     cost: 0.24
     link: "water-source"
 value_created: 2.68
+lead_time_days: 21
+minimum_order_quantity: 5000
+transportation_method: "ocean"
+geopolitical_risk: "medium"
+price_volatility: "high"
+
+certifications:
+  - "ISO9001"
+  - "ISO14001"
+data_quality: "estimated"
 ---
 
 1. Design chemical production facility for manufacturing Coil Adhesive with appropriate safety and environmental controls

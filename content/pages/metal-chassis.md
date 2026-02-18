@@ -17,6 +17,16 @@ inputs:
     cost: 25.00
     link: "manufacturing-labor"
 value_created: 60.00
+lead_time_days: 37
+minimum_order_quantity: 100
+transportation_method: "ocean"
+geopolitical_risk: "medium"
+price_volatility: "high"
+
+certifications:
+  - "ISO9001"
+  - "ISO14001"
+data_quality: "estimated"
 ---
 
 1. Receive stainless steel sheets in standard 4x8 foot dimensions with 1.5mm thickness specification from rolling mill supplier.

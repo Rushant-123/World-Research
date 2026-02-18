@@ -23,6 +23,16 @@ inputs:
     cost: 3.0
     link: "machinist-labor"
 value_created: 18.0
+lead_time_days: 63
+minimum_order_quantity: 1000
+transportation_method: "truck"
+geopolitical_risk: "medium"
+price_volatility: "low"
+
+certifications:
+  - "ISO9001"
+  - "ISO14001"
+data_quality: "estimated"
 ---
 
 ## 195 Steps to Manufacture an Air Handling Unit

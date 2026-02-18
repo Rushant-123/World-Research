@@ -26,6 +26,16 @@ inputs:
     cost: 15000.0
     link: "assembly-labor"
 value_created: 5000.0
+lead_time_days: 27
+minimum_order_quantity: 1
+transportation_method: "air"
+geopolitical_risk: "medium"
+price_volatility: "high"
+
+certifications:
+  - "ISO9001"
+  - "ISO14001"
+data_quality: "estimated"
 ---
 
 Gas centrifuges are high-speed rotating devices used in IAEA-safeguarded civilian nuclear fuel production facilities to enrich uranium hexafluoride (UF6) for use as fuel in nuclear power plants. Companies like Urenco (Netherlands/Germany/UK) and Orano (France) operate large cascade facilities under international safeguards agreements. The centrifuges spin at extremely high speeds, using the slight mass difference between uranium isotopes to achieve separation. Manufacturing requires precision engineering with exotic materials including maraging steel and carbon fiber composites, ultra-precise balancing, magnetic bearings, and high-vacuum systems. All production and deployment is subject to Nuclear Non-Proliferation Treaty obligations and IAEA inspection regimes.

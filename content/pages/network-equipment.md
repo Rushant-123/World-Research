@@ -20,6 +20,16 @@ inputs:
     cost: 8000.00
     link: "network-engineers"
 value_created: 21000.00
+lead_time_days: 72
+minimum_order_quantity: 1
+transportation_method: "air"
+geopolitical_risk: "medium"
+price_volatility: "low"
+
+certifications:
+  - "ISO9001"
+  - "ISO14001"
+data_quality: "estimated"
 ---
 
 1. Receive datacenter network design requirements specifying 100Gbps to 400Gbps spine-leaf topology for AI training cluster connectivity with RDMA over Converged Ethernet (RoCE) support.

@@ -23,6 +23,16 @@ inputs:
     cost: 0.3
     link: "measurement-tools"
 value_created: 3.0
+lead_time_days: 44
+minimum_order_quantity: 5000
+transportation_method: "ocean"
+geopolitical_risk: "medium"
+price_volatility: "medium"
+
+certifications:
+  - "ISO9001"
+  - "ISO14001"
+data_quality: "estimated"
 ---
 
 Ultrapure deionized water production for semiconductor and electronics manufacturing, achieving resistivity >18 MΩ·cm.

@@ -1,0 +1,117 @@
+- generic [active] [ref=e1]:
+  - generic [ref=e2]:
+    - generic [ref=e3]:
+      - generic [ref=e4]: "1413"
+      - generic [ref=e5]: Products
+    - generic [ref=e7]:
+      - generic [ref=e8]: "6532"
+      - generic [ref=e9]: Links
+    - generic [ref=e11]:
+      - generic [ref=e12]: "45"
+      - generic [ref=e13]: Countries
+    - generic [ref=e15]:
+      - generic [ref=e16]: $0.0000—$800.0M
+      - generic [ref=e17]: Range
+  - generic [ref=e18]:
+    - generic [ref=e20]:
+      - generic [ref=e21]: Supply Chain Intelligence
+      - heading "The Hidden Network Behind Everything" [level=1] [ref=e22]:
+        - text: The Hidden Network
+        - text: Behind Everything
+      - paragraph [ref=e23]:
+        - text: From software to silicon to sand. Every product is a constellation
+        - text: of dependencies spanning continents, industries, and raw materials.
+      - generic [ref=e24]:
+        - link "Start with This Website" [ref=e25] [cursor=pointer]:
+          - /url: /pages/this-website/
+          - generic [ref=e26]: Start with This Website
+          - img [ref=e27]
+        - button "Explore Visualizations" [ref=e29] [cursor=pointer]
+      - generic [ref=e30]:
+        - generic [ref=e31]: "1271"
+        - generic [ref=e32]: Things Needed to Build This Website
+    - generic [ref=e34]: Scroll to explore
+  - generic [ref=e36]:
+    - generic [ref=e37]:
+      - generic [ref=e38]: "01"
+      - heading "Global Supply Network" [level=2] [ref=e39]
+      - paragraph [ref=e40]: 30+ countries connected in a single supply chain
+    - generic [ref=e41]: Visualization loading...
+  - generic [ref=e42]:
+    - generic [ref=e43]:
+      - generic [ref=e44]: "02"
+      - heading "Cosmic Dependency Rings" [level=2] [ref=e45]
+      - paragraph [ref=e46]: A radial universe of 1,407 interconnected products spanning 6 distance levels—from website to raw ore extraction
+    - generic [ref=e47]: Assembling cosmic rings...
+  - generic [ref=e48]:
+    - generic [ref=e49]:
+      - generic [ref=e50]: "03"
+      - heading "Financial Flow Network" [level=2] [ref=e51]
+      - paragraph [ref=e52]: Trace dollars flowing through 6 supply chain levels—from website to mining equipment and raw ores
+    - img [ref=e54]:
+      - generic [ref=e116]:
+        - generic [ref=e117]: Claude Code
+        - generic [ref=e118]: Mac Computer
+        - generic [ref=e119]: AWS Bedrock API
+        - generic [ref=e120]: Internet Connectio...
+        - generic [ref=e121]: Electricity
+        - generic [ref=e122]: Claude AI Model
+        - generic [ref=e123]: GitHub
+        - generic [ref=e124]: CLI Software (Comm...
+        - generic [ref=e125]: M3 Chip
+        - generic [ref=e126]: Electronics Assemb...
+        - generic [ref=e127]: GPU Server
+        - generic [ref=e128]: Data Center
+        - generic [ref=e129]: Fiber Optic Cable
+        - generic [ref=e130]: Network Router
+        - generic [ref=e131]: Natural Gas
+        - generic [ref=e132]: Coal Mining
+        - generic [ref=e133]: Text Datasets
+        - generic [ref=e134]: Training Cluster
+        - generic [ref=e135]: Software Engineer ...
+        - generic [ref=e136]: TypeScript Languag...
+        - generic [ref=e137]: Node.js Runtime
+        - generic [ref=e138]: Chip Design Files
+        - generic [ref=e139]: Factory Production...
+        - generic [ref=e140]: NVIDIA GPU
+        - generic [ref=e141]: Industrial Manufac...
+        - generic [ref=e142]: Silica Glass Prefo...
+        - generic [ref=e143]: SFP Transceiver
+        - generic [ref=e144]: Oil and Gas Drilli...
+        - generic [ref=e145]: Mining Excavation ...
+        - generic [ref=e146]: Web Content
+        - generic [ref=e147]: NVIDIA GPUs
+        - generic [ref=e148]: University Degree ...
+        - generic [ref=e149]: JavaScript
+        - generic [ref=e150]: Software Developer...
+        - generic [ref=e151]: Chip Design Engine...
+        - generic [ref=e152]: Photomask Set
+        - generic [ref=e153]: Structural Steel F...
+        - generic [ref=e154]: Synthetic Quartz
+        - generic [ref=e155]: Precision Assembly...
+        - generic [ref=e156]: Web Server Softwar...
+        - generic [ref=e157]: C++ Language Devel...
+        - generic [ref=e158]: Computer Science E...
+        - generic [ref=e159]: Electrical Enginee...
+        - generic [ref=e160]: Raw Materials (Gen...
+        - generic [ref=e161]: Specialty Steel Al...
+        - generic [ref=e162]: Silicon Metal
+        - generic [ref=e163]: Technical Training...
+        - generic [ref=e164]: C Programming Lang...
+  - generic [ref=e165]:
+    - generic [ref=e166]:
+      - generic [ref=e167]: "04"
+      - heading "Database Explorer" [level=2] [ref=e168]
+      - paragraph [ref=e169]: Search, filter, and discover all 1,407 products across 6 distance levels
+    - generic [ref=e171]:
+      - textbox "Search products..." [ref=e172]
+      - combobox [ref=e173] [cursor=pointer]:
+        - option "All distances" [selected]
+      - combobox [ref=e174] [cursor=pointer]:
+        - option "All countries" [selected]
+      - combobox [ref=e175] [cursor=pointer]:
+        - option "Sort by name" [selected]
+        - 'option "Price: high to low"'
+        - 'option "Price: low to high"'
+        - option "Most inputs"
+        - option "Distance from root"

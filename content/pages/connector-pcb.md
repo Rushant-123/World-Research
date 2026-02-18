@@ -23,6 +23,16 @@ inputs:
     cost: 0.04
     link: "board-tester"
 value_created: 0.12
+lead_time_days: 60
+minimum_order_quantity: 10000
+transportation_method: "ocean"
+geopolitical_risk: "low"
+price_volatility: "medium"
+
+certifications:
+  - "ISO9001"
+  - "ISO14001"
+data_quality: "estimated"
 ---
 
 1. Receive FR-4 substrate panels in 18" x 24" format with 0.4mm thickness specification for connector PCB applications.

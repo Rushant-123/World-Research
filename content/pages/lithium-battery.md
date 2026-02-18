@@ -47,6 +47,16 @@ inputs:
     cost: 3
     link: "battery-technicians"
 value_created: 3.5
+lead_time_days: 60
+minimum_order_quantity: 1000
+transportation_method: "ocean"
+geopolitical_risk: "low"
+price_volatility: "high"
+
+certifications:
+  - "ISO9001"
+  - "ISO14001"
+data_quality: "estimated"
 ---
 
 # How to Make a Lithium-Ion Battery

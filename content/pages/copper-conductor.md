@@ -14,6 +14,16 @@ inputs:
     cost: 2.00
     link: "manufacturing-labor"
 value_created: 7.00
+lead_time_days: 44
+minimum_order_quantity: 1000
+transportation_method: "ocean"
+geopolitical_risk: "medium"
+price_volatility: "high"
+
+certifications:
+  - "ISO9001"
+  - "ISO14001"
+data_quality: "estimated"
 ---
 
 1. Receive high-purity copper metal ingots and copper wire coils at the Nexans submarine cable facility in France

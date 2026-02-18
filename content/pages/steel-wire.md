@@ -14,6 +14,16 @@ inputs:
     cost: 0.80
     link: "manufacturing-labor"
 value_created: 2.20
+lead_time_days: 44
+minimum_order_quantity: 5000
+transportation_method: "ocean"
+geopolitical_risk: "medium"
+price_volatility: "high"
+
+certifications:
+  - "ISO9001"
+  - "ISO14001"
+data_quality: "estimated"
 ---
 
 Steel wire for submarine cable armoring provides mechanical protection and tensile strength for undersea telecommunications infrastructure. Bridon-Bekaert produces high-strength galvanized steel wire specifically engineered for deep-sea cable applications, where the wire must resist corrosion, abrasion, and extreme tensile loads during cable laying and throughout decades of service life.

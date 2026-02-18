@@ -23,6 +23,16 @@ inputs:
     cost: 0.15
     link: "connector-assembly-labor"
 value_created: 0.25
+lead_time_days: 60
+minimum_order_quantity: 10000
+transportation_method: "ocean"
+geopolitical_risk: "low"
+price_volatility: "medium"
+
+certifications:
+  - "ISO9001"
+  - "ISO14001"
+data_quality: "estimated"
 ---
 
 Manufacturing process for electronic connector assembly, transforming brass pins, plastic housings, PCBs, and EMI shields into precision USB-C, HDMI, and other high-speed connectors. This facility processes 15 million connectors monthly with automated insertion, soldering, testing, and validation systems ensuring contact resistance below 30 milliohms and signal integrity up to 40 Gbps.

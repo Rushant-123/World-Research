@@ -20,6 +20,16 @@ inputs:
     cost: 12000.0
     link: "network-infrastructure"
 value_created: 5000.0
+lead_time_days: 51
+minimum_order_quantity: 1
+transportation_method: "air"
+geopolitical_risk: "medium"
+price_volatility: "medium"
+
+certifications:
+  - "ISO9001"
+  - "ISO14001"
+data_quality: "estimated"
 ---
 
 ## AS Number Acquisition and Registration

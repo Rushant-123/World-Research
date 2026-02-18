@@ -23,6 +23,16 @@ inputs:
     cost: 0.2
     link: "machinist-labor"
 value_created: 1.65
+lead_time_days: 33
+minimum_order_quantity: 5000
+transportation_method: "truck"
+geopolitical_risk: "medium"
+price_volatility: "medium"
+
+certifications:
+  - "ISO9001"
+  - "ISO14001"
+data_quality: "estimated"
 ---
 
 A box cutting die is a precision tool used in converting operations to cut, crease, perforate, and score corrugated cardboard and paperboard into box blanks. The die consists of steel cutting rules mounted in a plywood or composite base, with rubber ejection strips that push the cut material away from the die. This manufacturing process creates a custom die matched to specific box dimensions and folding patterns, enabling high-volume production of consistent packaging components.

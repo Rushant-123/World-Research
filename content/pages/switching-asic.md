@@ -17,6 +17,16 @@ inputs:
     cost: 5.00
     link: "bond-wire"
 value_created: 130.00
+lead_time_days: 33
+minimum_order_quantity: 100
+transportation_method: "truck"
+geopolitical_risk: "medium"
+price_volatility: "medium"
+
+certifications:
+  - "ISO9001"
+  - "ISO14001"
+data_quality: "estimated"
 ---
 
 1. Define switching ASIC specifications targeting 48-port gigabit Ethernet plus 4x10GbE uplink ports with full Layer 2/3 capabilities and hardware forwarding.

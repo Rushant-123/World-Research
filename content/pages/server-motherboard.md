@@ -20,6 +20,16 @@ inputs:
     cost: 50.00
     link: "board-connectors"
 value_created: 450.00
+lead_time_days: 33
+minimum_order_quantity: 100
+transportation_method: "truck"
+geopolitical_risk: "medium"
+price_volatility: "medium"
+
+certifications:
+  - "ISO9001"
+  - "ISO14001"
+data_quality: "estimated"
 ---
 
 1. Receive 12-layer PCB blanks with ATX-E-ATX dimensions of 305mm x 330mm from PCB fabrication facility

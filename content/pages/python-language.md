@@ -17,6 +17,16 @@ inputs:
     cost: 0.00
     link: "git-software"
 value_created: 0.00
+lead_time_days: 33
+minimum_order_quantity: 10000
+transportation_method: "truck"
+geopolitical_risk: "medium"
+price_volatility: "medium"
+
+certifications:
+  - "ISO9001"
+  - "ISO14001"
+data_quality: "estimated"
 ---
 
 1. Python Enhancement Proposal (PEP) creation begins with community member identifying language improvement need or feature request through mailing lists and discussion forums.

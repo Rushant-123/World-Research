@@ -23,6 +23,16 @@ inputs:
     cost: 0.15
     link: "board-tester"
 value_created: 1.65
+lead_time_days: 120
+minimum_order_quantity: 5000
+transportation_method: "ocean"
+geopolitical_risk: "low"
+price_volatility: "medium"
+
+certifications:
+  - "ISO9001"
+  - "ISO14001"
+data_quality: "estimated"
 ---
 
 Dynamic Random Access Memory (DRAM) chips are volatile memory devices that store each bit in a capacitor-transistor cell, requiring periodic refresh to maintain data. Modern DRAM operates at 1-alpha nm process nodes with DDR5/LPDDR5 interfaces reaching 6400+ MT/s data rates.

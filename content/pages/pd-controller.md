@@ -20,6 +20,16 @@ inputs:
     cost: 0.10
     link: "molding-compound"
 value_created: 1.50
+lead_time_days: 33
+minimum_order_quantity: 5000
+transportation_method: "truck"
+geopolitical_risk: "medium"
+price_volatility: "medium"
+
+certifications:
+  - "ISO9001"
+  - "ISO14001"
+data_quality: "estimated"
 ---
 
 1. Receive 200mm diameter Czochralski-grown silicon wafer with <100> crystal orientation and p-type background doping at 1e15 atoms/cm3

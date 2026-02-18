@@ -23,6 +23,16 @@ inputs:
     cost: 4.0
     link: "machinist-labor"
 value_created: 33.0
+lead_time_days: 33
+minimum_order_quantity: 1000
+transportation_method: "truck"
+geopolitical_risk: "medium"
+price_volatility: "medium"
+
+certifications:
+  - "ISO9001"
+  - "ISO14001"
+data_quality: "estimated"
 ---
 
 1. Design multi-zone reflow oven system with 10 independently controlled heating zones for precise thermal profiling across 4-meter process length

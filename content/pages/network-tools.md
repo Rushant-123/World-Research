@@ -20,6 +20,16 @@ inputs:
     cost: 500.0
     link: "software-licenses"
 value_created: 300.0
+lead_time_days: 63
+minimum_order_quantity: 10
+transportation_method: "truck"
+geopolitical_risk: "low"
+price_volatility: "low"
+
+certifications:
+  - "ISO9001"
+  - "ISO14001"
+data_quality: "estimated"
 ---
 
 # Network Diagnostic Tools Supply Chain

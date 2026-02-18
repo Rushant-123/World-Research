@@ -20,6 +20,16 @@ inputs:
     cost: 1.0
     link: "graphite-purification"
 value_created: 0.5
+lead_time_days: 60
+minimum_order_quantity: 1000
+transportation_method: "ocean"
+geopolitical_risk: "medium"
+price_volatility: "medium"
+
+certifications:
+  - "ISO9001"
+  - "ISO14001"
+data_quality: "estimated"
 ---
 
 # Graphite Anode Material Production for Lithium-Ion Batteries

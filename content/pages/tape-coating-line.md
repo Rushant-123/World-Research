@@ -23,6 +23,16 @@ inputs:
     cost: 15.0
     link: "steel-fabrication"
 value_created: 72.0
+lead_time_days: 44
+minimum_order_quantity: 100
+transportation_method: "ocean"
+geopolitical_risk: "medium"
+price_volatility: "medium"
+
+certifications:
+  - "ISO9001"
+  - "ISO14001"
+data_quality: "estimated"
 ---
 
 A tape coating line is a sophisticated industrial system designed to continuously apply adhesive or functional coatings to backing materials such as films, papers, or fabrics. These systems are critical in manufacturing pressure-sensitive tapes, label stocks, protective films, and specialty adhesive products used across packaging, automotive, electronics, and medical industries.

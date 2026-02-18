@@ -23,6 +23,16 @@ inputs:
     cost: 0.2
     link: "measurement-tools"
 value_created: 2.7
+lead_time_days: 10
+minimum_order_quantity: 5000
+transportation_method: "truck"
+geopolitical_risk: "medium"
+price_volatility: "medium"
+
+certifications:
+  - "ISO9001"
+  - "ISO14001"
+data_quality: "estimated"
 ---
 
 1. Receive aluminosilicate glass composition specifications from display manufacturer requiring specific thickness (0.5-0.7 mm), optical clarity (>92% transmission), and surface quality (<0.1 μm roughness).

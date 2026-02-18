@@ -23,6 +23,16 @@ inputs:
     cost: 0.1
     link: "measurement-tools"
 value_created: 0.4
+lead_time_days: 33
+minimum_order_quantity: 10000
+transportation_method: "truck"
+geopolitical_risk: "medium"
+price_volatility: "medium"
+
+certifications:
+  - "ISO9001"
+  - "ISO14001"
+data_quality: "estimated"
 ---
 
 Butterfly mechanism switches are ultra-low-profile mechanical keyboard switches developed by Apple for MacBook keyboards, featuring a unique butterfly-wing hinge design that provides 0.55mm key travel with precise actuation and improved key stability compared to traditional scissor mechanisms.

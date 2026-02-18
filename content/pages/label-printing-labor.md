@@ -17,6 +17,16 @@ inputs:
     cost: 1.00
     link: "industrial-building"
 value_created: 3.50
+lead_time_days: 37
+minimum_order_quantity: 1000
+transportation_method: "ocean"
+geopolitical_risk: "medium"
+price_volatility: "low"
+
+certifications:
+  - "ISO9001"
+  - "ISO14001"
+data_quality: "estimated"
 ---
 
 1. Review incoming work order for label specifications including dimensions, quantities, material type, and finish requirements
