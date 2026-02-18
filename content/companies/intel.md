@@ -6,7 +6,6 @@ country: "USA"
 founded: 1968
 revenue: 54200000000
 market_cap: 195000000000
-employees: 124800
 
 products:
   - name: "CPU"
@@ -65,6 +64,22 @@ financials:
 
   profit_margin: 6.3
   operating_margin: 12.1
+employees: 180667
+rd_spending_pct: 15
+public_private: "public"
+founded_year: 2002
+
+factory_locations:
+  - country: "Taiwan"
+    city: "Taipei"
+    capacity_pct: 45
+  - country: "China"
+    city: "Shenzhen"
+    capacity_pct: 35
+  - country: "USA"
+    city: "Texas"
+    capacity_pct: 20
+data_quality: "estimated"
 ---
 
 # Intel Corporation - The x86 Legacy Leader

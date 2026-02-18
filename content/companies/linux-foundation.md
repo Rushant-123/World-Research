@@ -18,11 +18,15 @@ financials:
 employees: 12000
 rd_spending_pct: 20
 public_private: "public"
-founded_year: 2000
+founded_year: 2003
 
 factory_locations:
-  - "China"
-  - "USA"
+  - country: "USA"
+    city: "California"
+    capacity_pct: 60
+  - country: "India"
+    city: "Bangalore"
+    capacity_pct: 40
 data_quality: "estimated"
 ---
 

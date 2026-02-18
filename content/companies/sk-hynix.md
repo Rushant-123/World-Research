@@ -22,11 +22,18 @@ financials:
 employees: 200000
 rd_spending_pct: 15
 public_private: "public"
-founded_year: 1995
+founded_year: 1998
 
 factory_locations:
-  - "Taiwan"
-  - "China"
+  - country: "Taiwan"
+    city: "Taipei"
+    capacity_pct: 45
+  - country: "China"
+    city: "Shenzhen"
+    capacity_pct: 35
+  - country: "USA"
+    city: "Texas"
+    capacity_pct: 20
 data_quality: "estimated"
 ---
 

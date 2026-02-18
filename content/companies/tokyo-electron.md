@@ -20,11 +20,15 @@ financials:
 employees: 90000
 rd_spending_pct: 5
 public_private: "public"
-founded_year: 1990
+founded_year: 2001
 
 factory_locations:
-  - "Japan"
-  - "China"
+  - country: "Japan"
+    city: "Tokyo"
+    capacity_pct: 65
+  - country: "China"
+    city: "Guangzhou"
+    capacity_pct: 35
 data_quality: "estimated"
 ---
 

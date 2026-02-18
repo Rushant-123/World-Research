@@ -6,7 +6,6 @@ country: "Taiwan"
 founded: 1987
 revenue: 69298000000
 market_cap: 935000000000
-employees: 77000
 
 products:
   - name: "Silicon Wafer Processing"

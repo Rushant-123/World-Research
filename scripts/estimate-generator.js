@@ -221,43 +221,50 @@ function estimateRD(industry) {
  * Estimate factory locations based on industry and company name
  * @param {string} industry - Company industry
  * @param {string} companyName - Company name
- * @returns {string[]} Array of factory locations
+ * @returns {object[]} Array of factory location objects with country, city, capacity_pct
  */
 function estimateFactoryLocations(industry, companyName) {
   const locations = [];
 
-  // Check company name for geographic hints
+  // Check company name for geographic hints and set primary location
   if (companyName.match(/china|chinese|shanghai|beijing|shenzhen/i)) {
-    locations.push('China');
+    locations.push({ country: 'China', city: 'Shanghai', capacity_pct: 60 });
+    locations.push({ country: 'USA', city: 'Texas', capacity_pct: 40 });
   } else if (companyName.match(/japan|tokyo|osaka/i)) {
-    locations.push('Japan');
+    locations.push({ country: 'Japan', city: 'Tokyo', capacity_pct: 65 });
+    locations.push({ country: 'China', city: 'Guangzhou', capacity_pct: 35 });
   } else if (companyName.match(/korea|samsung|lg/i)) {
-    locations.push('South Korea');
+    locations.push({ country: 'South Korea', city: 'Seoul', capacity_pct: 70 });
+    locations.push({ country: 'Vietnam', city: 'Hanoi', capacity_pct: 30 });
   } else if (companyName.match(/taiwan|tsmc/i)) {
-    locations.push('Taiwan');
+    locations.push({ country: 'Taiwan', city: 'Hsinchu', capacity_pct: 75 });
+    locations.push({ country: 'USA', city: 'Arizona', capacity_pct: 25 });
   } else if (companyName.match(/german|deutsch/i)) {
-    locations.push('Germany');
+    locations.push({ country: 'Germany', city: 'Munich', capacity_pct: 55 });
+    locations.push({ country: 'USA', city: 'South Carolina', capacity_pct: 45 });
   } else if (companyName.match(/american|usa|us\s/i)) {
-    locations.push('USA');
+    locations.push({ country: 'USA', city: 'California', capacity_pct: 50 });
+    locations.push({ country: 'Mexico', city: 'Tijuana', capacity_pct: 30 });
+    locations.push({ country: 'China', city: 'Shanghai', capacity_pct: 20 });
   } else {
     // Default based on industry
     if (industry.match(/semiconductor|electronics/i)) {
-      locations.push('Taiwan', 'China');
+      locations.push({ country: 'Taiwan', city: 'Taipei', capacity_pct: 45 });
+      locations.push({ country: 'China', city: 'Shenzhen', capacity_pct: 35 });
+      locations.push({ country: 'USA', city: 'Texas', capacity_pct: 20 });
     } else if (industry.match(/mining/i)) {
-      locations.push('Australia', 'Chile');
+      locations.push({ country: 'Australia', city: 'Perth', capacity_pct: 55 });
+      locations.push({ country: 'Chile', city: 'Santiago', capacity_pct: 45 });
     } else if (industry.match(/chemical/i)) {
-      locations.push('USA', 'Germany');
+      locations.push({ country: 'USA', city: 'Houston', capacity_pct: 50 });
+      locations.push({ country: 'Germany', city: 'Ludwigshafen', capacity_pct: 30 });
+      locations.push({ country: 'China', city: 'Shanghai', capacity_pct: 20 });
+    } else if (industry.match(/software|tech/i)) {
+      locations.push({ country: 'USA', city: 'California', capacity_pct: 60 });
+      locations.push({ country: 'India', city: 'Bangalore', capacity_pct: 40 });
     } else {
-      locations.push('China', 'USA');
-    }
-  }
-
-  // Add a second location for larger companies (assume from revenue if available)
-  if (locations.length === 1) {
-    if (industry.match(/semiconductor|electronics/i)) {
-      locations.push('USA');
-    } else {
-      locations.push('China');
+      locations.push({ country: 'China', city: 'Shanghai', capacity_pct: 55 });
+      locations.push({ country: 'USA', city: 'Texas', capacity_pct: 45 });
     }
   }
 
@@ -323,7 +330,19 @@ function addFieldsToFrontmatter(frontmatter, fields) {
     if (Array.isArray(value)) {
       updated += `\n${key}:\n`;
       value.forEach(item => {
-        updated += `  - "${item}"\n`;
+        if (typeof item === 'object' && item !== null) {
+          // Handle array of objects (e.g., factory_locations)
+          updated += `  - country: "${item.country}"\n`;
+          if (item.city) {
+            updated += `    city: "${item.city}"\n`;
+          }
+          if (item.capacity_pct !== undefined) {
+            updated += `    capacity_pct: ${item.capacity_pct}\n`;
+          }
+        } else {
+          // Handle array of strings
+          updated += `  - "${item}"\n`;
+        }
       });
     } else if (typeof value === 'string') {
       updated += `${key}: "${value}"\n`;

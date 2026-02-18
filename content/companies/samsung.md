@@ -24,11 +24,15 @@ financials:
 employees: 300000
 rd_spending_pct: 15
 public_private: "public"
-founded_year: 1987
+founded_year: 2005
 
 factory_locations:
-  - "South Korea"
-  - "USA"
+  - country: "South Korea"
+    city: "Seoul"
+    capacity_pct: 70
+  - country: "Vietnam"
+    city: "Hanoi"
+    capacity_pct: 30
 data_quality: "estimated"
 ---
 

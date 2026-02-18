@@ -18,11 +18,18 @@ financials:
 employees: 100000
 rd_spending_pct: 15
 public_private: "public"
-founded_year: 2001
+founded_year: 2002
 
 factory_locations:
-  - "USA"
-  - "USA"
+  - country: "USA"
+    city: "California"
+    capacity_pct: 50
+  - country: "Mexico"
+    city: "Tijuana"
+    capacity_pct: 30
+  - country: "China"
+    city: "Shanghai"
+    capacity_pct: 20
 data_quality: "estimated"
 ---
 

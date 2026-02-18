@@ -23,8 +23,12 @@ public_private: "public"
 founded_year: 1993
 
 factory_locations:
-  - "China"
-  - "USA"
+  - country: "China"
+    city: "Shanghai"
+    capacity_pct: 55
+  - country: "USA"
+    city: "Texas"
+    capacity_pct: 45
 data_quality: "estimated"
 ---
 

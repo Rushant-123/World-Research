@@ -19,8 +19,15 @@ public_private: "public"
 founded_year: 2004
 
 factory_locations:
-  - "USA"
-  - "China"
+  - country: "USA"
+    city: "California"
+    capacity_pct: 50
+  - country: "Mexico"
+    city: "Tijuana"
+    capacity_pct: 30
+  - country: "China"
+    city: "Shanghai"
+    capacity_pct: 20
 data_quality: "estimated"
 ---
 

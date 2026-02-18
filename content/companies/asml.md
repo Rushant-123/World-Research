@@ -6,7 +6,6 @@ country: "Netherlands"
 founded: 1984
 revenue: 28100000000
 market_cap: 380000000000
-employees: 42000
 
 products:
   - name: "EUV Lithography System"
@@ -59,6 +58,22 @@ financials:
 
   profit_margin: 32.4
   operating_margin: 37.1
+employees: 93667
+rd_spending_pct: 15
+public_private: "public"
+founded_year: 1992
+
+factory_locations:
+  - country: "Taiwan"
+    city: "Taipei"
+    capacity_pct: 45
+  - country: "China"
+    city: "Shenzhen"
+    capacity_pct: 35
+  - country: "USA"
+    city: "Texas"
+    capacity_pct: 20
+data_quality: "estimated"
 ---
 
 # ASML - The World's Most Critical Technology Monopoly

@@ -16,11 +16,18 @@ financials:
 employees: 30000
 rd_spending_pct: 5
 public_private: "public"
-founded_year: 1999
+founded_year: 2001
 
 factory_locations:
-  - "USA"
-  - "Germany"
+  - country: "USA"
+    city: "Houston"
+    capacity_pct: 50
+  - country: "Germany"
+    city: "Ludwigshafen"
+    capacity_pct: 30
+  - country: "China"
+    city: "Shanghai"
+    capacity_pct: 20
 data_quality: "estimated"
 ---
 

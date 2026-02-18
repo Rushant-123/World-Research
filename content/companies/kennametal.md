@@ -22,11 +22,15 @@ financials:
 employees: 128000
 rd_spending_pct: 2
 public_private: "public"
-founded_year: 1995
+founded_year: 1996
 
 factory_locations:
-  - "Australia"
-  - "Chile"
+  - country: "Australia"
+    city: "Perth"
+    capacity_pct: 55
+  - country: "Chile"
+    city: "Santiago"
+    capacity_pct: 45
 data_quality: "estimated"
 ---
 

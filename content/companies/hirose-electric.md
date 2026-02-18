@@ -16,11 +16,15 @@ financials:
 employees: 20000
 rd_spending_pct: 5
 public_private: "public"
-founded_year: 2005
+founded_year: 1991
 
 factory_locations:
-  - "China"
-  - "USA"
+  - country: "China"
+    city: "Shanghai"
+    capacity_pct: 55
+  - country: "USA"
+    city: "Texas"
+    capacity_pct: 45
 data_quality: "estimated"
 ---
 

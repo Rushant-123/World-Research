@@ -6,7 +6,6 @@ country: "USA"
 founded: 1912
 revenue: 22900000000
 market_cap: 67000000000
-employees: 24500
 
 products:
   - name: "Copper Metal"

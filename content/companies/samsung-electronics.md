@@ -6,7 +6,6 @@ country: "South Korea"
 founded: 1969
 revenue: 234000000000
 market_cap: 324000000000
-employees: 267800
 
 products:
   - name: "DRAM Chip"
