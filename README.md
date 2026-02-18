@@ -9,6 +9,62 @@ A comprehensive visualization of the supply chain needed to build a modern websi
 - **50 countries** involved in production
 - **6 distance levels**: Website → Utilities → Infrastructure → Components → Materials → Raw Ores → Mining Equipment
 
+## Data Quality
+
+This database uses a **hybrid approach** to ensure both breadth and accuracy:
+
+### Verified Data
+- **Top 100 critical companies**: Real data gathered from verified sources including:
+  - Company annual reports and investor relations
+  - Industry databases and trade publications
+  - Official company websites and press releases
+  - Government regulatory filings
+- Marked with ✓ **Verified** badge (green)
+- Includes `last_verified` date
+- Sources documented in `data/real-data-sources.json`
+
+### Estimated Data
+- **Remaining entities**: Plausible estimates based on industry standards and heuristics
+- Marked with ~ **Estimated** badge (orange)
+- Generated using our [transparent estimation methodology](/docs/estimation-methods.md)
+- Subject to replacement as real data becomes available
+
+### How to Identify Data Quality
+
+Every product and company page displays a data quality badge:
+- ✓ **Verified** (green) = Real data from documented sources
+- ~ **Estimated** (orange) = Calculated using industry-standard algorithms
+
+### Our Commitment to Transparency
+
+We believe transparency is essential for data integrity:
+- All estimation rules are documented and publicly available
+- Sources for verified data are cited and dated
+- Methodology is open for review and improvement
+- Users can identify data quality at a glance
+
+### Progressive Enhancement Strategy
+
+We continuously improve data quality by:
+1. **Prioritizing critical nodes**: Top 100 companies by market impact get verified data first
+2. **Replacing estimates**: As we research entities, estimates are upgraded to verified data
+3. **Regular updates**: Quarterly reviews ensure data remains current
+4. **Community input**: User corrections help improve accuracy
+
+### Using This Data
+
+**For general exploration**: Both verified and estimated data provide valuable insights into supply chain complexity.
+
+**For business decisions**: Always verify critical data points independently. Use estimated data as directional guidance, not precise values.
+
+**For research**: Consult the [estimation methodology documentation](/docs/estimation-methods.md) to understand assumptions and limitations.
+
+### Learn More
+
+- [Estimation Methodology](/docs/estimation-methods.md) - Detailed explanation of how estimates are calculated
+- [Research Workflow](/docs/research-workflow.md) - Process for gathering verified data
+- [Data Sources](/data/real-data-sources.json) - Citations for verified information
+
 ## Overview
 
 A Wikipedia-style website that traces how everything in our technological world is made, from finished products down through their supply chains to raw natural resources.
