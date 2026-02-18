@@ -7,6 +7,9 @@
     <link rel="icon" type="image/svg+xml" href="/globe.svg">
     <link rel="icon" type="image/png" sizes="32x32" href="/globe.svg">
     <link rel="apple-touch-icon" href="/globe.svg">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Darker+Grotesque:wght@300;400;500;600;700;800;900&family=JetBrains+Mono:wght@400;600&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="/css/style.css">
 </head>
 <body>
@@ -52,6 +55,57 @@
                     <p class="breakdown">Selling Price: ${{ .Params.selling_price }} - Input Cost: ${{ $total := 0.0 }}{{ range .Params.inputs }}{{ $total = add $total .cost }}{{ end }}{{ $total }}</p>
                     {{ end }}
                 </div>
+            </section>
+            {{ end }}
+
+            <!-- Data Quality Badge -->
+            <div class="data-quality">
+              {{ partial "data-quality-badge.html" . }}
+            </div>
+
+            <!-- Supply Chain Dynamics -->
+            {{ with .Params.lead_time_days }}
+            <section class="supply-chain-info">
+              <h2>Supply Chain Information</h2>
+              <div class="info-grid">
+                <div class="info-item">
+                  <span class="icon">📅</span>
+                  <strong>Lead Time:</strong> {{ . }} days
+                </div>
+                {{ with $.Params.minimum_order_quantity }}
+                <div class="info-item">
+                  <span class="icon">📦</span>
+                  <strong>Minimum Order:</strong> {{ . }} units
+                </div>
+                {{ end }}
+                {{ with $.Params.transportation_method }}
+                <div class="info-item">
+                  <span class="icon">🚢</span>
+                  <strong>Transportation:</strong> {{ . }}
+                </div>
+                {{ end }}
+                {{ with $.Params.geopolitical_risk }}
+                <div class="info-item risk-{{ . }}">
+                  <span class="icon">⚠️</span>
+                  <strong>Geopolitical Risk:</strong> {{ . }}
+                </div>
+                {{ end }}
+                {{ with $.Params.price_volatility }}
+                <div class="info-item volatility-{{ . }}">
+                  <span class="icon">📊</span>
+                  <strong>Price Volatility:</strong> {{ . }}
+                </div>
+                {{ end }}
+              </div>
+
+              {{ with $.Params.certifications }}
+              <div class="certifications">
+                <strong>Certifications:</strong>
+                {{ range . }}
+                  <span class="cert-badge">{{ . }}</span>
+                {{ end }}
+              </div>
+              {{ end }}
             </section>
             {{ end }}
 

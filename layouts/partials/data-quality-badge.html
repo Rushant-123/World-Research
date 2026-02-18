@@ -1,0 +1,12 @@
+{{ $quality := .Params.data_quality | default "unknown" }}
+{{ $verified := .Params.last_verified }}
+
+{{ if eq $quality "real" }}
+  <span class="badge badge-verified" title="Verified real data{{ if $verified }} - Last verified: {{ $verified }}{{ end }}">
+    ✓ Verified
+  </span>
+{{ else if eq $quality "estimated" }}
+  <span class="badge badge-estimated" title="Estimated data - See methodology">
+    ~ Estimated
+  </span>
+{{ end }}

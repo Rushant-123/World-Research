@@ -120,6 +120,75 @@
         </section>
         {{ end }}
 
+        <!-- Company Details -->
+        {{ with .Params.employees }}
+        <section class="company-section">
+            <h2>Company Information</h2>
+
+            <div class="info-grid">
+                <div class="info-item">
+                    <span class="icon">👥</span>
+                    <strong>Employees:</strong> {{ . | lang.FormatNumber 0 }}
+                </div>
+                {{ with $.Params.founded_year }}
+                <div class="info-item">
+                    <span class="icon">📅</span>
+                    <strong>Founded:</strong> {{ . }}
+                </div>
+                {{ end }}
+                {{ with $.Params.rd_spending_pct }}
+                <div class="info-item">
+                    <span class="icon">🔬</span>
+                    <strong>R&D Spending:</strong> {{ . }}% of revenue
+                </div>
+                {{ end }}
+                {{ with $.Params.public_private }}
+                <div class="info-item">
+                    <span class="icon">🏢</span>
+                    <strong>Type:</strong> {{ . | title }}
+                </div>
+                {{ end }}
+            </div>
+
+            {{ with $.Params.factory_locations }}
+            <div class="factory-locations">
+                <h3>Factory Locations</h3>
+                <div class="locations-grid">
+                    {{ range . }}
+                    {{ $isString := eq (printf "%T" .) "string" }}
+                    <div class="location-card">
+                        <div class="location-header">
+                            {{ if $isString }}
+                                <strong>{{ . }}</strong>
+                            {{ else }}
+                                {{ if .city }}
+                                <strong>{{ .city }}, {{ .country }}</strong>
+                                {{ else }}
+                                <strong>{{ .country }}</strong>
+                                {{ end }}
+                            {{ end }}
+                        </div>
+                        {{ if not $isString }}
+                            {{ if .capacity_pct }}
+                            <div class="capacity-bar">
+                                <div class="capacity-fill" style="width: {{ .capacity_pct }}%"></div>
+                                <span class="capacity-label">{{ .capacity_pct }}% capacity</span>
+                            </div>
+                            {{ end }}
+                        {{ end }}
+                    </div>
+                    {{ end }}
+                </div>
+            </div>
+            {{ end }}
+
+            <!-- Data Quality Badge -->
+            <div class="data-quality">
+                {{ partial "data-quality-badge.html" $ }}
+            </div>
+        </section>
+        {{ end }}
+
     </div>
 
     <style>
